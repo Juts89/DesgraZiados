@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 209,
    "Type": 1,
-   "Title": "Clear Bandit Camp - Belaya Polyana",
+   "Title": "Limpiar Campamento Bandido",
    "Descriptions": [
-      "Can you believe it? One of our hunting parties came across a camp of bandits deep in the wilderness. They\u2019re armed, dangerous, and a threat to everyone nearby. If you\u2019re willing to deal with them \u2014 we\u2019re ready to pay.",
-      "Eleminate all of the Bandits at the camp.",
-      "Bandits are down? That\u2019s a big relief. You\u2019ve made the area a little safer for all of us. Thank you \u2014 here\u2019s your reward."
+      "Una partida de caza encontró un campamento de bandidos en plena naturaleza. Están armados, son peligrosos y amenazan a cualquiera que pase cerca. Si te ocupas de ellos, pagamos.",
+      "Elimina a todos los bandidos del campamento.",
+      "¿Bandidos eliminados? Eso nos quita un peso de encima. Has hecho la zona un poco más segura. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Kill all Bandits at the marked location.",
+   "ObjectiveText": "Mata a todos los bandidos en la ubicación marcada.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

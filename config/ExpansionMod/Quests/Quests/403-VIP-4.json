@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 403,
    "Type": 1,
-   "Title": "The Surviving Teacher",
+   "Title": "La Maestra Superviviente",
    "Descriptions": [
-      "O my good.. I was hearing some shoots, i really think that's it. My name is \"Elena Petrova\". I am a teacher and I work in a school. One day, bandits came and ambushed the school. I hid in a room, terrified for my life. I could hear the chaos outside, the screams of my students, and the gunshots. I stayed hidden until I saw you.. I not have what to do here anymore, please bring me to the camp! I have Printer, that only one what's left here, I will give it to you if you help me...",
+      "Dios mío... oí disparos y pensé que era el final. Me llamo \"Elena Petrova\". Soy profesora. Un día, unos bandidos asaltaron la escuela. Me escondí en una sala mientras fuera gritaban mis alumnos y sonaban los disparos. Seguí oculta hasta que te vi. Ya no me queda nada aquí. Por favor, llévame al campamento. Tengo una impresora, lo único que queda. Te la daré si me ayudas.",
       "...",
-      "Thank you for bringing me here %1. I will stay here for now and warm myself up first before I think about what to do next.."
+      "Gracias por traerme hasta aquí, %1. Me quedaré por ahora y entraré en calor antes de pensar qué hacer."
    ],
-   "ObjectiveText": "Escort \"Teacher\" to the \"Survivor Camp\".",
+   "ObjectiveText": "Escolta a la \"Maestra\" hasta el \"Campamento de Supervivientes\".",
    "FollowUpQuest": -1,
    "Repeatable": 0,
    "IsDailyQuest": 0,

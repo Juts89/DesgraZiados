@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 808,
    "Type": 1,
-   "Title": "The Hunter III",
+   "Title": "El Rey de la Caza",
    "Descriptions": [
-      "I see you're the King of Hunting! We've got a fox problem \u2014 sneaky little thieves keep stealing chickens from the camp. Think you can deal with it? Hunt down 10 foxes and make the area safe again.",
-      "You are not done yet? Come back when the job is done!",
-      "Those foxes won\u2019t be bothering anyone anymore. You really are the King of Hunting \u2014 here's your reward."
+      "Veo que eres el rey de la caza. Tenemos un problema con los zorros: esos ladrones se llevan las gallinas del campamento. Caza 10 zorros y asegura la zona.",
+      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+      "Esos zorros ya no molestarán. De verdad eres el rey de la caza. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Hunt 10 Foxes.",
+   "ObjectiveText": "Caza 10 zorros.",
    "FollowUpQuest": 807,
    "Repeatable": 1,
    "IsDailyQuest": 0,

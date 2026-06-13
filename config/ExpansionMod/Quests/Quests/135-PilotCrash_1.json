@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 135,
    "Type": 1,
-   "Title": "PilotCrash",
+   "Title": "Accidente Aéreo II",
    "Descriptions": [
-      "The pilot you rescued shared something important before we moved him to safety. He said that, just before the storm struck, he was in radio contact with another plane flying nearby. That second aircraft never arrived at its destination\u2026 and no one has seen it since.",
-      "If you\u2019re up for it, we need you to search the area where it may have gone down. There might still be survivors\u2026 or at least answers.",
-      "Thank you."
+      "El piloto que rescataste dijo algo antes de evacuarlo: justo antes de la tormenta habló por radio con otro avión cercano. Esa aeronave nunca llegó a destino... y nadie volvió a verla.",
+      "Busca la zona donde pudo caer. Puede que aún haya supervivientes... o al menos respuestas.",
+      "Gracias."
    ],
-   "ObjectiveText": "Travel to last known location.",
+   "ObjectiveText": "Viaja a la última ubicación conocida.",
    "FollowUpQuest": 408,
    "Repeatable": 1,
    "IsDailyQuest": 0,

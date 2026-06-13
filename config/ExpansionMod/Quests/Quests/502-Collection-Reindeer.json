@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 502,
    "Type": 1,
-   "Title": "Fried Reindeer",
+   "Title": "Reno Frito",
    "Descriptions": [
-      "Nancy is looking to make her famous Fried Deer, but the crazy bitch only uses Reindeer Steak Meat, not sure what thats about..",
-      "Kill 5 Reindeer and bring ReindeerSteakMeat back to Peter at the Trade Center.",
-      "It aint KFC but it's still good, here is your reward."
+      "Nancy quiere preparar su famoso ciervo frito, pero la loca solo usa carne de reno. No preguntes.",
+      "Mata 5 renos y lleva ReindeerSteakMeat a Peter en el Centro de Comercio.",
+      "No es KFC, pero está bueno. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Kill 5 Reindeer",
+   "ObjectiveText": "Mata 5 renos.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

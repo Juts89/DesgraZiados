@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 801,
    "Type": 1,
-   "Title": "Zombie Detail",
+   "Title": "Control de Infectados",
    "Descriptions": [
-      "The virus has spread too far. We need your help to reduce the infected population. Can you assist us %1? Great \u2014 eliminate 10 zombies.",
-      "You are not done yet? Come back when the job is done!",
-      "We thought the Infected got you... but you're tougher than you look. Here's your reward."
+      "El virus se ha extendido demasiado. Necesitamos reducir la población infectada. ¿Puedes ayudarnos, %1? Bien: elimina 10 zombis.",
+      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+      "Pensamos que los infectados te habían pillado... pero eres más duro de lo que pareces. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Kill 10 Zombies.",
+   "ObjectiveText": "Mata 10 zombis.",
    "FollowUpQuest": -1,
    "Repeatable": 0,
    "IsDailyQuest": 0,

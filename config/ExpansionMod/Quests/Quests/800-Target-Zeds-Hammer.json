@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 800,
    "Type": 1,
-   "Title": "Hammer Time",
+   "Title": "Hora del Martillo",
    "Descriptions": [
-      "Looks like you are Zombie Killer, go and smash 10 Zombies with a Sledge Hammer.",
-      "You are not done yet? How hard can it be to smash some heads with that hammer... Come back when the job is done!",
-      "We thought the Infected got your ass... Well, here is your reward."
+      "Parece que sabes matar zombis. Ve y revienta 10 infectados con este mazo.",
+      "¿Aún no has terminado? ¿Tan difícil es aplastar cabezas con un martillo? Vuelve cuando esté hecho.",
+      "Pensamos que los infectados te habían arrancado el culo... Bueno, aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Kill 10 Zombies with this Sledge Hammer.",
+   "ObjectiveText": "Mata 10 zombis con este mazo.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

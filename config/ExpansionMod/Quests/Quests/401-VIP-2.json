@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 401,
    "Type": 1,
-   "Title": "Fucked around and found out",
+   "Title": "Se lo Buscó",
    "Descriptions": [
-      "We caught this creep doing something... questionable with a sheep. Yeah, you heard that right. There\u2019s a place in Rogovo that takes care of folks like him. Do us a favor and drop him off \u2014 and try not to ask too many questions.",
-      "Take the pervert home and let Peter know the job was completed.",
-      "You actually delivered him? Good. That village knows what to do with freaks like that. Thanks \u2014 here\u2019s your reward (and maybe a bottle of disinfectant)."
+      "Pillamos a este degenerado haciendo algo... cuestionable con una oveja. Sí, has oído bien. En Rogovo hay un sitio para gente como él. Déjalo allí y no hagas demasiadas preguntas.",
+      "Lleva al pervertido a casa y avisa a Peter cuando esté hecho.",
+      "¿Lo entregaste? Bien. Ese pueblo sabe qué hacer con tipos así. Gracias. Y quizá necesites desinfectante."
    ],
-   "ObjectiveText": "Take the Pervert home",
+   "ObjectiveText": "Lleva al pervertido a casa.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

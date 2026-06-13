@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 210,
    "Type": 1,
-   "Title": "Clear Police Imposter Camp - Staroye",
+   "Title": "Falsos Policías",
    "Descriptions": [
-      "Some thugs posing as police have taken over part of Staroye. They\u2019ve been terrorizing nearby towns \u2014 shaking people down, even opening fire. These imposters are dangerous and need to be dealt with before more harm is done. Are you up for it?",
-      "Head up to Staroye and clear the bastards out. They are a small group but they are well armed and dangerous. Be careful.",
-      "So the fake cops are gone... Good. You just made the roads a little safer. Thank you \u2014 take this, you\u2019ve earned it."
+      "Unos matones haciéndose pasar por policías han tomado parte de Staroye. Extorsionan, aterrorizan pueblos cercanos y disparan a cualquiera. Hay que acabar con ellos antes de que hagan más daño.",
+      "Sube a Staroye y límpialos. Son pocos, pero van bien armados. Cuidado.",
+      "Los falsos polis han caído... Bien. Las carreteras son algo más seguras. Toma, te lo has ganado."
    ],
-   "ObjectiveText": "Kill all units of the group at the marked location.",
+   "ObjectiveText": "Mata a todos los miembros del grupo en la ubicación marcada.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

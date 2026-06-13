@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 810,
    "Type": 1,
-   "Title": "The Great Shattering",
+   "Title": "La Gran Limpieza",
    "Descriptions": [
-      "The Ai is costing a lot of server performance. You know that, right? Let's get rid of those pesky buggers! Neutralize 10 of them or die trying...Good Luck!",
-      "You are not done yet? Come back when the job is done!",
-      "We thought we had lost you for good this time ... Well, here is your hard earned reward."
+      "La IA está devorando rendimiento del servidor. Lo sabes, ¿no? Vamos a quitar de en medio a esos cabrones. Neutraliza 10 o muere intentándolo. Suerte.",
+      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+      "Pensamos que esta vez te habíamos perdido para siempre... Bueno, aquí tienes tu merecida recompensa."
    ],
-   "ObjectiveText": "Neutralize 10 Ai.",
+   "ObjectiveText": "Neutraliza 10 IA.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

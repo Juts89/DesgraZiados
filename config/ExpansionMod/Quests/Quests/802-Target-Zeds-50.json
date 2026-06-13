@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 802,
    "Type": 1,
-   "Title": "Zombie Detail",
+   "Title": "Limpieza de Infectados",
    "Descriptions": [
-      "The infected are growing in numbers, and we're running out of time. We need someone capable of thinning their ranks. %1 Your task: eliminate 50 zombies. Can we count on you %1 ?",
-      "You are not done yet? Come back when the job is done!",
-      "Objective complete. 50 hostiles neutralized. Good work, soldier \u2014 here\u2019s your compensation."
+      "Los infectados crecen en número y se nos acaba el tiempo. Necesitamos a alguien capaz de reducir sus filas. %1, tu tarea: elimina 50 zombis. ¿Podemos contar contigo?",
+      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+      "Objetivo completado. 50 hostiles neutralizados. Buen trabajo, soldado. Aquí está tu pago."
    ],
-   "ObjectiveText": "Kill 50 Zombies.",
+   "ObjectiveText": "Mata 50 zombis.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

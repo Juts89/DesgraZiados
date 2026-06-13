@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 409,
    "Type": 1,
-   "Title": "PilotCrash",
+   "Title": "El Último Vuelo",
    "Descriptions": [
-      "You\u2026 you found me. I thought I was done for. After the plane went down, I lost everyone, and the days since have been nothing but pain and fear.",
+      "Tú... me encontraste. Pensé que estaba acabado. Después de caer el avión perdí a todos, y desde entonces solo ha habido dolor y miedo.",
       "...",
-      "Thank you, stranger. Without you, I wouldn\u2019t have lasted much longer."
+      "Gracias, desconocido. Sin ti no habría aguantado mucho más."
    ],
-   "ObjectiveText": "Escort \"Hassan\" to the \"Survivor Camp\".",
+   "ObjectiveText": "Escolta a \"Hassan\" hasta el \"Campamento de Supervivientes\".",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

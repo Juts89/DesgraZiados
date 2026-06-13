@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 812,
    "Type": 1,
-   "Title": "Us against the World II",
+   "Title": "Contra el Mundo II",
    "Descriptions": [
-      "Team up and fight ... again against the Ai. Let's raise the bar a bit: Neutralize 50 of them or die trying ... Good Luck!",
-      "You are not done yet? Come back when the job is done!",
-      "We thought we had lost you for good this time ... Well, here is your hard earned reward."
+      "Forma equipo y vuelve a pelear contra la IA. Subamos el listón: neutralizad 50 o morid intentándolo. Suerte.",
+      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+      "Pensamos que esta vez os habíamos perdido para siempre... Bueno, aquí está vuestra recompensa."
    ],
-   "ObjectiveText": "Neutralize 50 Ai.",
+   "ObjectiveText": "Neutraliza 50 IA.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 803,
    "Type": 1,
-   "Title": "Zombie Detail",
+   "Title": "Contra la Horda",
    "Descriptions": [
-      "The situation is getting out of control. Hordes of infected are closing in from every direction. We need a serious effort to push them back. Your mission: eliminate 100 zombies. It's dangerous \u2014 but you're our best shot %1.",
-      "You are not done yet? Come back when the job is done!",
-      "Mission accomplished. 100 targets eliminated. Outstanding performance. You\u2019re a valuable asset \u2014 here\u2019s your reward."
+      "La situación se descontrola. Hordas de infectados se acercan desde todas partes. Necesitamos un golpe serio para empujarlos atrás. Tu misión: elimina 100 zombis. Es peligroso, pero eres nuestra mejor opción, %1.",
+      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+      "Misión cumplida. 100 objetivos eliminados. Rendimiento excelente. Eres un recurso valioso. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Kill 100 Zombies.",
+   "ObjectiveText": "Mata 100 zombis.",
    "FollowUpQuest": 802,
    "Repeatable": 1,
    "IsDailyQuest": 0,

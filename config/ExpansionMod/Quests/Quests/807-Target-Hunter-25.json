@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 807,
    "Type": 1,
-   "Title": "The Hunter II",
+   "Title": "El Cazador II",
    "Descriptions": [
-      "Hunting and outdoor adventures still your thing? Then let\u2019s raise the bar \u2014 head out and hunt down 25 animals. Let\u2019s see if you\u2019re really as skilled as you look.",
-      "You are not done yet? Come back when the job is done!",
-      "That\u2019s a serious haul. You\u2019ve proven yourself as a true hunter. The wild bows to no one \u2014 but you\u2019ve earned its respect. Here\u2019s your reward."
+      "¿Aún te va eso de la caza? Subamos el listón: sal y abate 25 animales. Veamos si eres tan bueno como pareces.",
+      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+      "Eso sí es una buena pieza. Has demostrado ser un cazador de verdad. La naturaleza no se arrodilla ante nadie, pero te has ganado su respeto. Aquí tienes."
    ],
-   "ObjectiveText": "Hunt 25 Animals.",
+   "ObjectiveText": "Caza 25 animales.",
    "FollowUpQuest": 806,
    "Repeatable": 0,
    "IsDailyQuest": 0,

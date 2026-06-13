@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 504,
    "Type": 1,
-   "Title": "Deer Pelt",
+   "Title": "Piel de Ciervo",
    "Descriptions": [
-      "The nights are started to get colder, we need some Deer pelts to make blankets out of.",
-      "Kill a Deer and bring it's pelt back to Peter at the Trade Center.",
-      "Sweet, here is your reward."
+      "Las noches empiezan a helar. Necesitamos pieles de ciervo para hacer mantas.",
+      "Mata un ciervo y lleva su piel a Peter en el Centro de Comercio.",
+      "Bien hecho. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Kill and field dress a Deer.",
+   "ObjectiveText": "Mata y despelleja un ciervo.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

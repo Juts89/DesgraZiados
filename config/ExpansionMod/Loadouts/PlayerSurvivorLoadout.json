@@ -12,15 +12,15 @@
             "Items": [
                 {
                     "ClassName": "Hoodie_Black",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -31,15 +31,15 @@
                 },
                 {
                     "ClassName": "Hoodie_Blue",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -50,15 +50,15 @@
                 },
                 {
                     "ClassName": "Hoodie_Brown",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -69,15 +69,15 @@
                 },
                 {
                     "ClassName": "Hoodie_Green",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -88,15 +88,15 @@
                 },
                 {
                     "ClassName": "Hoodie_Grey",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -107,15 +107,15 @@
                 },
                 {
                     "ClassName": "Hoodie_Red",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -126,15 +126,15 @@
                 },
                 {
                     "ClassName": "Shirt_BlueCheck",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -145,15 +145,15 @@
                 },
                 {
                     "ClassName": "Shirt_BlueCheckBright",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -164,15 +164,15 @@
                 },
                 {
                     "ClassName": "Shirt_GreenCheck",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -183,15 +183,15 @@
                 },
                 {
                     "ClassName": "Shirt_PlaneBlack",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -202,15 +202,15 @@
                 },
                 {
                     "ClassName": "Shirt_RedCheck",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -221,15 +221,15 @@
                 },
                 {
                     "ClassName": "Shirt_WhiteCheck",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -240,15 +240,15 @@
                 },
                 {
                     "ClassName": "mansuit_beige",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -259,15 +259,15 @@
                 },
                 {
                     "ClassName": "mansuit_black",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -278,15 +278,15 @@
                 },
                 {
                     "ClassName": "mansuit_blue",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -297,15 +297,15 @@
                 },
                 {
                     "ClassName": "mansuit_brown",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -316,15 +316,15 @@
                 },
                 {
                     "ClassName": "mansuit_darkgrey",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -335,15 +335,15 @@
                 },
                 {
                     "ClassName": "mansuit_khaki",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -354,15 +354,15 @@
                 },
                 {
                     "ClassName": "mansuit_lightgrey",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -373,15 +373,15 @@
                 },
                 {
                     "ClassName": "mansuit_white",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -392,15 +392,15 @@
                 },
                 {
                     "ClassName": "blouse_blue",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -411,15 +411,15 @@
                 },
                 {
                     "ClassName": "blouse_violet",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -430,15 +430,15 @@
                 },
                 {
                     "ClassName": "blouse_white",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -449,15 +449,15 @@
                 },
                 {
                     "ClassName": "blouse_green",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -468,15 +468,15 @@
                 },
                 {
                     "ClassName": "denimjacket",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -487,15 +487,15 @@
                 },
                 {
                     "ClassName": "ridersjacket_black",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -506,15 +506,15 @@
                 },
                 {
                     "ClassName": "expansionridersjacketbrown",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -525,15 +525,15 @@
                 },
                 {
                     "ClassName": "expansionridersjacketdarkblue",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -544,15 +544,15 @@
                 },
                 {
                     "ClassName": "prisonuniformjacket",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -563,15 +563,15 @@
                 },
                 {
                     "ClassName": "raincoat_pink",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -582,15 +582,15 @@
                 },
                 {
                     "ClassName": "raincoat_orange",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -601,15 +601,15 @@
                 },
                 {
                     "ClassName": "raincoat_yellow",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -620,15 +620,15 @@
                 },
                 {
                     "ClassName": "raincoat_red",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -639,26 +639,7 @@
                 },
                 {
                     "ClassName": "raincoat_blue",
-                    "Chance": 0.3,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Military_Sweater_Black",
-                    "Chance": 0.35,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -666,7 +647,7 @@
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -677,15 +658,15 @@
                 },
                 {
                     "ClassName": "Winter_Parka_Base",
-                    "Chance": 0.35,
+                    "Chance": 0.78,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -695,16 +676,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Poncho_Green",
-                    "Chance": 0.35,
+                    "ClassName": "Winter_Parka_Green",
+                    "Chance": 0.78,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -714,16 +695,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "ALV_PatrolJacket_Green",
-                    "Chance": 0.28,
+                    "ClassName": "Shabby_Hoodie_Brown",
+                    "Chance": 0.78,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -733,16 +714,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "ALV_MilitaryJacket_Blue",
-                    "Chance": 0.28,
+                    "ClassName": "Shabby_Hoodie_Black",
+                    "Chance": 0.78,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -752,16 +733,130 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "ALV_SheriffJacket_Brown",
-                    "Chance": 0.28,
+                    "ClassName": "Shabby_Hoodie_Grey",
+                    "Chance": 0.78,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_TacticalHoodie_Grey",
+                    "Chance": 0.78,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_TacticalHoodie_Tan",
+                    "Chance": 0.78,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_TacticalHoodie_Olive",
+                    "Chance": 0.78,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Military_Sweater",
+                    "Chance": 0.78,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Military_Sweater_Green",
+                    "Chance": 0.78,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Military_Sweater_Black",
+                    "Chance": 0.78,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -777,15 +872,15 @@
             "Items": [
                 {
                     "ClassName": "Jeans_Black",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -796,15 +891,15 @@
                 },
                 {
                     "ClassName": "Jeans_Blue",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -815,15 +910,15 @@
                 },
                 {
                     "ClassName": "Jeans_BlueDark",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -834,15 +929,15 @@
                 },
                 {
                     "ClassName": "Jeans_Brown",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -853,15 +948,15 @@
                 },
                 {
                     "ClassName": "Jeans_Green",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -872,15 +967,15 @@
                 },
                 {
                     "ClassName": "Jeans_Grey",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -891,15 +986,15 @@
                 },
                 {
                     "ClassName": "tracksuitpants_black",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -910,15 +1005,15 @@
                 },
                 {
                     "ClassName": "tracksuitpants_blue",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -929,15 +1024,15 @@
                 },
                 {
                     "ClassName": "tracksuitpants_green",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -948,15 +1043,15 @@
                 },
                 {
                     "ClassName": "tracksuitpants_red",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -967,15 +1062,15 @@
                 },
                 {
                     "ClassName": "tracksuitpants_lightblue",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -986,15 +1081,15 @@
                 },
                 {
                     "ClassName": "prisonuniformpants",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1005,15 +1100,15 @@
                 },
                 {
                     "ClassName": "slackspants_beige",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1024,15 +1119,15 @@
                 },
                 {
                     "ClassName": "slackspants_blue",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1043,15 +1138,15 @@
                 },
                 {
                     "ClassName": "slackspants_darkgrey",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1062,15 +1157,15 @@
                 },
                 {
                     "ClassName": "canvaspantsmidi_blue",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1081,15 +1176,15 @@
                 },
                 {
                     "ClassName": "canvaspantsmidi_grey",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1100,15 +1195,15 @@
                 },
                 {
                     "ClassName": "canvaspantsmidi_red",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1119,15 +1214,15 @@
                 },
                 {
                     "ClassName": "canvaspantsmidi_violet",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1138,15 +1233,15 @@
                 },
                 {
                     "ClassName": "canvaspants_violet",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1157,15 +1252,15 @@
                 },
                 {
                     "ClassName": "canvaspants_beige",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1176,15 +1271,15 @@
                 },
                 {
                     "ClassName": "jumpsuitpants_blue",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1195,15 +1290,15 @@
                 },
                 {
                     "ClassName": "jumpsuitpants_green",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1214,15 +1309,15 @@
                 },
                 {
                     "ClassName": "hunterpants_summer",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1233,15 +1328,15 @@
                 },
                 {
                     "ClassName": "hunterpants_brown",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1252,15 +1347,15 @@
                 },
                 {
                     "ClassName": "bdupants",
-                    "Chance": 1.0,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1270,16 +1365,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "ALV_Sheriffpants_Olive",
-                    "Chance": 0.28,
+                    "ClassName": "ALV_Jeans_Black_Kneepads",
+                    "Chance": 0.78,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1289,16 +1384,111 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "ALV_PolicePants_Black",
-                    "Chance": 0.28,
+                    "ClassName": "Kneepads_Jeans_Base",
+                    "Chance": 0.78,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Kneepads_Jeans_Black",
+                    "Chance": 0.78,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Jeans_Blue_Kneepads",
+                    "Chance": 0.78,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Jeans_Grey_Kneepads",
+                    "Chance": 0.78,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Jeans_Brown_Kneepads",
+                    "Chance": 0.78,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Workpants_Beige",
+                    "Chance": 0.78,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1314,15 +1504,15 @@
             "Items": [
                 {
                     "ClassName": "AthleticShoes_Black",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1333,15 +1523,15 @@
                 },
                 {
                     "ClassName": "AthleticShoes_Blue",
-                    "Chance": 0.8,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1352,15 +1542,15 @@
                 },
                 {
                     "ClassName": "AthleticShoes_Brown",
-                    "Chance": 0.8,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1371,15 +1561,15 @@
                 },
                 {
                     "ClassName": "AthleticShoes_Green",
-                    "Chance": 0.6,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1390,15 +1580,15 @@
                 },
                 {
                     "ClassName": "AthleticShoes_Grey",
-                    "Chance": 0.5,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1409,15 +1599,15 @@
                 },
                 {
                     "ClassName": "joggingshoes_black",
-                    "Chance": 0.2,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1428,15 +1618,15 @@
                 },
                 {
                     "ClassName": "joggingshoes_blue",
-                    "Chance": 0.9,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1447,15 +1637,15 @@
                 },
                 {
                     "ClassName": "sneakers_green",
-                    "Chance": 0.8,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1466,15 +1656,15 @@
                 },
                 {
                     "ClassName": "sneakers_red",
-                    "Chance": 0.5,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1485,15 +1675,15 @@
                 },
                 {
                     "ClassName": "sneakers_white",
-                    "Chance": 0.4,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1504,15 +1694,15 @@
                 },
                 {
                     "ClassName": "sneakers_black",
-                    "Chance": 0.2,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1523,15 +1713,15 @@
                 },
                 {
                     "ClassName": "workingboots_yellow",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1542,15 +1732,15 @@
                 },
                 {
                     "ClassName": "workingboots_grey",
-                    "Chance": 0.2,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1561,15 +1751,15 @@
                 },
                 {
                     "ClassName": "workingboots_brown",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1580,15 +1770,15 @@
                 },
                 {
                     "ClassName": "workingboots_beige",
-                    "Chance": 0.3,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1599,15 +1789,15 @@
                 },
                 {
                     "ClassName": "FeetCover_Improvised",
-                    "Chance": 0.7,
+                    "Chance": 0.62,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1617,16 +1807,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "",
-                    "Chance": 0.3,
+                    "ClassName": "High_Knee_Sneakers",
+                    "Chance": 0.78,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1636,16 +1826,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "",
-                    "Chance": 0.3,
+                    "ClassName": "SK8_Sneakers_Black",
+                    "Chance": 0.78,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1655,16 +1845,92 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "",
-                    "Chance": 0.3,
+                    "ClassName": "CombatBoots_Black",
+                    "Chance": 0.62,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "CombatBoots_Brown",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "CombatBoots_Grey",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "WorkingBoots_Beige",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "WorkingBoots_Grey",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1680,15 +1946,15 @@
             "Items": [
                 {
                     "ClassName": "baseballcap_cmmg_pink",
-                    "Chance": 0.8,
+                    "Chance": 0.18,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1699,15 +1965,15 @@
                 },
                 {
                     "ClassName": "baseballcap_pink",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1718,15 +1984,15 @@
                 },
                 {
                     "ClassName": "baseballcap_cmmg_black",
-                    "Chance": 0.8,
+                    "Chance": 0.18,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1737,15 +2003,15 @@
                 },
                 {
                     "ClassName": "prisonercap",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1756,15 +2022,15 @@
                 },
                 {
                     "ClassName": "pilotkacap",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1775,15 +2041,15 @@
                 },
                 {
                     "ClassName": "policecap",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1794,15 +2060,15 @@
                 },
                 {
                     "ClassName": "flatcap_blue",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1813,15 +2079,15 @@
                 },
                 {
                     "ClassName": "flatcap_red",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1832,15 +2098,15 @@
                 },
                 {
                     "ClassName": "flatcap_brown",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1851,15 +2117,15 @@
                 },
                 {
                     "ClassName": "flatcap_greycheck",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1870,15 +2136,15 @@
                 },
                 {
                     "ClassName": "zmijovkacap_blue",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1889,15 +2155,15 @@
                 },
                 {
                     "ClassName": "zmijovkacap_green",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1908,15 +2174,15 @@
                 },
                 {
                     "ClassName": "OKZKCap_Beige",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1927,15 +2193,15 @@
                 },
                 {
                     "ClassName": "OKZKCap_Green",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1946,15 +2212,15 @@
                 },
                 {
                     "ClassName": "radarcap_blue",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1965,15 +2231,15 @@
                 },
                 {
                     "ClassName": "radarcap_brown",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -1984,15 +2250,15 @@
                 },
                 {
                     "ClassName": "radarcap_red",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2003,15 +2269,15 @@
                 },
                 {
                     "ClassName": "radarcap_black",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2022,15 +2288,15 @@
                 },
                 {
                     "ClassName": "radarcap_green",
-                    "Chance": 0.8,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2040,16 +2306,73 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "WinterCoif_Green",
-                    "Chance": 0.7,
+                    "ClassName": "ALV_HoodedShawl_Black",
+                    "Chance": 0.2754,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_TatteredPoncho_Black",
+                    "Chance": 0.08,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "SherpaHat_Black",
+                    "Chance": 0.13464,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "SherpaHat_Red",
+                    "Chance": 0.13464,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2060,15 +2383,15 @@
                 },
                 {
                     "ClassName": "WinterCoif_Skull",
-                    "Chance": 0.7,
+                    "Chance": 0.13464,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2078,16 +2401,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "WinterCoif_Black",
-                    "Chance": 0.7,
+                    "ClassName": "ALV_HoodedShawl_Linen",
+                    "Chance": 0.2754,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2097,16 +2420,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Shemag_Green",
-                    "Chance": 0.7,
+                    "ClassName": "ALV_HoodedShawl_Green",
+                    "Chance": 0.2754,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2116,16 +2439,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Headdress_Fox",
-                    "Chance": 0.7,
+                    "ClassName": "ALV_HoodedShawl_Red",
+                    "Chance": 0.2754,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
-                            "Min": 0.35,
-                            "Max": 0.85,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2135,16 +2458,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "ALV_Beanie_Grey",
-                    "Chance": 0.25,
+                    "ClassName": "BeanieHat_Beige",
+                    "Chance": 0.32,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2154,16 +2477,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "ALV_Boonie_Tan",
-                    "Chance": 0.25,
+                    "ClassName": "BeanieHat_Black",
+                    "Chance": 0.32,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2171,6 +2494,91 @@
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
+                },
+                {
+                    "ClassName": "CowboyHat_Brown",
+                    "Chance": 0.26,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Poncho_Green_Checkered",
+                    "Chance": 0.14,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "Poncho_Black_Checkered",
+                    "Chance": 0.14,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "Poncho_Brown_Checkered",
+                    "Chance": 0.14,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "",
+                    "Chance": 0.18,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
                 }
             ]
         },
@@ -2179,15 +2587,15 @@
             "Items": [
                 {
                     "ClassName": "WoolGlovesFingerless_Green",
-                    "Chance": 0.2,
+                    "Chance": 0.34,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2198,15 +2606,15 @@
                 },
                 {
                     "ClassName": "WorkingGloves_Black",
-                    "Chance": 0.2,
+                    "Chance": 0.32,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2217,15 +2625,15 @@
                 },
                 {
                     "ClassName": "WoolGlovesFingerless_Tan",
-                    "Chance": 0.1,
+                    "Chance": 0.34,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2236,15 +2644,15 @@
                 },
                 {
                     "ClassName": "WorkingGloves_Yellow",
-                    "Chance": 0.2,
+                    "Chance": 0.32,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2255,15 +2663,15 @@
                 },
                 {
                     "ClassName": "HandsCover_Improvised",
-                    "Chance": 0.7,
+                    "Chance": 0.5,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2274,15 +2682,15 @@
                 },
                 {
                     "ClassName": "PaddedGloves_Beige",
-                    "Chance": 0.019999999552965164,
+                    "Chance": 0.18,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2293,15 +2701,15 @@
                 },
                 {
                     "ClassName": "PaddedGloves_Brown",
-                    "Chance": 0.800000011920929,
+                    "Chance": 0.34,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2312,15 +2720,15 @@
                 },
                 {
                     "ClassName": "WoolGloves_Black",
-                    "Chance": 0.800000011920929,
+                    "Chance": 0.34,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2331,15 +2739,15 @@
                 },
                 {
                     "ClassName": "WoolGloves_Tan",
-                    "Chance": 0.800000011920929,
+                    "Chance": 0.34,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2350,15 +2758,15 @@
                 },
                 {
                     "ClassName": "WoolGloves_White",
-                    "Chance": 0.800000011920929,
+                    "Chance": 0.34,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2369,15 +2777,53 @@
                 },
                 {
                     "ClassName": "WoolGlovesFingerless_Black",
-                    "Chance": 0.800000011920929,
+                    "Chance": 0.34,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "HandsCover_Improvised",
+                    "Chance": 0.5,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "WoolGlovesFingerless_White",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2393,15 +2839,15 @@
             "Items": [
                 {
                     "ClassName": "Balaclava3Holes_Black",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2412,15 +2858,15 @@
                 },
                 {
                     "ClassName": "Balaclava3Holes_Beige",
-                    "Chance": 0.5,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2431,15 +2877,15 @@
                 },
                 {
                     "ClassName": "Balaclava3Holes_Blue",
-                    "Chance": 0.6,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2450,15 +2896,15 @@
                 },
                 {
                     "ClassName": "Balaclava3Holes_Green",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2469,15 +2915,15 @@
                 },
                 {
                     "ClassName": "BalaclavaMask_Beige",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2488,15 +2934,15 @@
                 },
                 {
                     "ClassName": "BalaclavaMask_Black",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2507,15 +2953,15 @@
                 },
                 {
                     "ClassName": "BalaclavaMask_Blackskull",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2526,15 +2972,15 @@
                 },
                 {
                     "ClassName": "BalaclavaMask_Blue",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2545,15 +2991,15 @@
                 },
                 {
                     "ClassName": "BalaclavaMask_Green",
-                    "Chance": 0.2,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2564,15 +3010,15 @@
                 },
                 {
                     "ClassName": "BalaclavaMask_Pink",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2583,15 +3029,15 @@
                 },
                 {
                     "ClassName": "BalaclavaMask_White",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2602,15 +3048,15 @@
                 },
                 {
                     "ClassName": "WeldingMask",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2621,15 +3067,15 @@
                 },
                 {
                     "ClassName": "Bandana_Blackpattern",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2640,15 +3086,15 @@
                 },
                 {
                     "ClassName": "Bandana_Camopattern",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2659,15 +3105,15 @@
                 },
                 {
                     "ClassName": "Bandana_Greenpattern",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2678,15 +3124,15 @@
                 },
                 {
                     "ClassName": "Bandana_Polkapattern",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2697,15 +3143,15 @@
                 },
                 {
                     "ClassName": "Bandana_Redpattern",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2716,15 +3162,15 @@
                 },
                 {
                     "ClassName": "surgicalmask",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2735,15 +3181,15 @@
                 },
                 {
                     "ClassName": "nioshfacemask",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2754,15 +3200,15 @@
                 },
                 {
                     "ClassName": "hockeymask",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2773,15 +3219,15 @@
                 },
                 {
                     "ClassName": "MimeMask_Female",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2792,15 +3238,15 @@
                 },
                 {
                     "ClassName": "MimeMask_Male",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2811,15 +3257,15 @@
                 },
                 {
                     "ClassName": "CrookedNose",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2830,15 +3276,15 @@
                 },
                 {
                     "ClassName": "FaceCover_Improvised",
-                    "Chance": 0.7,
+                    "Chance": 0.3,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2849,15 +3295,15 @@
                 },
                 {
                     "ClassName": "SantasBeard",
-                    "Chance": 0.3,
+                    "Chance": 0.22,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2868,7 +3314,7 @@
                 },
                 {
                     "ClassName": "",
-                    "Chance": 0.3,
+                    "Chance": 0.18,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -2876,7 +3322,7 @@
                     "Health": [
                         {
                             "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2887,7 +3333,7 @@
                 },
                 {
                     "ClassName": "",
-                    "Chance": 0.3,
+                    "Chance": 0.18,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -2895,7 +3341,140 @@
                     "Health": [
                         {
                             "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Balaclava_Black",
+                    "Chance": 0.13,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Balaclava_FaceCover_Black",
+                    "Chance": 0.13,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Balaclava_Open_Tan",
+                    "Chance": 0.13,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Balaclava_Tan",
+                    "Chance": 0.13,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Balaclava_FaceCover_Tan",
+                    "Chance": 0.13,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_Brown",
+                    "Chance": 0.32,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_Green",
+                    "Chance": 0.32,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2906,15 +3485,15 @@
                 },
                 {
                     "ClassName": "Shemag_White",
-                    "Chance": 0.7,
+                    "Chance": 0.32,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2924,16 +3503,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "ALV_Scarf01_Black",
-                    "Chance": 0.3,
+                    "ClassName": "ALV_ShemaghScarf_Black",
+                    "Chance": 0.32,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2943,35 +3522,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "ALV_SkullMask_Plain",
-                    "Chance": 0.3,
+                    "ClassName": "SkullMask",
+                    "Chance": 0.06,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "ALV_Balaclava_Open_Black",
-                    "Chance": 0.3,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -2987,15 +3547,15 @@
             "Items": [
                 {
                     "ClassName": "MilitaryBelt",
-                    "Chance": 0.20000000298023224,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -3006,15 +3566,15 @@
                 },
                 {
                     "ClassName": "CivilianBelt",
-                    "Chance": 0.5,
+                    "Chance": 0.2,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -3025,7 +3585,7 @@
                 },
                 {
                     "ClassName": "",
-                    "Chance": 1.0,
+                    "Chance": 0.03,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -3033,7 +3593,7 @@
                     "Health": [
                         {
                             "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -3044,7 +3604,7 @@
                 },
                 {
                     "ClassName": "",
-                    "Chance": 1.0,
+                    "Chance": 0.03,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -3052,7 +3612,7 @@
                     "Health": [
                         {
                             "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -3062,54 +3622,16 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "ALV_BisonBelt_Tan",
-                    "Chance": 0.6,
+                    "ClassName": "Tactical_Leg_Holster_Black",
+                    "Chance": 0.55,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "ALV_MolleBelt_Black",
-                    "Chance": 0.6,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.45,
-                            "Max": 0.95,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "ALV_BisonBelt_Black",
-                    "Chance": 0.6,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -3120,15 +3642,91 @@
                 },
                 {
                     "ClassName": "ALV_MechanicBelt_Leather",
-                    "Chance": 0.6,
+                    "Chance": 0.55,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 0,
+                        "Max": 0
                     },
                     "Health": [
                         {
                             "Min": 0.45,
-                            "Max": 0.95,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_MolleBelt_Black",
+                    "Chance": 0.38,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_MolleBelt_Tan",
+                    "Chance": 0.38,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Smersh_Black",
+                    "Chance": 0.38,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Smersh_Tan",
+                    "Chance": 0.38,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -3151,8 +3749,8 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -3170,8 +3768,8 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -3189,8 +3787,8 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -3208,8 +3806,8 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -3227,8 +3825,8 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -3246,8 +3844,8 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -3265,8 +3863,8 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
+                            "Min": 0.45,
+                            "Max": 0.7,
                             "Zone": ""
                         }
                     ],
@@ -3282,7 +3880,13 @@
                         "Min": 0.0,
                         "Max": 0.0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -3295,7 +3899,13 @@
                         "Min": 0.0,
                         "Max": 0.0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -3308,7 +3918,13 @@
                         "Min": 0.0,
                         "Max": 0.0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -3321,7 +3937,13 @@
                         "Min": 0.0,
                         "Max": 0.0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -3334,7 +3956,13 @@
                         "Min": 0.0,
                         "Max": 0.0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -3347,7 +3975,13 @@
                         "Min": 0.0,
                         "Max": 0.0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -3360,7 +3994,13 @@
                         "Min": 0.0,
                         "Max": 0.0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -3373,7 +4013,13 @@
                         "Min": 0.0,
                         "Max": 0.0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -3386,7 +4032,13 @@
                         "Min": 0.0,
                         "Max": 0.0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
@@ -3399,11 +4051,1148 @@
                         "Min": 0.0,
                         "Max": 0.0
                     },
-                    "Health": [],
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
                     "InventoryAttachments": [],
                     "InventoryCargo": [],
                     "ConstructionPartsBuilt": [],
                     "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Face",
+            "Items": [
+                {
+                    "ClassName": "Shemag_Brown",
+                    "Chance": 0.32,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_Green",
+                    "Chance": 0.32,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_Red",
+                    "Chance": 0.32,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_White",
+                    "Chance": 0.32,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_ShemaghScarf_Red",
+                    "Chance": 0.32,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_ShemaghScarf_Black",
+                    "Chance": 0.32,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Scarf_Brown",
+                    "Chance": 0.32,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "EyePatch_Improvised",
+                    "Chance": 0.165,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "",
+                    "Chance": 0.18,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Back",
+            "Items": [
+                {
+                    "ClassName": "ImprovisedBag",
+                    "Chance": 0.46,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_WW2GasBag_Classic",
+                    "Chance": 0.46,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_DuffleBag_Grey",
+                    "Chance": 0.46,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_HipsterBag_Blue",
+                    "Chance": 0.46,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_HipsterBag_Black",
+                    "Chance": 0.46,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_HipsterBag_Green",
+                    "Chance": 0.46,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_MilitaryBag_Tan",
+                    "Chance": 0.46,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_MilitaryBag_Black",
+                    "Chance": 0.46,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "TortillaBag",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "AssaultBag_Ttsko",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "SmershBag",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "HuntingBag",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "CanvasBag_Olive",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "AliceBag_Black",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "TaloonBag_Black",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "TaloonBag_Green",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "TaloonBag_Orange",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "TaloonBag_Violet",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "MountainBag_Blue",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "MountainBag_Green",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "MountainBag_Orange",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "MountainBag_Red",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "DryBag_Blue",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "DryBag_Green",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "DryBag_Orange",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "CourierBag",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "ChildBag_Blue",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "ChildBag_Green",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                },
+                {
+                    "ClassName": "ChildBag_Red",
+                    "Chance": 0.34,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Vest",
+            "Items": [
+                {
+                    "ClassName": "ALV_BikerVest_Black",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_BikerVest_Brown",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_AssaultVest_Tan",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_AssaultVest_Black",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_ChestRig_Olive",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_ChestRig_Brown",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_ChestPouch_Black",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_ChestPouch_Camo",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_ChestPouch_WinterCamo",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_WW2Vest_Classic",
+                    "Chance": 0.62,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Mask",
+            "Items": [
+                {
+                    "ClassName": "FaceCover_Improvised",
+                    "Chance": 0.3,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Balaclava_Black",
+                    "Chance": 0.13,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Balaclava_FaceCover_Black",
+                    "Chance": 0.13,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Balaclava_Open_Tan",
+                    "Chance": 0.13,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Balaclava_Tan",
+                    "Chance": 0.13,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_Balaclava_FaceCover_Tan",
+                    "Chance": 0.13,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_Brown",
+                    "Chance": 0.32,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_Green",
+                    "Chance": 0.32,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Shemag_White",
+                    "Chance": 0.32,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "ALV_ShemaghScarf_Black",
+                    "Chance": 0.32,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "SkullMask",
+                    "Chance": 0.06,
+                    "Quantity": {
+                        "Min": 0,
+                        "Max": 0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.45,
+                            "Max": 0.7,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "",
+                    "Chance": 0.18,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionParts": []
                 }
             ]
         }
@@ -3416,7 +5205,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3429,46 +5224,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
-            "InventoryAttachments": [],
-            "InventoryCargo": [],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "BandageDressing",
-            "Chance": 0.15000000596046448,
-            "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-            },
-            "Health": [],
-            "InventoryAttachments": [],
-            "InventoryCargo": [],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "Morphine",
-            "Chance": 0.15000000596046448,
-            "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-            },
-            "Health": [],
-            "InventoryAttachments": [],
-            "InventoryCargo": [],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-        {
-            "ClassName": "VitaminBottle",
-            "Chance": 0.15000000596046448,
-            "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-            },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3481,7 +5243,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3494,7 +5262,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3507,7 +5281,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3520,7 +5300,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3533,7 +5319,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3546,7 +5338,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3554,12 +5352,18 @@
         },
         {
             "ClassName": "rice",
-            "Chance": 0.15000000596046448,
+            "Chance": 0.033333,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 0,
+                "Max": 0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3572,7 +5376,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3585,7 +5395,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3598,7 +5414,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3606,12 +5428,18 @@
         },
         {
             "ClassName": "dogfoodcan",
-            "Chance": 0.15000000596046448,
+            "Chance": 0.033333,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 0,
+                "Max": 0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3619,12 +5447,18 @@
         },
         {
             "ClassName": "catfoodcan",
-            "Chance": 0.15000000596046448,
+            "Chance": 0.033333,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 0,
+                "Max": 0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3637,7 +5471,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3650,7 +5490,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3663,7 +5509,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3676,7 +5528,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3689,7 +5547,13 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],
@@ -3702,7 +5566,32 @@
                 "Min": 0.0,
                 "Max": 0.0
             },
-            "Health": [],
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "SardinesCan",
+            "Chance": 0.4,
+            "Quantity": {
+                "Min": 0,
+                "Max": 0
+            },
+            "Health": [
+                {
+                    "Min": 0.45,
+                    "Max": 0.7,
+                    "Zone": ""
+                }
+            ],
             "InventoryAttachments": [],
             "InventoryCargo": [],
             "ConstructionPartsBuilt": [],

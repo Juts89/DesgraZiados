@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 201,
    "Type": 1,
-   "Title": "Clear Canabal Camp 2",
+   "Title": "Limpiar Campamento Caníbal II",
    "Descriptions": [
-      "Can you believe it? Those cannibals are spreading... Our hunters found another camp \u2014 this one located somewhere in the southeast of Orlovets. I can see you\u2019re strong, maybe even crazy enough to handle it. If you\u2019re willing to take them out, we\u2019ll make it worth your while.",
-      "Eleminate all of the Canabals at the camp.",
-      "You actually did it\u2026 Those monsters won\u2019t be feeding on anyone else. You\u2019ve done a real service for the region. Thank you \u2014 here\u2019s your reward."
+      "Los caníbales se están extendiendo. Nuestros cazadores encontraron otro campamento al sureste de Orlovets. Pareces fuerte, quizá lo bastante loco. Si los eliminas, valdrá la pena.",
+      "Elimina a todos los caníbales del campamento.",
+      "Lo hiciste de verdad... Esos monstruos no volverán a alimentarse de nadie. Has hecho un buen servicio a la región. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Kill all Canabals at the marked location.",
+   "ObjectiveText": "Mata a todos los caníbales en la ubicación marcada.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

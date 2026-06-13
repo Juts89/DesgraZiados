@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 700,
    "Type": 1,
-   "Title": "A dirty rats job",
+   "Title": "Trabajo de Ratas",
    "Descriptions": [
-      "Shit man, who are you? Is your name %1? I thought we already dealt with you. ** (He stares at you for a moment and then begins to smile) ** Ah nevermind... Today is your lucky day, my friend! If you do me a little favor, I'll make sure you get off this island as soon as possible. I swear by my mother's beard! All you have to do is take this NOTE here to my useless colleague Steve and have him read it, then he will give something to you. Bring it to me! You can find Steve in the little village down the street in the north west. Make sure he reads the note and don't come back with empty hands!",
-      "I thought I made clear what you need to do?! Go to Steve now and don't come back with empty hands!",
-      "Look at that... Another little bambi in the forests of death..."
+      "Joder, ¿quién eres? ¿Te llamas %1? Pensé que ya habíamos acabado contigo. ** (Te mira un momento y empieza a sonreír) ** Da igual... Hoy es tu día de suerte, amigo. Hazme un pequeño favor y me aseguraré de que salgas de esta isla cuanto antes. ¡Lo juro por la barba de mi madre! Solo lleva esta NOTA a mi inútil colega Steve, que la lea, y te dará algo. Tráemelo. Está en la aldea pequeña al noroeste. Asegúrate de que lee la nota y no vuelvas con las manos vacías.",
+      "¿No fui claro? Ve a Steve y no vuelvas con las manos vacías.",
+      "Mira eso... Otro bambi perdido en los bosques de la muerte..."
    ],
-   "ObjectiveText": "Deliver the note and talk to Steve.",
+   "ObjectiveText": "Entrega la nota y habla con Steve.",
    "FollowUpQuest": 2,
    "Repeatable": 0,
    "IsDailyQuest": 0,

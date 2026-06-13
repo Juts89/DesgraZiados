@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 814,
    "Type": 1,
-   "Title": "Fisher",
+   "Title": "Pescador",
    "Descriptions": [
-      "The fishing season is open! Although it is a difficult time, but I have a suggestion for you. Catch 5 Carp. And take this gift.",
-      "You are not done yet? Come back when the job is done!",
-      "Happy Fisherman Day and good luck."
+      "¡La temporada de pesca está abierta! Son tiempos duros, pero tengo una propuesta: pesca 5 carpas y llévate este regalo.",
+      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+      "Feliz día del pescador. Buena suerte ahí fuera."
    ],
-   "ObjectiveText": "Catch 5 Carp.",
+   "ObjectiveText": "Pesca 5 carpas.",
    "FollowUpQuest": -1,
    "Repeatable": 0,
    "IsDailyQuest": 0,

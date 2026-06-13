@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 137,
    "Type": 1,
-   "Title": "Field Medic: Blood on the Floor",
+   "Title": "Médico de Campaña: Sangre en el Suelo",
    "Descriptions": [
-      "The medic you saved is asking for help.",
-      "Go to the hospital and find out whats wrong.",
-      "The medic thanks you for coming. He asks if you can help save others still trapped inside another hospital."
+      "El médico que salvaste vuelve a pedir ayuda.",
+      "Ve al hospital y descubre qué está pasando.",
+      "El médico agradece que hayas venido. Te pide ayuda para salvar a otros atrapados en otro hospital."
    ],
-   "ObjectiveText": "Travel to Hospital",
+   "ObjectiveText": "Viaja al hospital.",
    "FollowUpQuest": 805,
    "Repeatable": 1,
    "IsDailyQuest": 0,

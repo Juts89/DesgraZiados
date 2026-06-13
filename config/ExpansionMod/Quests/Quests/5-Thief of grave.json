@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 5,
    "Type": 1,
-   "Title": "Thief of grave",
+   "Title": "El Saqueador de Tumbas",
    "Descriptions": [
-      "Hello <>. In a remote village, a man named Kieran ventured into the Tomb of Lost Souls, chasing rumors of forgotten treasures. He braved the cursed grounds and unearthed ancient relics\u2026 but when he finally found what he was looking for, he was attacked by something evil. Now, he\u2019s missing \u2014 and the tomb remains silent. Will you go find out what really happened?",
-      "So what do you think? Maybe you will be lucky?",
-      "So\u2026 the rumors were true. You made it out alive, unlike Kieran. Whatever was down there \u2014 you faced it. Thank you for your courage. Here's your reward."
+      "Hola <>. En una aldea olvidada, Kieran entró en la Tumba de las Almas Perdidas tras rumores de tesoros enterrados. Encontró reliquias antiguas... y algo más lo encontró a él. Ahora ha desaparecido, y la tumba vuelve a estar en silencio. Ve y descubre qué ocurrió.",
+      "¿Qué dices? Puede que tengas más suerte que él.",
+      "Así que los rumores eran ciertos... Tú sí has salido con vida. Lo que hubiera ahí abajo, lo enfrentaste. Gracias por tu valor. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Find the grave.",
+   "ObjectiveText": "Encuentra la tumba.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 136,
    "Type": 1,
-   "Title": "PilotCrash",
+   "Title": "Accidente Aéreo III",
    "Descriptions": [
-      "The storm took its toll, yet not all the disappearances can be blamed on thunder and lightning. We\u2019ve heard stories of another aircraft that flew that night \u2013 one that never crashed, never landed, never called for help. Some say raiders forced it down. Others say it was captured by a group that doesn\u2019t want to be found.",
-      "If you\u2019re brave enough, track the lead. If there\u2019s truth to these whispers, this mission will be more dangerous than the last two.",
-      "Thank you."
+      "La tormenta se llevó muchas cosas, pero no todas las desapariciones fueron culpa del cielo. Se habla de otro avión aquella noche: no cayó, no aterrizó, no pidió ayuda. Unos dicen que lo derribaron saqueadores. Otros, que lo capturó gente que no quiere ser encontrada.",
+      "Sigue la pista si tienes valor. Si los rumores son ciertos, será más peligroso que las dos anteriores.",
+      "Gracias."
    ],
-   "ObjectiveText": "Travel to last known location.",
+   "ObjectiveText": "Viaja a la última ubicación conocida.",
    "FollowUpQuest": 409,
    "Repeatable": 1,
    "IsDailyQuest": 0,

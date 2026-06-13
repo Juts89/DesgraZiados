@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 506,
    "Type": 1,
-   "Title": "Skin the Crocodile",
+   "Title": "La Bestia del Río",
    "Descriptions": [
-      "There are rumors that there is a crocodile in our river!",
-      "But I don't really believe in these fakes. If you show me that I will give you a generous gift.",
-      "Sweet, here is your reward."
+      "Dicen que hay un cocodrilo en nuestro río.",
+      "No creo en esos cuentos, pero si me traes una prueba tendrás una buena recompensa.",
+      "Bien hecho. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Kill the crocodile and bring its Teeth.",
+   "ObjectiveText": "Mata al cocodrilo y trae sus dientes.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 501,
    "Type": 1,
-   "Title": "Fish Stew",
+   "Title": "Estofado de Pescado",
    "Descriptions": [
-      "Someone is looking to make some fish stew for the next community pot luck, bring one back from your next trip.",
-      "Catch a Mackerel and bring it back to Peter at the Trade Center.",
-      "I fucking hate fish stew...but some of the folks love it, here is your reward."
+      "Alguien quiere preparar estofado de pescado para la próxima comida del campamento. Trae uno cuando salgas.",
+      "Pesca una caballa y llévasela a Peter en el Centro de Comercio.",
+      "Odio el puto estofado de pescado... pero a algunos les encanta. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Catch a Mackerel",
+   "ObjectiveText": "Pesca una caballa.",
    "FollowUpQuest": 814,
    "Repeatable": 0,
    "IsDailyQuest": 0,

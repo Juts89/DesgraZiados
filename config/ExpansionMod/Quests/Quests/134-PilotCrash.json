@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 134,
    "Type": 1,
-   "Title": "PilotCrash",
+   "Title": "Accidente Aéreo",
    "Descriptions": [
-      "A few days back, during that terrible storm, a plane carrying survivors went missing. It was last seen heading this way before vanishing from the skies.",
-      "This is the last known location. If you dare, go there and see if you can uncover what happened\u2026 perhaps someone is still alive, or maybe only wreckage remains.",
-      "Thank you."
+      "Hace unos días, durante aquella tormenta, desapareció un avión con supervivientes. Lo vieron por última vez rumbo a esta zona antes de perderse en el cielo.",
+      "Esta es su última ubicación conocida. Si te atreves, ve y descubre qué pasó... quizá quede alguien vivo, o solo chatarra.",
+      "Gracias."
    ],
-   "ObjectiveText": "Travel to last known location.",
+   "ObjectiveText": "Viaja a la última ubicación conocida.",
    "FollowUpQuest": 407,
    "Repeatable": 1,
    "IsDailyQuest": 0,

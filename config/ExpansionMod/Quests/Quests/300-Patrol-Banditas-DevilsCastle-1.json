@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 300,
    "Type": 1,
-   "Title": "AIPatrol-Bandits",
+   "Title": "Bandidos del Castillo del Diablo",
    "Descriptions": [
-      "Some bandits have taken over Devil\u2019s Castle and are causing chaos \u2014 raiding supplies, ambushing travelers, even shooting up nearby towns. They\u2019ve turned that old fortress into a stronghold. It\u2019s time someone put an end to it. Think you\u2019re up for the task?",
-      "Head up to Devils Castle and clear out the bandits. They are a small group but they are well armed and dangerous. Be careful.",
-      "Devil\u2019s Castle is clear? That\u2019s a big win. Those bastards had it coming. You did good \u2014 thank you. Here\u2019s your reward."
+      "Los bandidos han tomado el Castillo del Diablo. Roban suministros, emboscan viajeros y disparan contra pueblos cercanos. Han convertido esa vieja fortaleza en su madriguera. Ya va siendo hora de cerrarla.",
+      "Ve al Castillo del Diablo y elimina a los bandidos. Son pocos, pero están bien armados. Cuidado.",
+      "¿El Castillo del Diablo está limpio? Buena noticia. Esos cabrones se lo ganaron. Buen trabajo. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Kill all units of the bandit patrol group at the marked location.",
+   "ObjectiveText": "Mata a todos los miembros de la patrulla bandida en la ubicación marcada.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 500,
    "Type": 1,
-   "Title": "Blacksmith nails",
+   "Title": "Alambre para el Herrero",
    "Descriptions": [
-      "Hey you I'm empty on metal wire, can you bring me some ? Bring five back from your next trip.",
-      "Collect 5 MetalWire and bring them back to Peter at the Trade Center.",
-      "Awesome, here is your reward."
+      "Oye, me he quedado sin alambre metálico. ¿Puedes traerme algo? Cinco unidades bastarán.",
+      "Recoge 5 MetalWire y llévalos a Peter en el Centro de Comercio.",
+      "Perfecto. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Get 5 MetalWire",
+   "ObjectiveText": "Consigue 5 MetalWire.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

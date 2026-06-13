@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 133,
    "Type": 1,
-   "Title": "The Lost Survivor",
+   "Title": "El Superviviente Perdido",
    "Descriptions": [
-      "I need your help to find a missing survivor. Can I count on you? This is their last known location. But be prepared\u2014this survivor was kidnapped. You'll likely need some gear... and transport. This won\u2019t be easy.",
-      "Head to the marked location and find the kidnapped survivor.",
-      "Thank you. You saved our survivors from the Hostiles\u2014they owe you their lives."
+      "Necesito que encuentres a un superviviente desaparecido. Esta fue su última ubicación conocida. Prepárate: lo secuestraron. Vas a necesitar equipo... y transporte. No será fácil.",
+      "Dirígete a la zona marcada y encuentra al superviviente secuestrado.",
+      "Gracias. Salvaste a los nuestros de esos hostiles. Te deben la vida."
    ],
-   "ObjectiveText": "Travel to last known location.",
+   "ObjectiveText": "Viaja a la última ubicación conocida.",
    "FollowUpQuest": 406,
    "Repeatable": 1,
    "IsDailyQuest": 0,

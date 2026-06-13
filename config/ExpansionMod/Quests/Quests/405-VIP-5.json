@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 405,
    "Type": 1,
-   "Title": "Lost in the Sea",
+   "Title": "Perdida en el Mar",
    "Descriptions": [
-      "Hi my name is \"Jasmine\". It all happened so fast. One minute I was stirring my stew, the next\u2026 well, the next the Seraphina was being torn apart. The storm, it came out of nowhere, a raging beast that swallowed the ship whole. I remember the screams, the crashing metal, the icy water\u2026 then nothing but the endless grey of the ocean...",
+      "Hola, me llamo \"Jasmine\". Todo pasó muy rápido. Un momento estaba removiendo el guiso y al siguiente... el Seraphina se partía en dos. La tormenta apareció de la nada, como una bestia. Recuerdo gritos, metal retorciéndose, agua helada... y después solo el gris infinito del mar.",
       "...",
-      "I'm still shaky %1, but I'm safe now. The camp\u2026 it's a strange place, but it's home for now. I owe a debt of gratitude to the one who found me. They risked their own safety to pull me from the wreckage, to bring me back to the others. I'm still trying to understand everything that happened, but I know this: I'm not alone anymore."
+      "Aún tiemblo, %1, pero estoy a salvo. El campamento es extraño, pero por ahora es hogar. Debo mi vida a quien me encontró y me sacó de los restos. Todavía intento entenderlo todo, pero sé una cosa: ya no estoy sola."
    ],
-   "ObjectiveText": "Escort \"Jasmine\" to the \"Survivor Camp\".",
+   "ObjectiveText": "Escolta a \"Jasmine\" hasta el \"Campamento de Supervivientes\".",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

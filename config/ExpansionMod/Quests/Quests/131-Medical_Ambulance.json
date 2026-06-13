@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 131,
    "Type": 1,
-   "Title": "Field Medic Investigate Hospital",
+   "Title": "Médico de Campaña: Hospital Asediado",
    "Descriptions": [
-      "Reports are coming in \u2014 a hospital in Stary Sobor was ambushed by bandits. Medical supplies were taken, and survivors are missing. This won't be easy... You'll need a vehicle to reach the area and deal with the threat. Gear up and be ready for a fight.",
-      "Goto the location find out if there were any survivors ",
-      "The hospital is secured, and the bandits are no more. You did what others couldn\u2019t. Thank you \u2014 this reward is well-deserved."
+      "Llegan informes de Stary Sobor: un hospital fue emboscado por bandidos. Robaron suministros y faltan supervivientes. No será fácil. Necesitarás transporte, equipo y ganas de pelear.",
+      "Ve a la zona y averigua si alguien sobrevivió.",
+      "El hospital está asegurado y los bandidos ya no respiran. Hiciste lo que otros no pudieron. Recompensa merecida."
    ],
-   "ObjectiveText": "Travel to Hospital and locate Bandits",
+   "ObjectiveText": "Viaja al hospital y localiza a los bandidos.",
    "FollowUpQuest": 402,
    "Repeatable": 1,
    "IsDailyQuest": 0,

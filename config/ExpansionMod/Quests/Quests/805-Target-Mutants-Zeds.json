@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 805,
    "Type": 1,
-   "Title": "Critical Condition",
+   "Title": "Estado Crítico",
    "Descriptions": [
-      "Something went terribly wrong there \u2014 blood, panic, and infected spreading through the halls. He\u2019s too weak to go back himself and needs you to investigate the hospital in his place.",
-      "There\u2019s blood on the floor\u2026 and time is running out.",
-      "Either you\u2019re crazy or just really good. Here, take this."
+      "Algo salió terriblemente mal allí: sangre, pánico e infectados por los pasillos. Él está demasiado débil para volver y necesita que investigues el hospital en su lugar.",
+      "Hay sangre en el suelo... y el tiempo se agota.",
+      "O estás loco o eres muy bueno. Aquí tienes."
    ],
-   "ObjectiveText": "Kill Mutants.",
+   "ObjectiveText": "Mata mutantes.",
    "FollowUpQuest": 815,
    "Repeatable": 1,
    "IsDailyQuest": 0,

@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 14,
    "Type": 1,
-   "Title": "Welcome to IronZone",
+   "Title": "Bienvenido a IronZone",
    "Descriptions": [
       "PLACEHOLDER",
       "PLACEHOLDER",
       "PLACEHOLDER"
    ],
-   "ObjectiveText": "Visit the camp at the marked location.",
+   "ObjectiveText": "Visita el campamento en la ubicación marcada.",
    "FollowUpQuest": -1,
    "Repeatable": 0,
    "IsDailyQuest": 0,

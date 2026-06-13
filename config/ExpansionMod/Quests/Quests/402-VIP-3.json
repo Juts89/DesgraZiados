@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 402,
    "Type": 1,
-   "Title": "Field Medic",
+   "Title": "Médico de Campaña",
    "Descriptions": [
-      "I am sorry.. I was not sure if you are friendly or not. My name is \"Marina Sidorova\". I waked up a few hours ago on the coast to the north and ended up here in this city looking for help.. Then I found a radio and could get in contant with that camp before I got attacked by a dead looking person and lost the radio while I ran away.. I managed to escape into this building and waited until you arived here now. I don't know whats going on here or how the hell I ended up on this place but could you please bring me to that camp? I don't have a lot but if you help me you can have these items i found..",
+      "Lo siento... no sabía si eras de fiar. Me llamo \"Marina Sidorova\". Desperté hace unas horas en la costa norte y terminé aquí buscando ayuda. Encontré una radio y contacté con ese campamento, pero me atacó un muerto y la perdí al huir. Me escondí en este edificio hasta que llegaste. No sé qué está pasando ni cómo acabé aquí. ¿Puedes llevarme al campamento? No tengo mucho, pero si me ayudas puedes quedarte con lo que encontré.",
       "...",
-      "Thank you for bringing me here %1. I will stay here for now and warm myself up first before I think about what to do next.."
+      "Gracias por traerme hasta aquí, %1. Me quedaré por ahora y entraré en calor antes de pensar qué hacer."
    ],
-   "ObjectiveText": "Escort \"Marina Sidorova\" to the \"Survivor Camp\".",
+   "ObjectiveText": "Escolta a \"Marina Sidorova\" hasta el \"Campamento de Supervivientes\".",
    "FollowUpQuest": 137,
    "Repeatable": 1,
    "IsDailyQuest": 0,

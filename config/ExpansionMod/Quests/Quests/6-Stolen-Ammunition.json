@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 6,
    "Type": 1,
-   "Title": "Stolen Ammunition",
+   "Title": "Munición Robada",
    "Descriptions": [
-      "Hello <>. Long ago, a soldier named Marcus stole a cache of ammunition from the army and hid it in a remote base. But before he could return for it, he was infected\u2026 and turned into one of them. Now, as an undead guardian, he patrols the area, protecting his hidden stash from anyone who dares to come near. If you're brave enough, find the base \u2014 and deal with Marcus.",
-      "Ammunition is rare, so what you waiting for ?",
-      "You faced Marcus\u2026 and lived to tell the tale. That ammo will go a long way in our fight for survival. Thank you \u2014 you\u2019ve earned this."
+      "Hola <>. Hace años, un soldado llamado Marcus robó un alijo de munición del ejército y lo ocultó en una base remota. Antes de volver por él, se infectó... y se convirtió en uno de ellos. Ahora patrulla la zona como un guardián muerto. Si tienes agallas, encuentra la base y encárgate de Marcus.",
+      "La munición escasea. ¿A qué esperas?",
+      "Te enfrentaste a Marcus... y viviste para contarlo. Esa munición nos ayudará a seguir respirando. Te lo has ganado."
    ],
-   "ObjectiveText": "Find the stolen ammunition.",
+   "ObjectiveText": "Encuentra la munición robada.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

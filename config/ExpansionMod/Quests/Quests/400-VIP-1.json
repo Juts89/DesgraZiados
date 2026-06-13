@@ -2,11 +2,11 @@
    "ConfigVersion": 22,
    "ID": 400,
    "Type": 1,
-   "Title": "Lost Survivor",
+   "Title": "El Extraviado",
    "Descriptions": [
-      "This poor fool got separated from their group and now they're stuck out there alone. They\u2019re lucky to still be breathing. Get them home safely \u2014 if they don\u2019t get themselves killed first.",
-      "Escort this idiot back to their home and let Peter know the job was completed.",
-      "You actually got them back in one piece? Impressive. Maybe there\u2019s hope for them after all. Thanks \u2014 here\u2019s your reward."
+      "Este pobre idiota se separó de su grupo y ahora está solo ahí fuera. Tiene suerte de seguir respirando. Llévalo a casa sano y salvo... si no consigue matarse antes.",
+      "Escolta a este idiota de vuelta a casa y avisa a Peter cuando esté hecho.",
+      "¿Lo trajiste entero? Sorprendente. Quizá aún haya esperanza para él. Gracias. Aquí tienes tu recompensa."
    ],
    "ObjectiveText": "PLACEHOLDER",
    "FollowUpQuest": -1,

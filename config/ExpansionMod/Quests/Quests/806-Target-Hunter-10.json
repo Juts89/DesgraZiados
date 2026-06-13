@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 806,
    "Type": 1,
-   "Title": "The Hunter I",
+   "Title": "El Cazador I",
    "Descriptions": [
-      "If you're the outdoorsy type, it\u2019s time to prove it. Track and kill 10 animals \u2014 no excuses, no second chances.",
-      "You are not done yet? Come back when the job is done!",
-      "Ten animals down \u2014 meat, fur, and supplies we can actually use. Good job. Take this, you've earned it."
+      "Si eres de los que saben moverse fuera, demuéstralo. Rastrea y mata 10 animales. Sin excusas.",
+      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+      "Diez animales abatidos: carne, pieles y suministros que sí podemos usar. Buen trabajo. Te lo has ganado."
    ],
-   "ObjectiveText": "Hunt 10 Animals.",
+   "ObjectiveText": "Caza 10 animales.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

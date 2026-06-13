@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 406,
    "Type": 1,
-   "Title": "The Lost Survivor",
+   "Title": "El Náufrago",
    "Descriptions": [
-      "I\u2026 I didn\u2019t think I\u2019d make it. Name\u2019s Hassan. I was just a fisherman, out at sea, when the storm came\u2014violent, sudden. My boat didn\u2019t stand a chance. Next thing I know, I wake up on a cold shore\u2026 tied up, blood dried on my face. Bandits. I don\u2019t know how long I was out, but they kept me alive\u2014for now. While they were passed out from booze or whatever they took, I found an old radio tower nearby. Managed to send a signal to the camp. It was my only shot. I\u2019m weak. Lost. I don\u2019t even know what this place is anymore. But if you can get me to that camp\u2014if you can help me escape\u2014there\u2019s a stash there. Supplies I buried before all this. They're yours if you get me out of here alive.",
+      "Yo... no pensé que fuera a sobrevivir. Me llamo Hassan. Era pescador. Estaba en el mar cuando llegó la tormenta, violenta y repentina. Mi barca no aguantó. Desperté en una costa fría... atado, con sangre seca en la cara. Bandidos. No sé cuánto tiempo estuve inconsciente, pero me mantuvieron vivo... por ahora. Cuando estaban borrachos o drogados, encontré una vieja torre de radio cerca y mandé una señal al campamento. Fue mi única oportunidad. Estoy débil, perdido. Si me llevas allí, hay un alijo enterrado antes de todo esto. Es tuyo si me sacas vivo.",
       "...",
-      "Thank you for bringing me here %1..."
+      "Gracias por traerme hasta aquí, %1..."
    ],
-   "ObjectiveText": "Escort \"Hassan\" to the \"Survivor Camp\".",
+   "ObjectiveText": "Escolta a \"Hassan\" hasta el \"Campamento de Supervivientes\".",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

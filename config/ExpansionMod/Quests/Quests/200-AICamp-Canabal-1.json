@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 200,
    "Type": 1,
-   "Title": "Clear Canabal Camp 1",
+   "Title": "Limpiar Campamento Caníbal I",
    "Descriptions": [
-      "Can you believe it? One of our hunting parties stumbled upon a camp of cannibals near Vavilovo. Sick bastards... We don\u2019t know how many there are, but it\u2019s a threat we can\u2019t ignore. If you\u2019re willing to take the risk and deal with them \u2014 we\u2019re ready to pay.",
-      "Eleminate all of the Canabals at the camp.",
-      "So it\u2019s true\u2026 there were cannibals out there. And you took them out. You\u2019ve done us a great service. Thank you \u2014 here\u2019s your reward."
+      "Una partida de cazadores encontró un campamento caníbal cerca de Vavilovo. Cabrones enfermos... No sabemos cuántos son, pero no podemos ignorarlo. Si estás dispuesto a correr el riesgo, pagaremos.",
+      "Elimina a todos los caníbales del campamento.",
+      "Así que era verdad... había caníbales ahí fuera. Y tú los borraste del mapa. Buen trabajo. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Kill all Canabals at the marked location.",
+   "ObjectiveText": "Mata a todos los caníbales en la ubicación marcada.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

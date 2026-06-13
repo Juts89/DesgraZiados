@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 900,
    "Type": 1,
-   "Title": "Clear out the power plant",
+   "Title": "Recuperar la Central Eléctrica",
    "Descriptions": [
-      "Mercenaries and infected have taken over the power plant, get it back.",
-      "Eliminate all of the mercenaries & infected.",
-      "Nice work! Hopefully thats the last of those fuckers, here is your payment."
+      "Mercenarios e infectados han tomado la central eléctrica. Recupérala.",
+      "Elimina a todos los mercenarios e infectados.",
+      "Buen trabajo. Ojalá sean los últimos cabrones. Aquí tienes tu pago."
    ],
-   "ObjectiveText": "Kill all mercenaries at the marked locations.",
+   "ObjectiveText": "Mata a todos los mercenarios en las ubicaciones marcadas.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

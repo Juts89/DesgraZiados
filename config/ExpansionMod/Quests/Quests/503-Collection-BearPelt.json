@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 503,
    "Type": 1,
-   "Title": "Bear Pelt",
+   "Title": "Piel de Oso",
    "Descriptions": [
-      "The nights are started to get colder, we need some bear pelts to make blankets out of.",
-      "Kill a Bear and bring it's pelt back to Peter at the Trade Center.",
-      "Sweet, here is your reward."
+      "Las noches empiezan a helar. Necesitamos pieles de oso para hacer mantas.",
+      "Mata un oso y lleva su piel a Peter en el Centro de Comercio.",
+      "Bien hecho. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Kill and field dress a Bear.",
+   "ObjectiveText": "Mata y despelleja un oso.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

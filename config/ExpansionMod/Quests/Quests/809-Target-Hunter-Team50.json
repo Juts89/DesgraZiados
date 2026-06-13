@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 809,
    "Type": 1,
-   "Title": "Hunting Party",
+   "Title": "Batida de Caza",
    "Descriptions": [
-      "Looking to have some fun outdoors with your friends? Then it\u2019s time for a Hunting Party. Think you\u2019ve got the skills \u2014 and the aim \u2014 to take down 50 animals within 4 hours? Gear up and show us how it\u2019s done.",
-      "You are not done yet? Come back when the job is done!",
-      "Now that\u2019s what I call a real hunt. 50 animals down in just a few hours? Impressive work \u2014 here\u2019s your well-earned reward."
+      "¿Quieres divertirte ahí fuera con tus amigos? Toca batida de caza. ¿Tenéis puntería para abatir 50 animales en menos de 4 horas? Equiparos y demostradlo.",
+      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+      "Eso sí que fue una cacería. 50 animales en unas horas. Impresionante. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Hunt 50 Animals.",
+   "ObjectiveText": "Caza 50 animales.",
    "FollowUpQuest": 807,
    "Repeatable": 1,
    "IsDailyQuest": 0,

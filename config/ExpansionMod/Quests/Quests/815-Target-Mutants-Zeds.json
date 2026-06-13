@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 815,
    "Type": 1,
-   "Title": "Field Medic: No More Supplies",
+   "Title": "Médico de Campaña: Sin Suministros",
    "Descriptions": [
-      "After what you saw in the hospital, I need your help again. Supplies are almost gone, and the wounded won\u2019t survive much longer without help. There may be medical stock left.",
-      "Search the area and recover any remaining medical supplies.",
-      "You brought back what little was left. It\u2019s not much, but it might save a few lives. The medic thanks you \u2014 every minute counts now."
+      "Después de lo que viste en el hospital, necesito tu ayuda otra vez. Quedan pocos suministros y los heridos no aguantarán mucho sin medicinas. Puede que aún haya material médico por la zona.",
+      "Busca en el área y recupera cualquier suministro médico.",
+      "Trajiste lo poco que quedaba. No es mucho, pero puede salvar algunas vidas. El médico te da las gracias. Cada minuto cuenta."
    ],
-   "ObjectiveText": "Search area for supplies.",
+   "ObjectiveText": "Busca suministros en la zona.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

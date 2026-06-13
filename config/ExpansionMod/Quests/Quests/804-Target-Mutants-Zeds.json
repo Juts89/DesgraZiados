@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 804,
    "Type": 1,
-   "Title": "Zombie Detail",
+   "Title": "Cazador Nocturno",
    "Descriptions": [
-      "They only come out at night... and most people are smart enough to stay inside. But we need someone reckless \u2014 or brave \u2014 enough to take them down. Hunt and kill 10 mutants under the cover of darkness. It's dangerous out there... don't become one of them.",
-      "You are not done yet? Come back when the job is done!",
-      "You went out there at night and actually came back in one piece? Either you\u2019re crazy or just really good. Either way \u2014 here, take this."
+      "Solo salen de noche... y la gente sensata se queda dentro. Pero necesitamos a alguien lo bastante imprudente, o valiente, para abatirlos. Caza y mata 10 mutantes bajo la oscuridad. No te conviertas en uno de ellos.",
+      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+      "Saliste de noche y volviste de una pieza. O estás loco o eres muy bueno. Sea como sea, toma."
    ],
-   "ObjectiveText": "Kill 10 Mutants.",
+   "ObjectiveText": "Mata 10 mutantes.",
    "FollowUpQuest": 803,
    "Repeatable": 1,
    "IsDailyQuest": 0,

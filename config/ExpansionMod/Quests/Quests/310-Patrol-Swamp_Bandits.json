@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 310,
    "Type": 1,
-   "Title": "Clear Patrol - Lake Bandits",
+   "Title": "Bandidos del Lago Negro",
    "Descriptions": [
-      "Bandits have set up camp in the Chernoye Ozero area. Locals say they patrol the woods daily, looking for anyone to rob or kill. The place is no longer safe. If you\u2019re willing to deal with them, we\u2019ll make it worth your while.",
-      "Head up to the outskirst of the lake and clear out the bandits.",
-      "Those patrols won\u2019t be bothering anyone anymore. You did a good thing out there \u2014 thank you. Here\u2019s your reward."
+      "Los bandidos se han asentado en Chernoye Ozero. Dicen que patrullan los bosques a diario, buscando a quién robar o matar. La zona ya no es segura. Si los eliminas, pagaremos.",
+      "Ve a las afueras del lago y limpia la zona de bandidos.",
+      "Esas patrullas ya no molestarán a nadie. Has hecho algo bueno ahí fuera. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Kill all units of the bandit patrol group near the marked location.",
+   "ObjectiveText": "Mata a todos los miembros de la patrulla bandida cerca de la ubicación marcada.",
    "FollowUpQuest": -1,
    "Repeatable": 1,
    "IsDailyQuest": 0,

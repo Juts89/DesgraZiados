@@ -2,13 +2,13 @@
    "ConfigVersion": 22,
    "ID": 132,
    "Type": 1,
-   "Title": "Good Person, Investigate School",
+   "Title": "Investigar la Escuela",
    "Descriptions": [
-      "A report just came in from one of the schools \u2014 they were ambushed by bandits. No one\u2019s sure who survived, but supplies may still be inside. It\u2019s a dangerous area, and time is critical. You\u2019ll need a vehicle to get there safely. Move quickly and be careful.",
-      "Goto the location. And try to help the survivors",
-      "You made it out \u2014 and brought back what was needed. Whatever happened there, at least someone did something. Thank you \u2014 here\u2019s your reward."
+      "Ha llegado un aviso desde una escuela: fue atacada por bandidos. Nadie sabe quién sobrevivió, pero puede que aún queden suministros. La zona es peligrosa y el tiempo corre. Ve rápido y con cuidado.",
+      "Ve a la ubicación e intenta ayudar a los supervivientes.",
+      "Saliste de allí con lo necesario. Pasara lo que pasara, al menos alguien hizo algo. Gracias. Aquí tienes tu recompensa."
    ],
-   "ObjectiveText": "Travel to School and locate Bandits",
+   "ObjectiveText": "Viaja a la escuela y localiza a los bandidos.",
    "FollowUpQuest": 403,
    "Repeatable": 1,
    "IsDailyQuest": 0,
