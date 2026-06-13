@@ -17,7 +17,7 @@
       "Faction": "Shamans",
       "Formation": "RANDOM",
       "FormationLooseness": 0,
-      "Loadout": "MMG_SNAFU_Basic_NEW",
+      "Loadout": "EastLoadout",
       "Units": [
         "eAI_SurvivorF_Eva",
         "eAI_SurvivorF_Frida",
@@ -88,7 +88,7 @@
       "Faction": "Shamans",
       "Formation": "RANDOM",
       "FormationLooseness": 0,
-      "Loadout": "DarkWoodlandLoadout",
+      "Loadout": "GorkaLoadout",
       "Units": [
         "eAI_SurvivorF_Eva",
         "eAI_SurvivorF_Frida",
@@ -159,7 +159,7 @@
       "Faction": "Shamans",
       "Formation": "RANDOM",
       "FormationLooseness": 0,
-      "Loadout": "MulticamBlackLoadout",
+      "Loadout": "TTSKOLoadout",
       "Units": [
         "eAI_SurvivorF_Eva",
         "eAI_SurvivorF_Frida",

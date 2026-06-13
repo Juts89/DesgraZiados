@@ -416,7 +416,7 @@
       "Faction": "Shamans",
       "Formation": "RANDOM",
       "FormationLooseness": 0,
-      "Loadout": "BanditAK",
+      "Loadout": "Bandits_ATM",
       "Units": [
         "eAI_SurvivorF_Eva",
         "eAI_SurvivorF_Frida",
@@ -517,7 +517,7 @@
       "Faction": "Shamans",
       "Formation": "RANDOM",
       "FormationLooseness": 0,
-      "Loadout": "BanditAK",
+      "Loadout": "Bandits_ATM",
       "Units": [
         "eAI_SurvivorF_Eva",
         "eAI_SurvivorF_Frida",
