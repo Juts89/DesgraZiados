@@ -1,54 +1,70 @@
-{
-    "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_LAUNCHERS",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "IsExchange": 0,
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "flaregun",
-            "MaxPriceThreshold": 1325,
-            "MinPriceThreshold": 795,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "m79",
-            "MaxPriceThreshold": 15045,
-            "MinPriceThreshold": 9025,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansionlaw",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansionrpg7",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        }
-    ]
+﻿{
+    "m_Version":  12,
+    "DisplayName":  "#STR_EXPANSION_MARKET_CATEGORY_LAUNCHERS",
+    "Icon":  "Deliver",
+    "Color":  "FBFCFEFF",
+    "IsExchange":  0,
+    "InitStockPercent":  75.0,
+    "Items":  [
+                  {
+                      "ClassName":  "flaregun",
+                      "MaxPriceThreshold":  2000,
+                      "MinPriceThreshold":  1500,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "m79",
+                      "MaxPriceThreshold":  55000,
+                      "MinPriceThreshold":  45000,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "expansionlaw",
+                      "MaxPriceThreshold":  65000,
+                      "MinPriceThreshold":  55000,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "expansionrpg7",
+                      "MaxPriceThreshold":  75000,
+                      "MinPriceThreshold":  65000,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  }
+              ]
 }

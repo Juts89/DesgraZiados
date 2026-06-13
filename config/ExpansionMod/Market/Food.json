@@ -1,373 +1,505 @@
-{
-    "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_FOOD",
-    "Icon": "Deliver",
-    "Color": "FBFCFEFF",
-    "IsExchange": 0,
-    "InitStockPercent": 75.0,
-    "Items": [
-        {
-            "ClassName": "zagorky",
-            "MaxPriceThreshold": 2045,
-            "MinPriceThreshold": 1225,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "zagorkychocolate",
-            "MaxPriceThreshold": 1300,
-            "MinPriceThreshold": 780,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "zagorkypeanuts",
-            "MaxPriceThreshold": 665,
-            "MinPriceThreshold": 400,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "powderedmilk",
-            "MaxPriceThreshold": 1565,
-            "MinPriceThreshold": 940,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "boxcerealcrunchin",
-            "MaxPriceThreshold": 1065,
-            "MinPriceThreshold": 640,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "rice",
-            "MaxPriceThreshold": 930,
-            "MinPriceThreshold": 560,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "marmalade",
-            "MaxPriceThreshold": 1130,
-            "MinPriceThreshold": 675,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "honey",
-            "MaxPriceThreshold": 1790,
-            "MinPriceThreshold": 1075,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "saltysticks",
-            "MaxPriceThreshold": 1165,
-            "MinPriceThreshold": 700,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "crackers",
-            "MaxPriceThreshold": 1165,
-            "MinPriceThreshold": 700,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "chips",
-            "MaxPriceThreshold": 1320,
-            "MinPriceThreshold": 795,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "pajka",
-            "MaxPriceThreshold": 1165,
-            "MinPriceThreshold": 700,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "pate",
-            "MaxPriceThreshold": 1165,
-            "MinPriceThreshold": 700,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "brisketspread",
-            "MaxPriceThreshold": 1320,
-            "MinPriceThreshold": 795,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "sardinescan",
-            "MaxPriceThreshold": 1275,
-            "MinPriceThreshold": 765,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tunacan",
-            "MaxPriceThreshold": 1840,
-            "MinPriceThreshold": 1105,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "dogfoodcan",
-            "MaxPriceThreshold": 1715,
-            "MinPriceThreshold": 1030,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "catfoodcan",
-            "MaxPriceThreshold": 1790,
-            "MinPriceThreshold": 1075,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "porkcan",
-            "MaxPriceThreshold": 1715,
-            "MinPriceThreshold": 1030,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "lunchmeat",
-            "MaxPriceThreshold": 1585,
-            "MinPriceThreshold": 950,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "unknownfoodcan",
-            "MaxPriceThreshold": 520,
-            "MinPriceThreshold": 315,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "peachescan",
-            "MaxPriceThreshold": 1550,
-            "MinPriceThreshold": 930,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "spaghettican",
-            "MaxPriceThreshold": 1790,
-            "MinPriceThreshold": 1075,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "bakedbeanscan",
-            "MaxPriceThreshold": 1560,
-            "MinPriceThreshold": 935,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tacticalbaconcan",
-            "MaxPriceThreshold": 2070,
-            "MinPriceThreshold": 1240,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "crabcan",
-            "MaxPriceThreshold": 290,
-            "MinPriceThreshold": 175,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansionbread1",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansionbread2",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansionbread3",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansioncheese1",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansioncheese2",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansioncheese3",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansioncheese4",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        }
-    ]
+﻿{
+    "m_Version":  12,
+    "DisplayName":  "#STR_EXPANSION_MARKET_CATEGORY_FOOD",
+    "Icon":  "Deliver",
+    "Color":  "FBFCFEFF",
+    "IsExchange":  0,
+    "InitStockPercent":  75.0,
+    "Items":  [
+                  {
+                      "ClassName":  "zagorky",
+                      "MaxPriceThreshold":  4090,
+                      "MinPriceThreshold":  2450,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "zagorkychocolate",
+                      "MaxPriceThreshold":  2600,
+                      "MinPriceThreshold":  1560,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "zagorkypeanuts",
+                      "MaxPriceThreshold":  1330,
+                      "MinPriceThreshold":  800,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "powderedmilk",
+                      "MaxPriceThreshold":  3130,
+                      "MinPriceThreshold":  1880,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "boxcerealcrunchin",
+                      "MaxPriceThreshold":  2130,
+                      "MinPriceThreshold":  1280,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "rice",
+                      "MaxPriceThreshold":  1860,
+                      "MinPriceThreshold":  1120,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "marmalade",
+                      "MaxPriceThreshold":  2260,
+                      "MinPriceThreshold":  1350,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "honey",
+                      "MaxPriceThreshold":  3580,
+                      "MinPriceThreshold":  2150,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "saltysticks",
+                      "MaxPriceThreshold":  2330,
+                      "MinPriceThreshold":  1400,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "crackers",
+                      "MaxPriceThreshold":  2330,
+                      "MinPriceThreshold":  1400,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "chips",
+                      "MaxPriceThreshold":  2640,
+                      "MinPriceThreshold":  1590,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "pajka",
+                      "MaxPriceThreshold":  2330,
+                      "MinPriceThreshold":  1400,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "pate",
+                      "MaxPriceThreshold":  2330,
+                      "MinPriceThreshold":  1400,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "brisketspread",
+                      "MaxPriceThreshold":  2640,
+                      "MinPriceThreshold":  1590,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "sardinescan",
+                      "MaxPriceThreshold":  2550,
+                      "MinPriceThreshold":  1530,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "tunacan",
+                      "MaxPriceThreshold":  3680,
+                      "MinPriceThreshold":  2210,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "dogfoodcan",
+                      "MaxPriceThreshold":  3430,
+                      "MinPriceThreshold":  2060,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "catfoodcan",
+                      "MaxPriceThreshold":  3580,
+                      "MinPriceThreshold":  2150,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "porkcan",
+                      "MaxPriceThreshold":  3430,
+                      "MinPriceThreshold":  2060,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "lunchmeat",
+                      "MaxPriceThreshold":  3170,
+                      "MinPriceThreshold":  1900,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "unknownfoodcan",
+                      "MaxPriceThreshold":  1040,
+                      "MinPriceThreshold":  630,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "peachescan",
+                      "MaxPriceThreshold":  3100,
+                      "MinPriceThreshold":  1860,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "spaghettican",
+                      "MaxPriceThreshold":  3580,
+                      "MinPriceThreshold":  2150,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "bakedbeanscan",
+                      "MaxPriceThreshold":  3120,
+                      "MinPriceThreshold":  1870,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "tacticalbaconcan",
+                      "MaxPriceThreshold":  4140,
+                      "MinPriceThreshold":  2480,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "crabcan",
+                      "MaxPriceThreshold":  580,
+                      "MinPriceThreshold":  350,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "expansionbread1",
+                      "MaxPriceThreshold":  60,
+                      "MinPriceThreshold":  30,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "expansionbread2",
+                      "MaxPriceThreshold":  60,
+                      "MinPriceThreshold":  30,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "expansionbread3",
+                      "MaxPriceThreshold":  60,
+                      "MinPriceThreshold":  30,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "expansioncheese1",
+                      "MaxPriceThreshold":  60,
+                      "MinPriceThreshold":  30,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "expansioncheese2",
+                      "MaxPriceThreshold":  60,
+                      "MinPriceThreshold":  30,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "expansioncheese3",
+                      "MaxPriceThreshold":  60,
+                      "MinPriceThreshold":  30,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "expansioncheese4",
+                      "MaxPriceThreshold":  60,
+                      "MinPriceThreshold":  30,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  2,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  }
+              ]
 }
