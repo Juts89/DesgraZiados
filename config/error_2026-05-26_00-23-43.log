@@ -1,0 +1,114 @@
+---------------------------------------------
+Log error_2026-05-26_00-23-43.log started at 2026-05-26 00:25:15
+
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:25:15.713 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderStaticBase<0x000001DC42B36CD0> ExpansionExchang <3696.382080, 403.510010, 5992.154785>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:25:19.841 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderDenis<0x000001DC538000C0> ExpansionTraderDenis: <3687.524902, 402.923004, 5978.648926>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:25:19.909 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderMaria<0x000001DC5463F0A0> ExpansionTraderMaria: <3684.871094, 402.923004, 5981.068848>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:25:19.959 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderQuinn<0x000001DC436C2040> ExpansionTraderQuinn: <3705.103027, 402.993011, 5975.586914>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:25:20.013 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderNaomi<0x000001DCD53C6770> ExpansionTraderNaomi: <3693.405029, 402.929993, 5977.014160>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:25:20.071 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderSeth<0x000001DCD53AED00> ExpansionTraderSeth:21 <3711.428955, 402.928009, 5991.952148>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:25:20.108 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderRolf<0x000001DCD53C9D80> ExpansionTraderRolf:21 <3752.589111, 403.957001, 5992.833984>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:25:20.170 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderIndar<0x000001DCD53B5920> ExpansionTraderIndar: <3706.468018, 402.929993, 5986.144043>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:25:20.210 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderJudy<0x000001DCE9128C80> ExpansionTraderJudy:21 <3704.014893, 402.925995, 5980.842773>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:25:20.225 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderNaomi<0x000001DCE9125670> ExpansionTraderNaomi: <3720.483887, 402.313995, 6008.266113>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:25:20.270 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderJose<0x000001DCE912F8A0> ExpansionTraderJose:21 <3733.096924, 403.454987, 6017.534180>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:25:20.309 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderLinda<0x000001DCE9139AD0> ExpansionTraderLinda: <3737.419922, 403.431000, 6022.517090>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:25:20.344 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderNiki<0x000001DCE912C290> ExpansionTraderNiki:21 <3742.992920, 403.395996, 6015.958008>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:26:46.818 [ERROR] :: Unknown loadout requested ('Medic_Trader')
+Function: 'Apply'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:3212
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestnpcdata.c:278
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2702
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:422
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:80
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:204
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:51
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:75
+DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c:115
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:52
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:56
+scripts/3_Game/dayzgame.c:2968
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\dayzgame.c:101
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:26:46.924 [ERROR] :: Unknown loadout requested ('MMG_SNAFU_Atack')
+Function: 'Apply'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:3212
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestnpcdata.c:278
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2702
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:422
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:80
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:204
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:51
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:75
+DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c:115
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:52
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:56
+scripts/3_Game/dayzgame.c:2968
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\dayzgame.c:101

@@ -1,0 +1,808 @@
+=====================================================================
+== C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe
+== "C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe" -ip=85.190.149.78 -port=10300 -cpuCount=4 -limitFPS=100 -config=serverDZ.cfg "-mod=@CF;@Dabs-Framework;@Zens-Core-Mod;@DayZ-Expansion-Licensed;@DayZ-Editor-Loader;@VPPAdminTools;@Building-Fortifications;@Early-Winter-or-late-Fall-in-Chernarus;@Furniture;@Knock-Knock-Zombies;@Mortys-Weapons;@Peek-Doors;@Quadleys-Tools-and-Melee-Weapons;@WindstridesClothingPack;@Zens-Lazy-Actions;@Zens-Skill-Perk-Tree;@Zens-Sleeping-Mod;@Zens-Repairable-Wells;@Zens-Zombie-Door-Bangers" -profiles=C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone/config -BEPath=C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone\battleye -nologs -freezecheck
+=====================================================================
+Exe timestamp: 2026/05/25 19:14:58
+Current time:  2026/05/26 20:09:57
+Version 1.29.162510
+=====================================================================
+
+20:09:57.949 ENGINE    (W): Process affinity forced to f
+20:10:06.905 ENGINE    (W): No module info used, trying to identify -> 0x48B20000
+20:10:06.917 ENGINE    (W): Adjusting job system settings to have at least one job worker thread.
+20:10:07.273 [Inputs] Loading inputs default "bin/constants.xml"
+20:10:07.279 [Inputs] Loading inputs default "bin/specific.xml"
+20:10:07.281 !!! [Inputs] Cannot load inputs default "", file does not exist
+20:10:07.281 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+20:10:07.282 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+20:10:07.285 [Inputs] Loading inputs default "WindstrideClothing/Inputs.xml"
+20:10:07.288 [Inputs] Loading inputs default "ZenLazyAction/data/inputs.xml"
+20:10:07.290 [Inputs] Loading inputs default "ZenSkills/data/inputs.xml"
+20:10:07.293 [Inputs] Loading inputs cfg "C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+20:10:07.307 [Inputs] Exporting inputs cfg "C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+20:10:11.100 SCRIPT    (W): @"ZenRepairWells/scripts/3_game/zenwellsconfig.c,17": FIX-ME: Unexpected statement 'ref'
+20:10:15.01  ANIMATION (E): Can't load @Zens-Zombie-Door-Bangers/Anims/cfg/skeletons.anim.xml
+20:10:15.02  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.02  ANIMATION (E): Can't load @Zens-Repairable-Wells/Anims/cfg/skeletons.anim.xml
+20:10:15.02  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.02  ANIMATION (E): Can't load @Zens-Sleeping-Mod/Anims/cfg/skeletons.anim.xml
+20:10:15.02  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.03  ANIMATION (E): Can't load @Zens-Skill-Perk-Tree/Anims/cfg/skeletons.anim.xml
+20:10:15.03  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.03  ANIMATION (E): Can't load @Zens-Lazy-Actions/Anims/cfg/skeletons.anim.xml
+20:10:15.03  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.03  ANIMATION (E): Can't load @WindstridesClothingPack/Anims/cfg/skeletons.anim.xml
+20:10:15.03  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.04  ANIMATION (E): Can't load @Quadleys-Tools-and-Melee-Weapons/Anims/cfg/skeletons.anim.xml
+20:10:15.04  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.04  ANIMATION (E): Can't load @Peek-Doors/Anims/cfg/skeletons.anim.xml
+20:10:15.04  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.04  ANIMATION (E): Can't load @Mortys-Weapons/Anims/cfg/skeletons.anim.xml
+20:10:15.04  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.05  ANIMATION (E): Can't load @Knock-Knock-Zombies/Anims/cfg/skeletons.anim.xml
+20:10:15.05  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.05  ANIMATION (E): Can't load @Furniture/Anims/cfg/skeletons.anim.xml
+20:10:15.05  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.05  ANIMATION (E): Can't load @Early-Winter-or-late-Fall-in-Chernarus/Anims/cfg/skeletons.anim.xml
+20:10:15.05  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.06  ANIMATION (E): Can't load @Building-Fortifications/Anims/cfg/skeletons.anim.xml
+20:10:15.06  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.06  ANIMATION (E): Can't load @VPPAdminTools/Anims/cfg/skeletons.anim.xml
+20:10:15.06  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.06  ANIMATION (E): Can't load @DayZ-Editor-Loader/Anims/cfg/skeletons.anim.xml
+20:10:15.06  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.07  ANIMATION (E): Can't load @DayZ-Expansion-Licensed/Anims/cfg/skeletons.anim.xml
+20:10:15.07  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.07  ANIMATION (E): Can't load @Zens-Core-Mod/Anims/cfg/skeletons.anim.xml
+20:10:15.07  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.07  ANIMATION (E): Can't load @Dabs-Framework/Anims/cfg/skeletons.anim.xml
+20:10:15.07  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.08  ANIMATION (E): Can't load @CF/Anims/cfg/skeletons.anim.xml
+20:10:15.08  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:15.08  ANIMATION (E): Can't load sakhal/Anims/cfg/skeletons.anim.xml
+20:10:15.08  ANIMATION (E): Failed to open file, line 0, column 0
+20:10:21.817 SCRIPT    (W): @"Furniture/scripts/4_World/actions\srp_actiondemountfurniture.c,51": Missing ';' at the end of line
+20:10:21.818 SCRIPT    (W): @"Furniture/scripts/4_World/actions\srp_actionremovegarbage.c,37": Missing ';' at the end of line
+20:10:21.987 SCRIPT    (W): @"Furniture/scripts/4_World/entities\srp_openablefurniturebase.c,168": FIX-ME: Overriding function 'GetPlaceSoundset' but not marked as 'override'
+20:10:21.987 SCRIPT    (W): @"Furniture/scripts/4_World/entities\srp_openablefurniturebase.c,173": FIX-ME: Overriding function 'GetDeploySoundset' but not marked as 'override'
+20:10:26.770 SCRIPT    (W): @"KnockKnockZombies/scripts/4_World/player.c,66": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+20:10:26.770 SCRIPT    (W): @"KnockKnockZombies/scripts/4_World/player.c,70": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+20:10:26.771 SCRIPT    (W): @"KnockKnockZombies/scripts/4_World/player.c,74": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+20:10:35.61  Hostname of server: "Bullzed-Test"
+20:10:37.417 NETWORK      : Network simulation
+20:10:37.417  Loading landscape 'chernarusplus'
+20:10:37.417   WORLD        : Create entity type 'Land_power_pole_conc1_amp'
+20:10:37.417    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASReceiverType'
+20:10:37.797   ENTITY       : Load entity type 'Land_Mil_Barracks5'
+20:10:37.798    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:37.800   WORLD        : Create entity type 'Land_radio_panelpas'
+20:10:37.801    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASBroadcasterType'
+20:10:37.848   ENTITY       : Load entity type 'Land_Prison_Side'
+20:10:37.848    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:37.848    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:37.848    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+20:10:37.849    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+20:10:37.849    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+20:10:37.849    ENTITY    (W): Door 'DoorsTwin6' is missing geometry components for selection 'DoorsTwin6', check model+config
+20:10:37.849    ENTITY    (W): Door 'DoorsTwin7' is missing geometry components for selection 'DoorsTwin7', check model+config
+20:10:37.849    ENTITY    (W): Door 'DoorsTwin8' is missing geometry components for selection 'DoorsTwin8', check model+config
+20:10:37.895   WORLD        : Create entity type 'Land_power_pole_wood1_amp'
+20:10:37.895    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASReceiverType'
+20:10:37.917   ENTITY       : Load entity type 'Land_Container_1Mo'
+20:10:37.917    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:37.917    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:37.918   ENTITY       : Load entity type 'Land_Workshop3'
+20:10:37.918    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:37.918    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:37.958   WORLD        : Create entity type 'Land_lamp_city1_amp'
+20:10:37.959    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASReceiverType'
+20:10:38.07    ENTITY       : Load entity type 'Land_Workshop1'
+20:10:38.07     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.94    ENTITY       : Load entity type 'Land_Wall_Gate_FenG_Big'
+20:10:38.95     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.135   ENTITY       : Load entity type 'Land_Wreck_sed01_aban1_white'
+20:10:38.135    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:38.136   ENTITY       : Load entity type 'Land_Wreck_hb02_aban1_blue'
+20:10:38.136    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:38.137   ENTITY       : Load entity type 'Land_House_2W03_Brown'
+20:10:38.137    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.138   ENTITY       : Load entity type 'Land_House_2W03'
+20:10:38.138    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.161   ENTITY       : Load entity type 'Land_Wall_Gate_FenR_Big'
+20:10:38.161    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.163   ENTITY       : Load entity type 'Land_Wreck_sed02_aban1_yellow'
+20:10:38.163    ENTITY    (W): Door 'Doors1' is missing geometry components for selection 'Doors1', check model+config
+20:10:38.163    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:38.163    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:38.240   ENTITY       : Load entity type 'Land_Wall_Gate_FenR_Big_Open'
+20:10:38.240    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.281   WORLD        : Create entity type 'Land_power_pole_wood1_lamp_amp'
+20:10:38.281    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASReceiverType'
+20:10:38.319   ENTITY       : Load entity type 'Land_Church2_2'
+20:10:38.319    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.380   ENTITY       : Load entity type 'Land_Wreck_sed01_aban2_wine'
+20:10:38.380    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:38.423   ENTITY       : Load entity type 'Land_Wreck_sed01_aban2_white'
+20:10:38.423    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:38.427   ENTITY       : Load entity type 'Land_Tenement_Small'
+20:10:38.427    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.427    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.428    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.428    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.429    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.429    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.429    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.518   ENTITY       : Load entity type 'Land_Tenement_Big'
+20:10:38.519    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.519    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.519    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.521    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.521    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.521    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.523    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.523    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.523    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.585   ENTITY       : Load entity type 'Land_City_Store'
+20:10:38.585    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.586    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:38.586    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+20:10:38.586    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+20:10:38.586    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+20:10:38.589   ENTITY       : Load entity type 'Land_Wreck_sed01_aban2_black'
+20:10:38.589    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:38.597   ENTITY       : Load entity type 'Land_Wreck_sed01_aban1_black'
+20:10:38.597    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:38.598   ENTITY       : Load entity type 'Land_Wreck_sed02_aban1_red'
+20:10:38.598    ENTITY    (W): Door 'Doors1' is missing geometry components for selection 'Doors1', check model+config
+20:10:38.599    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:38.599    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:38.680   ENTITY       : Load entity type 'Land_Wreck_hb01_aban1_blue'
+20:10:38.680    ENTITY    (W): Door 'Doors1' is missing geometry components for selection 'Doors1', check model+config
+20:10:38.680    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:38.682   ENTITY       : Load entity type 'Land_City_School'
+20:10:38.682    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.682    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+20:10:38.682    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+20:10:38.683    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+20:10:38.683    ENTITY    (W): Door 'DoorsTwin6' is missing geometry components for selection 'DoorsTwin6', check model+config
+20:10:38.683    ENTITY    (W): Door 'DoorsTwin7' is missing geometry components for selection 'DoorsTwin7', check model+config
+20:10:38.689    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.689    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.689    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.690    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.690    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.690    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.690    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.691    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.691    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.691    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.691    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.691    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.692    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.692    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.692    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.692    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.693    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.693    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.693    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.693    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.693    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.694    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.694    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.694    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.694    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.694    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.694    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.695    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.695    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.696    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.696    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.696    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.696    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.696    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.697    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.697    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.697    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.697    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.697    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.698    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.698    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.698    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.698    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.699    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.699    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.699    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.699    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.699    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.699    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.699    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.699    ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+20:10:38.805   ENTITY       : Load entity type 'Land_Garage_Row_Small'
+20:10:38.805    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.805    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:38.805    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+20:10:38.845   ENTITY       : Load entity type 'Land_Wreck_sed02_aban1_grey'
+20:10:38.846    ENTITY    (W): Door 'Doors1' is missing geometry components for selection 'Doors1', check model+config
+20:10:38.846    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:38.846    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:38.852   ENTITY       : Load entity type 'Land_Wreck_hb01_aban1_white'
+20:10:38.852    ENTITY    (W): Door 'Doors1' is missing geometry components for selection 'Doors1', check model+config
+20:10:38.852    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:38.870   ENTITY       : Load entity type 'Land_Wreck_hb02_aban1_red'
+20:10:38.870    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:38.905   ENTITY       : Load entity type 'Land_Wreck_hb01_aban2_green'
+20:10:38.905    ENTITY    (W): Door 'Doors1' is missing geometry components for selection 'Doors1', check model+config
+20:10:38.905    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:38.952   ENTITY       : Load entity type 'Land_HouseBlock_1F4'
+20:10:38.953    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.954   ENTITY       : Load entity type 'Land_HouseBlock_2F8'
+20:10:38.955    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.956   ENTITY       : Load entity type 'Land_HouseBlock_2F_Corner'
+20:10:38.956    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.956    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:38.972   ENTITY       : Load entity type 'Land_House_2W02'
+20:10:38.972    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.993   ENTITY       : Load entity type 'Land_HouseBlock_2F1'
+20:10:38.993    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.993    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:38.995   ENTITY       : Load entity type 'Land_HouseBlock_2F2'
+20:10:38.995    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:38.996    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:38.996    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.996    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:38.997    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:39.14    ENTITY       : Load entity type 'Land_Garage_Small'
+20:10:39.14     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.16    ENTITY       : Load entity type 'Land_HouseBlock_1F1'
+20:10:39.16     ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:39.17     ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:39.18     ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:39.19    ENTITY       : Load entity type 'Land_House_2W04_Yellow'
+20:10:39.20     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.53    ENTITY       : Load entity type 'Land_Church3'
+20:10:39.54     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.121   ENTITY       : Load entity type 'Land_HouseBlock_3F_Corner1'
+20:10:39.121    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.121    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:39.122    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:39.123    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:39.124    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:39.126   ENTITY       : Load entity type 'Land_HouseBlock_3F2'
+20:10:39.126    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.127    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:39.164   ENTITY       : Load entity type 'Land_Wreck_hb02_aban1_black'
+20:10:39.165    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:39.166   ENTITY       : Load entity type 'Land_HouseBlock_2F6'
+20:10:39.166    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.178   ENTITY       : Load entity type 'Land_Wreck_sed01_aban1_wine'
+20:10:39.179    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:39.185   ENTITY       : Load entity type 'Land_Workshop4'
+20:10:39.185    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.191   ENTITY       : Load entity type 'Land_Workshop2'
+20:10:39.192    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.212   WORLD        : Create entity type 'Land_power_pole_conc4_lamp_amp'
+20:10:39.213    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASReceiverType'
+20:10:39.227   ENTITY       : Load entity type 'Land_Wreck_sed02_aban2_red'
+20:10:39.227    ENTITY    (W): Door 'Doors1' is missing geometry components for selection 'Doors1', check model+config
+20:10:39.227    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:39.228    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:39.244   ENTITY       : Load entity type 'Land_HouseBlock_1F3'
+20:10:39.244    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.288   ENTITY       : Load entity type 'Land_HouseBlock_2F4'
+20:10:39.288    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.311   ENTITY       : Load entity type 'Land_HouseBlock_2F9'
+20:10:39.311    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.324   ENTITY       : Load entity type 'Land_Wreck_sed02_aban2_yellow'
+20:10:39.324    ENTITY    (W): Door 'Doors1' is missing geometry components for selection 'Doors1', check model+config
+20:10:39.324    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:39.325    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:39.364   ENTITY       : Load entity type 'Land_Wreck_hb01_aban2_blue'
+20:10:39.365    ENTITY    (W): Door 'Doors1' is missing geometry components for selection 'Doors1', check model+config
+20:10:39.365    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:39.367   ENTITY       : Load entity type 'Land_Rail_Station_Big'
+20:10:39.367    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.400   ENTITY       : Load entity type 'Land_Wall_Gate_FenG_Big_Open'
+20:10:39.400    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.404   ENTITY       : Load entity type 'Land_City_PoliceStation'
+20:10:39.404    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.405    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:39.405    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+20:10:39.459   ENTITY       : Load entity type 'Land_Wreck_sed02_aban2_grey'
+20:10:39.460    ENTITY    (W): Door 'Doors1' is missing geometry components for selection 'Doors1', check model+config
+20:10:39.460    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:39.460    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:39.471   ENTITY       : Load entity type 'Land_Garage_Row_Big'
+20:10:39.471    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.471    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:39.472    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+20:10:39.472    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+20:10:39.497   ENTITY       : Load entity type 'Land_City_Hospital'
+20:10:39.497    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.520   ENTITY       : Load entity type 'Land_Container_1Bo'
+20:10:39.520    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.521    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:39.522   ENTITY       : Load entity type 'Land_City_Store_WithStairs'
+20:10:39.522    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.522    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:39.523    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+20:10:39.523    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+20:10:39.523    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+20:10:39.545   ENTITY       : Load entity type 'Land_House_2W04'
+20:10:39.545    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.588   ENTITY       : Load entity type 'Land_Office2'
+20:10:39.589    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:39.589    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:39.589    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+20:10:39.590    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+20:10:39.590    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+20:10:39.648   ENTITY    (W): Unknown object class 'pond' (dz\water\ponds\pond_50x50.p3d)
+20:10:39.783   ENTITY       : Load entity type 'Land_House_1W12_Brown'
+20:10:39.784    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:39.784    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:39.785    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:39.830   ENTITY       : Load entity type 'Land_House_1W08_Brown'
+20:10:39.830    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:39.831    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:39.832    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+20:10:39.983   ENTITY       : Load entity type 'Land_Wreck_hb01_aban2_white'
+20:10:39.984    ENTITY    (W): Door 'Doors1' is missing geometry components for selection 'Doors1', check model+config
+20:10:39.984    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:40.81    ENTITY       : Load entity type 'Land_Office1'
+20:10:40.82     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:40.82     ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:40.82     ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+20:10:40.83     ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+20:10:40.83     ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+20:10:40.83     ENTITY    (W): Door 'DoorsTwin6' is missing geometry components for selection 'DoorsTwin6', check model+config
+20:10:40.84     ENTITY    (W): Door 'DoorsTwin7' is missing geometry components for selection 'DoorsTwin7', check model+config
+20:10:40.156   ENTITY       : Load entity type 'Land_Workshop5'
+20:10:40.156    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:40.159   ENTITY       : Load entity type 'Land_Factory_Small'
+20:10:40.159    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:40.159    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:40.331   ENTITY       : Load entity type 'Land_Wreck_hb01_aban1_green'
+20:10:40.331    ENTITY    (W): Door 'Doors1' is missing geometry components for selection 'Doors1', check model+config
+20:10:40.331    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:40.523   ENTITY       : Load entity type 'Land_Mil_Barracks3'
+20:10:40.523    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:40.572   ENTITY       : Load entity type 'Land_wreck_truck01_aban2_firetruck'
+20:10:40.572    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:40.572    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:40.573    ENTITY    (W): Door 'Doors5' is missing geometry components for selection 'Doors5', check model+config
+20:10:40.573    ENTITY    (W): Door 'Doors6' is missing geometry components for selection 'Doors6', check model+config
+20:10:40.573    ENTITY    (W): Door 'Doors7' is missing geometry components for selection 'Doors7', check model+config
+20:10:40.574    ENTITY    (W): Door 'Doors8' is missing geometry components for selection 'Doors8', check model+config
+20:10:40.574    ENTITY    (W): Door 'Doors9' is missing geometry components for selection 'Doors9', check model+config
+20:10:40.575   ENTITY       : Load entity type 'Land_wreck_truck01_aban1_firetruck'
+20:10:40.576    ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+20:10:40.576    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:40.576    ENTITY    (W): Door 'Doors5' is missing geometry components for selection 'Doors5', check model+config
+20:10:40.576    ENTITY    (W): Door 'Doors6' is missing geometry components for selection 'Doors6', check model+config
+20:10:40.577    ENTITY    (W): Door 'Doors7' is missing geometry components for selection 'Doors7', check model+config
+20:10:40.577    ENTITY    (W): Door 'Doors8' is missing geometry components for selection 'Doors8', check model+config
+20:10:40.577    ENTITY    (W): Door 'Doors9' is missing geometry components for selection 'Doors9', check model+config
+20:10:40.611   ENTITY       : Load entity type 'Land_Container_1Moh'
+20:10:40.611    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:40.613   ENTITY       : Load entity type 'Land_Rail_Warehouse_Small'
+20:10:40.613    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:40.613    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:40.621   ENTITY       : Load entity type 'Land_Container_1Aoh'
+20:10:40.622    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:40.656   ENTITY       : Load entity type 'Land_Village_HealthCare'
+20:10:40.656    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:40.657    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:41.80    ENTITY    (W): Unknown object class 'pond' (dz\water\ponds\pond_big_38_01.p3d)
+20:10:41.81    ENTITY    (W): Unknown object class 'pond' (dz\water\ponds\pond_big_38_02.p3d)
+20:10:41.469   ENTITY       : Load entity type 'Land_Farm_CowshedA'
+20:10:41.469    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:41.469    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+20:10:41.470   ENTITY       : Load entity type 'Land_Farm_CowshedC'
+20:10:41.471    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:41.543   ENTITY       : Load entity type 'Land_CementWorks_Hall2_Brick'
+20:10:41.543    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:41.621   ENTITY       : Load entity type 'Land_Wreck_offroad02_aban2'
+20:10:41.621    ENTITY    (W): Door 'Doors3' is missing geometry components for selection 'Doors3', check model+config
+20:10:41.739   ENTITY       : Load entity type 'Land_Mil_Airfield_HQ'
+20:10:41.740    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:41.788   ENTITY       : Load entity type 'Land_Mil_Barracks1'
+20:10:41.789    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:41.865   ENTITY    (W): Unknown object class 'pond' (dz\water\ponds\pond_small_06.p3d)
+20:10:41.884   WORLD        : Create entity type 'Land_radio_panelbig'
+20:10:41.885    ENTITY    (E): Type 'HouseType' must be inherited from class 'StaticTransmitterType'
+20:10:41.901   ENTITY       : Load entity type 'Land_Radio_building'
+20:10:41.902    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:42.131   ENTITY    (W): Unknown object class 'pond' (dz\water\ponds\pond_50x50.p3d)
+20:10:42.439   ENTITY    (W): Unknown object class 'pond' (dz\water\ponds\pond_50x50.p3d)
+20:10:42.460   ENTITY    (W): Unknown object class 'pond' (dz\water\ponds\pond_50x50.p3d)
+20:10:42.540   ENTITY       : Load entity type 'Land_Garage_Big'
+20:10:42.540    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:42.581   ENTITY       : Load entity type 'Land_Tisy_HQ'
+20:10:42.582    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:43.216   ENTITY    (W): Unknown object class 'pond' (dz\water\ponds\pond_small_20.p3d)
+20:10:43.350   ENTITY    (W): Unknown object class 'pond' (dz\water\ponds\pond_small_02.p3d)
+20:10:43.635   ENTITY       : Load entity type 'Land_HouseBlock_5F'
+20:10:43.636    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:10:43.639   ENTITY       : Load entity type 'Land_Office_Municipal2'
+20:10:43.640    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+20:11:02.09   SCRIPT    (E): @"$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c,266": Function 'Expansion_OnQuestCompletion' is marked as override, but there is no function with this name in the base class
+20:11:02.17   SCRIPT    (E): Can't compile mission init script'!
+
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c(266): Function 'Expansion_OnQuestCompletion' is marked as override, but there is no function with this name in the base class
+===Application hangs!====>>>>>>BEG
+===Application hangs!====>>>>>>END
+20:26:02.93  ENGINE    (F): Crashed
+=======================================================
+-------------------------------------------------------
+Time: 20:26:03
+Custom crash: Application hangs!
+Allocator: system
+graphics:  No
+resolution:  160x120x32
+Addons:
+  Kirza_Boots in WindstrideClothing\models\kirza_boots\
+  TTCAmmo50Beo in TTC_Rifles\50beowulfammobox\
+  BuildingFortifications_GUI in BuildingFortifications\gui\
+  TTC_M4Tac in TTC_Rifles\m4tac\, TTC_UZI in TTC_SMG\uzi\
+  Winchester1873 in TTC_Rifles\winchester1873\
+  TTC_Car15_Handguards in TTC_Rifles\m16a2\car15\handguard\
+  TTC_L85 in TTC_Rifles\l85a2\, TTC_AG3_Sounds in TTC_Rifles\ag3\sounds\
+  DZ_Anims_Anm_Player in DZ\anims\anm\player\
+  DZ_Weapons_Shotguns_MP133 in DZ\weapons\shotguns\mp133\
+  TTC_Fal_Weapon in TTC_Rifles\fal\, TTC_A12 in TTC_Rifles\ak12\
+  TTC_M1903 in TTC_Rifles\m1903\, TTC_AVS36 in TTC_Rifles\avs36\
+  TTCOpticDMR in TTC_Optics\dmroptic\
+  earlywinter_clutter in DZ\surfaces\data\terrain\, DZ_Anims_Cfg in DZ\anims\cfg\
+  DZ_Sounds_Characters in DZ\sounds\Characters\
+  DZ_Weapons_Supports in DZ\weapons\attachments\support\, DZ_Scripts in scripts\
+  TTC_LeeEnfield in TTC_Rifles\leeenfield\
+  Kneepads_Jeans in WindstrideClothing\models\kneepads_jeans\
+  DayZExpansion_Sounds_Vehicles_Air_Mh6 in DayZExpansion\Sounds\Vehicles\Air\Mh6\
+  PMK_5A_Gas_Mask in WindstrideClothing\models\pmk-5a_gas_mask\
+  M24_Sounds in TTC_Rifles\m24\sounds\
+  Trapper_Hat in WindstrideClothing\models\trapper_hat\
+  Ragged_Eyepatch in WindstrideClothing\models\ragged_eyepatch\
+  JM_CF_GUI in JM\CF\GUI\, TTC_M1A_Sounds in TTC_Rifles\m14\sounds\
+  DZ_Weapons_Shotguns_Izh18Shotgun in DZ\weapons\shotguns\izh18shotgun\
+  DZ_Weapons_Firearms in DZ\weapons\firearms\
+  DZ_Worlds_Enoch_Navmesh in DZ\worlds\enoch\navmesh\
+  1903_Sounds in TTC_Rifles\m1903\sounds\, DZM_VPPStaticItems in VPPStaticItems\
+  Leather_cloak in WindstrideClothing\models\leather_cloak\
+  DayZExpansion_Vehicles_Air_Mh6 in DayZExpansion\Vehicles\Air\Mh6\
+  TTC_M4DMR in TTC_Rifles\m4dmr\sounds\
+  DayZExpansion_Sounds_Vehicles_Air_Uh1h in DayZExpansion\Sounds\Vehicles\Air\Uh1h\
+  Windstride_Poncho in WindstrideClothing\models\poncho\
+  M4Tac_Sounds in TTC_Rifles\m4tac\sounds\, ButtstockTTC2 in TTC_Rifles\buttstock2\
+  DayZExpansion_Sounds_Vehicles_Air_Gyro in DayZExpansion\Sounds\Vehicles\Air\Gyro\
+  DZ_Animals_AnimConfig in DZ\animals\animconfig\
+  DZ_Gear_Consumables in DZ\gear\consumables\, DZ_Sounds_AI in DZ\sounds\ai\
+  DZ_Weapons_Firearms_SaigaK in DZ\weapons\shotguns\saiga\
+  DZ_Weapons_Archery_Crossbow in DZ\weapons\archery\crossbow\
+  DZ_Pistols_mkii in DZ\weapons\pistols\mkii\
+  DZ_Structures_Bliss_Specific in DZ\structures_bliss\specific\
+  TTC_AEK in TTC_Rifles\aek971\, TTC_SG_MAG in TTC_Rifles\sgmag\
+  TTCMP7_Sounds in TTC_SMG\mp7a1\sounds\
+  Skinny_Jeans in WindstrideClothing\models\skinny_jeans\
+  ButtstockTTC3 in TTC_Rifles\buttstock3\, TTC308Stanag in TTC_Rifles\308stanag\
+  TTCM4DMR in TTC_Rifles\m4dmr\, TTC_MK18 in TTC_Rifles\mk18\
+  DayZExpansion_Sounds_Explosions in DayZExpansion\Sounds\Explosions\
+  DZ_AI in DZ\AI\, DZ_Gear_Books in DZ\gear\books\, DZ_Data_Bliss in DZ\data_bliss\
+  DZ_Weapons_Launchers_RPG7 in DZ\weapons\launchers\rpg7\
+  TTC_M1Garand in TTC_Rifles\m1\, Leggings in WindstrideClothing\models\leggings\
+  TTCMk47 in TTC_Rifles\cmmgmk47\, K98 in TTC_Rifles\k98\
+  DayZExpansion_Sounds_Ground_TT650 in DayZExpansion\Sounds\Vehicles\Ground\TT650\
+  DayZExpansion_Sounds_Vehicles_Water_LHD in DayZExpansion\Sounds\Vehicles\Water\LHD\
+  AWM_Sounds in TTC_Rifles\awm\sounds\, TTC_Mossberg in TTC_Shotguns\mossberg\
+  TTC_Beowulf in TTC_Rifles\beowulf\, QDLY_Melee in qdly_melee\
+  DZ_Data_Sakhal in DZ\data_sakhal\, DZ_Snow_Rocks in DZ\rocks\snow_rocks\
+  DZ_Water in DZ\water\, DZ_Characters_Vests in DZ\characters\vests\
+  DZ_Structures_Rail in DZ\structures\rail\
+  DZ_Pistols_CZ75 in DZ\weapons\pistols\cz75\
+  DZ_Pistols_Flaregun in DZ\weapons\pistols\flaregun\
+  DZ_Vehicles_Wheeled in DZ\vehicles\wheeled\
+  DZ_Weapons_Firearms_M249Para in DZ\weapons\firearms\m249\
+  DZ_Weapons_Melee_Blunt in DZ\weapons\melee\blunt\
+  DZ_Structures_Bliss_Industrial in DZ\structures_bliss\industrial\
+  TTC_Rifles in TTC_Rifles\, TTC_Ammo50BMG in TTC_Rifles\50bmgammobox\
+  ButtstockTTC in TTC_Rifles\buttstock\
+  DayZExpansion_Objects_Airdrop in DayZExpansion\Objects\Airdrop\
+  TTCAmmo338 in TTC_Rifles\338ammobox\, DZ_Sounds_Weapons in DZ\sounds\weapons\
+  DZ_data_aiconfigs in DZ\data\aiconfigs\
+  DZ_Structures_BuildingParts in DZ\structures\Proxy_BuildingParts\
+  DZ_Weapons_Firearms_M4 in DZ\weapons\firearms\m4\
+  DZ_Weapons_Firearms_VSS in DZ\weapons\firearms\vss\
+  TTCAmmo3006 in TTC_Rifles\3006ammobox\, TTC_BAR in TTC_Rifles\bar\
+  Legging_Shorts in WindstrideClothing\models\legging_shorts\
+  TTC_Glock in TTC_Pistols\glock17\
+  DZ_Animals_capra_hircus in DZ\animals\capra_hircus\
+  DZ_Animals_ovis_aries in DZ\animals\ovis_aries\
+  DZ_Animals_ovis_aries_fem in DZ\animals\ovis_aries_fem\
+  DZ_Characters_Glasses in DZ\characters\glasses\
+  DZ_Characters_Gloves in DZ\characters\gloves\
+  DZ_Weapons_Archery_Bow_pvc in DZ\weapons\archery\bow_pvc\
+  DZ_Structures_Walls in DZ\structures\walls\
+  DZ_Pistols_pb6p9 in DZ\weapons\pistols\pb6p9\
+  DZ_Weapons_Firearms_CZ550 in DZ\weapons\firearms\cz550\
+  Shabby_Hoodie in WindstrideClothing\models\shabby_hoodie\
+  BuildingFortifications_LanguageCore in BuildingFortifications\languagecore\
+  M14Suppressor in TTC_Rifles\suppressorm14\
+  DayZExpansion_Sounds_Ground_N250 in DayZExpansion\Sounds\Vehicles\Ground\N250\
+  MAS36 in TTC_Rifles\mas36\
+  DayZExpansion_Objects_Structures_Grass_Sample in DayZExpansion\Objects\Structures\Grass_Sample\
+  M16A4T_Sounds in TTC_Rifles\m16a4\sounds\
+  DayZExpansion_Vehicles_Ground_Tractor in DayZExpansion\Vehicles\Ground\Tractor\
+  DZ_Gear_Crafting in DZ\gear\crafting\, DZ_AI_Bliss in DZ\AI_bliss\
+  DZ_Gear_Camping in DZ\gear\camping\, DZ_Structures_Wrecks in DZ\structures\wrecks\
+  DZ_Weapons_Firearms_AK74 in DZ\weapons\firearms\ak74\
+  DZ_Weapons_Firearms_CZ527 in DZ\weapons\firearms\cz527\
+  DZ_Weapons_Firearms_SSG82 in DZ\weapons\firearms\ssg82\
+  TTCOpticAimpoint in TTC_Optics\aimpoint2000\
+  TTC_Car15_Optics in TTC_Rifles\m16a2\car15\optic\, TTCSR25 in TTC_Rifles\sr25\
+  DayZExpansion_Objects_Explosives_Licensed in DayZExpansion\Objects\Weapons\Explosives\
+  Slouch_Hat in WindstrideClothing\models\slouch_hat\
+  TTCOptic1 in TTC_Optics\leapersbugbuster\, TTC_VHS in TTC_Rifles\vhs\
+  TTCAmmo8mm in TTC_Rifles\8mm\, TTCHKG28 in TTC_Rifles\hkg28\
+  DZ_Animals_bos_taurus in DZ\animals\bos_taurus\, DZ_Data in DZ\data\
+  DZ_Characters_Zombies in DZ\characters\zombies\
+  DZ_Sounds_Effects in DZ\sounds\hpp\
+  DZ_Weapons_Firearms_Winchester70 in DZ\weapons\firearms\winchester70\
+  DZ_Weapons_Firearms_SKS in DZ\weapons\firearms\sks\
+  DZ_Weapons_Muzzles in DZ\weapons\attachments\muzzle\
+  DZ_Structures_Bliss_Residential in DZ\structures_bliss\residential\
+  TTC_MP5SD in TTC_SMG\mp5sd\, DZM_VPPAdminToolsScripts in VPPAdminTools\
+  TTC_SVT40 in TTC_Rifles\svt40\
+  Military_Sweater in WindstrideClothing\models\military_sweater\
+  TTCOpticRazor in TTC_Optics\razer\, ZenSleep in ZenSleep\
+  TTCOptic2 in TTC_Optics\g3optic\
+  Golden_Winged_Pin in WindstrideClothing\models\pins\golden_winged_pin\
+  Assets_Shemagh in WindstrideClothing\models\shemagh\
+  DZ_Animals_gallus_gallus_domesticus in DZ\animals\gallus_gallus_domesticus\
+  DZ_Animals_capreolus_capreolus_fem in DZ\animals\capreolus_capreolus_fem\
+  DZ_Surfaces in DZ\surfaces\, DZ_Gear_Cooking in DZ\gear\cooking\
+  DZ_Weapons_Misc in DZ\weapons\misc\, DZ_Structures_Roads in DZ\structures\roads\
+  DZ_Weapons_Firearms_Trumpet in DZ\weapons\firearms\trumpet\
+  DZ_Water_Bliss in DZ\water_bliss\
+  Canvas_Backpack in WindstrideClothing\models\canvas_backpack\
+  earlywinter_scripts in earlywinter_scripts\, TTC_AKMount in TTC_Optics\akmount\
+  Eyepatch in WindstrideClothing\models\eyepatch\, TTC_AWM in TTC_Rifles\awm\
+  RPC_Scripts in JM\CF\Defines\, DZ_Characters_Headgear in DZ\characters\headgear\
+  DZ_Structures_Industrial in DZ\structures\industrial\
+  DZ_Weapons_Projectiles in DZ\weapons\projectiles\
+  DZ_Weapons_Launchers_M203 in DZ\weapons\launchers\m203\
+  Beo_Sounds in TTC_Rifles\beowulf\sounds\, XM2010 in TTC_Rifles\xm2010\
+  DayZExpansion_Vehicles_Ground_Vodnik in DayZExpansion\Vehicles\Ground\Vodnik\
+  TTCMagM14 in TTC_Rifles\m14mag\, Raptr_Sounds in TTC_Shotguns\raptr\sounds\
+  TTC_Car15_Buttstocks in TTC_Rifles\m16a2\car15\buttstock\
+  TTCOptic_SVT40 in TTC_Optics\svt40scope\
+  DayZExpansion_Objects_BaseBuilding_Misc in DayZExpansion\Objects\Basebuilding\Misc\
+  Winter_Parka in WindstrideClothing\models\winter_parka\
+  TTCAmmo4570 in TTC_Rifles\4570ammobox\
+  DZ_Animals_bos_taurus_fem in DZ\animals\bos_taurus_fem\
+  DZ_Characters_Pants in DZ\characters\pants\
+  DZ_Pistols_DE in DZ\weapons\pistols\de\
+  DZ_Weapons_Firearms_MosinNagant in DZ\weapons\firearms\mosin9130\
+  DZ_Weapons_Attachments_Data in DZ\weapons\attachments\data\
+  DZ_Weapons_Launchers_M79 in DZ\weapons\launchers\m79\
+  DZ_Rocks_Bliss in DZ\rocks_bliss\, TTC_SMG_stuff in TTC_SMG\
+  TTC_Attachements_DMR in TTC_Rifles\attachements\
+  DayZExpansion_Sounds_Vehicles_Water_Zodiac in DayZExpansion\Sounds\Vehicles\Water\Zodiac\
+  DZ_Spawn_Proxies in DZ\data\proxies\, DZ_Rocks in DZ\rocks\, DZ_UI in DZ\ui\
+  DZ_Structures_Military in DZ\structures\military\
+  DZ_Worlds_ChernarusPlus_CE in DZ\worlds\chernarusplus\ce\
+  SR25_Sounds in TTC_Rifles\sr25\sounds\, TTC_MRAD in TTC_Rifles\mrad\
+  ZenModCore in ZenModCore\, 416M4_Sounds in TTC_Rifles\hk416a7\sounds\
+  TTCFAL_Sounds in TTC_Rifles\fal\sounds\
+  DayZExpansion_Sounds_Vehicles_Air_Bell412 in DayZExpansion\Sounds\Vehicles\Air\Bell412\
+  338_Sounds in TTC_Rifles\fd338\sounds\, TTC_Maverick in TTC_Shotguns\maverick\
+  DZ_Water_Sakhal in DZ\water_sakhal\
+  DZ_Animals_vulpes_vulpes in DZ\animals\vulpes_vulpes\
+  DZ_Structures in DZ\structures\data\, DZ_Gear_Containers in DZ\gear\containers\
+  DZ_Weapons_Firearms_aug in DZ\weapons\firearms\aug\
+  DZ_Weapons_Magazines in DZ\weapons\attachments\magazine\
+  DZ_Weapons_Melee_Blade in DZ\weapons\melee\blade\
+  DZ_Worlds_Enoch_Data in DZ\worlds\enoch\data\
+  DZ_Structures_Bliss_Walls in DZ\structures_bliss\walls\
+  DayZExpansion_LanguageCore_Licensed in DayZExpansion\languagecore\Licensed\
+  TTC_Pistols_M9 in TTC_Pistols\m9\
+  Sheriff_Badge in WindstrideClothing\models\pins\sheriff_badge\
+  TTC_AG3 in TTC_Rifles\ag3\, TTC_M82_BarrettMag in TTC_Rifles\m82mag\
+  DZ_Gear_Tools in DZ\gear\tools\
+  DZ_Weapons_Archery_Bow_Recurve in DZ\weapons\archery\bow_recurve\
+  DZ_Pistols_Red9 in DZ\weapons\pistols\red9\
+  DZ_Surfaces_Bliss in DZ\surfaces_bliss\
+  FlipFlops in WindstrideClothing\models\flip_flops\, TTC_R700 in TTC_Rifles\r700\
+  ZenRepairWells in ZenRepairWells\, EditorLoader_Scripts in EditorLoader\Scripts\
+  TTC_M110 in TTC_Rifles\m110\, TTC_Raptr in TTC_Shotguns\raptr\
+  TTC_TAVOR in TTC_Rifles\tavor\, TTC_SG550 in TTC_Rifles\sg550\
+  DZ_Animals_capra_hircus_fem in DZ\animals\capra_hircus_fem\
+  DZ_Sounds_Environment in DZ\sounds\environment\
+  DZ_Structures_Furniture in DZ\structures\furniture\
+  DZ_Weapons_Firearms_SVD in DZ\weapons\firearms\svd\
+  DZ_Weapons_Firearms_groza in DZ\weapons\firearms\ots14\
+  DZ_Weapons_Firearms_AK101 in DZ\weapons\firearms\ak101\
+  TTC_50Beo_Magazine in TTC_Rifles\50beomag\
+  Scarf in WindstrideClothing\models\scarf\
+  TTCAmmo300blk in TTC_Rifles\300blkammobox\, TTC338mag in TTC_Rifles\338mag\
+  TTCHandguard in TTC_Rifles\dmrhandguard\
+  DayZExpansion_Objects_BaseBuilding_Tents in DayZExpansion\Objects\Basebuilding\Tents\
+  Mossberg_Sounds in TTC_Shotguns\mossberg\sounds\
+  DayZExpansion_Vehicles_Ground_TT650 in DayZExpansion\Vehicles\Ground\TT650\
+  DZ_Worlds_Sakhal_Navmesh in DZ\worlds\sakhal\navmesh\
+  DZ_Structures_Ruins in DZ\structures\ruins\
+  DZ_Weapons_Archery in DZ\weapons\archery\
+  DZ_Weapons_Firearms_Ruger1022 in DZ\weapons\firearms\ruger1022\
+  DZ_Weapons_Firearms_PP19 in DZ\weapons\firearms\pp19\
+  DZ_Weapons_Firearms_pm73rak in DZ\weapons\firearms\pm73rak\
+  DZ_Worlds_Enoch_CE in DZ\worlds\enoch\ce\
+  DZ_Structures_Bliss_Military in DZ\structures_bliss\military\
+  DZ_Structures_Bliss_Roads in DZ\structures_bliss\roads\
+  DZ_Vehicles_Water in DZ\vehicles\water\, TTC_SG552 in TTC_Rifles\sg553comp\
+  TTC_Car15_Firearms in TTC_Rifles\m16a2\car15\
+  High_Knee_Sneakers in WindstrideClothing\models\high_knee_sneakers\
+  TTC_AKM in TTC_Rifles\wasr-10\, ZenSkills in ZenSkills\
+  BVP_DoorPeek in BVP_DoorPeek\, Windstrideclothing in WindstrideClothing\
+  DZ_Gear_Optics in DZ\gear\optics\, DZ_Server_Data in DZ\server\
+  DZ_Characters_Heads in DZ\characters\heads\
+  DZ_Pistols_p1 in DZ\weapons\pistols\p1\
+  DZ_Weapons_Firearms_SV98 in DZ\weapons\firearms\sv98\
+  DZ_Weapons_Firearms_UMP in DZ\weapons\firearms\ump45\
+  DZ_Structures_Bliss_Rail in DZ\structures_bliss\rail\
+  DayZExpansion_Vehicles_Air_C130J in DayZExpansion\Vehicles\Air\C130J\
+  TTC_P320 in TTC_Pistols\p320\, TTCOpticPistol in TTC_Optics\pistoloptic\
+  MP5SD_Sounds in TTC_SMG\mp5sd\sounds\
+  DayZExpansion_Objects_BaseBuilding_Gates in DayZExpansion\Objects\Basebuilding\Gates\
+  JM_CF_Scripts in JM\CF\Scripts\, DZ_Worlds_Sakhal_CE in DZ\worlds\sakhal\ce\
+  DZ_Gear_Medical in DZ\gear\medical\
+  DZ_Worlds_Chernarusplus_World in DZ\worlds\chernarusplus\world\
+  DZ_Animals_Bliss in DZ\animals_bliss\
+  DZ_Weapons_Explosives in DZ\weapons\explosives\
+  DZ_Weapons_Firearms_Scout in DZ\weapons\firearms\scout\
+  HoneyButtstock in TTC_Rifles\honeybuttstock\
+  DayZExpansion_Sounds_Vehicles_Water_Utility in DayZExpansion\Sounds\Vehicles\Water\Utility\
+  TTC_Pistol_Parts in TTC_Pistols\parts\, TTC_M14 in TTC_Rifles\m14\
+  G3_Sounds in TTC_Rifles\g3\sounds\
+  DZ_Weapons_Animations in DZ\weapons\animations\
+  DZ_Weapons_Archery_Bow_Quickie in DZ\weapons\archery\bow_quickie\
+  DayZExpansion_Vehicles_Ground_Ikarus in DayZExpansion\Vehicles\Ground\Bus\
+  Layered_Shirt in WindstrideClothing\models\layered_shirt\
+  TTC_SCARH in TTC_Rifles\scarh\
+  SK8_Sneakers in WindstrideClothing\models\sk8_sneakers\
+  TTC_HK416 in TTC_Rifles\hk416a7\, TTC_Pistols_stuff in TTC_Pistols\
+  TTC_A12Worn in TTC_Rifles\ak12worn\, DZ_Structures_Sakhal in DZ\structures_sakhal\
+  DZ_Radio in DZ\gear\radio\
+  DZ_Weapons_Shotguns_RemingtonR12 in DZ\weapons\shotguns\remington_r12\
+  DZ_Weapons_Shotguns in DZ\weapons\shotguns\
+  DZ_Vehicles_Parts in DZ\vehicles\parts\
+  DayZExpansion_Vehicles_Air_Uh1h in DayZExpansion\Vehicles\Air\Uh1h\
+  TTC_M16A2 in TTC_Rifles\m16a2\, MCX_Sounds in TTC_Rifles\mcx\sounds\
+  DayZExpansion_Sounds_Vehicles_Water_Vodnik in DayZExpansion\Sounds\Vehicles\Ground\Vodnik\
+  TTCOpticHolo in TTC_Optics\holooptic\
+  BJJ_GI_Lower in WindstrideClothing\models\bjj_gi_lower\
+  TTC_M82Barrett in TTC_Rifles\m82\
+  BJJ_GI_Upper in WindstrideClothing\models\bjj_gi_upper\
+  ZenLazyAction in ZenLazyAction\, TTC_HK417 in TTC_Rifles\hk417\
+  TTC_M16 in TTC_Rifles\m16\, DZ_Characters_Backpacks in DZ\characters\backpacks\
+  DZ_Gear_Drinks in DZ\gear\drinks\, DZ_Gear_Traps in DZ\gear\traps\
+  DZ_Sounds_Bliss in DZ\sounds_bliss\, DZ_Structures_Signs in DZ\structures\signs\
+  TTC_Deagle in TTC_Pistols\deagle\
+  Galife_Pants in WindstrideClothing\models\galife_pants\
+  DayZExpansion_Vehicles_Air_Merlin in DayZExpansion\Vehicles\Air\Merlin\
+  SkullMask in WindstrideClothing\models\skull_mask\, TTCDMR in TTC_Rifles\dmr556\
+  DayZExpansion_Vehicles_Water_Boat_Utility in DayZExpansion\Vehicles\Water\Utility\
+  DZ_Plants_Sakhal in DZ\plants_sakhal\
+  DZ_Worlds_Sakhal_Data in DZ\worlds\sakhal\data\
+  DZ_Animals_cervus_elaphus in DZ\animals\cervus_elaphus\
+  DZ_Gear_Navigation in DZ\gear\navigation\
+  DZ_Gear_Cultivation in DZ\gear\cultivation\
+  DZ_Pistols_1911 in DZ\weapons\pistols\1911\
+  DZ_Weapons_Firearms_FAL in DZ\weapons\firearms\fal\
+  DZ_Weapons_Launchers in DZ\weapons\launchers\
+  Plague_Mask in WindstrideClothing\models\plague_mask\
+  TTCOpticEotech in TTC_Optics\eotech\
+  DayZExpansion_Sounds_Vehicles_Air_An2 in DayZExpansion\Sounds\Vehicles\Air\An2\
+  Wool_GreatCoat in WindstrideClothing\models\wool_greatcoat\
+  TTC_M16A4 in TTC_Rifles\m16a4\, TTC_AKMod in TTC_Rifles\akmod\
+  TTC_44Magnum in TTC_Pistols\nxr44\, ButtstockHKG28 in TTC_Rifles\hkg28buttstcok\
+  TTCDMR762 in TTC_Rifles\dmr762\, TTC_Pistols_Kimber in TTC_Pistols\kimber\
+  Honey_Sounds in TTC_Rifles\honey\sounds\
+  DZ_data_trackingconfigs in DZ\data\trackingconfigs\, DZ_Gear_Food in DZ\gear\food\
+  DZ_Pistols_FNX45 in DZ\weapons\pistols\fnx45\
+  DZ_Pistols_Glock in DZ\weapons\pistols\glock\
+  DZ_Weapons_Firearms_AKM in DZ\weapons\firearms\akm\
+  DZ_Weapons_Firearms_M16A2 in DZ\weapons\firearms\m16a2\
+  DZ_Weapons_Firearms_IZH18 in DZ\weapons\firearms\izh18\
+  DZ_Weapons_Lights in DZ\weapons\attachments\light\
+  DZ_Weapons_Melee_Powered in DZ\weapons\melee\powered\
+  DZ_Structures_Bliss_Ruins in DZ\structures_bliss\ruins\
+  DayZExpansion_Vehicles_Air_An2 in DayZExpansion\Vehicles\Air\An2\
+  TTC_Optics in TTC_Optics\, TTC_MPX in TTC_SMG\mpx\, TTC_MP7A1 in TTC_SMG\mp7a1\
+  TTC_SCARL in TTC_Rifles\scarl\, HK417_Sounds in TTC_Rifles\hk417\sounds\
+  BF_Define in 0_BF_Define\
+  DayZExpansion_Sounds_Vehicles_Air_Merlin in DayZExpansion\Sounds\Vehicles\Air\Merlin\
+  JM_CF_Defines in JM\CF\Defines\
+  DZ_Animals_lepus_europaeus in DZ\animals\lepus_europaeus\
+  DZ_Animals in DZ\animals\, DZ_Pistols_Derringer in DZ\weapons\pistols\derringer\
+  DZ_Weapons_Firearms_Famas in DZ\weapons\firearms\famas\
+  TTCM24mag in TTC_Rifles\m24mag\, DF_GUI in DabsFramework\GUI\
+  TTC_MP44 in TTC_Rifles\mp44\, TTC_DMR_Magazines in TTC_Rifles\dmrmags\
+  TTC_PP91 in TTC_SMG\pp91\, TTCOpticHAMR in TTC_Optics\hamr\
+  TTCOpticG28 in TTC_Optics\g28optic\, TTC_G3 in TTC_Rifles\g3\
+  M24 in TTC_Rifles\m24\, TTCAmmo303 in TTC_Rifles\303ammobox\
+  AK12_Sounds in TTC_Rifles\ak12\sounds\, DZM_VPPAdminTools in VPPAdminTools\assets\
+  ExpansionProp_AntiAir in DayZExpansion\Vehicles\Objects\AntiAir\
+  deagle_Sounds in TTC_Pistols\deagle\sounds\
+  DZ_Worlds_Sakhal in DZ\worlds\sakhal\world\
+  DZ_Animals_rangifer_tarandus_feminam in DZ\animals\rangifer_tarandus_fem\
+  DZ_Animals_rangifer_tarandus in DZ\animals\rangifer_tarandus\
+  DZ_Pistols_Magnum in DZ\weapons\pistols\magnum\
+  DZ_Weapons_Firearms_M14 in DZ\weapons\firearms\m14\
+  DMRMod_Sounds in TTC_Rifles\dmr556\sounds\
+  BuildingFortifications_Data in BuildingFortifications\data\
+  TTCSuppressorHoney in TTC_Rifles\honeysuppressor\
+  Fingerless_Gloves in WindstrideClothing\models\fingerless_gloves\
+  TTC_L85A2 in TTC_Rifles\l85a2\sounds\
+  DayZExpansion_Objects_Structures_HangedBody in DayZExpansion\Objects\Structures\hanged_body\
+  DZ_Rocks_Sakhal in DZ\rocks_sakhal\, DZ_Sounds_Vehicles in DZ\sounds\vehicles\
+  DZ_ModuleZ in DZ\modulesDayz\
+  DZ_Animals_cervus_elaphus_feminam in DZ\animals\cervus_elaphus_fem\
+  DZ_Animals_sus_scrofa in DZ\animals\sus_scrofa\
+  DZ_Animals_canis_lupus in DZ\animals\canis_lupus\
+  DZ_Characters_Tops in DZ\characters\tops\, DZ_Pistols in DZ\weapons\pistols\
+  DZ_data_aiconfigs_bliss in DZ\data_bliss\aiconfigs\
+  DZ_Weapons_Firearms_MP5 in DZ\weapons\firearms\mp5\
+  DZ_Plants_Bliss in DZ\plants_bliss\
+  DZ_Weapons_Launchers_LAW in DZ\weapons\launchers\law\
+  DZ_Weapons_Launchers_GP25 in DZ\weapons\launchers\gp25\
+  DZ_Weapons_Optics in DZ\weapons\attachments\optics\
+  DZ_Structures_Data_Bliss in DZ\structures_bliss\data\
+  DZ_Structures_Bliss_Underground in DZ\structures_bliss\underground\
+  TTC_M16Optic in TTC_Optics\m16opthick\, KnockKnockZombies in KnockKnockZombies\
+  Defender_Vest in WindstrideClothing\models\defender_vest\
+  DayZExpansion_Vehicles_Water_Carrier in DayZExpansion\Vehicles\Water\Carrier\
+  Medium_Sleeves_Shirt in WindstrideClothing\models\medium_sleeves_shirt\
+  Furniture in Furniture\, TTC_KAC in TTC_Rifles\kac\
+  TTCSuppressor in TTC_Rifles\universalsuppressor\, DZ_Plants in DZ\plants\
+  DF_Scripts in DabsFramework\Scripts\
+  DZ_Animals_sus_domesticus in DZ\animals\sus_domesticus\
+  DZ_Data_Data_ParticleEffects in DZ\data\data\particleeffects\
+  DZ_Characters_Masks in DZ\characters\masks\
+  DZ_Characters_Shoes in DZ\characters\shoes\
+  DZ_Weapons_Ammunition in DZ\weapons\ammunition\
+  DZ_Nonlethal in DZ\weapons\nonlethal\
+  DZ_Weapons_Firearms_Repeater in DZ\weapons\firearms\repeater\
+  DZ_Worlds_Enoch in DZ\worlds\enoch\world\
+  DZ_Structures_Bliss_Wrecks in DZ\structures_bliss\wrecks\
+  TTC_HoneyBadger in TTC_Rifles\honey\
+  DayZExpansion_Vehicles_Data in DayZExpansion\Vehicles\Data\
+  SCARL_Sounds in TTC_Rifles\scarl\sounds\
+  Tactical_Leg_Holster in WindstrideClothing\models\tactical_leg_holster\
+  Button_Pin_Radioactive in WindstrideClothing\models\pins\button_pin\
+  TTC_300BLK_Magazines in TTC_Rifles\300blkmags\, ZenZombieDoors in ZenZombieDoors\
+  TTCFD338 in TTC_Rifles\fd338\
+  DayZExpansion_Vehicles_Ground_250N in DayZExpansion\Vehicles\Ground\250N\
+  DZ_Surfaces_Sakhal in DZ\surfaces_sakhal\
+  DZ_Animals_gallus_gallus_domesticus_feminam in DZ\animals\gallus_gallus_domesticus_feminam\
+  DZ_Animals_capreolus_capreolus in DZ\animals\capreolus_capreolus\
+  DZ_Characters_Belts in DZ\characters\belts\
+  DZ_Structures_Residential in DZ\structures\residential\
+  DZ_Weapons_Shotguns_Izh43 in DZ\weapons\shotguns\izh43\
+  DZ_weapons_nonlethal_DartGun in DZ\weapons\nonlethal\dartgun\
+  DZ_Pistols_Encore in DZ\weapons\pistols\longhorn\
+  DZ_Pistols_pmm in DZ\weapons\pistols\pmm\
+  DZ_Animals_ursus_arctos in DZ\animals_bliss\ursus_arctos\
+  DZ_Weapons_Firearms_cz61 in DZ\weapons\firearms\cz61\
+  DZ_Structures_Bliss_Signs in DZ\structures_bliss\signs\
+  Round_Glasses in WindstrideClothing\models\round_glasses\
+  BuildingFortifications in BuildingFortifications\scripts\
+  RPK54_Sounds in TTC_Rifles\akmod\sounds\, TTCSCARHMAG in TTC_Rifles\scarhmag\
+  TTC_MCX in TTC_Rifles\mcx\, TTC_Shotguns_stuff in TTC_Shotguns\
+  DZ_Characters in DZ\characters\data\
+  DZ_Nonlethal_Shockpistol in DZ\weapons\nonlethal\shockpistol\
+  DZ_Structures_Specific in DZ\structures\specific\
+  DZ_Weapons_Firearms_B95 in DZ\weapons\firearms\b95\
+  DZ_Weapons_Melee in DZ\weapons\melee\
+Mods: @CF;@Dabs-Framework;@Zens-Core-Mod;@DayZ-Expansion-Licensed;@DayZ-Editor-Loader;@VPPAdminTools;@Building-Fortifications;@Early-Winter-or-late-Fall-in-Chernarus;@Furniture;@Knock-Knock-Zombies;@Mortys-Weapons;@Peek-Doors;@Quadleys-Tools-and-Melee-Weapons;@WindstridesClothingPack;@Zens-Lazy-Actions;@Zens-Skill-Perk-Tree;@Zens-Sleeping-Mod;@Zens-Repairable-Wells;@Zens-Zombie-Door-Bangers
+Version 1.29.162510
+file:     dayzOffline
+world:    chernarusplus
+=======================================================
+note: Minidump has been generated into the file C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone/config\DayZServer_x64_2026-05-26_20-26-03.mdmp

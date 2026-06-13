@@ -1,0 +1,46 @@
+---------------------------------------------
+Log C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone\config\script_2026-05-25_20-06-11.log started at 25.05. 20:06:13
+
+SCRIPT       : Module: GameLib; loaded 42x files; 26x classes; used 39/2097 kB (1%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,DZ_Expansion_AI_Preload,DZ_Expansion_Animations_Preload,DZ_Ex
+SCRIPT       : Registered 374 temporary action enum(s), UAN==374
+SCRIPT    (E): @"DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\expansioninterpolatedinput.c,57": Undefined function 'Math.Exp'
+SCRIPT    (E): @"DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\vehicles\expansionvehiclesettings.c,341": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\vehicles\expansionvehiclesettings.c,355": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\settings\vehicles\expansionvehiclesettings.c,365": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\factions\eaifaction.c,133": Bad type 'array'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\locations\expansionailocationsettings.c,93": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\locations\expansionailocationsettings.c,150": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\locations\expansionailocationsettings.c,169": Bad type 'ExpansionLocationT'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\patrols\expansionaipatrolsettings.c,126": Bad type 'ExpansionArray'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\patrols\expansionaipatrolsettings.c,192": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\patrols\expansionaipatrolsettings.c,207": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\patrols\expansionaipatrolsettings.c,231": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\patrols\expansionaipatrolsettings.c,253": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\patrols\expansionaipatrolsettings.c,275": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\patrols\expansionaipatrolsettings.c,532": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionaisettings.c,261": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionaisettings.c,315": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): @"DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionaisettings.c,407": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\territory\expansionterritorysettings.c,187": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\territory\expansionterritorysettings.c,203": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\basebuilding\expansionbasebuildingsettings.c,318": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\basebuilding\expansionbasebuildingsettings.c,336": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\basebuilding\expansionbasebuildingsettings.c,357": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/BaseBuilding/Scripts/3_Game/dayzexpansion_basebuilding\settings\raid\expansionraidsettings.c,412": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\book\expansionbooksettings.c,190": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\book\expansionbooksettings.c,199": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/Book/Scripts/3_Game/dayzexpansion_book\settings\book\expansionbooksettings.c,278": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionchatsettings.c,188": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionchatsettings.c,201": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/Chat/Scripts/3_Game/dayzexpansion_chat\expansionchatsettings.c,215": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/Hardline/Scripts/3_Game/dayzexpansion_hardline\settings\hardline\expansionhardlinesettings.c,280": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): @"DayZExpansion/Hardline/Scripts/3_Game/dayzexpansion_hardline\settings\hardline\expansionhardlinesettings.c,303": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): @"DayZExpansion/Hardline/Scripts/3_Game/dayzexpansion_hardline\settings\hardline\expansionhardlinesettings.c,348": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"DayZExpansion/Quests/Scripts/3_Game/dayzexpansion_quests\settings\quest\expansionquestsettings.c,208": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): @"DayZExpansion/Quests/Scripts/3_Game/dayzexpansion_quests\settings\quest\expansionquestsettings.c,215": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): @"DayZExpansion/Quests/Scripts/3_Game/dayzexpansion_quests\settings\quest\expansionquestsettings.c,226": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): @"DayZExpansion/Quests/Scripts/3_Game/dayzexpansion_quests\settings\quest\expansionquestsettings.c,239": Bad type 'ExpansionJsonFileParser'
+SCRIPT    (E): Can't compile "Game" script module!
+
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\expansioninterpolatedinput.c(57): Undefined function 'Math.Exp'
+SCRIPT    (E): Failed to load game scripts!

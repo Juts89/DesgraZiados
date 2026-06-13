@@ -1,0 +1,68 @@
+---------------------------------------------
+Log error_2026-05-26_00-14-23.log started at 2026-05-26 00:16:01
+
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:16:01.345 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderStaticBase<0x000001C139945990> ExpansionExchang <3696.382080, 403.510010, 5992.154785>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:16:06.279 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderDenis<0x000001C1438BB000> ExpansionTraderDenis: <3687.524902, 402.923004, 5978.648926>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:16:06.346 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderMaria<0x000001C143A1A010> ExpansionTraderMaria: <3684.871094, 402.923004, 5981.068848>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:16:06.399 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderQuinn<0x000001C143520090> ExpansionTraderQuinn: <3705.103027, 402.993011, 5975.586914>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:16:06.451 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderNaomi<0x000001C1D541BD80> ExpansionTraderNaomi: <3693.405029, 402.929993, 5977.014160>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:16:06.510 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderSeth<0x000001C1D5404310> ExpansionTraderSeth:21 <3711.428955, 402.928009, 5991.952148>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:16:06.561 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderRolf<0x000001C1D5407920> ExpansionTraderRolf:21 <3752.589111, 403.957001, 5992.833984>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:16:06.622 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderIndar<0x000001C1D540AF30> ExpansionTraderIndar: <3706.468018, 402.929993, 5986.144043>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:16:06.663 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderJudy<0x000001C1E958FC90> ExpansionTraderJudy:21 <3704.014893, 402.925995, 5980.842773>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:16:06.678 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderNaomi<0x000001C1E958C680> ExpansionTraderNaomi: <3720.483887, 402.313995, 6008.266113>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:16:06.722 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderJose<0x000001C1E95A0AE0> ExpansionTraderJose:21 <3733.096924, 403.454987, 6017.534180>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:16:06.763 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderLinda<0x000001C1E959D4D0> ExpansionTraderLinda: <3737.419922, 403.431000, 6022.517090>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+00:16:06.802 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderNiki<0x000001C1E95932A0> ExpansionTraderNiki:21 <3742.992920, 403.395996, 6015.958008>

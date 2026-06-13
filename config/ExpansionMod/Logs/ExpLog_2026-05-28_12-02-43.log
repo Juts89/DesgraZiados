@@ -1,0 +1,208 @@
+12:03:13.980 [Expansion Quests] Quest configuration with ID=133 is set to inactive. Skip adding config to quest system..
+12:03:14.030 [Expansion Quests] Quest configuration with ID=310 is set to inactive. Skip adding config to quest system..
+12:03:14.173 [Expansion Quests] Quest configuration with ID=800 is set to inactive. Skip adding config to quest system..
+12:09:28.842 [MissionAirdrop] An airdrop is heading towards "Myshkino" (pos=<2036.000000, 0.000000, 7491.000000> type=Random_Myshkino) with a ExpansionAirdropContainer
+13:38:55.419 [MissionAirdrop] An airdrop is heading towards "Elektrozavodsk" (pos=<9371.000000, 0.000000, 2229.000000> type=Random_Elektrozavodsk) with a ExpansionAirdropContainer_Basebuilding
+13:56:16.092 [Party] Player "Juts" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) joined the party "Ratas de laboratiorio" (id=0 ownerUID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= ownerName=Juto)
+13:56:16.098 [Expansion Quests] Initialize quest system on the connected client with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.114 [Expansion Quests] Created new persistent player quest data for player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.121 [Expansion Quests] Loaded existing group quest data for group with ID=0
+13:56:16.138 [Expansion Quests] Create new achievement/auto-start quest for quest ID=14 for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.144 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=3
+13:56:16.149 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=14
+13:56:16.154 [Expansion Quests] Create new achievement/auto-start quest for quest ID=50 for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.159 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=82
+13:56:16.163 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=50
+13:56:16.168 [Expansion Quests] Create new achievement/auto-start quest for quest ID=51 for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.173 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+13:56:16.178 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+13:56:16.183 [Expansion Quests] Create new achievement/auto-start quest for quest ID=52 for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.187 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+13:56:16.192 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+13:56:16.197 [Expansion Quests] Create new achievement/auto-start quest for quest ID=53 for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.202 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=85
+13:56:16.207 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=53
+13:56:16.212 [Expansion Quests] Create new achievement/auto-start quest for quest ID=54 for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.217 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=86
+13:56:16.221 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=54
+13:56:16.226 [Expansion Quests] Create new achievement/auto-start quest for quest ID=55 for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.231 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=87
+13:56:16.235 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=55
+13:56:16.240 [Expansion Quests] Create new achievement/auto-start quest for quest ID=56 for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.245 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=88
+13:56:16.250 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=56
+13:56:16.255 [Expansion Quests] Create new achievement/auto-start quest for quest ID=57 for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.260 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=89
+13:56:16.265 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=57
+13:56:16.270 [Expansion Quests] Create new achievement/auto-start quest for quest ID=58 for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.298 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=90
+13:56:16.302 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=58
+13:56:16.307 [Expansion Quests] Create new achievement/auto-start quest for quest ID=59 for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.312 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=91
+13:56:16.317 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=59
+13:56:16.323 [Expansion Quests] Create new achievement/auto-start quest for quest ID=60 for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.330 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=92
+13:56:16.334 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=60
+13:56:16.339 [Expansion Quests] Create new achievement/auto-start quest for quest ID=61 for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.343 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=93
+13:56:16.348 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=61
+13:56:16.428 [Expansion Quests] Sending ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= quest configs to client for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.434 [Expansion Quests] Sending player quest data for 13 quests to player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+13:56:16.442 [AI Patrol 00012] Spawning 1 Berezino South-East (Shamans) bots at <12862.712891, 5.403718, 9249.855469>
+13:56:16.472 [AI Patrol 00012] Global patrol count: 1
+13:56:16.477 [AI Patrol 00012] Global Expansion AI count: 7 alive, 0 deceased
+13:56:16.481 [AI Patrol 00012] Survivor category patrol count: 1
+13:56:16.486 [AI Patrol 00007] Spawning 1 Svetloyarsk (Shamans) bots at <13968.963867, 3.290000, 13515.464844>
+13:56:16.523 [AI Patrol 00007] Global patrol count: 2
+13:56:16.527 [AI Patrol 00007] Global Expansion AI count: 8 alive, 0 deceased
+13:56:16.532 [AI Patrol 00007] Survivor category patrol count: 2
+13:56:16.537 [AI Patrol 00020] Spawning 1 Prigorodki South-East (Shamans) bots at <8207.115234, 6.090119, 3115.650635>
+13:56:16.565 [AI Patrol 00020] Global patrol count: 3
+13:56:16.570 [AI Patrol 00020] Global Expansion AI count: 9 alive, 0 deceased
+13:56:16.575 [AI Patrol 00020] Survivor category patrol count: 3
+13:56:16.580 [AI Patrol 00014] Spawning 1 Solnechny (Mercenaries) bots at <13417.739258, 4.195276, 6596.556152>
+13:56:16.607 [AI Patrol 00014] Global patrol count: 4
+13:56:16.612 [AI Patrol 00014] Global Expansion AI count: 10 alive, 0 deceased
+13:56:16.617 [AI Patrol 00014] Survivor category patrol count: 4
+13:56:16.623 [AI Patrol 00015] Spawning 1 Solnechny South (Mercenaries) bots at <13552.565430, 0.540815, 5955.893066>
+13:56:16.659 [AI Patrol 00015] Global patrol count: 5
+13:56:16.665 [AI Patrol 00015] Global Expansion AI count: 11 alive, 0 deceased
+13:56:16.676 [AI Patrol 00015] Survivor category patrol count: 5
+13:56:16.681 [AI Patrol 00013] Spawning 1 Nizhneye North-East (Infected) bots at <13043.561523, 5.785259, 7886.443359>
+13:56:16.714 [AI Patrol 00013] Global patrol count: 6
+13:56:16.719 [AI Patrol 00013] Global Expansion AI count: 12 alive, 0 deceased
+13:56:16.726 [AI Patrol 00013] Survivor category patrol count: 6
+13:56:16.754 [AI Patrol 00011] Spawning 1 Berezhki (Raiders) bots at <15162.078125, 8.258595, 13835.192383>
+13:56:16.784 [AI Patrol 00011] Global patrol count: 7
+13:56:16.790 [AI Patrol 00011] Global Expansion AI count: 13 alive, 0 deceased
+13:56:16.794 [AI Patrol 00011] Survivor category patrol count: 7
+13:56:16.800 [AI Patrol 00018] Spawning 1 Elektrozavodsk North-West (East) bots at <9821.274414, 24.832726, 2194.003662>
+13:56:16.834 [AI Patrol 00018] Global patrol count: 8
+13:56:16.839 [AI Patrol 00018] Global Expansion AI count: 14 alive, 0 deceased
+13:56:16.844 [AI Patrol 00018] Survivor category patrol count: 8
+13:56:16.850 [AI Patrol 00016] Spawning 1 Kamyshovo (Lunatics) bots at <11830.744141, 4.614420, 3400.428955>
+13:56:16.887 [AI Patrol 00016] Global patrol count: 9
+13:56:16.892 [AI Patrol 00016] Global Expansion AI count: 15 alive, 0 deceased
+13:56:16.897 [AI Patrol 00016] Survivor category patrol count: 9
+13:56:16.903 [AI Patrol 00010] Spawning 1 Solnechny North (Shamans) bots at <13185.860352, 4.186769, 7229.544922>
+13:56:16.927 [AI Patrol 00010] Global patrol count: 10
+13:56:16.933 [AI Patrol 00010] Global Expansion AI count: 16 alive, 0 deceased
+13:56:16.938 [AI Patrol 00010] Survivor category patrol count: 10
+13:56:16.943 [AI Patrol 00021] Spawning 1 Chernogorsk (Shamans) bots at <6199.782715, 9.875640, 2241.805176>
+13:56:16.973 [AI Patrol 00021] Global patrol count: 11
+13:56:16.977 [AI Patrol 00021] Global Expansion AI count: 17 alive, 0 deceased
+13:56:16.982 [AI Patrol 00021] Survivor category patrol count: 11
+13:56:16.988 [AI Patrol 00009] Spawning 1 Berezino North-East (Guards) bots at <13161.286133, 6.147670, 10329.468750>
+13:56:17.012 [AI Patrol 00009] Global patrol count: 12
+13:56:17.017 [AI Patrol 00009] Global Expansion AI count: 18 alive, 0 deceased
+13:56:17.024 [AI Patrol 00009] Survivor category patrol count: 12
+13:56:17.029 [AI Patrol 00017] Spawning 1 Elektrozavodsk North-East (Civilian) bots at <10984.605469, 6.000000, 2750.329102>
+13:56:17.054 [AI Patrol 00017] Global patrol count: 13
+13:56:17.060 [AI Patrol 00017] Global Expansion AI count: 19 alive, 0 deceased
+13:56:17.065 [AI Patrol 00017] Survivor category patrol count: 13
+13:56:17.071 [AI Patrol 00019] Spawning 1 Elektrozavodsk West (Raiders) bots at <9488.868164, 7.945694, 1898.900269>
+13:56:17.108 [AI Patrol 00019] Global patrol count: 14
+13:56:17.113 [AI Patrol 00019] Global Expansion AI count: 20 alive, 0 deceased
+13:56:17.118 [AI Patrol 00019] Survivor category patrol count: 14
+13:56:17.123 [AI Patrol 00008] Spawning 1 Svetloyarsk South-East (Raiders) bots at <13886.412109, 22.106276, 13056.755859>
+13:56:17.161 [AI Patrol 00008] Global patrol count: 15
+13:56:17.166 [AI Patrol 00008] Global Expansion AI count: 21 alive, 0 deceased
+13:56:17.171 [AI Patrol 00008] Survivor category patrol count: 15
+13:56:17.218 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=3
+13:56:17.303 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=14
+13:56:17.611 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+13:56:25.992 [SpawnSelection] Player "Juts" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) spawned at <4111.905762, 1.566264, 2193.932617>
+13:56:26.031 [AI Object Patrol 00006] Spawning 1 West bots at <4945.992188, 12.069883, 2365.030273>
+13:56:26.072 [AI Object Patrol 00006] Global patrol count: 16
+13:56:26.077 [AI Object Patrol 00006] Global Expansion AI count: 22 alive, 0 deceased
+13:56:26.082 [AI Object Patrol 00006] MilitaryStatic category patrol count: 1
+14:03:51.475 [AI Patrol 00007] Svetloyarsk (Shamans) bots were wiped out (spawn position <13968.963867, 3.290000, 13515.464844>, 1/1 deceased)
+14:03:51.480 [AI Patrol 00007] Global patrol count: 15
+14:03:51.484 [AI Patrol 00007] Global Expansion AI count: 21 alive, 1 deceased
+14:03:51.489 [AI Patrol 00007] Survivor category patrol count: 14
+14:08:59.568 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=82
+14:08:59.710 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=50
+14:08:59.716 [Expansion Quests] Player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= has completed quest with ID=50
+14:09:00.671 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=50
+14:09:00.710 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+14:09:01.086 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+14:09:01.091 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+14:09:01.173 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+14:09:08.160 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+14:09:08.237 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+14:09:08.243 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+14:09:08.320 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+14:09:20.562 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+14:09:20.649 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+14:09:20.654 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+14:09:20.731 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+14:14:25.969 [AI Patrol 00010] Solnechny North (Shamans) bots were wiped out (spawn position <13185.860352, 4.186769, 7229.544922>, 1/1 deceased)
+14:14:25.974 [AI Patrol 00010] Global patrol count: 14
+14:14:25.979 [AI Patrol 00010] Global Expansion AI count: 20 alive, 2 deceased
+14:14:25.984 [AI Patrol 00010] Survivor category patrol count: 13
+14:21:33.655 [AI Object Patrol 00003] Spawning 2 West bots at <13599.690430, 6.161938, 11174.516602>
+14:21:33.733 [AI Object Patrol 00003] Global patrol count: 15
+14:21:33.777 [AI Object Patrol 00003] Global Expansion AI count: 21 alive, 2 deceased
+14:21:33.822 [AI Object Patrol 00003] ContaminatedArea category patrol count: 1
+14:21:33.869 [AI Object Patrol 00002] Spawning 2 West bots at <13595.465820, 1.421832, 11070.012695>
+14:21:33.958 [AI Object Patrol 00002] Global patrol count: 16
+14:21:34.008 [AI Object Patrol 00002] Global Expansion AI count: 22 alive, 2 deceased
+14:21:34.050 [AI Object Patrol 00002] ContaminatedArea category patrol count: 2
+14:21:44.749 [AI Object Patrol 00006] Despawning 1 West bots (spawn position <4945.992188, 12.069883, 2365.030273>, 0/1 deceased)
+14:21:44.817 [AI Object Patrol 00006] Global patrol count: 15
+14:21:44.868 [AI Object Patrol 00006] Global Expansion AI count: 23 alive, 2 deceased
+14:21:44.878 [AI Object Patrol 00006] MilitaryStatic category patrol count: 0
+14:26:10.710 [AI Patrol 00022] Spawning 2 Green Mountain Police Guards (Guards) bots at <3688.939453, 402.000000, 5982.454102>
+14:26:10.748 [AI Patrol 00022] Global patrol count: 16
+14:26:10.753 [AI Patrol 00022] Global Expansion AI count: 24 alive, 2 deceased
+14:26:10.757 [AI Patrol 00022] Quest category patrol count: 1
+14:26:49.038 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+14:26:49.417 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+14:26:49.439 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+14:26:50.118 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+14:26:52.590 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+14:26:53.078 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+14:26:53.101 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+14:26:53.826 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+14:27:02.222 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=3
+14:27:02.301 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=14
+14:27:02.306 [Expansion Quests] Player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= has completed quest with ID=14
+14:27:02.383 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=14
+14:27:12.574 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+14:27:12.649 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+14:27:12.655 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+14:27:12.733 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+14:27:33.581 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+14:27:33.686 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+14:27:33.692 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+14:27:33.769 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+14:27:40.285 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+14:27:40.794 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+14:27:40.808 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+14:27:41.312 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+14:28:31.957 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+14:28:32.040 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+14:28:32.046 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+14:28:32.129 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+14:33:50.472 [AI Object Patrol 00003] Despawning 2 West bots (spawn position <13599.690430, 6.161938, 11174.516602>, 0/2 deceased)
+14:33:50.477 [AI Object Patrol 00003] Global patrol count: 15
+14:33:50.481 [AI Object Patrol 00003] Global Expansion AI count: 23 alive, 2 deceased
+14:33:50.486 [AI Object Patrol 00003] ContaminatedArea category patrol count: 1
+14:33:50.774 [AI Object Patrol 00002] Despawning 2 West bots (spawn position <13595.465820, 1.421832, 11070.012695>, 0/2 deceased)
+14:33:50.778 [AI Object Patrol 00002] Global patrol count: 14
+14:33:50.783 [AI Object Patrol 00002] Global Expansion AI count: 21 alive, 2 deceased
+14:33:50.787 [AI Object Patrol 00002] ContaminatedArea category patrol count: 0
+14:34:11.525 [Party] Player "Juts" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) left the party "Ratas de laboratiorio" (id=0 ownerUID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= ownerName=Juto)
+14:34:11.531 [Expansion Quests] Deleted quest with ID=51 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+14:34:11.535 [Expansion Quests] Deleted quest with ID=52 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+14:34:11.540 [Expansion Quests] Deleted quest with ID=53 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+14:34:11.544 [Expansion Quests] Deleted quest with ID=54 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+14:34:11.549 [Expansion Quests] Deleted quest with ID=55 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+14:34:11.553 [Expansion Quests] Deleted quest with ID=56 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+14:34:11.557 [Expansion Quests] Deleted quest with ID=57 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+14:34:11.562 [Expansion Quests] Deleted quest with ID=58 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+14:34:11.566 [Expansion Quests] Deleted quest with ID=59 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+14:34:11.571 [Expansion Quests] Deleted quest with ID=60 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+14:34:11.575 [Expansion Quests] Deleted quest with ID=61 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+14:34:26.483 [AI Patrol 00007] Despawning 0 Svetloyarsk (Shamans) bots (spawn position <13968.963867, 3.290000, 13515.464844>, 1/1 deceased)
+14:34:38.113 [AI Patrol 00010] Despawning 0 Solnechny North (Shamans) bots (spawn position <13229.572266, 6.913518, 6980.329102>, 1/1 deceased)

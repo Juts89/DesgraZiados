@@ -1,0 +1,83 @@
+=====================================================================
+== C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe
+== "C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe" -ip=85.190.149.78 -port=10300 -cpuCount=4 -limitFPS=100 -config=serverDZ.cfg "-mod=@CF;@Dabs-Framework;@Zens-Core-Mod;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@DayZ-Editor-Loader;@VPPAdminTools;@Building-Fortifications;@Early-Winter-or-late-Fall-in-Chernarus;@Furniture;@Knock-Knock-Zombies;@Mortys-Weapons;@Peek-Doors;@Quadleys-Tools-and-Melee-Weapons;@WindstridesClothingPack;@Zens-Lazy-Actions;@Zens-Skill-Perk-Tree;@Zens-Sleeping-Mod;@Zens-Repairable-Wells" -profiles=C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone/config -BEPath=C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone\battleye -noFilePatching -nologs -adminlog -freezecheck
+=====================================================================
+Exe timestamp: 2026/05/25 19:14:58
+Current time:  2026/05/25 23:46:01
+Version 1.29.162510
+=====================================================================
+
+23:46:01.31  ENGINE    (W): Process affinity forced to f
+23:46:17.961 ENGINE    (W): No module info used, trying to identify -> 0xB6050000
+23:46:17.972 ENGINE    (W): Adjusting job system settings to have at least one job worker thread.
+23:46:18.515 [Inputs] Loading inputs default "bin/constants.xml"
+23:46:18.520 [Inputs] Loading inputs default "bin/specific.xml"
+23:46:18.522 !!! [Inputs] Cannot load inputs default "", file does not exist
+23:46:18.522 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+23:46:18.523 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+23:46:18.526 [Inputs] Loading inputs default "WindstrideClothing/Inputs.xml"
+23:46:18.530 [Inputs] Loading inputs default "ZenLazyAction/data/inputs.xml"
+23:46:18.531 [Inputs] Loading inputs default "ZenSkills/data/inputs.xml"
+23:46:18.534 [Inputs] Loading inputs default "DayZExpansion/Groups/Scripts/Data/Inputs.xml"
+23:46:18.536 [Inputs] Loading inputs default "DayZExpansion/Market/Scripts/Data/Inputs.xml"
+23:46:18.539 [Inputs] Loading inputs default "DayZExpansion/Navigation/Scripts/Data/Inputs.xml"
+23:46:18.541 [Inputs] Loading inputs default "DayZExpansion/PlayerList/Scripts/Data/Inputs.xml"
+23:46:18.543 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+23:46:18.545 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+23:46:18.548 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+23:46:18.550 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+23:46:18.552 [Inputs] Loading inputs default "DayZExpansion/Book/Scripts/Data/Inputs.xml"
+23:46:18.554 [Inputs] Loading inputs default "DayZExpansion/Chat/Scripts/Data/Inputs.xml"
+23:46:18.557 [Inputs] Loading inputs default "DayZExpansion/Quests/Scripts/Data/Inputs.xml"
+23:46:18.559 [Inputs] Loading inputs cfg "C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+23:46:18.573 [Inputs] Exporting inputs cfg "C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+23:46:25.951 SCRIPT    (W): @"ZenRepairWells/scripts/3_game/zenwellsconfig.c,17": FIX-ME: Unexpected statement 'ref'
+23:46:32.05  ANIMATION (E): Can't load @Zens-Repairable-Wells/Anims/cfg/skeletons.anim.xml
+23:46:32.05  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.05  ANIMATION (E): Can't load @Zens-Sleeping-Mod/Anims/cfg/skeletons.anim.xml
+23:46:32.05  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.06  ANIMATION (E): Can't load @Zens-Skill-Perk-Tree/Anims/cfg/skeletons.anim.xml
+23:46:32.06  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.06  ANIMATION (E): Can't load @Zens-Lazy-Actions/Anims/cfg/skeletons.anim.xml
+23:46:32.06  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.07  ANIMATION (E): Can't load @WindstridesClothingPack/Anims/cfg/skeletons.anim.xml
+23:46:32.07  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.07  ANIMATION (E): Can't load @Quadleys-Tools-and-Melee-Weapons/Anims/cfg/skeletons.anim.xml
+23:46:32.07  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.07  ANIMATION (E): Can't load @Peek-Doors/Anims/cfg/skeletons.anim.xml
+23:46:32.08  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.08  ANIMATION (E): Can't load @Mortys-Weapons/Anims/cfg/skeletons.anim.xml
+23:46:32.08  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.08  ANIMATION (E): Can't load @Knock-Knock-Zombies/Anims/cfg/skeletons.anim.xml
+23:46:32.09  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.09  ANIMATION (E): Can't load @Furniture/Anims/cfg/skeletons.anim.xml
+23:46:32.09  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.09  ANIMATION (E): Can't load @Early-Winter-or-late-Fall-in-Chernarus/Anims/cfg/skeletons.anim.xml
+23:46:32.09  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.09  ANIMATION (E): Can't load @Building-Fortifications/Anims/cfg/skeletons.anim.xml
+23:46:32.10  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.10  ANIMATION (E): Can't load @VPPAdminTools/Anims/cfg/skeletons.anim.xml
+23:46:32.10  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.11  ANIMATION (E): Can't load @DayZ-Editor-Loader/Anims/cfg/skeletons.anim.xml
+23:46:32.11  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.11  ANIMATION (E): Can't load @DayZ-Expansion-Licensed/Anims/cfg/skeletons.anim.xml
+23:46:32.11  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.11  ANIMATION (E): Can't load @DayZ-Expansion-Bundle/Anims/cfg/skeletons.anim.xml
+23:46:32.12  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.12  ANIMATION (E): Can't load @Zens-Core-Mod/Anims/cfg/skeletons.anim.xml
+23:46:32.12  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.12  ANIMATION (E): Can't load @Dabs-Framework/Anims/cfg/skeletons.anim.xml
+23:46:32.13  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.13  ANIMATION (E): Can't load @CF/Anims/cfg/skeletons.anim.xml
+23:46:32.13  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:32.13  ANIMATION (E): Can't load sakhal/Anims/cfg/skeletons.anim.xml
+23:46:32.13  ANIMATION (E): Failed to open file, line 0, column 0
+23:46:44.905 SCRIPT    (W): @"Furniture/scripts/4_World/actions\srp_actiondemountfurniture.c,51": Missing ';' at the end of line
+23:46:44.905 SCRIPT    (W): @"Furniture/scripts/4_World/actions\srp_actionremovegarbage.c,37": Missing ';' at the end of line
+23:46:45.205 SCRIPT    (W): @"Furniture/scripts/4_World/entities\srp_openablefurniturebase.c,168": FIX-ME: Overriding function 'GetPlaceSoundset' but not marked as 'override'
+23:46:45.205 SCRIPT    (W): @"Furniture/scripts/4_World/entities\srp_openablefurniturebase.c,173": FIX-ME: Overriding function 'GetDeploySoundset' but not marked as 'override'
+23:47:00.490 SCRIPT    (W): @"KnockKnockZombies/scripts/4_World/player.c,66": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+23:47:00.491 SCRIPT    (W): @"KnockKnockZombies/scripts/4_World/player.c,70": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+23:47:00.491 SCRIPT    (W): @"KnockKnockZombies/scripts/4_World/player.c,74": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+23:47:15.612 Hostname of server: "Bullzed"
+23:47:17.607  --- Termination successfully completed --- 

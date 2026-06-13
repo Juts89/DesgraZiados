@@ -1,0 +1,42 @@
+---------------------------------------------
+Log C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone\config\script_2026-05-25_23-46-16.log started at 25.05. 23:46:18
+
+SCRIPT       : Module: GameLib; loaded 43x files; 29x classes; used 41/2097 kB (1%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,BF_Define,DZ_Expansion_AI_Preload,DZ_Expansion_BaseBuilding_P
+SCRIPT       : Registered 418 temporary action enum(s), UAN==418
+SCRIPT    (W): @"ZenRepairWells/scripts/3_game/zenwellsconfig.c,17": FIX-ME: Unexpected statement 'ref'
+SCRIPT       : Initializing attributes 'Game'
+ SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+ SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+ SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+ SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+ SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+ SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+ SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+ SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+ SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+ SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+ SCRIPT       : Registering faction type eAIFactionBrawlers ID 1955753718
+ SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+ SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+ SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : Module: Game; loaded 1122x files; 3004x classes; used 8804/33554 kB (26%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,BF_Define,DZ_Expansion_AI_Preload,DZ_Expansion_BaseBuild
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : 23:46:32.000 [EXPANSION LOG]: DayZGame<0x0000025E6FFED020> Start time (local time) 2026-05-25 23:46:01
+SCRIPT       : 23:46:32.000 [EXPANSION LOG]: DayZGame<0x0000025E6FFED020> Start time (UTC) 2026-05-25 22:46:01
+SCRIPT       : 23:46:32.000 [EXPANSION LOG]: DayZGame<0x0000025E6FFED020> Runtime since start (seconds) 31.154
+SCRIPT    (W): @"Furniture/scripts/4_World/actions\srp_actiondemountfurniture.c,51": Missing ';' at the end of line
+SCRIPT    (W): @"Furniture/scripts/4_World/actions\srp_actionremovegarbage.c,37": Missing ';' at the end of line
+SCRIPT    (W): @"Furniture/scripts/4_World/entities\srp_openablefurniturebase.c,168": FIX-ME: Overriding function 'GetPlaceSoundset' but not marked as 'override'
+SCRIPT    (W): @"Furniture/scripts/4_World/entities\srp_openablefurniturebase.c,173": FIX-ME: Overriding function 'GetDeploySoundset' but not marked as 'override'
+SCRIPT    (W): @"KnockKnockZombies/scripts/4_World/player.c,66": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"KnockKnockZombies/scripts/4_World/player.c,70": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"KnockKnockZombies/scripts/4_World/player.c,74": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : Initializing attributes 'World'
+ SCRIPT       : Registering faction type eAIFactionLunatics ID 1167351711
+ SCRIPT       : Registering faction type eAIFactionInfected ID 1371958374
+SCRIPT       : Module: World; loaded 3761x files; 8943x classes; used 18053/33554 kB (53%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,BF_Define,DZ_Expansion_AI_Preload,DZ_Expansion_BaseBui
+ SCRIPT       : [DayZ Expansion] ~DayZGame
+ SCRIPT       : ~DayZGame()

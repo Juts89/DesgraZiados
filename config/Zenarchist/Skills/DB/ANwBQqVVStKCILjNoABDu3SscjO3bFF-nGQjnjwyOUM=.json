@@ -1,0 +1,147 @@
+{
+    "CONFIG_VERSION": "1.29.1",
+    "PlayerName": "Juts",
+    "PlayerUID": "ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=",
+    "Skills": {
+        "survival": {
+            "EXP": 1038,
+            "Perks": {
+                "4_1": {
+                    "Level": 0
+                },
+                "4_2": {
+                    "Level": 0
+                },
+                "3_1": {
+                    "Level": 0
+                },
+                "3_2": {
+                    "Level": 0
+                },
+                "3_3": {
+                    "Level": 0
+                },
+                "2_1": {
+                    "Level": 0
+                },
+                "2_2": {
+                    "Level": 0
+                },
+                "1_1": {
+                    "Level": 0
+                },
+                "1_2": {
+                    "Level": 0
+                },
+                "1_3": {
+                    "Level": 0
+                }
+            }
+        },
+        "hunting": {
+            "EXP": 56,
+            "Perks": {
+                "4_1": {
+                    "Level": 0
+                },
+                "4_2": {
+                    "Level": 0
+                },
+                "3_1": {
+                    "Level": 0
+                },
+                "3_2": {
+                    "Level": 0
+                },
+                "3_3": {
+                    "Level": 0
+                },
+                "2_1": {
+                    "Level": 0
+                },
+                "2_2": {
+                    "Level": 0
+                },
+                "1_1": {
+                    "Level": 0
+                },
+                "1_2": {
+                    "Level": 0
+                },
+                "1_3": {
+                    "Level": 0
+                }
+            }
+        },
+        "gathering": {
+            "EXP": 170,
+            "Perks": {
+                "4_1": {
+                    "Level": 0
+                },
+                "4_2": {
+                    "Level": 0
+                },
+                "3_1": {
+                    "Level": 0
+                },
+                "3_2": {
+                    "Level": 0
+                },
+                "3_3": {
+                    "Level": 0
+                },
+                "2_1": {
+                    "Level": 0
+                },
+                "2_2": {
+                    "Level": 0
+                },
+                "1_1": {
+                    "Level": 0
+                },
+                "1_2": {
+                    "Level": 0
+                },
+                "1_3": {
+                    "Level": 0
+                }
+            }
+        },
+        "crafting": {
+            "EXP": 781,
+            "Perks": {
+                "4_1": {
+                    "Level": 0
+                },
+                "4_2": {
+                    "Level": 0
+                },
+                "3_1": {
+                    "Level": 0
+                },
+                "3_2": {
+                    "Level": 0
+                },
+                "3_3": {
+                    "Level": 0
+                },
+                "2_1": {
+                    "Level": 0
+                },
+                "2_2": {
+                    "Level": 0
+                },
+                "1_1": {
+                    "Level": 0
+                },
+                "1_2": {
+                    "Level": 0
+                },
+                "1_3": {
+                    "Level": 0
+                }
+            }
+        }
+    }
+}

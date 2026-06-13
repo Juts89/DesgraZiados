@@ -1,0 +1,13 @@
+---------------------------------------------
+Log C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone\config\crash_2026-05-25_20-06-11.log started at 25.05. 20:06:24
+
+
+
+------------------------------------
+UKLN058, 25.05 2026 20:06:24
+Can't compile "Game" script module!
+
+DayZExpansion/Vehicles/Scripts/3_Game/dayzexpansion_vehicles\expansioninterpolatedinput.c(57): Undefined function 'Math.Exp'
+
+Runtime mode
+CLI params: ip 85.190.149.78 port 10300 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @CF;@DayZ-Expansion-Animations;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed profiles C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  

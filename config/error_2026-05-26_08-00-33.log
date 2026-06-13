@@ -1,0 +1,54 @@
+---------------------------------------------
+Log error_2026-05-26_08-00-33.log started at 2026-05-26 08:02:06
+
+
+
+------------------------------------
+UKLN058, 2026-05-26
+08:02:06.205 [ERROR] :: MARKET CONFIGURATION ERROR: Trader is not within a trader zone: ExpansionTraderStaticBase<0x000001BF39F92740> ExpansionExchang <0.696000, 0.460000, 0.427000>
+
+
+------------------------------------
+UKLN058, 2026-05-26
+08:03:37.823 [ERROR] :: Unknown loadout requested ('Medic_Trader')
+Function: 'Apply'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:3212
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestnpcdata.c:278
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2702
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:422
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:80
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:204
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:51
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:75
+DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c:115
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:52
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:56
+scripts/3_Game/dayzgame.c:2968
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\dayzgame.c:101
+
+
+------------------------------------
+UKLN058, 2026-05-26
+08:03:37.955 [ERROR] :: Unknown loadout requested ('MMG_SNAFU_Atack')
+Function: 'Apply'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\loadout\expansionloadout.c:3212
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestnpcdata.c:278
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:2702
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:422
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:80
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:204
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:51
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:75
+DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c:115
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:52
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:56
+scripts/3_Game/dayzgame.c:2968
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\dayzgame.c:101

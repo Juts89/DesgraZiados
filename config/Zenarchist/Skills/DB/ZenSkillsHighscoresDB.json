@@ -1,0 +1,57 @@
+{
+    "ConfigVersion": "1.29.1",
+    "MaxEntries": 50,
+    "HighscoresIgnoreList": [
+        ""
+    ],
+    "Highscores": {
+        "survival": [
+            {
+                "PlayerUID": "ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=",
+                "PlayerName": "Juts",
+                "Level": 1
+            },
+            {
+                "PlayerUID": "RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=",
+                "PlayerName": "Luisokhans",
+                "Level": 0
+            }
+        ],
+        "hunting": [
+            {
+                "PlayerUID": "ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=",
+                "PlayerName": "Juts",
+                "Level": 0
+            },
+            {
+                "PlayerUID": "RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=",
+                "PlayerName": "Luisokhans",
+                "Level": 0
+            }
+        ],
+        "gathering": [
+            {
+                "PlayerUID": "ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=",
+                "PlayerName": "Juts",
+                "Level": 0
+            },
+            {
+                "PlayerUID": "RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=",
+                "PlayerName": "Luisokhans",
+                "Level": 0
+            }
+        ],
+        "crafting": [
+            {
+                "PlayerUID": "RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=",
+                "PlayerName": "Luisokhans",
+                "Level": 1
+            },
+            {
+                "PlayerUID": "ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=",
+                "PlayerName": "Juts",
+                "Level": 0
+            }
+        ]
+    }
+}

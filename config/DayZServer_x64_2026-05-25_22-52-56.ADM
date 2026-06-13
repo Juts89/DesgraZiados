@@ -1,0 +1,16 @@
+
+
+******************************************************************************
+AdminLog started on 2026-05-25 at 22:52:56
+22:56:51 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) is connecting
+22:57:22 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<13475.3, 5826.4, 2.6>) is connected
+22:58:56 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=) is connecting
+22:59:23 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<8107.1, 3015.7, 6.6>) is connected
+23:01:06 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<10835, 2744.1, 6.0>)[HP: 96.2055] hit by Infected into RightArm(17) for 6.5 damage (MeleeInfected)
+23:01:07 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<10835.4, 2744.1, 6.0>)[HP: 95.0555] hit by Infected into RightArm(17) for 6.5 damage (MeleeInfected)
+23:01:38 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<10826.5, 2691.2, 6.0>)[HP: 91.7168] hit by Infected into RightLeg(3) for 6.5 damage (MeleeInfected)
+23:01:40 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<10825.1, 2692.5, 6.0>)[HP: 90.8438] hit by Infected into LeftArm(18) for 8.5 damage (MeleeInfectedLong)
+23:02:51 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4414.0, 2511.1, 6.8>)[HP: 99.3825] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+23:05:52 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4492.3, 2471.8, 5.5>)[HP: 99.6913] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+23:06:22 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<10818.3, 2467.6, 6.0>) has been disconnected
+23:06:22 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4505.8, 2517.4, 7.1>) has been disconnected

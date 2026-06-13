@@ -1,0 +1,220 @@
+{
+    "PerSkill": {
+        "survival": {
+            "CumExp": 2169,
+            "AvgExp": 72,
+            "CumPlayers": 14,
+            "SessionsWithPlayers": 9,
+            "WeightedAvgPerPlayer": 154.92857360839845,
+            "SumOfSessionPlayerMeans": 1246.5,
+            "MeanOfSessionMeans": 138.5
+        },
+        "hunting": {
+            "CumExp": 171,
+            "AvgExp": 5,
+            "CumPlayers": 4,
+            "SessionsWithPlayers": 2,
+            "WeightedAvgPerPlayer": 42.75,
+            "SumOfSessionPlayerMeans": 85.5,
+            "MeanOfSessionMeans": 42.75
+        },
+        "gathering": {
+            "CumExp": 280,
+            "AvgExp": 9,
+            "CumPlayers": 6,
+            "SessionsWithPlayers": 3,
+            "WeightedAvgPerPlayer": 46.66666793823242,
+            "SumOfSessionPlayerMeans": 140.0,
+            "MeanOfSessionMeans": 46.66666793823242
+        },
+        "crafting": {
+            "CumExp": 2684,
+            "AvgExp": 89,
+            "CumPlayers": 9,
+            "SessionsWithPlayers": 6,
+            "WeightedAvgPerPlayer": 298.22222900390627,
+            "SumOfSessionPlayerMeans": 1462.0,
+            "MeanOfSessionMeans": 243.6666717529297
+        }
+    },
+    "PerAction": {
+        "cooking": {
+            "CumExp": 40,
+            "AvgExp": 1,
+            "CumPlayers": 3,
+            "SessionsWithPlayers": 2,
+            "WeightedAvgPerPlayer": 13.333333015441895,
+            "SumOfSessionPlayerMeans": 25.0,
+            "MeanOfSessionMeans": 12.5
+        },
+        "actiontestbloodself": {
+            "CumExp": 25,
+            "AvgExp": 0,
+            "CumPlayers": 1,
+            "SessionsWithPlayers": 1,
+            "WeightedAvgPerPlayer": 25.0,
+            "SumOfSessionPlayerMeans": 25.0,
+            "MeanOfSessionMeans": 25.0
+        },
+        "preparefish": {
+            "CumExp": 10,
+            "AvgExp": 0,
+            "CumPlayers": 1,
+            "SessionsWithPlayers": 1,
+            "WeightedAvgPerPlayer": 10.0,
+            "SumOfSessionPlayerMeans": 10.0,
+            "MeanOfSessionMeans": 10.0
+        },
+        "actionminebushbyhand": {
+            "CumExp": 40,
+            "AvgExp": 1,
+            "CumPlayers": 3,
+            "SessionsWithPlayers": 3,
+            "WeightedAvgPerPlayer": 13.333333015441895,
+            "SumOfSessionPlayerMeans": 40.0,
+            "MeanOfSessionMeans": 13.333333015441895
+        },
+        "handdrillkitsuccess": {
+            "CumExp": 150,
+            "AvgExp": 5,
+            "CumPlayers": 5,
+            "SessionsWithPlayers": 3,
+            "WeightedAvgPerPlayer": 30.0,
+            "SumOfSessionPlayerMeans": 87.5,
+            "MeanOfSessionMeans": 29.16666603088379
+        },
+        "caughtfish": {
+            "CumExp": 21,
+            "AvgExp": 0,
+            "CumPlayers": 1,
+            "SessionsWithPlayers": 1,
+            "WeightedAvgPerPlayer": 21.0,
+            "SumOfSessionPlayerMeans": 21.0,
+            "MeanOfSessionMeans": 21.0
+        },
+        "prepareanimal": {
+            "CumExp": 20,
+            "AvgExp": 0,
+            "CumPlayers": 3,
+            "SessionsWithPlayers": 2,
+            "WeightedAvgPerPlayer": 6.666666507720947,
+            "SumOfSessionPlayerMeans": 12.5,
+            "MeanOfSessionMeans": 6.25
+        },
+        "actionminetree": {
+            "CumExp": 150,
+            "AvgExp": 5,
+            "CumPlayers": 1,
+            "SessionsWithPlayers": 1,
+            "WeightedAvgPerPlayer": 150.0,
+            "SumOfSessionPlayerMeans": 150.0,
+            "MeanOfSessionMeans": 150.0
+        },
+        "killed_zombie_generic": {
+            "CumExp": 720,
+            "AvgExp": 24,
+            "CumPlayers": 13,
+            "SessionsWithPlayers": 8,
+            "WeightedAvgPerPlayer": 55.38461685180664,
+            "SumOfSessionPlayerMeans": 372.5,
+            "MeanOfSessionMeans": 46.5625
+        },
+        "disinfectitem": {
+            "CumExp": 30,
+            "AvgExp": 1,
+            "CumPlayers": 2,
+            "SessionsWithPlayers": 1,
+            "WeightedAvgPerPlayer": 15.0,
+            "SumOfSessionPlayerMeans": 15.0,
+            "MeanOfSessionMeans": 15.0
+        },
+        "killed_animal_generic": {
+            "CumExp": 60,
+            "AvgExp": 2,
+            "CumPlayers": 3,
+            "SessionsWithPlayers": 2,
+            "WeightedAvgPerPlayer": 20.0,
+            "SumOfSessionPlayerMeans": 37.5,
+            "MeanOfSessionMeans": 18.75
+        },
+        "actionminebush": {
+            "CumExp": 80,
+            "AvgExp": 2,
+            "CumPlayers": 5,
+            "SessionsWithPlayers": 3,
+            "WeightedAvgPerPlayer": 16.0,
+            "SumOfSessionPlayerMeans": 62.5,
+            "MeanOfSessionMeans": 20.83333396911621
+        },
+        "actionskinning": {
+            "CumExp": 50,
+            "AvgExp": 1,
+            "CumPlayers": 1,
+            "SessionsWithPlayers": 1,
+            "WeightedAvgPerPlayer": 50.0,
+            "SumOfSessionPlayerMeans": 50.0,
+            "MeanOfSessionMeans": 50.0
+        },
+        "killed_player": {
+            "CumExp": 899,
+            "AvgExp": 29,
+            "CumPlayers": 3,
+            "SessionsWithPlayers": 2,
+            "WeightedAvgPerPlayer": 299.6666564941406,
+            "SumOfSessionPlayerMeans": 599.0,
+            "MeanOfSessionMeans": 299.5
+        },
+        "actiondigworms": {
+            "CumExp": 10,
+            "AvgExp": 0,
+            "CumPlayers": 1,
+            "SessionsWithPlayers": 1,
+            "WeightedAvgPerPlayer": 10.0,
+            "SumOfSessionPlayerMeans": 10.0,
+            "MeanOfSessionMeans": 10.0
+        },
+        "genericcrafting": {
+            "CumExp": 2684,
+            "AvgExp": 89,
+            "CumPlayers": 9,
+            "SessionsWithPlayers": 6,
+            "WeightedAvgPerPlayer": 298.22222900390627,
+            "SumOfSessionPlayerMeans": 1462.0,
+            "MeanOfSessionMeans": 243.6666717529297
+        },
+        "cleanweapon": {
+            "CumExp": 10,
+            "AvgExp": 0,
+            "CumPlayers": 1,
+            "SessionsWithPlayers": 1,
+            "WeightedAvgPerPlayer": 10.0,
+            "SumOfSessionPlayerMeans": 10.0,
+            "MeanOfSessionMeans": 10.0
+        },
+        "stabbed_zombie_generic": {
+            "CumExp": 150,
+            "AvgExp": 5,
+            "CumPlayers": 2,
+            "SessionsWithPlayers": 1,
+            "WeightedAvgPerPlayer": 75.0,
+            "SumOfSessionPlayerMeans": 75.0,
+            "MeanOfSessionMeans": 75.0
+        },
+        "actionbandageself": {
+            "CumExp": 155,
+            "AvgExp": 5,
+            "CumPlayers": 7,
+            "SessionsWithPlayers": 5,
+            "WeightedAvgPerPlayer": 22.14285659790039,
+            "SumOfSessionPlayerMeans": 95.0,
+            "MeanOfSessionMeans": 19.0
+        }
+    },
+    "Sessions": 30,
+    "LastUpdateTick": 3506563,
+    "OpenSessionId": "",
+    "OpenSessionApplied": {},
+    "OpenSessionDistinctPlayers": {},
+    "OpenSessionAppliedAction": {},
+    "OpenSessionDistinctPlayersAction": {}
+}

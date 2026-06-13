@@ -1,0 +1,687 @@
+22:36:38.204 [Expansion Quests] Quest configuration with ID=133 is set to inactive. Skip adding config to quest system..
+22:36:38.272 [Expansion Quests] Quest configuration with ID=310 is set to inactive. Skip adding config to quest system..
+22:36:38.437 [Expansion Quests] Quest configuration with ID=800 is set to inactive. Skip adding config to quest system..
+22:37:43.985 [VehicleDestroyed] ExpansionMerlin (id=E61F34C2014A8448F1EE6BA7F5679B63 pos=<4673.06, 343.7, 10360.2>)
+22:37:45.284 [VehicleDeleted] ExpansionMerlin (id=06BB5F6ED04A5A9419911ABB7A6CB942 pos=<4673.06, 343.7, 10360.2> lifetime=-1)
+22:38:47.661 [Party] Player "Juts" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) joined the party "Ratas de laboratiorio" (id=0 ownerUID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= ownerName=Juto)
+22:38:47.666 [Expansion Quests] Initialize quest system on the connected client with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.762 [Expansion Quests] Loaded existing player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.769 [Expansion Quests] Loaded existing group quest data for group with ID=0
+22:38:47.774 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.779 [Expansion Quests] Check quest initialization for quest with ID=50 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.784 [Expansion Quests] Create new quest instance for quest with ID=50 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.790 [Expansion Quests] Check quest initialization for quest with ID=51 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.795 [Expansion Quests] Create new quest instance for quest with ID=51 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.800 [Expansion Quests] Check quest initialization for quest with ID=52 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.805 [Expansion Quests] Create new quest instance for quest with ID=52 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.810 [Expansion Quests] Check quest initialization for quest with ID=53 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.815 [Expansion Quests] Create new quest instance for quest with ID=53 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.820 [Expansion Quests] Check quest initialization for quest with ID=54 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.825 [Expansion Quests] Create new quest instance for quest with ID=54 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.830 [Expansion Quests] Check quest initialization for quest with ID=55 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.834 [Expansion Quests] Create new quest instance for quest with ID=55 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.840 [Expansion Quests] Check quest initialization for quest with ID=56 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.846 [Expansion Quests] Create new quest instance for quest with ID=56 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.852 [Expansion Quests] Check quest initialization for quest with ID=57 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.857 [Expansion Quests] Create new quest instance for quest with ID=57 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.863 [Expansion Quests] Check quest initialization for quest with ID=58 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.868 [Expansion Quests] Create new quest instance for quest with ID=58 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.873 [Expansion Quests] Check quest initialization for quest with ID=59 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.878 [Expansion Quests] Create new quest instance for quest with ID=59 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.884 [Expansion Quests] Check quest initialization for quest with ID=60 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.888 [Expansion Quests] Create new quest instance for quest with ID=60 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.893 [Expansion Quests] Check quest initialization for quest with ID=61 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:47.899 [Expansion Quests] Create new quest instance for quest with ID=61 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:48.000 [Expansion Quests] Sending ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= quest configs to client for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:48.006 [Expansion Quests] Sending player quest data for 13 quests to player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+22:38:48.132 [AI Patrol 00022] Loaded 1 persistent Berezino North (East) bots at <12950.172852, 6.018765, 10180.677734>
+22:38:48.137 [AI Patrol 00022] Global patrol count: 1
+22:38:48.142 [AI Patrol 00022] Global Expansion AI count: 7 alive, 0 deceased
+22:38:48.147 [AI Patrol 00022] Survivor category patrol count: 1
+22:38:48.153 [AI Patrol 00021] Spawning 1 Berezino North-East (Raiders) bots at <13200.238281, 6.076854, 10538.880859>
+22:38:48.195 [AI Patrol 00021] Global patrol count: 2
+22:38:48.200 [AI Patrol 00021] Global Expansion AI count: 8 alive, 0 deceased
+22:38:48.206 [AI Patrol 00021] Survivor category patrol count: 2
+22:38:48.270 [AI Patrol 00033] Loaded 1 persistent Chernogorsk (Infected) bots at <6472.330566, 6.148189, 2281.553955>
+22:38:48.275 [AI Patrol 00033] Global patrol count: 3
+22:38:48.280 [AI Patrol 00033] Global Expansion AI count: 9 alive, 0 deceased
+22:38:48.285 [AI Patrol 00033] Survivor category patrol count: 3
+22:38:48.348 [AI Patrol 00023] Loaded 1 persistent Solnechny North (Shamans) bots at <13026.916016, 6.024998, 7079.759766>
+22:38:48.353 [AI Patrol 00023] Global patrol count: 4
+22:38:48.357 [AI Patrol 00023] Global Expansion AI count: 10 alive, 0 deceased
+22:38:48.362 [AI Patrol 00023] Survivor category patrol count: 4
+22:38:48.433 [AI Patrol 00029] Loaded 1 persistent Elektrozavodsk North-West (Guards) bots at <9333.990234, 202.541565, 3782.096436>
+22:38:48.439 [AI Patrol 00029] Global patrol count: 5
+22:38:48.444 [AI Patrol 00029] Global Expansion AI count: 11 alive, 0 deceased
+22:38:48.449 [AI Patrol 00029] Survivor category patrol count: 5
+22:38:48.511 [AI Patrol 00026] Loaded 1 persistent Solnechny (East) bots at <13308.203125, 5.692343, 6240.203125>
+22:38:48.517 [AI Patrol 00026] Global patrol count: 6
+22:38:48.523 [AI Patrol 00026] Global Expansion AI count: 12 alive, 0 deceased
+22:38:48.528 [AI Patrol 00026] Survivor category patrol count: 6
+22:38:48.600 [AI Patrol 00032] Loaded 1 persistent Prigorodki South-East (Shamans) bots at <7871.923828, 6.187776, 3102.137939>
+22:38:48.605 [AI Patrol 00032] Global patrol count: 7
+22:38:48.610 [AI Patrol 00032] Global Expansion AI count: 13 alive, 0 deceased
+22:38:48.615 [AI Patrol 00032] Survivor category patrol count: 7
+22:38:48.679 [AI Patrol 00020] Loaded 1 persistent Svetloyarsk South-East (Lunatics) bots at <14093.697266, 3.335124, 13252.609375>
+22:38:48.684 [AI Patrol 00020] Global patrol count: 8
+22:38:48.689 [AI Patrol 00020] Global Expansion AI count: 14 alive, 0 deceased
+22:38:48.693 [AI Patrol 00020] Survivor category patrol count: 8
+22:38:48.756 [AI Patrol 00027] Loaded 1 persistent Solnechny South (Shamans) bots at <13337.781250, 6.027085, 6215.867188>
+22:38:48.762 [AI Patrol 00027] Global patrol count: 9
+22:38:48.767 [AI Patrol 00027] Global Expansion AI count: 15 alive, 0 deceased
+22:38:48.772 [AI Patrol 00027] Survivor category patrol count: 9
+22:38:48.777 [AI Patrol 00028] Spawning 1 Kamyshovo (Shamans) bots at <11961.211914, 4.442376, 3419.867676>
+22:38:48.802 [AI Patrol 00028] Global patrol count: 10
+22:38:48.808 [AI Patrol 00028] Global Expansion AI count: 16 alive, 0 deceased
+22:38:48.813 [AI Patrol 00028] Survivor category patrol count: 10
+22:38:48.869 [AI Patrol 00030] Loaded 1 persistent Elektrozavodsk West (East) bots at <9815.721680, 164.371292, 3450.943115>
+22:38:48.874 [AI Patrol 00030] Global patrol count: 11
+22:38:48.879 [AI Patrol 00030] Global Expansion AI count: 17 alive, 0 deceased
+22:38:48.883 [AI Patrol 00030] Survivor category patrol count: 11
+22:38:48.950 [AI Patrol 00024] Loaded 1 persistent Berezhki (Mercenaries) bots at <14836.348633, 71.891373, 14573.638672>
+22:38:48.955 [AI Patrol 00024] Global patrol count: 12
+22:38:48.960 [AI Patrol 00024] Global Expansion AI count: 18 alive, 0 deceased
+22:38:48.964 [AI Patrol 00024] Survivor category patrol count: 12
+22:38:49.037 [AI Patrol 00025] Loaded 1 persistent Nizhneye North-East (West) bots at <12173.070313, 183.451569, 7319.858887>
+22:38:49.044 [AI Patrol 00025] Global patrol count: 13
+22:38:49.053 [AI Patrol 00025] Global Expansion AI count: 19 alive, 0 deceased
+22:38:49.063 [AI Patrol 00025] Survivor category patrol count: 13
+22:38:49.070 [AI Patrol 00031] Spawning 1 Chernogorsk East (Guards) bots at <8747.670898, 6.937114, 2357.187012>
+22:38:49.099 [AI Patrol 00031] Global patrol count: 14
+22:38:49.107 [AI Patrol 00031] Global Expansion AI count: 20 alive, 0 deceased
+22:38:49.115 [AI Patrol 00031] Survivor category patrol count: 14
+22:38:49.753 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+22:39:30.855 [ATM] Player "Juts" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) has withdrawn 10000 from his ATM account.
+22:39:33.724 [Expansion Quests] Initialize quest system on the connected client with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.744 [Expansion Quests] Created new persistent player quest data for player UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.749 [Expansion Quests] Create new achievement/auto-start quest for quest ID=14 for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.755 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=3
+22:39:33.761 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=14
+22:39:33.766 [Expansion Quests] Create new achievement/auto-start quest for quest ID=50 for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.771 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=82
+22:39:33.776 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=50
+22:39:33.782 [Expansion Quests] Create new achievement/auto-start quest for quest ID=51 for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.787 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+22:39:33.793 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+22:39:33.799 [Expansion Quests] Create new achievement/auto-start quest for quest ID=52 for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.804 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+22:39:33.810 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+22:39:33.818 [Expansion Quests] Create new achievement/auto-start quest for quest ID=53 for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.824 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=85
+22:39:33.829 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=53
+22:39:33.835 [Expansion Quests] Create new achievement/auto-start quest for quest ID=54 for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.846 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=86
+22:39:33.851 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=54
+22:39:33.858 [Expansion Quests] Create new achievement/auto-start quest for quest ID=55 for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.864 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=87
+22:39:33.869 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=55
+22:39:33.876 [Expansion Quests] Create new achievement/auto-start quest for quest ID=56 for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.882 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=88
+22:39:33.888 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=56
+22:39:33.895 [Expansion Quests] Create new achievement/auto-start quest for quest ID=57 for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.902 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=89
+22:39:33.908 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=57
+22:39:33.919 [Expansion Quests] Create new achievement/auto-start quest for quest ID=58 for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.928 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=90
+22:39:33.936 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=58
+22:39:33.941 [Expansion Quests] Create new achievement/auto-start quest for quest ID=59 for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.954 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=91
+22:39:33.960 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=59
+22:39:33.967 [Expansion Quests] Create new achievement/auto-start quest for quest ID=60 for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.976 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=92
+22:39:33.982 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=60
+22:39:33.990 [Expansion Quests] Create new achievement/auto-start quest for quest ID=61 for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:33.998 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=93
+22:39:34.004 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=61
+22:39:34.231 [Expansion Quests] Sending RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= quest configs to client for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:34.282 [Expansion Quests] Sending player quest data for 13 quests to player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=
+22:39:34.559 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=3
+22:39:35.422 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=14
+22:39:43.710 [SpawnSelection] Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=) spawned at <13529.530273, 2.251228, 6455.612793>
+22:40:20.687 [VehicleDestroyed] ExpansionMerlin_Vrana (id=24415E911A43C6C1E9D4D8BD747B193F pos=<4673.35, 344.11, 10361.3>)
+22:42:09.203 [AI Patrol 00026] Solnechny (East) bots were wiped out (spawn position <13308.203125, 5.692343, 6240.203125>, 1/1 deceased)
+22:42:09.209 [AI Patrol 00026] Global patrol count: 13
+22:42:09.215 [AI Patrol 00026] Global Expansion AI count: 19 alive, 1 deceased
+22:42:09.221 [AI Patrol 00026] Survivor category patrol count: 13
+22:42:27.469 [AI Patrol 00021] Berezino North-East (Raiders) bots were wiped out (spawn position <13200.238281, 6.076854, 10538.880859>, 1/1 deceased)
+22:42:27.476 [AI Patrol 00021] Global patrol count: 12
+22:42:27.482 [AI Patrol 00021] Global Expansion AI count: 18 alive, 2 deceased
+22:42:27.494 [AI Patrol 00021] Survivor category patrol count: 12
+22:43:18.643 [MissionAirdrop] An airdrop is heading towards "Myshkino" (pos=<2036.000000, 0.000000, 7491.000000> type=Random_Myshkino) with a ExpansionAirdropContainer_Medical
+22:43:51.740 [Party] Player "Juts" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) joined the party "Ratas de laboratiorio" (id=0 ownerUID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= ownerName=Juto)
+22:43:52.700 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+22:43:59.011 [SpawnSelection] Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=) spawned at <13534.671875, 1.644669, 6234.750000>
+22:44:06.117 [SpawnSelection] Player "Juts" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) spawned at <13515.912109, 2.679648, 6117.384277>
+22:45:27.077 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=82
+22:45:27.156 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=50
+22:45:27.161 [Expansion Quests] Player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= has completed quest with ID=50
+22:45:27.238 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=50
+22:45:27.244 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+22:45:27.320 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+22:45:27.326 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+22:45:27.405 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+22:46:30.788 [Party] Player "Juts" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) invited the player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=)to the party named Ratas de laboratiorio
+22:46:38.092 [Party] Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=) joined the party "Ratas de laboratiorio" (id=0 ownerUID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= ownerName=Juto)
+22:46:39.074 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+22:47:20.550 [VehicleDeleted] ExpansionMerlin_Vrana (id=24415E911A43C6C1E9D4D8BD747B193F pos=<4672.85, 343.81, 10360> lifetime=-1)
+22:49:16.036 [VehicleDestroyed] ExpansionMerlin_Wave (id=A9AECCBABA46BEA3B894EE91F72A32F9 pos=<4673.58, 344.1, 10361.6>)
+22:49:56.286 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=82
+22:49:56.375 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=50
+22:49:56.381 [Expansion Quests] Player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= has completed quest with ID=50
+22:49:56.472 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=50
+22:49:56.478 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+22:49:56.558 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+22:49:56.563 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+22:49:56.650 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+22:49:58.769 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+22:49:58.878 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+22:49:58.885 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+22:49:59.023 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+22:49:59.559 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+22:49:59.648 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+22:49:59.654 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+22:49:59.744 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+22:50:15.595 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+22:50:16.213 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+22:50:16.222 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+22:50:16.334 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+22:50:19.999 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+22:50:20.083 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+22:50:20.090 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+22:50:20.172 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+22:50:40.934 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+22:50:41.022 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+22:50:41.029 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+22:50:41.117 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+22:50:50.140 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+22:50:50.222 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+22:50:50.228 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+22:50:50.313 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+22:51:23.142 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+22:51:23.265 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+22:51:23.275 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+22:51:23.437 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+22:51:48.154 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=85
+22:51:48.966 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=53
+22:51:48.971 [Expansion Quests] Player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= has completed quest with ID=53
+22:51:49.093 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=53
+22:51:49.105 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=87
+22:51:49.211 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=55
+22:51:49.217 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=86
+22:51:49.340 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=54
+22:51:53.238 [AI Patrol 00025] Nizhneye North-East (West) bots were wiped out (spawn position <12173.070313, 183.451569, 7319.858887>, 1/1 deceased)
+22:51:53.351 [AI Patrol 00025] Global patrol count: 11
+22:51:53.359 [AI Patrol 00025] Global Expansion AI count: 17 alive, 3 deceased
+22:51:53.368 [AI Patrol 00025] Survivor category patrol count: 11
+22:52:08.162 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+22:52:08.680 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+22:52:08.709 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+22:52:09.509 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+22:55:45.001 [VehicleDeleted] ExpansionMerlin_Wave (id=A9AECCBABA46BEA3B894EE91F72A32F9 pos=<4672.79, 343.94, 10360> lifetime=-1)
+22:56:14.713 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+22:56:14.791 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+22:56:14.797 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+22:56:14.882 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+22:58:08.161 [VehicleDestroyed] ExpansionMerlin_Dahoman (id=1584F821704066708E16839607E359AE pos=<4673.36, 344.09, 10361.3>)
+22:58:36.974 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+22:58:37.083 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+22:58:37.090 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+22:58:37.180 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+22:59:40.500 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+22:59:40.578 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+22:59:40.585 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+22:59:40.667 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:00:38.802 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:00:38.894 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:00:38.900 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:00:38.990 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:01:53.938 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:01:54.021 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:01:54.027 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:01:54.109 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:03:09.303 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:03:09.382 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:03:09.388 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:03:09.462 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:03:40.535 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:03:40.651 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:03:40.658 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:03:40.781 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:04:30.610 [VehicleDeleted] ExpansionMerlin_Dahoman (id=1584F821704066708E16839607E359AE pos=<4673.04, 343.72, 10360.2> lifetime=-1)
+23:06:26.828 [VehicleDestroyed] ExpansionMerlin_Vrana (id=972AFAB7AA46D2DA6E60088C7BDB7C48 pos=<4673.32, 344.11, 10361.2>)
+23:08:50.070 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:08:50.181 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:08:50.189 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:08:50.279 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:12:56.012 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=87
+23:12:56.106 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=55
+23:12:56.113 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=86
+23:12:56.262 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=54
+23:12:56.746 [AI Patrol 00023] Solnechny North (Shamans) bots were wiped out (spawn position <13026.916016, 6.024998, 7079.759766>, 1/1 deceased)
+23:12:56.751 [AI Patrol 00023] Global patrol count: 10
+23:12:56.756 [AI Patrol 00023] Global Expansion AI count: 16 alive, 4 deceased
+23:12:56.761 [AI Patrol 00023] Survivor category patrol count: 10
+23:13:25.060 [VehicleDeleted] ExpansionMerlin_Vrana (id=972AFAB7AA46D2DA6E60088C7BDB7C48 pos=<4672.88, 343.86, 10360> lifetime=-1)
+23:15:22.505 [VehicleDestroyed] ExpansionMerlin (id=7EC0B90CE44869DCB74EC0B0C4A27B7D pos=<4673.12, 344.15, 10361>)
+23:15:23.221 [AI Patrol 00021] Spawning 1 Berezino North-East (Guards) bots at <12948.619141, 13.877937, 10340.148438>
+23:15:23.279 [AI Patrol 00021] Global patrol count: 11
+23:15:23.285 [AI Patrol 00021] Global Expansion AI count: 17 alive, 3 deceased
+23:15:23.289 [AI Patrol 00021] Survivor category patrol count: 11
+23:15:26.658 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:15:27.082 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:15:27.087 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:15:27.217 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:15:29.375 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:15:29.467 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:15:29.474 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:15:29.813 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:16:53.861 [AI Patrol 00026] Spawning 1 Solnechny (Shamans) bots at <13461.267578, 4.204414, 6486.883301>
+23:16:53.916 [AI Patrol 00026] Global patrol count: 12
+23:16:53.922 [AI Patrol 00026] Global Expansion AI count: 18 alive, 2 deceased
+23:16:53.928 [AI Patrol 00026] Survivor category patrol count: 12
+23:19:23.062 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:19:23.168 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:19:23.175 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:19:23.264 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:20:58.928 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:20:59.000 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:20:59.005 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:20:59.082 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:21:03.100 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:21:03.181 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:21:03.186 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:21:03.263 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:22:13.250 [VehicleDeleted] ExpansionMerlin (id=7EC0B90CE44869DCB74EC0B0C4A27B7D pos=<4672.73, 343.88, 10360> lifetime=-1)
+23:22:19.130 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:22:19.403 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:22:19.409 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:22:19.495 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:22:49.702 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:22:49.778 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:22:49.784 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:22:49.861 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:23:41.752 [VehicleDestroyed] ExpansionMerlin_Vrana (id=CC4F1CDBD84CF00371B373B0A217A8B3 pos=<4673.33, 344.1, 10361.2>)
+23:25:18.573 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:25:18.654 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:25:18.660 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:25:18.738 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:25:25.029 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:25:25.109 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:25:25.115 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:25:25.193 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:25:39.544 [AI Patrol 00025] Spawning 1 Nizhneye North-East (Shamans) bots at <13053.755859, 6.175435, 8321.831055>
+23:25:39.570 [AI Patrol 00025] Global patrol count: 13
+23:25:39.575 [AI Patrol 00025] Global Expansion AI count: 19 alive, 1 deceased
+23:25:39.579 [AI Patrol 00025] Survivor category patrol count: 13
+23:27:30.517 [AI Patrol 00032] Prigorodki South-East (Shamans) bots were wiped out (spawn position <7871.923828, 6.187776, 3102.137939>, 1/1 deceased)
+23:27:30.522 [AI Patrol 00032] Global patrol count: 12
+23:27:30.526 [AI Patrol 00032] Global Expansion AI count: 18 alive, 2 deceased
+23:27:30.531 [AI Patrol 00032] Survivor category patrol count: 12
+23:28:38.480 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:28:38.630 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:28:38.636 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:28:38.971 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:29:18.159 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:29:18.242 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:29:18.248 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:29:18.326 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:30:22.417 [VehicleDeleted] ExpansionMerlin_Vrana (id=CC4F1CDBD84CF00371B373B0A217A8B3 pos=<4673.1, 343.63, 10360.2> lifetime=-1)
+23:30:59.650 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:30:59.732 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:30:59.737 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:30:59.839 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:31:12.881 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:31:13.752 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:31:13.788 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:31:14.774 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:32:20.044 [VehicleDestroyed] ExpansionMerlin_Dahoman (id=80BF27012E4D5492FAD79C90D658EA18 pos=<4673.32, 344.11, 10361.2>)
+23:32:49.694 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:32:49.771 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:32:49.777 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:32:49.856 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:34:02.994 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:34:03.076 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:34:03.082 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:34:03.162 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:35:30.857 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:35:30.945 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:35:30.951 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:35:31.035 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:36:02.520 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:36:02.603 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:36:02.609 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:36:02.697 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:36:08.393 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:36:08.479 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:36:08.486 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:36:08.618 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:37:22.215 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:37:22.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:37:22.419 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:37:22.891 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:38:16.941 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:38:17.026 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:38:17.032 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:38:17.116 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:38:40.179 [VehicleDeleted] ExpansionMerlin_Dahoman (id=80BF27012E4D5492FAD79C90D658EA18 pos=<4673.03, 343.73, 10360.1> lifetime=-1)
+23:38:48.918 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:38:49.022 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:38:49.029 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:38:49.124 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:38:55.111 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:38:55.190 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:38:55.195 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:38:55.275 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:40:41.802 [AI Object Patrol 00042] Spawning 2 West bots at <10425.870117, 283.150818, 5951.774414>
+23:40:41.848 [AI Object Patrol 00042] Global patrol count: 13
+23:40:41.853 [AI Object Patrol 00042] Global Expansion AI count: 19 alive, 2 deceased
+23:40:41.858 [AI Object Patrol 00042] MilitaryRoaming category patrol count: 1
+23:40:50.152 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:40:50.231 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:40:50.237 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:40:50.318 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:40:50.324 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:40:50.410 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:40:50.416 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:40:50.494 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:40:57.982 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:40:58.061 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:40:58.067 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:40:58.142 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:40:59.980 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:41:00.064 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:41:00.069 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:41:00.466 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:41:00.628 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:41:01.013 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:41:01.019 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:41:01.102 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:41:05.471 [VehicleDestroyed] ExpansionMerlin (id=3FDCA895924FDEDE948D11A44073D330 pos=<4673.36, 344.09, 10361.3>)
+23:45:01.452 [AI Patrol 00023] Spawning 1 Solnechny North (Lunatics) bots at <13185.860352, 4.186769, 7229.544922>
+23:45:01.473 [AI Patrol 00023] Global patrol count: 14
+23:45:01.478 [AI Patrol 00023] Global Expansion AI count: 21 alive, 1 deceased
+23:45:01.482 [AI Patrol 00023] Survivor category patrol count: 13
+23:47:22.178 [VehicleDeleted] ExpansionMerlin (id=3FDCA895924FDEDE948D11A44073D330 pos=<4673.1, 343.64, 10360.2> lifetime=-1)
+23:48:48.164 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:48:48.245 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:48:48.251 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:48:48.328 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:49:18.028 [VehicleDestroyed] ExpansionMerlin_Wave (id=DEED00A21D458950BA2B9ABEF5817B50 pos=<4673.35, 344.1, 10361.3>)
+23:51:22.137 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=85
+23:51:22.271 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=53
+23:51:22.277 [Expansion Quests] Player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= has completed quest with ID=53
+23:51:22.374 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=53
+23:51:22.380 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=86
+23:51:22.466 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=54
+23:51:22.471 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=87
+23:51:22.580 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=55
+23:51:24.397 [AI Patrol 00026] Solnechny (Shamans) bots were wiped out (spawn position <13461.267578, 4.204414, 6486.883301>, 1/1 deceased)
+23:51:24.401 [AI Patrol 00026] Global patrol count: 13
+23:51:24.406 [AI Patrol 00026] Global Expansion AI count: 20 alive, 2 deceased
+23:51:24.411 [AI Patrol 00026] Survivor category patrol count: 12
+23:51:51.766 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:51:51.849 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:51:51.855 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:51:51.937 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:52:03.064 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:52:03.142 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:52:03.148 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:52:03.225 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:52:37.818 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:52:37.904 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:52:37.909 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:52:37.987 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:52:42.079 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:52:42.163 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:52:42.169 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:52:42.245 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:52:49.281 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:52:49.361 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:52:49.366 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:52:49.445 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:53:00.576 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:53:00.653 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:53:00.658 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:53:00.737 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:53:00.743 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:53:00.820 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:53:00.825 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:53:00.898 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:53:06.897 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:53:07.010 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:53:07.016 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:53:07.117 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:56:02.713 [VehicleDeleted] ExpansionMerlin_Wave (id=DEED00A21D458950BA2B9ABEF5817B50 pos=<4673.11, 343.64, 10360.2> lifetime=-1)
+23:56:41.584 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+23:56:41.687 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+23:56:41.693 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+23:56:41.775 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+23:58:00.085 [VehicleDestroyed] ExpansionMerlin_President (id=A2781577BA449EA9B78C86A6608E9832 pos=<4673.09, 344.17, 10361>)
+23:58:42.993 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+23:58:43.083 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+23:58:43.089 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+23:58:43.188 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+23:59:25.014 [AI Patrol 00032] Spawning 1 Prigorodki South-East (Civilian) bots at <8380.115234, 6.934391, 3034.180664>
+23:59:25.056 [AI Patrol 00032] Global patrol count: 14
+23:59:25.061 [AI Patrol 00032] Global Expansion AI count: 21 alive, 1 deceased
+23:59:25.065 [AI Patrol 00032] Survivor category patrol count: 13
+00:04:44.231 [VehicleDeleted] ExpansionMerlin_President (id=A2781577BA449EA9B78C86A6608E9832 pos=<4672.7, 343.91, 10360> lifetime=-1)
+00:06:10.571 [VehicleDestroyed] ExpansionMerlin_Wave (id=AAB57159C44215B993ACEEB1205C6EC6 pos=<4673.33, 344.11, 10361.3>)
+00:12:04.977 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:12:05.055 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:12:05.060 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:12:05.139 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:12:25.013 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:12:25.094 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:12:25.100 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:12:25.182 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:12:39.653 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:12:39.736 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:12:39.742 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:12:39.824 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:12:59.089 [VehicleDeleted] ExpansionMerlin_Wave (id=AAB57159C44215B993ACEEB1205C6EC6 pos=<4673.11, 343.64, 10360.2> lifetime=-1)
+00:13:09.029 [AI Object Patrol 00042] Despawning 2 West bots (spawn position <10425.870117, 283.150818, 5951.774414>, 0/2 deceased)
+00:13:09.034 [AI Object Patrol 00042] Global patrol count: 13
+00:13:09.039 [AI Object Patrol 00042] Global Expansion AI count: 19 alive, 1 deceased
+00:13:09.043 [AI Object Patrol 00042] MilitaryRoaming category patrol count: 0
+00:13:31.037 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:13:31.112 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:13:31.117 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:13:31.198 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:13:31.204 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:13:31.285 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:13:31.290 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:13:31.368 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:14:59.121 [VehicleDestroyed] ExpansionMerlin_President (id=0DF35BF1224AC880267AF49C6E494DE6 pos=<4673.04, 344.19, 10360.9>)
+00:15:46.450 [MissionAirdrop] An airdrop is heading towards "NEAF" (pos=<12159.000000, 0.000000, 12583.000000> type=Random_NEAF) with a ExpansionAirdropContainer
+00:17:37.937 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:17:38.582 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:17:38.588 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:17:38.690 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:17:49.670 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:17:49.804 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:17:49.813 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:17:49.955 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:20:05.553 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:20:05.703 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:20:05.713 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:20:05.880 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:20:39.430 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:20:40.261 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:20:40.304 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:20:40.552 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:21:41.194 [AI Patrol 00021] Berezino North-East (Guards) bots were wiped out (spawn position <12948.619141, 13.877937, 10340.148438>, 1/1 deceased)
+00:21:41.200 [AI Patrol 00021] Global patrol count: 12
+00:21:41.205 [AI Patrol 00021] Global Expansion AI count: 18 alive, 2 deceased
+00:21:41.211 [AI Patrol 00021] Survivor category patrol count: 12
+00:22:08.696 [VehicleDeleted] ExpansionMerlin_President (id=0DF35BF1224AC880267AF49C6E494DE6 pos=<4672.87, 343.83, 10360.1> lifetime=-1)
+00:24:02.272 [VehicleDestroyed] ExpansionMerlin (id=60F2AE93A9427BC1A2F721A90EDE5BA1 pos=<4673.32, 344.12, 10361.2>)
+00:25:58.711 [AI Patrol 00026] Spawning 1 Solnechny (Shamans) bots at <13417.739258, 4.195276, 6596.556152>
+00:25:58.742 [AI Patrol 00026] Global patrol count: 13
+00:25:58.746 [AI Patrol 00026] Global Expansion AI count: 19 alive, 1 deceased
+00:25:58.752 [AI Patrol 00026] Survivor category patrol count: 13
+00:26:57.635 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:26:57.715 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:26:57.721 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:26:57.805 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:27:03.907 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:27:03.988 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:27:03.995 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:27:04.079 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:27:14.428 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:27:15.067 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:27:15.073 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:27:15.206 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:27:34.195 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:27:34.271 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:27:34.277 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:27:34.352 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:29:54.340 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:29:54.429 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:29:54.435 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:29:54.519 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:30:02.475 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:30:02.560 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:30:02.567 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:30:02.650 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:30:02.656 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:30:02.743 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:30:02.751 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:30:02.833 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:30:21.365 [VehicleDeleted] ExpansionMerlin (id=60F2AE93A9427BC1A2F721A90EDE5BA1 pos=<4673.1, 343.65, 10360.2> lifetime=-1)
+00:31:05.843 [AI Object Patrol 00007] Spawning 2 Guards bots at <9514.036133, 303.379486, 8786.100586>
+00:31:05.883 [AI Object Patrol 00007] Global patrol count: 14
+00:31:05.890 [AI Object Patrol 00007] Global Expansion AI count: 20 alive, 1 deceased
+00:31:05.899 [AI Object Patrol 00007] ObjectPatrol category patrol count: 1
+00:32:11.048 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:32:11.187 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:32:11.194 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:32:11.353 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:32:18.607 [VehicleDestroyed] ExpansionMerlin (id=58A7F6044F48E00E09815C9B53BA6022 pos=<4673.31, 344.12, 10361.2>)
+00:35:41.770 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:35:41.856 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:35:41.867 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:35:41.990 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:36:19.366 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:36:19.476 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:36:19.483 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:36:19.577 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:37:50.961 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:37:51.043 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:37:51.049 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:37:51.135 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:38:43.659 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:38:43.762 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:38:43.784 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:38:43.914 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:38:48.855 [VehicleDeleted] ExpansionMerlin (id=58A7F6044F48E00E09815C9B53BA6022 pos=<4673.07, 343.65, 10360.2> lifetime=-1)
+00:40:57.742 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:40:58.807 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:40:58.846 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:40:59.658 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:41:17.107 [VehicleDestroyed] ExpansionMerlin_Dahoman (id=CC15A1E50745435BD349BC8AB2BFEFC2 pos=<4673.32, 344.11, 10361.2>)
+00:44:06.032 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:44:06.159 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:44:06.167 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:44:06.290 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:44:06.298 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:44:06.422 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:44:06.430 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:44:06.553 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:44:06.872 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:44:06.986 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:44:06.993 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:44:07.115 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:44:28.407 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:44:28.491 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:44:28.497 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:44:28.571 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:46:03.846 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:46:03.925 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:46:03.931 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:46:04.011 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:46:10.298 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=86
+00:46:10.718 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=54
+00:46:10.724 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=87
+00:46:10.821 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=55
+00:46:16.398 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=86
+00:46:16.477 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=54
+00:46:16.483 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=86
+00:46:16.565 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=54
+00:46:16.570 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=87
+00:46:16.648 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=55
+00:46:16.653 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=87
+00:46:16.731 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=55
+00:46:20.540 [AI Object Patrol 00007] Guards bots were wiped out (spawn position <9514.036133, 303.379486, 8786.100586>, 2/2 deceased)
+00:46:20.545 [AI Object Patrol 00007] Global patrol count: 13
+00:46:20.551 [AI Object Patrol 00007] Global Expansion AI count: 19 alive, 3 deceased
+00:46:20.555 [AI Object Patrol 00007] ObjectPatrol category patrol count: 0
+00:46:44.651 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=86
+00:46:44.730 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=54
+00:46:44.735 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=87
+00:46:44.810 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=55
+00:46:46.305 [AI Patrol 00031] Chernogorsk East (Guards) bots were wiped out (spawn position <8747.670898, 6.937114, 2357.187012>, 1/1 deceased)
+00:46:46.310 [AI Patrol 00031] Global patrol count: 12
+00:46:46.316 [AI Patrol 00031] Global Expansion AI count: 18 alive, 4 deceased
+00:46:46.322 [AI Patrol 00031] Survivor category patrol count: 12
+00:47:13.351 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:47:13.433 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:47:13.440 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:47:13.521 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:47:45.297 [VehicleDeleted] ExpansionMerlin_Dahoman (id=CC15A1E50745435BD349BC8AB2BFEFC2 pos=<4673.07, 343.67, 10360.2> lifetime=-1)
+00:48:07.641 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:48:07.717 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:48:07.722 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:48:07.801 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:49:43.467 [VehicleDestroyed] ExpansionMerlin_Ion (id=77DF1A96CC4D293BFDD8DC9A1A3973C5 pos=<4673.31, 344.12, 10361.2>)
+00:54:31.307 [AI Patrol 00021] Spawning 1 Berezino North-East (Lunatics) bots at <13161.286133, 6.147670, 10329.468750>
+00:54:31.361 [AI Patrol 00021] Global patrol count: 13
+00:54:31.376 [AI Patrol 00021] Global Expansion AI count: 19 alive, 3 deceased
+00:54:31.389 [AI Patrol 00021] Survivor category patrol count: 13
+00:55:49.422 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=83
+00:55:49.496 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=51
+00:55:49.502 [Expansion Quests] Added new objective data for type=TARGET | Key= | ID=84
+00:55:49.573 [Expansion Quests] Updated and saved persistent player quest data for player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= | Quest ID=52
+00:56:22.807 [VehicleDeleted] ExpansionMerlin_Ion (id=77DF1A96CC4D293BFDD8DC9A1A3973C5 pos=<4672.94, 343.75, 10360.1> lifetime=-1)
+00:57:17.583 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=83
+00:57:17.661 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=51
+00:57:17.667 [Expansion Quests] Added new objective data for type=TARGET | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=84
+00:57:17.745 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=52
+00:58:16.674 [VehicleDestroyed] ExpansionMerlin_Vrana (id=7B8E821EA44CE0C9E362EBAFFF752329 pos=<4673.3, 344.11, 10361.2>)
+00:59:57.480 [AI Patrol 00030] Elektrozavodsk West (East) bots were wiped out (spawn position <9815.721680, 164.371292, 3450.943115>, 1/1 deceased)
+00:59:57.486 [AI Patrol 00030] Global patrol count: 12
+00:59:57.490 [AI Patrol 00030] Global Expansion AI count: 18 alive, 4 deceased
+00:59:57.495 [AI Patrol 00030] Survivor category patrol count: 12
+01:04:31.262 [VehicleDeleted] ExpansionMerlin_Vrana (id=7B8E821EA44CE0C9E362EBAFFF752329 pos=<4673.05, 343.72, 10360.2> lifetime=-1)
+01:06:52.511 [VehicleDestroyed] ExpansionMerlin_President (id=4739F8BC524BA2876B3AB7821ECDE789 pos=<4673.35, 344.09, 10361.3>)
+01:12:36.386 [AI Patrol 00023] Solnechny North (Lunatics) bots were wiped out (spawn position <13185.860352, 4.186769, 7229.544922>, 1/1 deceased)
+01:12:36.391 [AI Patrol 00023] Global patrol count: 11
+01:12:36.395 [AI Patrol 00023] Global Expansion AI count: 17 alive, 5 deceased
+01:12:36.400 [AI Patrol 00023] Survivor category patrol count: 11
+01:12:42.581 [Party] Player "Juts" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) left the party "Ratas de laboratiorio" (id=0 ownerUID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= ownerName=Juto)
+01:12:42.586 [Expansion Quests] Deleted quest with ID=51 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:12:42.590 [Expansion Quests] Deleted quest with ID=52 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:12:42.595 [Expansion Quests] Deleted quest with ID=54 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:12:42.599 [Expansion Quests] Deleted quest with ID=55 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:12:42.603 [Expansion Quests] Deleted quest with ID=56 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:12:42.608 [Expansion Quests] Deleted quest with ID=57 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:12:42.612 [Expansion Quests] Deleted quest with ID=58 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:12:42.616 [Expansion Quests] Deleted quest with ID=59 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:12:42.621 [Expansion Quests] Deleted quest with ID=60 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:12:42.625 [Expansion Quests] Deleted quest with ID=61 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:13:16.098 [Party] Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=) left the party "Ratas de laboratiorio" (id=0 ownerUID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= ownerName=Juto)
+01:13:16.103 [Expansion Quests] Deleted quest with ID=14 is a of player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=.
+01:13:16.109 [Expansion Quests] Deleted quest with ID=51 is a of player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=.
+01:13:16.126 [Expansion Quests] Deleted quest with ID=52 is a of player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=.
+01:13:16.134 [Expansion Quests] Deleted quest with ID=54 is a of player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=.
+01:13:16.139 [Expansion Quests] Deleted quest with ID=55 is a of player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=.
+01:13:16.145 [Expansion Quests] Deleted quest with ID=56 is a of player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=.
+01:13:16.150 [Expansion Quests] Deleted quest with ID=57 is a of player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=.
+01:13:16.156 [Expansion Quests] Deleted quest with ID=58 is a of player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=.
+01:13:16.161 [Expansion Quests] Deleted quest with ID=59 is a of player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=.
+01:13:16.166 [Expansion Quests] Deleted quest with ID=60 is a of player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=.
+01:13:16.172 [Expansion Quests] Deleted quest with ID=61 is a of player with UID=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=.
+01:13:28.171 [AI Patrol 00030] Despawning 0 Elektrozavodsk West (East) bots (spawn position <9488.868164, 7.945694, 1898.900269>, 1/1 deceased)
+01:13:28.452 [AI Object Patrol 00007] Despawning 0 Guards bots (spawn position <9520.602539, 303.911102, 8820.541992>, 2/2 deceased)
+01:13:28.492 [AI Patrol 00031] Despawning 0 Chernogorsk East (Guards) bots (spawn position <8747.670898, 6.937114, 2357.187012>, 1/1 deceased)
+01:13:29.264 [VehicleDeleted] ExpansionMerlin_President (id=4739F8BC524BA2876B3AB7821ECDE789 pos=<4673.1, 343.64, 10360.2> lifetime=-1)

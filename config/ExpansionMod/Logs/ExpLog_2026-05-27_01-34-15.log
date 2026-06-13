@@ -1,0 +1,108 @@
+01:34:41.859 [Expansion Quests] Quest configuration with ID=133 is set to inactive. Skip adding config to quest system..
+01:34:41.916 [Expansion Quests] Quest configuration with ID=310 is set to inactive. Skip adding config to quest system..
+01:34:42.362 [Expansion Quests] Quest configuration with ID=800 is set to inactive. Skip adding config to quest system..
+01:36:31.846 [Party] Player "Juts" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) joined the party "Ratas de laboratiorio" (id=0 ownerUID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= ownerName=Juto)
+01:36:31.859 [Expansion Quests] Initialize quest system on the connected client with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:31.891 [Expansion Quests] Loaded existing player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:31.910 [Expansion Quests] Loaded existing group quest data for group with ID=0
+01:36:31.923 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:31.938 [Expansion Quests] Check quest initialization for quest with ID=50 | State=COMPLETED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:31.953 [Expansion Quests] Check quest initialization for quest with ID=51 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:31.967 [Expansion Quests] Create new quest instance for quest with ID=51 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:31.984 [Expansion Quests] Check quest initialization for quest with ID=52 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.000 [Expansion Quests] Create new quest instance for quest with ID=52 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.019 [Expansion Quests] Check quest initialization for quest with ID=53 | State=COMPLETED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.038 [Expansion Quests] Check quest initialization for quest with ID=54 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.058 [Expansion Quests] Create new quest instance for quest with ID=54 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.078 [Expansion Quests] Check quest initialization for quest with ID=55 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.100 [Expansion Quests] Create new quest instance for quest with ID=55 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.122 [Expansion Quests] Check quest initialization for quest with ID=56 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.145 [Expansion Quests] Create new quest instance for quest with ID=56 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.170 [Expansion Quests] Check quest initialization for quest with ID=57 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.195 [Expansion Quests] Create new quest instance for quest with ID=57 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.222 [Expansion Quests] Check quest initialization for quest with ID=58 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.236 [Expansion Quests] Create new quest instance for quest with ID=58 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.241 [Expansion Quests] Check quest initialization for quest with ID=59 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.245 [Expansion Quests] Create new quest instance for quest with ID=59 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.256 [Expansion Quests] Check quest initialization for quest with ID=60 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.275 [Expansion Quests] Create new quest instance for quest with ID=60 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.282 [Expansion Quests] Check quest initialization for quest with ID=61 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.291 [Expansion Quests] Create new quest instance for quest with ID=61 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.470 [Expansion Quests] Sending ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= quest configs to client for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.476 [Expansion Quests] Sending player quest data for 13 quests to player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+01:36:32.573 [AI Patrol 00021] Loaded 1 persistent Nizhneye North-East (Shamans) bots at <10395.016602, 284.037659, 6005.168457>
+01:36:32.578 [AI Patrol 00021] Global patrol count: 1
+01:36:32.583 [AI Patrol 00021] Global Expansion AI count: 7 alive, 0 deceased
+01:36:32.588 [AI Patrol 00021] Survivor category patrol count: 1
+01:36:32.646 [AI Patrol 00022] Loaded 1 persistent Solnechny (Shamans) bots at <13512.730469, 3.175033, 6371.371582>
+01:36:32.651 [AI Patrol 00022] Global patrol count: 2
+01:36:32.656 [AI Patrol 00022] Global Expansion AI count: 8 alive, 0 deceased
+01:36:32.662 [AI Patrol 00022] Survivor category patrol count: 2
+01:36:32.667 [AI Patrol 00026] Spawning 1 Elektrozavodsk West (Guards) bots at <9363.653320, 6.000000, 2017.953613>
+01:36:32.700 [AI Patrol 00026] Global patrol count: 3
+01:36:32.706 [AI Patrol 00026] Global Expansion AI count: 9 alive, 0 deceased
+01:36:32.711 [AI Patrol 00026] Survivor category patrol count: 3
+01:36:32.829 [AI Patrol 00017] Loaded 1 persistent Berezino North (East) bots at <8157.535156, 242.390854, 14232.488281>
+01:36:32.835 [AI Patrol 00017] Global patrol count: 4
+01:36:32.839 [AI Patrol 00017] Global Expansion AI count: 10 alive, 0 deceased
+01:36:32.844 [AI Patrol 00017] Survivor category patrol count: 4
+01:36:32.932 [AI Patrol 00019] Loaded 1 persistent Berezhki (Mercenaries) bots at <4892.526367, 180.444138, 13262.454102>
+01:36:32.937 [AI Patrol 00019] Global patrol count: 5
+01:36:32.942 [AI Patrol 00019] Global Expansion AI count: 11 alive, 0 deceased
+01:36:32.947 [AI Patrol 00019] Survivor category patrol count: 5
+01:36:33.043 [AI Patrol 00016] Loaded 1 persistent Svetloyarsk South-East (Lunatics) bots at <11597.034180, 152.640869, 12396.263672>
+01:36:33.049 [AI Patrol 00016] Global patrol count: 6
+01:36:33.053 [AI Patrol 00016] Global Expansion AI count: 12 alive, 0 deceased
+01:36:33.059 [AI Patrol 00016] Survivor category patrol count: 6
+01:36:33.128 [AI Patrol 00020] Loaded 1 persistent Berezino South-East (Mercenaries) bots at <12247.620117, 11.652375, 9682.202148>
+01:36:33.133 [AI Patrol 00020] Global patrol count: 7
+01:36:33.137 [AI Patrol 00020] Global Expansion AI count: 13 alive, 0 deceased
+01:36:33.142 [AI Patrol 00020] Survivor category patrol count: 7
+01:36:33.221 [AI Patrol 00023] Loaded 1 persistent Solnechny South (Shamans) bots at <8630.931641, 201.273254, 11870.800781>
+01:36:33.226 [AI Patrol 00023] Global patrol count: 8
+01:36:33.231 [AI Patrol 00023] Global Expansion AI count: 14 alive, 0 deceased
+01:36:33.235 [AI Patrol 00023] Survivor category patrol count: 8
+01:36:33.331 [AI Patrol 00024] Loaded 1 persistent Kamyshovo (Shamans) bots at <5848.181641, 226.936783, 13548.664063>
+01:36:33.336 [AI Patrol 00024] Global patrol count: 9
+01:36:33.340 [AI Patrol 00024] Global Expansion AI count: 15 alive, 0 deceased
+01:36:33.344 [AI Patrol 00024] Survivor category patrol count: 9
+01:36:33.350 [AI Patrol 00025] Spawning 1 Elektrozavodsk North-East (Lunatics) bots at <10576.979492, 6.148991, 2050.905762>
+01:36:33.385 [AI Patrol 00025] Global patrol count: 10
+01:36:33.389 [AI Patrol 00025] Global Expansion AI count: 16 alive, 0 deceased
+01:36:33.394 [AI Patrol 00025] Survivor category patrol count: 10
+01:36:33.476 [AI Patrol 00028] Loaded 1 persistent Prigorodki South-East (Civilian) bots at <2049.737793, 120.814117, 3617.578369>
+01:36:33.481 [AI Patrol 00028] Global patrol count: 11
+01:36:33.486 [AI Patrol 00028] Global Expansion AI count: 17 alive, 0 deceased
+01:36:33.490 [AI Patrol 00028] Survivor category patrol count: 11
+01:36:33.495 [AI Patrol 00018] Spawning 1 Solnechny North (Mercenaries) bots at <13229.572266, 6.913518, 6980.329102>
+01:36:33.530 [AI Patrol 00018] Global patrol count: 12
+01:36:33.534 [AI Patrol 00018] Global Expansion AI count: 18 alive, 0 deceased
+01:36:33.539 [AI Patrol 00018] Survivor category patrol count: 12
+01:36:33.544 [AI Patrol 00027] Spawning 1 Chernogorsk East (Raiders) bots at <8747.670898, 6.937114, 2357.187012>
+01:36:33.575 [AI Patrol 00027] Global patrol count: 13
+01:36:33.579 [AI Patrol 00027] Global Expansion AI count: 19 alive, 0 deceased
+01:36:33.583 [AI Patrol 00027] Survivor category patrol count: 13
+01:36:34.046 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+01:38:01.822 [VehicleDestroyed] ExpansionMerlin_President (id=94D67D60D5457EF78E053D9F9791588A pos=<4673.33, 344.11, 10361.3>)
+01:41:02.642 [MissionAirdrop] An airdrop is heading towards "Novodmitrovsk" (pos=<11125.000000, 0.000000, 14040.000000> type=Random_Novodmitrovsk) with a ExpansionAirdropContainer
+01:44:49.958 [VehicleDeleted] ExpansionMerlin_President (id=94D67D60D5457EF78E053D9F9791588A pos=<4673.06, 343.68, 10360.2> lifetime=-1)
+01:46:45.770 [VehicleDestroyed] ExpansionMerlin_Wave (id=CA50CFD18C41A67AE0EF4A967BB7EA98 pos=<4673.4, 344.1, 10361.3>)
+01:53:08.739 [VehicleDeleted] ExpansionMerlin_Wave (id=CA50CFD18C41A67AE0EF4A967BB7EA98 pos=<4673.09, 343.67, 10360.2> lifetime=-1)
+01:55:31.828 [VehicleDestroyed] ExpansionMerlin_Vrana (id=EC4A727FAC4474A86C1B9BB3480611CC pos=<4673.35, 344.11, 10361.3>)
+02:01:48.836 [VehicleDeleted] ExpansionMerlin_Vrana (id=EC4A727FAC4474A86C1B9BB3480611CC pos=<4673.11, 343.59, 10360.2> lifetime=-1)
+02:03:44.342 [VehicleDestroyed] ExpansionMerlin_Ion (id=E85A183D1F462AF59D5A8389499B1E66 pos=<4673.32, 344.11, 10361.2>)
+02:10:38.831 [VehicleDeleted] ExpansionMerlin_Ion (id=E85A183D1F462AF59D5A8389499B1E66 pos=<4673.02, 343.74, 10360.1> lifetime=-1)
+02:12:35.030 [VehicleDestroyed] ExpansionMerlin_President (id=1B6C1E33804FBEDFC6CA9985B7E605F3 pos=<4673.1, 344.16, 10361>)
+02:19:27.274 [VehicleDeleted] ExpansionMerlin_President (id=1B6C1E33804FBEDFC6CA9985B7E605F3 pos=<4672.66, 343.96, 10360> lifetime=-1)
+02:21:02.388 [VehicleDestroyed] ExpansionMerlin_Ion (id=32C108A2894F0512A6C9DDB1F7AEB66C pos=<4673.33, 344.11, 10361.2>)
+02:27:01.911 [Party] Player "Juts" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) left the party "Ratas de laboratiorio" (id=0 ownerUID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= ownerName=Juto)
+02:27:02.041 [Expansion Quests] Deleted quest with ID=51 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+02:27:02.046 [Expansion Quests] Deleted quest with ID=52 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+02:27:02.051 [Expansion Quests] Deleted quest with ID=54 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+02:27:02.056 [Expansion Quests] Deleted quest with ID=55 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+02:27:02.061 [Expansion Quests] Deleted quest with ID=56 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+02:27:02.066 [Expansion Quests] Deleted quest with ID=57 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+02:27:02.071 [Expansion Quests] Deleted quest with ID=58 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+02:27:02.075 [Expansion Quests] Deleted quest with ID=59 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+02:27:02.080 [Expansion Quests] Deleted quest with ID=60 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+02:27:02.085 [Expansion Quests] Deleted quest with ID=61 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.

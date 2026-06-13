@@ -1,0 +1,24 @@
+---------------------------------------------
+Log C:\SERVICES\ni13121453_1_SHARE\ftproot\dayzstandalone\config\script_2026-05-26_19-36-15.log started at 26.05. 19:36:16
+
+SCRIPT       : Module: GameLib; loaded 20x files; 29x classes; used 41/2097 kB (1%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,BF_Define,BVP_DoorPeek,DabsFramework,sakhal,EditorLoader,JM_C
+SCRIPT       : Registered 349 temporary action enum(s), UAN==349
+SCRIPT    (W): @"ZenRepairWells/scripts/3_game/zenwellsconfig.c,17": FIX-ME: Unexpected statement 'ref'
+SCRIPT       : Module: Game; loaded 735x files; 2156x classes; used 5674/33554 kB (16%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,BF_Define,BVP_DoorPeek,DabsFramework,sakhal,EditorLoader,
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT    (W): @"Furniture/scripts/4_World/actions\srp_actiondemountfurniture.c,51": Missing ';' at the end of line
+SCRIPT    (W): @"Furniture/scripts/4_World/actions\srp_actionremovegarbage.c,37": Missing ';' at the end of line
+SCRIPT    (W): @"Furniture/scripts/4_World/entities\srp_openablefurniturebase.c,168": FIX-ME: Overriding function 'GetPlaceSoundset' but not marked as 'override'
+SCRIPT    (W): @"Furniture/scripts/4_World/entities\srp_openablefurniturebase.c,173": FIX-ME: Overriding function 'GetDeploySoundset' but not marked as 'override'
+SCRIPT    (W): @"KnockKnockZombies/scripts/4_World/player.c,66": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"KnockKnockZombies/scripts/4_World/player.c,70": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"KnockKnockZombies/scripts/4_World/player.c,74": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : Module: World; loaded 2600x files; 6559x classes; used 10344/33554 kB (30%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,BF_Define,BVP_DoorPeek,DabsFramework,sakhal,EditorLoad
+ SCRIPT       : Module: Mission; loaded 322x files; 626x classes; used 3930/33554 kB (11%) of static memory; defines: "DAYZ_1_29,SERVER_FOR_WINDOWS,SERVER,PLATFORM_WINDOWS,RELEASE,NO_GUI,NO_GUI_INGAME,BF_Define,BVP_DoorPeek,DabsFramework,sakhal,EditorLoad
+ SCRIPT    (E): @"$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c,266": Function 'Expansion_OnQuestCompletion' is marked as override, but there is no function with this name in the base class
+ SCRIPT    (E): Can't compile mission init script'!
+
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c(266): Function 'Expansion_OnQuestCompletion' is marked as override, but there is no function with this name in the base class

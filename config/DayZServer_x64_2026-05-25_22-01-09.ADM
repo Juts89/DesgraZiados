@@ -1,0 +1,49 @@
+
+
+******************************************************************************
+AdminLog started on 2026-05-25 at 22:01:09
+22:07:32 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) is connecting
+22:08:06 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<3705.0, 5987.5, 402.0>) is connected
+22:09:23 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g=) is connecting
+22:09:48 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<14039.3, 12936.2, 19.0>) is connected
+22:12:45 | Player "Juto" (DEAD) (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<3733.8, 6015.4, 401.7>) died. Stats> Water: 440.165 Energy: 257.034 Bleed sources: 1
+22:12:45 | Player "Juto" (DEAD) (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<3733.8, 6015.4, 401.7>) committed suicide
+22:12:47 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4522.9, 2372.8, 2.9>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+22:13:07 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4509.5, 2374.3, 2.6>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+22:13:07 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<13010.8, 6666.3, 25.2>) is connected
+22:13:14 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4509.5, 2374.8, 2.6>)[HP: 100] hit by Infected into Block(-1) for 0 damage 
+22:13:15 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4509.8, 2377.5, 2.5>)[HP: 99.8925] hit by Infected into Block(-1) for 0 damage 
+22:13:21 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4510.8, 2385.3, 2.4>)[HP: 93.3751] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+22:13:24 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4506.9, 2385.0, 2.4>)[HP: 93.3628] hit by Infected into Block(-1) for 0 damage 
+22:13:30 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4505.7, 2378.0, 2.5>)[HP: 92.6802] hit by Infected into LeftArm(18) for 6.5 damage (MeleeInfected)
+22:13:32 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4509, 2379.1, 2.5>)[HP: 86.1636] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+22:13:35 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4510.2, 2375.2, 2.6>)[HP: 86.147] hit by Infected into Block(-1) for 0 damage 
+22:13:37 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4510.5, 2373.1, 2.7>)[HP: 86.147] hit by Infected into Block(-1) for 0 damage 
+22:13:41 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4512.5, 2368.3, 2.8>)[HP: 84.558] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+22:13:44 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4509.9, 2363.4, 2.6>)[HP: 78.0316] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+22:13:47 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4508.3, 2361.0, 2.5>)[HP: 78.0062] hit by Infected into Block(-1) for 0 damage 
+22:13:51 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4507.5, 2356.4, 2.5>)[HP: 77.9757] hit by Infected into Block(-1) for 0 damage 
+22:13:52 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4507.6, 2354.4, 2.5>)[HP: 69.4757] hit by Infected into Torso(1) for 8.5 damage (MeleeInfectedLong)
+22:13:54 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4507.6, 2354.2, 2.5>)[HP: 62.9466] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+22:13:56 | AI "Frida" (group=41:"Solnechny South" faction="Infected" pos=<13412.3, 6247.9, 5.6>) turned hostile to attacker AI "Manua" (group=33:"Solnechny" faction="Civilian" pos=<13411.5, 6247.9, 5.6>)
+22:13:58 | AI "Gabi" (group=23:"Nizhneye North-East" faction="Lunatics" pos=<12942.9, 7979.3, 26.1>) turned hostile to attacker AI "Kaito" (group=25:"Solnechny North" faction="Civilian" pos=<12942.4, 7980.0, 26.0>)
+22:16:40 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<4505.3, 2403.9, 7.4>)[HP: 89.8654] hit by Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4504.6, 2403.1, 7.4>) into Torso(39) for 10 damage (MeleeFist)
+22:16:53 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4491.5, 2388.3, 2.5>)[HP: 62.8026] hit by Infected into Block(-1) for 0 damage 
+22:17:01 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4489.7, 2388.4, 2.6>)[HP: 62.9471] hit by Infected into Block(-1) for 0 damage 
+22:17:03 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4492.0, 2389.8, 2.5>)[HP: 62.9471] hit by Infected into Block(-1) for 0 damage 
+22:17:05 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4495.2, 2391.0, 2.4>)[HP: 62.9954] hit by Infected into Block(-1) for 0 damage 
+22:17:06 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4495.8, 2391.3, 2.4>)[HP: 62.9954] hit by Infected into Block(-1) for 0 damage 
+22:17:15 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<4497.7, 2388.9, 2.4>)[HP: 97.65] hit by Infected into LeftArm(18) for 8.5 damage (MeleeInfectedLong)
+22:17:22 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<4495.1, 2387.7, 2.4>)[HP: 74.4377] hit by Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4497.1, 2387.8, 2.4>) into Torso(31) for 18 damage (MeleeSharpLight_1) with Steak Knife
+22:17:23 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<4495.1, 2387.8, 2.4>)[HP: 56.4377] hit by Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4496.4, 2387.3, 2.4>) into Torso(19) for 18 damage (MeleeSharpLight_1) with Steak Knife
+22:17:24 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<4494.9, 2387.8, 2.4>)[HP: 55.5877] hit by Infected into RightArm(17) for 8.5 damage (MeleeInfectedLong)
+22:17:24 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<4494.9, 2387.8, 2.4>)[HP: 53.6077] hit by Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4496.2, 2387.1, 2.4>) into LeftHand(46) for 18 damage (MeleeSharpLight_1) with Steak Knife
+22:17:24 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4496.0, 2387.0, 2.4>)[HP: 62.1847] hit by Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<4495.1, 2387.8, 2.4>) into RightHand(47) for 10 damage (MeleeFist)
+22:17:25 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<4495.1, 2387.9, 2.4>)[HP: 52.8497] hit by Infected into RightArm(17) for 8.5 damage (MeleeInfectedLong)
+22:17:26 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<4495.1, 2388.1, 2.4>)[HP: 50.8697] hit by Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4496.2, 2386.9, 2.4>) into LeftHand(46) for 18 damage (MeleeSharpLight_1) with Steak Knife
+22:17:28 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<4495.4, 2388.4, 2.4>)[HP: 44.4601] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+22:17:31 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<4495.6, 2388.4, 2.4>)[HP: 42.4801] hit by Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4497.0, 2387.6, 2.4>) into LeftHand(46) for 18 damage (MeleeSharpLight_1) with Steak Knife
+22:17:32 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4496.9, 2387.4, 2.4>)[HP: 52.3289] hit by Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<4495.9, 2388.2, 2.4>) into Head(0) for 5 damage (MeleeFist)
+22:17:32 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<4495.9, 2388.2, 2.4>)[HP: 40.5934] hit by Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4496.9, 2387.5, 2.4>) into RightHand(47) for 18 damage (MeleeSharpLight_1) with Steak Knife
+22:27:59 | Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= pos=<10441.3, 2125.9, 6.0>) has been disconnected
+22:28:17 | Player "Survivor" (id=RtfYOYlH1-UQIr5-dCP4WXazcchC6u6wDXef5qFUQ1g= pos=<4492.0, 2469.5, 8.7>) has been disconnected

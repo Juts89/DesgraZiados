@@ -1,0 +1,175 @@
+00:44:58.136 [Expansion Quests] Quest configuration with ID=133 is set to inactive. Skip adding config to quest system..
+00:44:58.187 [Expansion Quests] Quest configuration with ID=310 is set to inactive. Skip adding config to quest system..
+00:44:58.337 [Expansion Quests] Quest configuration with ID=800 is set to inactive. Skip adding config to quest system..
+00:46:58.419 [Party] Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) joined the party "Ratas de laboratiorio" (id=0 ownerUID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= ownerName=Juto)
+00:46:58.424 [Expansion Quests] Initialize quest system on the connected client with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.459 [Expansion Quests] Loaded existing player quest data for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.466 [Expansion Quests] Loaded existing group quest data for group with ID=0
+00:46:58.472 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.477 [Expansion Quests] Check quest initialization for quest with ID=50 | State=COMPLETED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.483 [Expansion Quests] Check quest initialization for quest with ID=51 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.488 [Expansion Quests] Create new quest instance for quest with ID=51 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.503 [Expansion Quests] Check quest initialization for quest with ID=52 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.514 [Expansion Quests] Create new quest instance for quest with ID=52 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.519 [Expansion Quests] Check quest initialization for quest with ID=53 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.524 [Expansion Quests] Create new quest instance for quest with ID=53 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.530 [Expansion Quests] Check quest initialization for quest with ID=54 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.535 [Expansion Quests] Create new quest instance for quest with ID=54 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.541 [Expansion Quests] Check quest initialization for quest with ID=55 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.546 [Expansion Quests] Create new quest instance for quest with ID=55 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.553 [Expansion Quests] Check quest initialization for quest with ID=56 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.559 [Expansion Quests] Create new quest instance for quest with ID=56 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.565 [Expansion Quests] Check quest initialization for quest with ID=57 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.571 [Expansion Quests] Create new quest instance for quest with ID=57 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.577 [Expansion Quests] Check quest initialization for quest with ID=58 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.582 [Expansion Quests] Create new quest instance for quest with ID=58 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.589 [Expansion Quests] Check quest initialization for quest with ID=59 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.597 [Expansion Quests] Create new quest instance for quest with ID=59 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.603 [Expansion Quests] Check quest initialization for quest with ID=60 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.609 [Expansion Quests] Create new quest instance for quest with ID=60 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.614 [Expansion Quests] Check quest initialization for quest with ID=61 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.620 [Expansion Quests] Create new quest instance for quest with ID=61 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.626 [Expansion Quests] Check quest initialization for quest with ID=200 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.632 [Expansion Quests] Used quest state from persistent group data for quest with ID=200 | State=STARTED | Group ID=0
+00:46:58.638 [Expansion Quests] Create new quest instance for quest with ID=200 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.643 [Expansion Quests] Player is member of group with ID=0. Set group ID for quest with ID=200. Owner UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.667 [Expansion Quests] Check quest initialization for quest with ID=100 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.674 [Expansion Quests] Create new quest instance for quest with ID=100 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.681 [Expansion Quests] Check quest initialization for quest with ID=101 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.687 [Expansion Quests] Create new quest instance for quest with ID=101 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.696 [Expansion Quests] Check quest initialization for quest with ID=103 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.703 [Expansion Quests] Create new quest instance for quest with ID=103 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.709 [Expansion Quests] Check quest initialization for quest with ID=104 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.715 [Expansion Quests] Create new quest instance for quest with ID=104 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.720 [Expansion Quests] Check quest initialization for quest with ID=105 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.726 [Expansion Quests] Create new quest instance for quest with ID=105 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.731 [Expansion Quests] Check quest initialization for quest with ID=106 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.737 [Expansion Quests] Create new quest instance for quest with ID=106 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.745 [Expansion Quests] Check quest initialization for quest with ID=107 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.751 [Expansion Quests] Create new quest instance for quest with ID=107 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.755 [Expansion Quests] Check quest initialization for quest with ID=108 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.761 [Expansion Quests] Create new quest instance for quest with ID=108 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.766 [Expansion Quests] Check quest initialization for quest with ID=109 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.771 [Expansion Quests] Create new quest instance for quest with ID=109 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.776 [Expansion Quests] Check quest initialization for quest with ID=110 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.781 [Expansion Quests] Create new quest instance for quest with ID=110 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.787 [Expansion Quests] Check quest initialization for quest with ID=111 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.792 [Expansion Quests] Create new quest instance for quest with ID=111 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.798 [Expansion Quests] Check quest initialization for quest with ID=112 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.803 [Expansion Quests] Create new quest instance for quest with ID=112 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.808 [Expansion Quests] Check quest initialization for quest with ID=113 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.813 [Expansion Quests] Create new quest instance for quest with ID=113 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.818 [Expansion Quests] Check quest initialization for quest with ID=114 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.823 [Expansion Quests] Create new quest instance for quest with ID=114 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.828 [Expansion Quests] Check quest initialization for quest with ID=115 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.833 [Expansion Quests] Create new quest instance for quest with ID=115 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.838 [Expansion Quests] Check quest initialization for quest with ID=116 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.843 [Expansion Quests] Create new quest instance for quest with ID=116 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.848 [Expansion Quests] Check quest initialization for quest with ID=117 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.853 [Expansion Quests] Create new quest instance for quest with ID=117 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.858 [Expansion Quests] Check quest initialization for quest with ID=118 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.863 [Expansion Quests] Create new quest instance for quest with ID=118 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.868 [Expansion Quests] Check quest initialization for quest with ID=119 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.873 [Expansion Quests] Create new quest instance for quest with ID=119 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.878 [Expansion Quests] Check quest initialization for quest with ID=120 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.884 [Expansion Quests] Create new quest instance for quest with ID=120 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.889 [Expansion Quests] Check quest initialization for quest with ID=121 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.894 [Expansion Quests] Create new quest instance for quest with ID=121 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.900 [Expansion Quests] Check quest initialization for quest with ID=122 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.905 [Expansion Quests] Create new quest instance for quest with ID=122 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.911 [Expansion Quests] Check quest initialization for quest with ID=123 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.916 [Expansion Quests] Create new quest instance for quest with ID=123 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.921 [Expansion Quests] Check quest initialization for quest with ID=124 | State=STARTED | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:58.926 [Expansion Quests] Create new quest instance for quest with ID=124 | Player UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:59.197 [Expansion Quests] Sending ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= quest configs to client for player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:59.204 [Expansion Quests] Sending player quest data for 38 quests to player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=
+00:46:59.301 [AI Patrol 00024] Loaded 1 persistent Elektrozavodsk West (East) bots at <7606.728516, 214.117172, 5168.837891>
+00:46:59.307 [AI Patrol 00024] Global patrol count: 1
+00:46:59.312 [AI Patrol 00024] Global Expansion AI count: 9 alive, 0 deceased
+00:46:59.317 [AI Patrol 00024] Survivor category patrol count: 1
+00:46:59.774 [AI Patrol 00015] Loaded 1 persistent Berezino North (Infected) bots at <12792.859375, 11.226954, 10091.774414>
+00:46:59.779 [AI Patrol 00015] Global patrol count: 2
+00:46:59.784 [AI Patrol 00015] Global Expansion AI count: 10 alive, 0 deceased
+00:46:59.789 [AI Patrol 00015] Survivor category patrol count: 2
+00:46:59.951 [AI Patrol 00013] Loaded 1 persistent Svetloyarsk South-East (Civilian) bots at <14039.975586, 12.533767, 13213.814453>
+00:46:59.956 [AI Patrol 00013] Global patrol count: 3
+00:46:59.960 [AI Patrol 00013] Global Expansion AI count: 11 alive, 0 deceased
+00:46:59.965 [AI Patrol 00013] Survivor category patrol count: 3
+00:47:00.052 [AI Patrol 00020] Loaded 1 persistent Solnechny South (Shamans) bots at <13422.529297, 6.174995, 6091.499512>
+00:47:00.058 [AI Patrol 00020] Global patrol count: 4
+00:47:00.063 [AI Patrol 00020] Global Expansion AI count: 12 alive, 0 deceased
+00:47:00.068 [AI Patrol 00020] Survivor category patrol count: 4
+00:47:00.112 [AI Patrol 00021] Loaded 1 persistent Kamyshovo (West) bots at <11963.824219, 6.602234, 3493.274902>
+00:47:00.117 [AI Patrol 00021] Global patrol count: 5
+00:47:00.122 [AI Patrol 00021] Global Expansion AI count: 13 alive, 0 deceased
+00:47:00.126 [AI Patrol 00021] Survivor category patrol count: 5
+00:47:00.177 [AI Patrol 00023] Loaded 1 persistent Elektrozavodsk North-West (Infected) bots at <7630.215332, 6.524105, 3190.007080>
+00:47:00.182 [AI Patrol 00023] Global patrol count: 6
+00:47:00.187 [AI Patrol 00023] Global Expansion AI count: 14 alive, 0 deceased
+00:47:00.191 [AI Patrol 00023] Survivor category patrol count: 6
+00:47:00.257 [AI Patrol 00012] Loaded 1 persistent Svetloyarsk (Raiders) bots at <14051.421875, 12.680331, 13181.396484>
+00:47:00.262 [AI Patrol 00012] Global patrol count: 7
+00:47:00.267 [AI Patrol 00012] Global Expansion AI count: 15 alive, 0 deceased
+00:47:00.271 [AI Patrol 00012] Survivor category patrol count: 7
+00:47:00.324 [AI Patrol 00016] Loaded 1 persistent Solnechny North (Mercenaries) bots at <13183.105469, 6.024984, 6999.181152>
+00:47:00.329 [AI Patrol 00016] Global patrol count: 8
+00:47:00.334 [AI Patrol 00016] Global Expansion AI count: 16 alive, 0 deceased
+00:47:00.339 [AI Patrol 00016] Survivor category patrol count: 8
+00:47:00.403 [AI Patrol 00022] Loaded 1 persistent Elektrozavodsk North-East (Civilian) bots at <10568.446289, 6.065492, 2274.549805>
+00:47:00.408 [AI Patrol 00022] Global patrol count: 9
+00:47:00.413 [AI Patrol 00022] Global Expansion AI count: 17 alive, 0 deceased
+00:47:00.418 [AI Patrol 00022] Survivor category patrol count: 9
+00:47:00.485 [AI Patrol 00026] Loaded 1 persistent Chernogorsk (Civilian) bots at <7051.039063, 285.349243, 4950.728027>
+00:47:00.491 [AI Patrol 00026] Global patrol count: 10
+00:47:00.496 [AI Patrol 00026] Global Expansion AI count: 18 alive, 0 deceased
+00:47:00.501 [AI Patrol 00026] Survivor category patrol count: 10
+00:47:00.591 [Expansion Quests] Added new objective data for type=TRAVEL | Key=0 | ID=1
+00:47:00.596 [Expansion Quests] Added new objective data for type=AICAMP | Key=0 | ID=1
+00:47:00.613 [Expansion Quests] Updated and saved persistent quest data for group with ID=0 | Quest ID=200
+00:47:00.619 [Expansion Quests] Added new objective data for type=TRAVEL | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=1
+00:47:00.624 [Expansion Quests] Added new objective data for type=AICAMP | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=1
+00:47:00.849 [Expansion Quests] Updated and saved persistent player quest data for group member with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Group ID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | Quest ID=200
+00:47:01.042 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+00:47:01.047 [Expansion Quests] Added new objective data for type=TRAVEL | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=1
+00:47:01.052 [Expansion Quests] Added new objective data for type=AICAMP | Key=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= | ID=1
+00:51:29.431 [MissionAirdrop] An airdrop is heading towards "Novodmitrovsk" (pos=<11125.000000, 0.000000, 14040.000000> type=Random_Novodmitrovsk) with a ExpansionAirdropContainer_Military
+01:08:22.429 [Party] Player "Juto" (id=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=) left the party "Ratas de laboratiorio" (id=0 ownerUID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM= ownerName=Juto)
+01:08:22.434 [Expansion Quests] Deleted quest with ID=51 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.439 [Expansion Quests] Deleted quest with ID=52 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.443 [Expansion Quests] Deleted quest with ID=53 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.448 [Expansion Quests] Deleted quest with ID=54 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.453 [Expansion Quests] Deleted quest with ID=55 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.457 [Expansion Quests] Deleted quest with ID=56 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.462 [Expansion Quests] Deleted quest with ID=57 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.467 [Expansion Quests] Deleted quest with ID=58 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.472 [Expansion Quests] Deleted quest with ID=59 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.477 [Expansion Quests] Deleted quest with ID=60 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.482 [Expansion Quests] Deleted quest with ID=61 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.487 [Expansion Quests] Deleted quest with ID=100 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.492 [Expansion Quests] Deleted quest with ID=101 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.497 [Expansion Quests] Deleted quest with ID=103 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.502 [Expansion Quests] Deleted quest with ID=104 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.507 [Expansion Quests] Deleted quest with ID=105 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.512 [Expansion Quests] Deleted quest with ID=106 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.516 [Expansion Quests] Deleted quest with ID=107 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.521 [Expansion Quests] Deleted quest with ID=108 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.526 [Expansion Quests] Deleted quest with ID=109 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.531 [Expansion Quests] Deleted quest with ID=110 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.536 [Expansion Quests] Deleted quest with ID=111 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.541 [Expansion Quests] Deleted quest with ID=112 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.545 [Expansion Quests] Deleted quest with ID=113 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.551 [Expansion Quests] Deleted quest with ID=114 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.556 [Expansion Quests] Deleted quest with ID=115 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.561 [Expansion Quests] Deleted quest with ID=116 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.566 [Expansion Quests] Deleted quest with ID=117 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.570 [Expansion Quests] Deleted quest with ID=118 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.575 [Expansion Quests] Deleted quest with ID=119 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.581 [Expansion Quests] Deleted quest with ID=120 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.586 [Expansion Quests] Deleted quest with ID=121 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.591 [Expansion Quests] Deleted quest with ID=122 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.596 [Expansion Quests] Deleted quest with ID=123 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:08:22.600 [Expansion Quests] Deleted quest with ID=124 is a of player with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=.
+01:10:07.351 [Expansion Quests] Added new objective data for type=TRAVEL | Key=0 | ID=1
+01:10:07.356 [Expansion Quests] Added new objective data for type=AICAMP | Key=0 | ID=1
+01:10:07.373 [Expansion Quests] Updated and saved persistent quest data for group with ID=0 | Quest ID=200
+01:10:07.377 [Expansion Quests] Could not get persistent quest data for group member with UID=ANwBQqVVStKCILjNoABDu3SscjO3bFF-nGQjnjwyOUM=. Member offline?!

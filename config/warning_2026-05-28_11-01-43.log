@@ -1,0 +1,164 @@
+---------------------------------------------
+Log warning_2026-05-28_11-01-43.log started at 2026-05-28 11:05:40
+
+
+
+------------------------------------
+UKLN058, 2026-05-28
+11:05:40.300 [WARNING] :: ExpansionEntityStorage::Restore_Phase1 - WARNING: Couldn't create ExpansionBread3 on ALV_Pants_Base<0x00000263C5455A80> ALV_Jeans_Blue_Kneepads:770, created at parent position <7685.636230, 186.294861, 13336.733398> instead
+Function: 'Restore_Phase1'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:730
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:512
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:1184
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaigroup.c:1472
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrol.c:561
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:146
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:139
+scripts/3_Game/dayzgame.c:2982
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\dayzgame.c:101
+
+
+------------------------------------
+UKLN058, 2026-05-28
+11:05:40.320 [WARNING] :: ExpansionEntityStorage::Restore_Phase1 - WARNING: Couldn't create Ammo_762x39 on ALV_Pants_Base<0x00000263C5455A80> ALV_Jeans_Blue_Kneepads:770, created at parent position <7685.636230, 186.294861, 13336.733398> instead
+Function: 'Restore_Phase1'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:730
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:512
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:1184
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaigroup.c:1472
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrol.c:561
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:146
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:139
+scripts/3_Game/dayzgame.c:2982
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\dayzgame.c:101
+
+
+------------------------------------
+UKLN058, 2026-05-28
+11:05:40.341 [WARNING] :: ExpansionEntityStorage::Restore_Phase1 - WARNING: Couldn't create ExpansionCheese4 on ALV_Pants_Base<0x00000263C5455A80> ALV_Jeans_Blue_Kneepads:770, created at parent position <7685.636230, 186.294861, 13336.733398> instead
+Function: 'Restore_Phase1'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:730
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:512
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:1184
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaigroup.c:1472
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrol.c:561
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:146
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:139
+scripts/3_Game/dayzgame.c:2982
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\dayzgame.c:101
+
+
+------------------------------------
+UKLN058, 2026-05-28
+11:05:40.607 [WARNING] :: ExpansionEntityStorage::Restore_Phase1 - WARNING: Couldn't create WeaponCleaningKit on ALV_Pants_Base<0x00000263C54724E0> ALV_Jeans_Blue_Kneepads:771, created at parent position <10154.569336, 258.969788, 5784.634766> instead
+Function: 'Restore_Phase1'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:730
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:512
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:1184
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaigroup.c:1472
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrol.c:561
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:146
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:139
+scripts/3_Game/dayzgame.c:2982
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\dayzgame.c:101
+
+
+------------------------------------
+UKLN058, 2026-05-28
+11:05:40.635 [WARNING] :: ExpansionEntityStorage::Restore_Phase1 - WARNING: Couldn't create Bandana_RedPattern on ALV_Pants_Base<0x00000263C54724E0> ALV_Jeans_Blue_Kneepads:771, created at parent position <10154.569336, 258.969788, 5784.634766> instead
+Function: 'Restore_Phase1'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:730
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:512
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:1184
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaigroup.c:1472
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrol.c:561
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:146
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:139
+scripts/3_Game/dayzgame.c:2982
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\dayzgame.c:101
+
+
+------------------------------------
+UKLN058, 2026-05-28
+11:05:41.351 [WARNING] :: ExpansionEntityStorage::Restore_Phase1 - WARNING: Couldn't create ExpansionBread1 on ALV_Pants_Base<0x00000263CB57D590> ALV_G3Pants_Tan:77258, created at parent position <12297.371094, 90.226349, 5564.752930> instead
+Function: 'Restore_Phase1'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:730
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:512
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:1184
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaigroup.c:1472
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrol.c:561
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:146
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:139
+scripts/3_Game/dayzgame.c:2982
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\dayzgame.c:101
+
+
+------------------------------------
+UKLN058, 2026-05-28
+11:18:33.630 [WARNING] :: ExpansionEntityStorage::Restore_Phase1 - WARNING: Couldn't create ExpansionBread1 on ALV_Pants_Base<0x00000263E33CDC70> ALV_G3Pants_Tan:82207, created at parent position <12297.371094, 90.226349, 5564.752930> instead
+Function: 'Restore_Phase1'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:730
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:512
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:795
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:1184
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\eaigroup.c:1472
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrol.c:561
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:146
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspheretrigger.c:139
+scripts/3_Game/dayzgame.c:2982
+0_DayZExpansion_Core_Preload/3_Game/dayzgame.c:16
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\dayzgame.c:101

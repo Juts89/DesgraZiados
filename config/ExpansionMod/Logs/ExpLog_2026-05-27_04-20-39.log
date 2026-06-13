@@ -1,0 +1,8 @@
+04:21:18.943 [Expansion Quests] Quest configuration with ID=133 is set to inactive. Skip adding config to quest system..
+04:21:19.107 [Expansion Quests] Quest configuration with ID=310 is set to inactive. Skip adding config to quest system..
+04:21:19.323 [Expansion Quests] Quest configuration with ID=800 is set to inactive. Skip adding config to quest system..
+04:22:21.640 [VehicleDestroyed] ExpansionMerlin_Wave (id=050B8EFCD546E4129D371EB50B893DA8 pos=<4673.05, 343.72, 10360.2>)
+04:22:22.547 [VehicleDeleted] ExpansionMerlin_Wave (id=3C5B2D90B64F7CA22E09608329F89FF9 pos=<4673.05, 343.72, 10360.2> lifetime=-1)
+04:27:39.416 [MissionAirdrop] An airdrop is heading towards "Zelenogorsk" (pos=<2351.000000, 0.000000, 5393.000000> type=Random_Zelenogorsk) with a ExpansionAirdropContainer
+05:58:23.410 [MissionAirdrop] An airdrop is heading towards "Elektrozavodsk" (pos=<9371.000000, 0.000000, 2229.000000> type=Random_Elektrozavodsk) with a ExpansionAirdropContainer_Military
+07:29:21.614 [MissionAirdrop] An airdrop is heading towards "Skalisty Island" (pos=<13452.000000, 0.000000, 3112.000000> type=Random_Skalisty Island) with a ExpansionAirdropContainer

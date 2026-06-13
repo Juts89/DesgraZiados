@@ -1,0 +1,15 @@
+{
+    "Version": 1,
+    "SingleDoors": {
+        "PeekAmount": 0.3499999940395355
+    },
+    "DoubleDoors": {
+        "PeekAmount": 0.3499999940395355
+    },
+    "AllowProne": {
+        "AllowProneDoorActions": 1
+    },
+    "Keybind": {
+        "Use_Hold_F": 0
+    }
+}
