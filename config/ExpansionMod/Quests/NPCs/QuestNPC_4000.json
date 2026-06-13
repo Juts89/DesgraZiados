@@ -15,7 +15,7 @@
     "Waypoints": [],
     "NPCEmoteID": 14,
     "NPCEmoteIsStatic": 1,
-    "NPCLoadoutFile": "Medic_Trader",
+    "NPCLoadoutFile": "SurvivorLoadoutTraders",
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,
