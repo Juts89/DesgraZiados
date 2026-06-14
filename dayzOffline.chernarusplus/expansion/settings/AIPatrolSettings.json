@@ -2504,7 +2504,7 @@
                                   ],
                         "NumberOfAI":  2,
                         "NumberOfAIMax":  0,
-                        "Behaviour":  "ROAMING",
+                        "Behaviour":  "PATROL",
                         "LootingBehaviour":  "DEFAULT",
                         "Speed":  "WALK",
                         "UnderThreatSpeed":  "SPRINT",
@@ -2530,20 +2530,30 @@
                         "MinDistRadius":  0.0,
                         "MaxDistRadius":  120.0,
                         "DespawnRadius":  300.0,
-                        "MinSpreadRadius":  10.0,
-                        "MaxSpreadRadius":  30.0,
+                        "MinSpreadRadius":  0.0,
+                        "MaxSpreadRadius":  5.0,
                         "Chance":  1.0,
                         "DespawnTime":  -1.0,
                         "RespawnTime":  600.0,
                         "LoadBalancingCategory":  "Quest",
                         "ObjectClassName":  "",
                         "WaypointInterpolation":  "",
-                        "UseRandomWaypointAsStartPoint":  1,
+                        "UseRandomWaypointAsStartPoint":  0,
                         "Waypoints":  [
                                           [
-                                              3700.0,
+                                              3724.0,
                                               0.0,
-                                              6000.0
+                                              6006.0
+                                          ],
+                                          [
+                                              3726.0,
+                                              0.0,
+                                              6005.0
+                                          ],
+                                          [
+                                              3724.0,
+                                              0.0,
+                                              6004.0
                                           ]
                                       ]
                     },
