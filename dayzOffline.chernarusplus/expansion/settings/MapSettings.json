@@ -6,9 +6,9 @@
     "ShowMapStats": 1,
     "NeedPenItemForCreateMarker": 0,
     "NeedGPSItemForCreateMarker": 1,
-    "CanCreateMarker": 1,
+    "CanCreateMarker": 0,
     "CanCreate3DMarker": 0,
-    "CanOpenMapWithKeyBinding": 1,
+    "CanOpenMapWithKeyBinding": 0,
     "ShowDistanceOnPersonalMarkers": 1,
     "EnableHUDGPS": 1,
     "NeedGPSItemForKeyBinding": 1,
@@ -38,6 +38,6 @@
     "NeedGPSItemForHUDCompass": 1,
     "CompassColor": -1,
     "CreateDeathMarker": 1,
-    "PlayerLocationNotifier": 1,
+    "PlayerLocationNotifier": 0,
     "CompassBadgesColor": -1946157056
 }
