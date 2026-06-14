@@ -1,93 +1,108 @@
-{
-   "ConfigVersion": 22,
-   "ID": 812,
-   "Type": 1,
-   "Title": "Contra el Mundo II",
-   "Descriptions": [
-      "Forma equipo y vuelve a pelear contra la IA. Subamos el listón: neutralizad 50 o morid intentándolo. Suerte.",
-      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
-      "Pensamos que esta vez os habíamos perdido para siempre... Bueno, aquí está vuestra recompensa."
-   ],
-   "ObjectiveText": "Neutraliza 50 IA.",
-   "FollowUpQuest": -1,
-   "Repeatable": 1,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 1,
-   "CancelQuestOnPlayerDeath": 0,
-   "Autocomplete": 0,
-   "IsGroupQuest": 1,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [
-      {
-         "ClassName": "Project3DPrinter_USB_01",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "Project3DPrinter_USB_02",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "Project3DPrinter_USB_03",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "Project3DPrinter_USB_04",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      }
-   ],
-   "NeedToSelectReward": 1,
-   "RandomReward": 0,
-   "RandomRewardAmount": 0,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      3
-   ],
-   "QuestTurnInIDs": [
-      3
-   ],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 13,
-         "ObjectiveType": 2
-      }
-   ],
-   "QuestColor": -3662306,
-   "ReputationReward": 1225,
-   "ReputationRequirement": 5000,
-   "PreQuestIDs": [
-      811
-   ],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 1,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+﻿{
+    "ConfigVersion":  22,
+    "ID":  812,
+    "Type":  1,
+    "Title":  "Contra el Mundo II",
+    "Descriptions":  [
+                         "Forma equipo y vuelve a pelear contra la IA. Subamos el listón: neutralizad 50 o morid intentándolo. Suerte.",
+                         "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+                         "Pensamos que esta vez os habíamos perdido para siempre... Bueno, aquí está vuestra recompensa."
+                     ],
+    "ObjectiveText":  "Neutraliza 50 IA.",
+    "FollowUpQuest":  -1,
+    "Repeatable":  1,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  1,
+    "CancelQuestOnPlayerDeath":  0,
+    "Autocomplete":  0,
+    "IsGroupQuest":  1,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+                    {
+                        "ClassName":  "Project3DPrinter_USB_01",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "Project3DPrinter_USB_02",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "Project3DPrinter_USB_03",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "Project3DPrinter_USB_04",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    }
+                ],
+    "NeedToSelectReward":  1,
+    "RandomReward":  0,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          3
+                      ],
+    "QuestTurnInIDs":  [
+                           3
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  13,
+                           "ObjectiveType":  2
+                       }
+                   ],
+    "QuestColor":  -3662306,
+    "ReputationReward":  1225,
+    "ReputationRequirement":  5000,
+    "PreQuestIDs":  [
+                        811
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  1,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  1,
+    "GroupQuestMode":  0
 }

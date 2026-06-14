@@ -1,59 +1,70 @@
-{
-   "ConfigVersion": 22,
-   "ID": 132,
-   "Type": 1,
-   "Title": "Investigar la Escuela",
-   "Descriptions": [
-      "Ha llegado un aviso desde una escuela: fue atacada por bandidos. Nadie sabe quién sobrevivió, pero puede que aún queden suministros. La zona es peligrosa y el tiempo corre. Ve rápido y con cuidado.",
-      "Ve a la ubicación e intenta ayudar a los supervivientes.",
-      "Saliste de allí con lo necesario. Pasara lo que pasara, al menos alguien hizo algo. Gracias. Aquí tienes tu recompensa."
-   ],
-   "ObjectiveText": "Viaja a la escuela y localiza a los bandidos.",
-   "FollowUpQuest": 403,
-   "Repeatable": 1,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 1,
-   "CancelQuestOnPlayerDeath": 1,
-   "Autocomplete": 0,
-   "IsGroupQuest": 1,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [],
-   "NeedToSelectReward": 0,
-   "RandomReward": 0,
-   "RandomRewardAmount": -1,
-   "RewardsForGroupOwnerOnly": 1,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      2
-   ],
-   "QuestTurnInIDs": [
-      4001
-   ],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 71,
-         "ObjectiveType": 3
-      },
-      {
-         "ConfigVersion": 28,
-         "ID": 71,
-         "ObjectiveType": 8
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 600,
-   "ReputationRequirement": 5000,
-   "PreQuestIDs": [],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 1,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+﻿{
+    "ConfigVersion":  22,
+    "ID":  132,
+    "Type":  1,
+    "Title":  "Investigar la Escuela",
+    "Descriptions":  [
+                         "Ha llegado un aviso desde una escuela: fue atacada por bandidos. Nadie sabe quién sobrevivió, pero puede que aún queden suministros. La zona es peligrosa y el tiempo corre. Ve rápido y con cuidado.",
+                         "Ve a la ubicación e intenta ayudar a los supervivientes.",
+                         "Saliste de allí con lo necesario. Pasara lo que pasara, al menos alguien hizo algo. Gracias. Aquí tienes tu recompensa."
+                     ],
+    "ObjectiveText":  "Viaja a la escuela y localiza a los bandidos.",
+    "FollowUpQuest":  403,
+    "Repeatable":  1,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  1,
+    "CancelQuestOnPlayerDeath":  1,
+    "Autocomplete":  0,
+    "IsGroupQuest":  1,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+
+                ],
+    "NeedToSelectReward":  0,
+    "RandomReward":  0,
+    "RandomRewardAmount":  -1,
+    "RewardsForGroupOwnerOnly":  1,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          2
+                      ],
+    "QuestTurnInIDs":  [
+                           4001
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  71,
+                           "ObjectiveType":  3
+                       },
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  71,
+                           "ObjectiveType":  8
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  600,
+    "ReputationRequirement":  5000,
+    "PreQuestIDs":  [
+
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  1,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  1,
+    "GroupQuestMode":  0
 }

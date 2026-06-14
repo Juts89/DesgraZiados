@@ -1,64 +1,75 @@
-{
-   "ConfigVersion": 22,
-   "ID": 800,
-   "Type": 1,
-   "Title": "Hora del Martillo",
-   "Descriptions": [
-      "Parece que sabes matar zombis. Ve y revienta 10 infectados con este mazo.",
-      "¿Aún no has terminado? ¿Tan difícil es aplastar cabezas con un martillo? Vuelve cuando esté hecho.",
-      "Pensamos que los infectados te habían arrancado el culo... Bueno, aquí tienes tu recompensa."
-   ],
-   "ObjectiveText": "Mata 10 zombis con este mazo.",
-   "FollowUpQuest": -1,
-   "Repeatable": 1,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 1,
-   "CancelQuestOnPlayerDeath": 0,
-   "Autocomplete": 1,
-   "IsGroupQuest": 1,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [
-      {
-         "ClassName": "ExpansionBanknoteHryvnia",
-         "Amount": 1750,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      }
-   ],
-   "NeedToSelectReward": 1,
-   "RandomReward": 0,
-   "RandomRewardAmount": 0,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      3
-   ],
-   "QuestTurnInIDs": [],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 1,
-         "ObjectiveType": 2
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 1750,
-   "ReputationRequirement": 0,
-   "PreQuestIDs": [
-      803
-   ],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 0,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 0
+﻿{
+    "ConfigVersion":  22,
+    "ID":  800,
+    "Type":  1,
+    "Title":  "Hora del Martillo",
+    "Descriptions":  [
+                         "Parece que sabes matar zombis. Ve y revienta 10 infectados con este mazo.",
+                         "¿Aún no has terminado? ¿Tan difícil es aplastar cabezas con un martillo? Vuelve cuando esté hecho.",
+                         "Pensamos que los infectados te habían arrancado el culo... Bueno, aquí tienes tu recompensa."
+                     ],
+    "ObjectiveText":  "Mata 10 zombis con este mazo.",
+    "FollowUpQuest":  -1,
+    "Repeatable":  1,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  1,
+    "CancelQuestOnPlayerDeath":  0,
+    "Autocomplete":  1,
+    "IsGroupQuest":  1,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+                    {
+                        "ClassName":  "ExpansionBanknoteHryvnia",
+                        "Amount":  1750,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    }
+                ],
+    "NeedToSelectReward":  1,
+    "RandomReward":  0,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          3
+                      ],
+    "QuestTurnInIDs":  [
+
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  1,
+                           "ObjectiveType":  2
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  1750,
+    "ReputationRequirement":  0,
+    "PreQuestIDs":  [
+                        803
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  0,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  0,
+    "GroupQuestMode":  0
 }

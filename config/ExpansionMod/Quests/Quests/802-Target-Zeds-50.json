@@ -1,73 +1,86 @@
-{
-   "ConfigVersion": 22,
-   "ID": 802,
-   "Type": 1,
-   "Title": "Limpieza de Infectados",
-   "Descriptions": [
-      "Los infectados crecen en número y se nos acaba el tiempo. Necesitamos a alguien capaz de reducir sus filas. %1, tu tarea: elimina 50 zombis. ¿Podemos contar contigo?",
-      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
-      "Objetivo completado. 50 hostiles neutralizados. Buen trabajo, soldado. Aquí está tu pago."
-   ],
-   "ObjectiveText": "Mata 50 zombis.",
-   "FollowUpQuest": -1,
-   "Repeatable": 1,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 1,
-   "CancelQuestOnPlayerDeath": 0,
-   "Autocomplete": 1,
-   "IsGroupQuest": 1,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [
-      {
-         "ClassName": "ExpansionBanknoteHryvnia",
-         "Amount": 1500,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "InediaPain_FirstAidKit_White",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      }
-   ],
-   "NeedToSelectReward": 1,
-   "RandomReward": 0,
-   "RandomRewardAmount": 0,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      3
-   ],
-   "QuestTurnInIDs": [],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 3,
-         "ObjectiveType": 2
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 300,
-   "ReputationRequirement": 0,
-   "PreQuestIDs": [
-      801
-   ],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 1,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+﻿{
+    "ConfigVersion":  22,
+    "ID":  802,
+    "Type":  1,
+    "Title":  "Limpieza de Infectados",
+    "Descriptions":  [
+                         "Los infectados crecen en número y se nos acaba el tiempo. Necesitamos a alguien capaz de reducir sus filas. %1, tu tarea: elimina 50 zombis. ¿Podemos contar contigo?",
+                         "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+                         "Objetivo completado. 50 hostiles neutralizados. Buen trabajo, soldado. Aquí está tu pago."
+                     ],
+    "ObjectiveText":  "Mata 50 zombis.",
+    "FollowUpQuest":  -1,
+    "Repeatable":  1,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  1,
+    "CancelQuestOnPlayerDeath":  0,
+    "Autocomplete":  1,
+    "IsGroupQuest":  1,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+                    {
+                        "ClassName":  "ExpansionBanknoteHryvnia",
+                        "Amount":  1500,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "InediaPain_FirstAidKit_White",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    }
+                ],
+    "NeedToSelectReward":  1,
+    "RandomReward":  0,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          3
+                      ],
+    "QuestTurnInIDs":  [
+
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  3,
+                           "ObjectiveType":  2
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  300,
+    "ReputationRequirement":  0,
+    "PreQuestIDs":  [
+                        801
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  1,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  1,
+    "GroupQuestMode":  0
 }

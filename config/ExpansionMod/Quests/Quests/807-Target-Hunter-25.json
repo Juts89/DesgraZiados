@@ -1,154 +1,185 @@
-{
-   "ConfigVersion": 22,
-   "ID": 807,
-   "Type": 1,
-   "Title": "El Cazador II",
-   "Descriptions": [
-      "¿Aún te va eso de la caza? Subamos el listón: sal y abate 25 animales. Veamos si eres tan bueno como pareces.",
-      "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
-      "Eso sí es una buena pieza. Has demostrado ser un cazador de verdad. La naturaleza no se arrodilla ante nadie, pero te has ganado su respeto. Aquí tienes."
-   ],
-   "ObjectiveText": "Caza 25 animales.",
-   "FollowUpQuest": 806,
-   "Repeatable": 0,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 0,
-   "CancelQuestOnPlayerDeath": 1,
-   "Autocomplete": 0,
-   "IsGroupQuest": 1,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [
-      {
-         "ClassName": "ALV_CanvasBag_Yellow",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "ALV_CanvasBag_Blue",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "ALV_CanvasBag_Green",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "ALV_CanvasBag_Black",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "ALV_CanvasBag_Black",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "ALV_CanvasBag_Blue",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "ALV_CanvasBag_Green",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "ALV_CanvasBag_Green",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "ALV_CanvasBag_Green",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "ALV_CanvasBag_Green",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "ALV_CanvasBag_Green",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      }
-   ],
-   "NeedToSelectReward": 1,
-   "RandomReward": 0,
-   "RandomRewardAmount": 1,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      1
-   ],
-   "QuestTurnInIDs": [],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 8,
-         "ObjectiveType": 2
-      }
-   ],
-   "QuestColor": -6900716,
-   "ReputationReward": 450,
-   "ReputationRequirement": 0,
-   "PreQuestIDs": [
-      806
-   ],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 1,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+﻿{
+    "ConfigVersion":  22,
+    "ID":  807,
+    "Type":  1,
+    "Title":  "El Cazador II",
+    "Descriptions":  [
+                         "¿Aún te va eso de la caza? Subamos el listón: sal y abate 25 animales. Veamos si eres tan bueno como pareces.",
+                         "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
+                         "Eso sí es una buena pieza. Has demostrado ser un cazador de verdad. La naturaleza no se arrodilla ante nadie, pero te has ganado su respeto. Aquí tienes."
+                     ],
+    "ObjectiveText":  "Caza 25 animales.",
+    "FollowUpQuest":  806,
+    "Repeatable":  0,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  0,
+    "CancelQuestOnPlayerDeath":  1,
+    "Autocomplete":  0,
+    "IsGroupQuest":  1,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+                    {
+                        "ClassName":  "ALV_CanvasBag_Yellow",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "ALV_CanvasBag_Blue",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "ALV_CanvasBag_Green",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "ALV_CanvasBag_Black",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "ALV_CanvasBag_Black",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "ALV_CanvasBag_Blue",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "ALV_CanvasBag_Green",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "ALV_CanvasBag_Green",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "ALV_CanvasBag_Green",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "ALV_CanvasBag_Green",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "ALV_CanvasBag_Green",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    }
+                ],
+    "NeedToSelectReward":  1,
+    "RandomReward":  0,
+    "RandomRewardAmount":  1,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          1
+                      ],
+    "QuestTurnInIDs":  [
+
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  8,
+                           "ObjectiveType":  2
+                       }
+                   ],
+    "QuestColor":  -6900716,
+    "ReputationReward":  450,
+    "ReputationRequirement":  0,
+    "PreQuestIDs":  [
+                        806
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  1,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  1,
+    "GroupQuestMode":  0
 }

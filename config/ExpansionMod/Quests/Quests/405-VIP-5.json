@@ -1,54 +1,65 @@
-{
-   "ConfigVersion": 22,
-   "ID": 405,
-   "Type": 1,
-   "Title": "Perdida en el Mar",
-   "Descriptions": [
-      "Hola, me llamo \"Jasmine\". Todo pasó muy rápido. Un momento estaba removiendo el guiso y al siguiente... el Seraphina se partía en dos. La tormenta apareció de la nada, como una bestia. Recuerdo gritos, metal retorciéndose, agua helada... y después solo el gris infinito del mar.",
-      "...",
-      "Aún tiemblo, %1, pero estoy a salvo. El campamento es extraño, pero por ahora es hogar. Debo mi vida a quien me encontró y me sacó de los restos. Todavía intento entenderlo todo, pero sé una cosa: ya no estoy sola."
-   ],
-   "ObjectiveText": "Escolta a \"Jasmine\" hasta el \"Campamento de Supervivientes\".",
-   "FollowUpQuest": -1,
-   "Repeatable": 1,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 1,
-   "CancelQuestOnPlayerDeath": 1,
-   "Autocomplete": 0,
-   "IsGroupQuest": 0,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [],
-   "NeedToSelectReward": 0,
-   "RandomReward": 0,
-   "RandomRewardAmount": 0,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      4002
-   ],
-   "QuestTurnInIDs": [
-      1
-   ],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 5,
-         "ObjectiveType": 9
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 1750,
-   "ReputationRequirement": 0,
-   "PreQuestIDs": [],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 1,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+﻿{
+    "ConfigVersion":  22,
+    "ID":  405,
+    "Type":  1,
+    "Title":  "Perdida en el Mar",
+    "Descriptions":  [
+                         "Hola, me llamo \"Jasmine\". Todo pasó muy rápido. Un momento estaba removiendo el guiso y al siguiente... el Seraphina se partía en dos. La tormenta apareció de la nada, como una bestia. Recuerdo gritos, metal retorciéndose, agua helada... y después solo el gris infinito del mar.",
+                         "...",
+                         "Aún tiemblo, %1, pero estoy a salvo. El campamento es extraño, pero por ahora es hogar. Debo mi vida a quien me encontró y me sacó de los restos. Todavía intento entenderlo todo, pero sé una cosa: ya no estoy sola."
+                     ],
+    "ObjectiveText":  "Escolta a \"Jasmine\" hasta el \"Campamento de Supervivientes\".",
+    "FollowUpQuest":  -1,
+    "Repeatable":  1,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  1,
+    "CancelQuestOnPlayerDeath":  1,
+    "Autocomplete":  0,
+    "IsGroupQuest":  1,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+
+                ],
+    "NeedToSelectReward":  0,
+    "RandomReward":  0,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          4002
+                      ],
+    "QuestTurnInIDs":  [
+                           1
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  5,
+                           "ObjectiveType":  9
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  1750,
+    "ReputationRequirement":  0,
+    "PreQuestIDs":  [
+
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  1,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  1,
+    "GroupQuestMode":  0
 }

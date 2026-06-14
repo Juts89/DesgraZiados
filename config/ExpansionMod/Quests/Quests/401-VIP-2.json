@@ -1,62 +1,75 @@
-{
-   "ConfigVersion": 22,
-   "ID": 401,
-   "Type": 1,
-   "Title": "Se lo Buscó",
-   "Descriptions": [
-      "Pillamos a este degenerado haciendo algo... cuestionable con una oveja. Sí, has oído bien. En Rogovo hay un sitio para gente como él. Déjalo allí y no hagas demasiadas preguntas.",
-      "Lleva al pervertido a casa y avisa a Peter cuando esté hecho.",
-      "¿Lo entregaste? Bien. Ese pueblo sabe qué hacer con tipos así. Gracias. Y quizá necesites desinfectante."
-   ],
-   "ObjectiveText": "Lleva al pervertido a casa.",
-   "FollowUpQuest": -1,
-   "Repeatable": 1,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 1,
-   "CancelQuestOnPlayerDeath": 1,
-   "Autocomplete": 1,
-   "IsGroupQuest": 0,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [
-      {
-         "ClassName": "ExpansionBanknoteHryvnia",
-         "Amount": 2250,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      }
-   ],
-   "NeedToSelectReward": 0,
-   "RandomReward": 0,
-   "RandomRewardAmount": 0,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      1
-   ],
-   "QuestTurnInIDs": [],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 2,
-         "ObjectiveType": 9
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 600,
-   "ReputationRequirement": 0,
-   "PreQuestIDs": [],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 0,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+﻿{
+    "ConfigVersion":  22,
+    "ID":  401,
+    "Type":  1,
+    "Title":  "Se lo Buscó",
+    "Descriptions":  [
+                         "Pillamos a este degenerado haciendo algo... cuestionable con una oveja. Sí, has oído bien. En Rogovo hay un sitio para gente como él. Déjalo allí y no hagas demasiadas preguntas.",
+                         "Lleva al pervertido a casa y avisa a Peter cuando esté hecho.",
+                         "¿Lo entregaste? Bien. Ese pueblo sabe qué hacer con tipos así. Gracias. Y quizá necesites desinfectante."
+                     ],
+    "ObjectiveText":  "Lleva al pervertido a casa.",
+    "FollowUpQuest":  -1,
+    "Repeatable":  1,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  1,
+    "CancelQuestOnPlayerDeath":  1,
+    "Autocomplete":  1,
+    "IsGroupQuest":  1,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+                    {
+                        "ClassName":  "ExpansionBanknoteHryvnia",
+                        "Amount":  2250,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    }
+                ],
+    "NeedToSelectReward":  0,
+    "RandomReward":  0,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          1
+                      ],
+    "QuestTurnInIDs":  [
+
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  2,
+                           "ObjectiveType":  9
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  600,
+    "ReputationRequirement":  0,
+    "PreQuestIDs":  [
+
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  0,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  1,
+    "GroupQuestMode":  0
 }

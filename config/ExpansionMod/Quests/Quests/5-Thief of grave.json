@@ -1,52 +1,65 @@
-{
-   "ConfigVersion": 22,
-   "ID": 5,
-   "Type": 1,
-   "Title": "El Saqueador de Tumbas",
-   "Descriptions": [
-      "Hola <>. En una aldea olvidada, Kieran entró en la Tumba de las Almas Perdidas tras rumores de tesoros enterrados. Encontró reliquias antiguas... y algo más lo encontró a él. Ahora ha desaparecido, y la tumba vuelve a estar en silencio. Ve y descubre qué ocurrió.",
-      "¿Qué dices? Puede que tengas más suerte que él.",
-      "Así que los rumores eran ciertos... Tú sí has salido con vida. Lo que hubiera ahí abajo, lo enfrentaste. Gracias por tu valor. Aquí tienes tu recompensa."
-   ],
-   "ObjectiveText": "Encuentra la tumba.",
-   "FollowUpQuest": -1,
-   "Repeatable": 1,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 1,
-   "CancelQuestOnPlayerDeath": 0,
-   "Autocomplete": 1,
-   "IsGroupQuest": 1,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [],
-   "NeedToSelectReward": 0,
-   "RandomReward": 0,
-   "RandomRewardAmount": 0,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      1
-   ],
-   "QuestTurnInIDs": [],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 2,
-         "ObjectiveType": 6
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 450,
-   "ReputationRequirement": 1000,
-   "PreQuestIDs": [],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 0,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+﻿{
+    "ConfigVersion":  22,
+    "ID":  5,
+    "Type":  1,
+    "Title":  "El Saqueador de Tumbas",
+    "Descriptions":  [
+                         "Hola \u003c\u003e. En una aldea olvidada, Kieran entró en la Tumba de las Almas Perdidas tras rumores de tesoros enterrados. Encontró reliquias antiguas... y algo más lo encontró a él. Ahora ha desaparecido, y la tumba vuelve a estar en silencio. Ve y descubre qué ocurrió.",
+                         "¿Qué dices? Puede que tengas más suerte que él.",
+                         "Así que los rumores eran ciertos... Tú sí has salido con vida. Lo que hubiera ahí abajo, lo enfrentaste. Gracias por tu valor. Aquí tienes tu recompensa."
+                     ],
+    "ObjectiveText":  "Encuentra la tumba.",
+    "FollowUpQuest":  -1,
+    "Repeatable":  1,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  1,
+    "CancelQuestOnPlayerDeath":  0,
+    "Autocomplete":  1,
+    "IsGroupQuest":  1,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+
+                ],
+    "NeedToSelectReward":  0,
+    "RandomReward":  0,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          1
+                      ],
+    "QuestTurnInIDs":  [
+
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  2,
+                           "ObjectiveType":  6
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  450,
+    "ReputationRequirement":  1000,
+    "PreQuestIDs":  [
+
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  0,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  1,
+    "GroupQuestMode":  0
 }

@@ -1,59 +1,70 @@
-{
-   "ConfigVersion": 22,
-   "ID": 134,
-   "Type": 1,
-   "Title": "Accidente Aéreo",
-   "Descriptions": [
-      "Hace unos días, durante aquella tormenta, desapareció un avión con supervivientes. Lo vieron por última vez rumbo a esta zona antes de perderse en el cielo.",
-      "Esta es su última ubicación conocida. Si te atreves, ve y descubre qué pasó... quizá quede alguien vivo, o solo chatarra.",
-      "Gracias."
-   ],
-   "ObjectiveText": "Viaja a la última ubicación conocida.",
-   "FollowUpQuest": 407,
-   "Repeatable": 1,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 1,
-   "CancelQuestOnPlayerDeath": 1,
-   "Autocomplete": 0,
-   "IsGroupQuest": 1,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [],
-   "NeedToSelectReward": 0,
-   "RandomReward": 0,
-   "RandomRewardAmount": -1,
-   "RewardsForGroupOwnerOnly": 1,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      2
-   ],
-   "QuestTurnInIDs": [
-      4004
-   ],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 74,
-         "ObjectiveType": 3
-      },
-      {
-         "ConfigVersion": 28,
-         "ID": 74,
-         "ObjectiveType": 2
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 300,
-   "ReputationRequirement": -1,
-   "PreQuestIDs": [],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 1,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+﻿{
+    "ConfigVersion":  22,
+    "ID":  134,
+    "Type":  1,
+    "Title":  "Accidente Aéreo",
+    "Descriptions":  [
+                         "Hace unos días, durante aquella tormenta, desapareció un avión con supervivientes. Lo vieron por última vez rumbo a esta zona antes de perderse en el cielo.",
+                         "Esta es su última ubicación conocida. Si te atreves, ve y descubre qué pasó... quizá quede alguien vivo, o solo chatarra.",
+                         "Gracias."
+                     ],
+    "ObjectiveText":  "Viaja a la última ubicación conocida.",
+    "FollowUpQuest":  407,
+    "Repeatable":  1,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  1,
+    "CancelQuestOnPlayerDeath":  1,
+    "Autocomplete":  0,
+    "IsGroupQuest":  1,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+
+                ],
+    "NeedToSelectReward":  0,
+    "RandomReward":  0,
+    "RandomRewardAmount":  -1,
+    "RewardsForGroupOwnerOnly":  1,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          2
+                      ],
+    "QuestTurnInIDs":  [
+                           4004
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  74,
+                           "ObjectiveType":  3
+                       },
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  74,
+                           "ObjectiveType":  2
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  300,
+    "ReputationRequirement":  -1,
+    "PreQuestIDs":  [
+
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  1,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  1,
+    "GroupQuestMode":  0
 }

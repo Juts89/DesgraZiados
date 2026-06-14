@@ -1,52 +1,65 @@
-{
-   "ConfigVersion": 22,
-   "ID": 6,
-   "Type": 1,
-   "Title": "Munición Robada",
-   "Descriptions": [
-      "Hola <>. Hace años, un soldado llamado Marcus robó un alijo de munición del ejército y lo ocultó en una base remota. Antes de volver por él, se infectó... y se convirtió en uno de ellos. Ahora patrulla la zona como un guardián muerto. Si tienes agallas, encuentra la base y encárgate de Marcus.",
-      "La munición escasea. ¿A qué esperas?",
-      "Te enfrentaste a Marcus... y viviste para contarlo. Esa munición nos ayudará a seguir respirando. Te lo has ganado."
-   ],
-   "ObjectiveText": "Encuentra la munición robada.",
-   "FollowUpQuest": -1,
-   "Repeatable": 1,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 1,
-   "CancelQuestOnPlayerDeath": 0,
-   "Autocomplete": 1,
-   "IsGroupQuest": 1,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [],
-   "NeedToSelectReward": 0,
-   "RandomReward": 0,
-   "RandomRewardAmount": 0,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      1
-   ],
-   "QuestTurnInIDs": [],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 3,
-         "ObjectiveType": 6
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 450,
-   "ReputationRequirement": 1000,
-   "PreQuestIDs": [],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 0,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+﻿{
+    "ConfigVersion":  22,
+    "ID":  6,
+    "Type":  1,
+    "Title":  "Munición Robada",
+    "Descriptions":  [
+                         "Hola \u003c\u003e. Hace años, un soldado llamado Marcus robó un alijo de munición del ejército y lo ocultó en una base remota. Antes de volver por él, se infectó... y se convirtió en uno de ellos. Ahora patrulla la zona como un guardián muerto. Si tienes agallas, encuentra la base y encárgate de Marcus.",
+                         "La munición escasea. ¿A qué esperas?",
+                         "Te enfrentaste a Marcus... y viviste para contarlo. Esa munición nos ayudará a seguir respirando. Te lo has ganado."
+                     ],
+    "ObjectiveText":  "Encuentra la munición robada.",
+    "FollowUpQuest":  -1,
+    "Repeatable":  1,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  1,
+    "CancelQuestOnPlayerDeath":  0,
+    "Autocomplete":  1,
+    "IsGroupQuest":  1,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+
+                ],
+    "NeedToSelectReward":  0,
+    "RandomReward":  0,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          1
+                      ],
+    "QuestTurnInIDs":  [
+
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  3,
+                           "ObjectiveType":  6
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  450,
+    "ReputationRequirement":  1000,
+    "PreQuestIDs":  [
+
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  0,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  1,
+    "GroupQuestMode":  0
 }
