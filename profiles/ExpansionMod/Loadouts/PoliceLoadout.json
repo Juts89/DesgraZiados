@@ -50,7 +50,7 @@
                 },
                 {
                     "ClassName": "Winter_Parka_Base",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -69,7 +69,7 @@
                 },
                 {
                     "ClassName": "Winter_Parka_Green",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -88,7 +88,7 @@
                 },
                 {
                     "ClassName": "Shabby_Hoodie_Brown",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -107,7 +107,7 @@
                 },
                 {
                     "ClassName": "Shabby_Hoodie_Black",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -126,7 +126,7 @@
                 },
                 {
                     "ClassName": "Shabby_Hoodie_Grey",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -145,7 +145,7 @@
                 },
                 {
                     "ClassName": "ALV_TacticalHoodie_Grey",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -164,7 +164,7 @@
                 },
                 {
                     "ClassName": "ALV_TacticalHoodie_Tan",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -183,7 +183,7 @@
                 },
                 {
                     "ClassName": "ALV_TacticalHoodie_Olive",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -202,7 +202,7 @@
                 },
                 {
                     "ClassName": "Military_Sweater",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -221,7 +221,7 @@
                 },
                 {
                     "ClassName": "Military_Sweater_Green",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -240,7 +240,7 @@
                 },
                 {
                     "ClassName": "Military_Sweater_Black",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -302,7 +302,7 @@
                 },
                 {
                     "ClassName": "ALV_Jeans_Black_Kneepads",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -321,7 +321,7 @@
                 },
                 {
                     "ClassName": "Kneepads_Jeans_Base",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -340,7 +340,7 @@
                 },
                 {
                     "ClassName": "Kneepads_Jeans_Black",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -359,7 +359,7 @@
                 },
                 {
                     "ClassName": "ALV_Jeans_Blue_Kneepads",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -378,7 +378,7 @@
                 },
                 {
                     "ClassName": "ALV_Jeans_Grey_Kneepads",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -397,7 +397,7 @@
                 },
                 {
                     "ClassName": "ALV_Jeans_Brown_Kneepads",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -416,7 +416,7 @@
                 },
                 {
                     "ClassName": "ALV_Workpants_Beige",
-                    "Chance": 0.78,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -578,7 +578,7 @@
             "Items": [
                 {
                     "ClassName": "PoliceVest",
-                    "Chance": 0.26,
+                    "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -597,7 +597,7 @@
                 },
                 {
                     "ClassName": "ALV_BikerVest_Black",
-                    "Chance": 0.62,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -616,7 +616,7 @@
                 },
                 {
                     "ClassName": "ALV_BikerVest_Brown",
-                    "Chance": 0.62,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -635,7 +635,7 @@
                 },
                 {
                     "ClassName": "ALV_AssaultVest_Tan",
-                    "Chance": 0.62,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -654,7 +654,7 @@
                 },
                 {
                     "ClassName": "ALV_AssaultVest_Black",
-                    "Chance": 0.62,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -673,7 +673,7 @@
                 },
                 {
                     "ClassName": "ALV_ChestRig_Olive",
-                    "Chance": 0.62,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -692,7 +692,7 @@
                 },
                 {
                     "ClassName": "ALV_ChestRig_Brown",
-                    "Chance": 0.62,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -711,7 +711,7 @@
                 },
                 {
                     "ClassName": "ALV_ChestPouch_Black",
-                    "Chance": 0.62,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -730,7 +730,7 @@
                 },
                 {
                     "ClassName": "ALV_ChestPouch_Camo",
-                    "Chance": 0.62,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -749,7 +749,7 @@
                 },
                 {
                     "ClassName": "ALV_ChestPouch_WinterCamo",
-                    "Chance": 0.62,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
@@ -768,7 +768,7 @@
                 },
                 {
                     "ClassName": "ALV_WW2Vest_Classic",
-                    "Chance": 0.62,
+                    "Chance": 0.1,
                     "Quantity": {
                         "Min": 0,
                         "Max": 0
