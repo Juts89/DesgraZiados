@@ -1,0 +1,40 @@
+{
+  "anomalies": [
+    {
+      "type": "meteor",
+      "settings": {
+        "R1": 50,
+        "R2": 15,
+        "BD_Health": -10,
+        "SD_Blood": -100,
+        "SD_Shock": -30,
+        "SD_Guard": 0.0,
+        "BD_Guard": 0.0,
+        "temperature_change": 15.0,
+        "guards": [],
+        "speed": 1.4,
+        "nextPointSensivity": 1.0,
+        "randomTrajectory": 1,
+        "trajectoryPoints": []
+      },
+      "instances": [
+        {
+          "spawn": [12197, 141, 12608],
+          "trajectoryPoints": [
+            [12197, 143, 12604],
+            [12210, 148, 12590],
+            [12205, 143, 12595]
+          ]
+        },
+        {
+          "spawn": [12210, 142, 12589],
+          "trajectoryPoints": [
+            [12233, 143, 12569],
+            [12233, 144, 12580],
+            [12225, 142, 12583]
+          ]
+        }
+      ]
+    }
+  ]
+}

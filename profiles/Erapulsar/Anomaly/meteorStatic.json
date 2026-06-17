@@ -1,0 +1,23 @@
+{
+  "anomalies": [
+    {
+      "type": "meteor",
+      "settings": {
+        "R1": 50,
+        "R2": 15,
+        "BD_Health": -50,
+        "SD_Blood": -100,
+        "SD_Shock": -30,
+        "SD_Guard": 0.0,
+        "BD_Guard": 0.0,
+        "temperature_change": 15.0,
+        "guards": []
+      },
+      "instances": [
+        {
+          "spawn": [12210.570068, 142, 12639]
+        }
+      ]
+    }
+  ]
+}

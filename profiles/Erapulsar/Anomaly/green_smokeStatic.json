@@ -1,0 +1,23 @@
+{
+  "anomalies": [
+    {
+      "type": "green_smoke",
+      "settings": {
+        "R1": 25,
+        "R2": 10,
+        "BD_Health": -3,
+        "SD_Blood": -5,
+        "SD_Shock": -2,
+        "SD_Guard": 0.009999999776482582,
+        "BD_Guard": 0.009999999776482582,
+        "temperature_change": 1.0,
+        "guards": []
+      },
+      "instances": [
+        {
+          "spawn": [12150, 140.3, 12676]
+        }
+      ]
+    }
+  ]
+}

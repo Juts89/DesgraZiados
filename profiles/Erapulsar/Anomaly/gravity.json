@@ -1,0 +1,17 @@
+{
+  "anomalies": [
+    {
+      "type": "gravity",
+      "settings": {
+        "R1": 15,
+        "R2": 4,
+        "temperature_change": 0.0
+      },
+      "instances": [
+        {
+          "spawn": [12120.669922, 141, 12687]
+        }
+      ]
+    }
+  ]
+}

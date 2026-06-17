@@ -1,0 +1,28 @@
+{
+  "anomalies": [
+    {
+      "type": "ice",
+      "settings": {
+        "R1": 20,
+        "R2": 8,
+        "BD_Health": -5,
+        "SD_Blood": -10,
+        "SD_Shock": -5,
+        "SD_Guard": 0.10000000149011612,
+        "BD_Guard": 0.05000000074505806,
+        "temperature_change": -10.0,
+        "guards": [],
+        "speed": 0.0,
+        "nextPointSensivity": 0.0,
+        "randomTrajectory": 0,
+        "trajectoryPoints": []
+      },
+      "instances": [
+        {
+          "spawn": [12184, 141, 12661],
+          "trajectoryPoints": []
+        }
+      ]
+    }
+  ]
+}
