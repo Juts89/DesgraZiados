@@ -1,4 +1,4 @@
-{
+﻿{
     "ClassName":  "",
     "Chance":  1,
     "Quantity":  {
@@ -13,7 +13,7 @@
                                      "SlotName":  "Body",
                                      "Items":  [
                                                    {
-                                                       "ClassName":  "BDUJacket",
+                                                       "ClassName":  "ALV_Tshirt_Black",
                                                        "Chance":  0.6,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -40,7 +40,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "USMCJacket_Woodland",
+                                                       "ClassName":  "ALV_G3Shirt_Black_Long",
                                                        "Chance":  0.55,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -94,7 +94,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_G3Shirt_MC_Long",
+                                                       "ClassName":  "ALV_LongSleeve_Tshirt_Black",
                                                        "Chance":  0.4,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -121,7 +121,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "TacticalShirt_Olive",
+                                                       "ClassName":  "ALV_CottonTop_Black",
                                                        "Chance":  0.4,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -153,7 +153,7 @@
                                      "SlotName":  "Legs",
                                      "Items":  [
                                                    {
-                                                       "ClassName":  "BDUPants",
+                                                       "ClassName":  "ALV_HunterPants_Black",
                                                        "Chance":  0.55,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -207,7 +207,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_HunterPants_Kneepads_Tan",
+                                                       "ClassName":  "ALV_HunterPants_Kneepads_Black",
                                                        "Chance":  0.45,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -261,7 +261,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "USMCPants_Woodland",
+                                                       "ClassName":  "ALV_Cargopants_Black",
                                                        "Chance":  0.35,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -320,7 +320,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "CombatBoots_Green",
+                                                       "ClassName":  "CombatBoots_Black",
                                                        "Chance":  0.45,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -347,7 +347,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ColdOperationBoots_Green",
+                                                       "ClassName":  "MilitaryBoots_Black",
                                                        "Chance":  0.4,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -374,7 +374,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ColdOperationBoots_Camo",
+                                                       "ClassName":  "CombatBoots_Black",
                                                        "Chance":  0.35,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -433,7 +433,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "TacticalGloves_Green",
+                                                       "ClassName":  "TacticalGloves_Black",
                                                        "Chance":  0.5,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -632,7 +632,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "PLateCarrierVest_Green",
+                                                       "ClassName":  "PlateCarrierVest",
                                                        "Chance":  0.5,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -659,7 +659,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_ModularVest_Tan",
+                                                       "ClassName":  "ALV_ModularVest_Black",
                                                        "Chance":  0.45,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -686,7 +686,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_JPCVest_Tan",
+                                                       "ClassName":  "ALV_JPCVest_Black",
                                                        "Chance":  0.4,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -745,7 +745,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "PlateCarrierHolster_Green",
+                                                       "ClassName":  "PlateCarrierHolster_Black",
                                                        "Chance":  0.5,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -826,7 +826,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_MolleBelt_Tan",
+                                                       "ClassName":  "ALV_MolleBelt_Black",
                                                        "Chance":  0.35,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -1025,7 +1025,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "BallisticHelmet_Green",
+                                                       "ClassName":  "BallisticHelmet_Black",
                                                        "Chance":  0.45,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -1052,7 +1052,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "BallisticHelmet_BDU",
+                                                       "ClassName":  "BallisticHelmet_Black",
                                                        "Chance":  0.4,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -1079,7 +1079,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "BallisticHelmet_Woodland",
+                                                       "ClassName":  "BallisticHelmet_Black",
                                                        "Chance":  0.35,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -1165,7 +1165,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "Shemagh_Green",
+                                                       "ClassName":  "ALV_ShemaghScarf_Black",
                                                        "Chance":  0.4,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -1219,7 +1219,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "Balaclava3Holes_Green",
+                                                       "ClassName":  "Balaclava3Holes_Black",
                                                        "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -1332,7 +1332,7 @@
                                      "SlotName":  "Back",
                                      "Items":  [
                                                    {
-                                                       "ClassName":  "ArmyPouch_Green",
+                                                       "ClassName":  "ArmyPouch_Black",
                                                        "Chance":  0.45,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -1445,7 +1445,7 @@
                                      "SlotName":  "Mask",
                                      "Items":  [
                                                    {
-                                                       "ClassName":  "Shemagh_Green",
+                                                       "ClassName":  "ALV_ShemaghScarf_Black",
                                                        "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -1727,7 +1727,7 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [
+                                                                                                         "Items":  [{"ClassName":"ReflexOptic","Chance":0.3,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"ACOGOptic","Chance":0.18,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"M4_Suppressor","Chance":0.12,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},
                                                                                                                        {
                                                                                                                            "ClassName":  "Mag_STANAG_30Rnd",
                                                                                                                            "Chance":  1,
@@ -1876,7 +1876,7 @@
                                                       "SlotName":  "Shoulder",
                                                       "Items":  [
                                                                     {
-                                                                        "ClassName":  "M4A1_Green",
+                                                                        "ClassName":  "M4A1_Black",
                                                                         "Chance":  1,
                                                                         "Quantity":  {
                                                                                          "Min":  0,
@@ -1892,7 +1892,7 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [
+                                                                                                         "Items":  [{"ClassName":"ReflexOptic","Chance":0.3,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"ACOGOptic","Chance":0.18,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"M4_Suppressor","Chance":0.12,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},
                                                                                                                        {
                                                                                                                            "ClassName":  "Mag_STANAG_30Rnd",
                                                                                                                            "Chance":  1,
@@ -2057,7 +2057,7 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [
+                                                                                                         "Items":  [{"ClassName":"ReflexOptic","Chance":0.25,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"ACOGOptic","Chance":0.18,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},
                                                                                                                        {
                                                                                                                            "ClassName":  "Mag_FAL_20Rnd",
                                                                                                                            "Chance":  1,
@@ -2195,7 +2195,7 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [
+                                                                                                         "Items":  [{"ClassName":"ReflexOptic","Chance":0.3,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"ACOGOptic","Chance":0.18,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"M4_Suppressor","Chance":0.12,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},
                                                                                                                        {
                                                                                                                            "ClassName":  "Mag_Aug_30Rnd",
                                                                                                                            "Chance":  1,
@@ -2333,7 +2333,7 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [
+                                                                                                         "Items":  [{"ClassName":"ReflexOptic","Chance":0.3,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"ACOGOptic","Chance":0.18,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"M4_Suppressor","Chance":0.12,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},
                                                                                                                        {
                                                                                                                            "ClassName":  "Mag_FAMAS_25Rnd",
                                                                                                                            "Chance":  1,
