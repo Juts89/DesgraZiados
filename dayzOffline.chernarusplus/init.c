@@ -700,18 +700,18 @@ class CustomMission: MissionServer
 
 		if (data.CompletedThisWeek >= WEEKLY_HIGH_THRESHOLD)
 		{
-			ReturnMoneyToPlayer(player, 50000);
-			SendQuestMessage(player, "Weekly reward (HIGH): +50000.");
+			ReturnMoneyToPlayer(player, 100);
+			SendQuestMessage(player, "Weekly reward (HIGH): +100.");
 		}
 		else if (data.CompletedThisWeek >= WEEKLY_MID_THRESHOLD)
 		{
-			ReturnMoneyToPlayer(player, 25000);
-			SendQuestMessage(player, "Weekly reward (MID): +25000.");
+			ReturnMoneyToPlayer(player, 50);
+			SendQuestMessage(player, "Weekly reward (MID): +50.");
 		}
 		else if (data.CompletedThisWeek >= WEEKLY_LOW_THRESHOLD)
 		{
-			ReturnMoneyToPlayer(player, 10000);
-			SendQuestMessage(player, "Weekly reward (LOW): +10000.");
+			ReturnMoneyToPlayer(player, 25);
+			SendQuestMessage(player, "Weekly reward (LOW): +25.");
 		}
 
 		data.RewardClaimed = true;
