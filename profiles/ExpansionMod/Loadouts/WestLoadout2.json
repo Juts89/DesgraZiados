@@ -180,7 +180,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_HunterPants_Kneepads_Camo",
+                                                       "ClassName":  "ALV_HunterPants_Kneepads_Black",
                                                        "Chance":  0.5,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -234,7 +234,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_G3Pants_MC",
+                                                       "ClassName":  "ALV_G3Pants_Black",
                                                        "Chance":  0.4,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -263,6 +263,60 @@
                                                    {
                                                        "ClassName":  "ALV_Cargopants_Black",
                                                        "Chance":  0.35,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "ALV_SweatPants_Black",
+                                                       "Chance":  0.5,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "ALV_MechanicPants_Black",
+                                                       "Chance":  0.45,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -375,6 +429,114 @@
                                                    },
                                                    {
                                                        "ClassName":  "CombatBoots_Black",
+                                                       "Chance":  0.35,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "ALV_WW2Boots_Classic",
+                                                       "Chance":  0.4,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "WorkingBoots_Black",
+                                                       "Chance":  0.45,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "MilitaryBoots_Green",
+                                                       "Chance":  0.4,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "CombatBoots_Green",
                                                        "Chance":  0.35,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -605,7 +767,7 @@
                                      "SlotName":  "Vest",
                                      "Items":  [
                                                    {
-                                                       "ClassName":  "PlateCarrierVest",
+                                                       "ClassName":  "ALV_6B25Vest_Black",
                                                        "Chance":  0.55,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -632,7 +794,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "PlateCarrierVest",
+                                                       "ClassName":  "ALV_JPCVest_ESP_Black",
                                                        "Chance":  0.5,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -1726,6 +1888,56 @@
                                                                                    ],
                                                                         "InventoryAttachments":  [
                                                                                                      {
+                                                                                                         "SlotName":  "Stock",
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_Tactical_Buttstck",
+                                                                                                                           "Chance":  0.6,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_PlasticBttstck",
+                                                                                                                           "Chance":  0.4,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       }
+                                                                                                                   ]
+                                                                                                     },
+                                                                                                     {
+                                                                                                         "SlotName":  "Handguard",
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_RailHndgrd",
+                                                                                                                           "Chance":  0.65,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "",
+                                                                                                                           "Chance":  0.35,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       }
+                                                                                                                   ]
+                                                                                                     },
+                                                                                                     {
                                                                                                          "SlotName":  "",
                                                                                                          "Items":  [{"ClassName":"ReflexOptic","Chance":0.3,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"ACOGOptic","Chance":0.18,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"M4_Suppressor","Chance":0.12,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},
                                                                                                                        {
@@ -1890,6 +2102,56 @@
                                                                                        }
                                                                                    ],
                                                                         "InventoryAttachments":  [
+                                                                                                     {
+                                                                                                         "SlotName":  "Stock",
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_Tactical_Buttstck",
+                                                                                                                           "Chance":  0.6,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_PlasticBttstck",
+                                                                                                                           "Chance":  0.4,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       }
+                                                                                                                   ]
+                                                                                                     },
+                                                                                                     {
+                                                                                                         "SlotName":  "Handguard",
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_RailHndgrd",
+                                                                                                                           "Chance":  0.65,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "",
+                                                                                                                           "Chance":  0.35,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       }
+                                                                                                                   ]
+                                                                                                     },
                                                                                                      {
                                                                                                          "SlotName":  "",
                                                                                                          "Items":  [{"ClassName":"ReflexOptic","Chance":0.3,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"ACOGOptic","Chance":0.18,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"M4_Suppressor","Chance":0.12,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},

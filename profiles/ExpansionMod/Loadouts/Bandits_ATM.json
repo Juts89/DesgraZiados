@@ -529,6 +529,87 @@
                                                        "Sets":  [
 
                                                                 ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "ALV_HunterPants_Black",
+                                                       "Chance":  0.55,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "ALV_SweatPants_Black",
+                                                       "Chance":  0.5,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "ALV_MechanicPants_Black",
+                                                       "Chance":  0.45,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
                                                    }
                                                ]
                                  },
@@ -4307,7 +4388,7 @@
                                                                                                          "SlotName":  "",
                                                                                                          "Items":  [
                                                                                                                        {
-                                                                                                                           "ClassName":  "Mag_M14_10Rnd",
+                                                                                                                           "ClassName":  "Mag_SKS_10Rnd",
                                                                                                                            "Chance":  1,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0,
@@ -4351,7 +4432,7 @@
                                               ],
                      "InventoryCargo":  [
                                             {
-                                                "ClassName":  "Mag_M14_10Rnd",
+                                                "ClassName":  "Mag_SKS_10Rnd",
                                                 "Chance":  1,
                                                 "Quantity":  {
                                                                  "Min":  0,
@@ -4378,7 +4459,7 @@
                                                          ]
                                             },
                                             {
-                                                "ClassName":  "Mag_M14_10Rnd",
+                                                "ClassName":  "Mag_SKS_10Rnd",
                                                 "Chance":  0.5,
                                                 "Quantity":  {
                                                                  "Min":  0,
@@ -4405,7 +4486,7 @@
                                                          ]
                                             },
                                             {
-                                                "ClassName":  "Mag_M14_10Rnd",
+                                                "ClassName":  "Mag_SKS_10Rnd",
                                                 "Chance":  0.3,
                                                 "Quantity":  {
                                                                  "Min":  0,

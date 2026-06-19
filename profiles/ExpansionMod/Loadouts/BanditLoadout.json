@@ -3690,7 +3690,7 @@
                                                                                                          "SlotName":  "",
                                                                                                          "Items":  [
                                                                                                                        {
-                                                                                                                           "ClassName":  "Mag_M14_10Rnd",
+                                                                                                                           "ClassName":  "Mag_SKS_10Rnd",
                                                                                                                            "Chance":  1,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0,
@@ -3734,7 +3734,7 @@
                                               ],
                      "InventoryCargo":  [
                                             {
-                                                "ClassName":  "Mag_M14_10Rnd",
+                                                "ClassName":  "Mag_SKS_10Rnd",
                                                 "Chance":  1,
                                                 "Quantity":  {
                                                                  "Min":  0,
@@ -3761,7 +3761,7 @@
                                                          ]
                                             },
                                             {
-                                                "ClassName":  "Mag_M14_10Rnd",
+                                                "ClassName":  "Mag_SKS_10Rnd",
                                                 "Chance":  0.5,
                                                 "Quantity":  {
                                                                  "Min":  0,
