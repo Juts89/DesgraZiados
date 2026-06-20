@@ -8,7 +8,7 @@
     "NeedGPSItemForCreateMarker": 1,
     "CanCreateMarker": 0,
     "CanCreate3DMarker": 0,
-    "CanOpenMapWithKeyBinding": 0,
+    "CanOpenMapWithKeyBinding": 1,
     "ShowDistanceOnPersonalMarkers": 1,
     "EnableHUDGPS": 1,
     "NeedGPSItemForKeyBinding": 1,
