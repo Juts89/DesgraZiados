@@ -18,10 +18,12 @@
         "trajectoryPoints": []
       },
       "instances": [
-        {
-          "spawn": [12184, 141, 12661],
-          "trajectoryPoints": []
-        }
+        { "spawn": [4550, 400, 10580], "trajectoryPoints": [] },
+        { "spawn": [4480, 399, 10200], "trajectoryPoints": [] },
+        { "spawn": [1980, 270, 11150], "trajectoryPoints": [] },
+        { "spawn": [11760, 111, 12450], "trajectoryPoints": [] },
+        { "spawn": [4860, 264, 9140], "trajectoryPoints": [] },
+        { "spawn": [3150, 261, 7090], "trajectoryPoints": [] }
       ]
     }
   ]

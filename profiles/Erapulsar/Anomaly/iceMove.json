@@ -18,14 +18,13 @@
         "trajectoryPoints": []
       },
       "instances": [
-        {
-          "spawn": [12170, 141, 12610],
-          "trajectoryPoints": [
-            [12168, 144, 12610],
-            [12162, 145, 12595],
-            [12173, 142, 12601]
-          ]
-        }
+        { "spawn": [4620, 402, 10150], "trajectoryPoints": [] },
+        { "spawn": [2130, 280, 11250], "trajectoryPoints": [] },
+        { "spawn": [11850, 116, 12320], "trajectoryPoints": [] },
+        { "spawn": [4920, 270, 9200], "trajectoryPoints": [] },
+        { "spawn": [12210, 156, 12950], "trajectoryPoints": [] },
+        { "spawn": [2850, 265, 8640], "trajectoryPoints": [] },
+        { "spawn": [3460, 271, 6220], "trajectoryPoints": [] }
       ]
     }
   ]
