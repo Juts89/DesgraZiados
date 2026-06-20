@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <types>
   <!--
     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -12,10 +12,10 @@
 -->
   <!-- MISC -->
   <type name="ALV_RifleSling_1_Black">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -23,30 +23,30 @@
   </type>
   <!-- Attachments -->
   <type name="ALV_Patch_USA">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="ALV_CirclePatch_Outdoors">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="ALV_Pouch_Singlemags_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -55,10 +55,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Pouch_Singlemags_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -67,10 +67,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Pouch_Singlemags_Snow">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -79,10 +79,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Pouch_AVS1_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -91,10 +91,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Pouch_AVS1_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -103,10 +103,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Pouch_AVS2_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -115,10 +115,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Pouch_AVS2_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -127,10 +127,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Pouch_Utility_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -139,10 +139,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Pouch_Utility_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -151,10 +151,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Pouch_SmallPouch_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -163,10 +163,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Pouch_SmallPouch_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -175,10 +175,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Pouch_DoublePistolMag_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -187,10 +187,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Pouch_DoublePistolMag_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -199,10 +199,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Pouch_40mmPouch_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -211,10 +211,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_AssaultHelmetCover_Black">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -224,10 +224,10 @@
   </type>
   <!--Backpacks-->
   <type name="ALV_WW2GasBag_Classic">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -236,10 +236,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_DuffleBag_Grey">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -251,10 +251,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HipsterBag_Blue">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -266,10 +266,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HipsterBag_Black">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -281,10 +281,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HipsterBag_Green">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -296,10 +296,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_MilitaryBag_Tan">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -308,10 +308,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_MilitaryBag_Black">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -321,10 +321,10 @@
   </type>
   <!--Belts-->
   <type name="ALV_MechanicBelt_Leather">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -333,10 +333,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_BisonBelt_Tan">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -345,10 +345,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_BisonBelt_Black">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -357,10 +357,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_UtilityBelt_Tan">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -369,10 +369,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_UtilityBelt_Black">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -381,10 +381,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_LeatherBelt_Black">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -393,10 +393,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_LeatherBelt_Brown">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -405,10 +405,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_MolleBelt_Black">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -417,10 +417,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_MolleBelt_Tan">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -429,10 +429,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Smersh_Black">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -441,10 +441,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Smersh_Tan">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -454,10 +454,10 @@
   </type>
   <!--HeadGear-->
   <type name="ALV_Comtacs_Black">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -466,10 +466,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Beret_Green">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -480,10 +480,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Beret_Blue">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -494,10 +494,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Boonie_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -508,10 +508,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Boonie_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -522,10 +522,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Boonie_Green">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -536,10 +536,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Boonie_MC">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -662,10 +662,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_TacCap_Black">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -676,10 +676,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_TacCap_Tan">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -690,10 +690,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_TacCap_Snow">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -704,10 +704,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_AssaultHelmet_Black">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -716,10 +716,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_WW2Helmet_Classic">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -771,10 +771,10 @@
   </type>
   <!-- Masks -->
   <type name="ALV_SkullMask_Plain">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -784,10 +784,10 @@
   </type>
   <!-- Coats -->
   <type name="ALV_Parka_Brown">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -799,10 +799,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_Parka_Olive">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -814,10 +814,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_Parka_Blue">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -829,10 +829,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_Parka_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -844,10 +844,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_Parka_Beige">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -859,10 +859,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_WinterJacket_Grey">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -874,10 +874,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_WinterJacket_Blue">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -889,10 +889,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_WinterJacket_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -904,10 +904,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_WinterJacket_Brown">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -919,10 +919,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_WinterJacket_Green">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -934,10 +934,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_WinterJacket_Purple">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -949,10 +949,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_NauticJacket_Green">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -964,10 +964,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_NauticJacket_YellowBlue">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -979,10 +979,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_NauticJacket_Yellow">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -994,10 +994,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_NauticJacket_Orange">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1009,10 +1009,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_NauticJacket_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1024,10 +1024,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_NauticJacket_BluWhite">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1039,10 +1039,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_PlaidJacket_Red">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1054,10 +1054,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_PlaidJacket_Beige">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1069,10 +1069,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_PlaidJacket_Brown">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1084,70 +1084,62 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_MilitaryJacket_Black">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_MilitaryJacket_Tan">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_MilitaryJacket_Olive">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_MilitaryJacket_Blue">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_SheriffJacket_Brown">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1158,10 +1150,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_HuntingVest_Olive">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1170,10 +1162,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_DenimJacket_Blue">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1185,10 +1177,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_DenimJacket_Blue_Wool">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1200,10 +1192,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_DenimJacket_Black_Wool">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1215,145 +1207,127 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_PCUL5Coat_Grey">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_PCUL5Coat_Brown">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_PCUL5Coat_Tan">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_PCUL5Coat_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_PCUL5Coat_ESP_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_PCUL5Coat_Snow">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_PatrolJacket_Green">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_PatrolJacket_STG_Red">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_PatrolJacket_Snow">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_HuntingCoat_Brown">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1365,10 +1339,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HuntingCoat_Camo">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1380,10 +1354,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HuntingCoat_Camo2">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1395,10 +1369,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HuntingCoat_WinterCamo">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1410,10 +1384,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_TweedJacket_Grey">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1425,10 +1399,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_TweedJacket_Brown">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1440,10 +1414,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_WW2Coat_Classic">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1455,10 +1429,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_PilotsJacket_Burgundy">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1470,10 +1444,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HikingJacket_Yellow">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1485,10 +1459,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HikingJacket_Orange">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1500,10 +1474,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HikingJacket_Red">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1515,10 +1489,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HikingJacket_Blue">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1530,10 +1504,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HikingJacket_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1545,10 +1519,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_LightweightJacket_Tan">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1560,10 +1534,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_LightweightJacket_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1575,10 +1549,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_LightweightJacket_Camo">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1590,10 +1564,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_LightweightJacket_WinterCamo">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1605,10 +1579,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_Duster_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1620,10 +1594,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_Duster_Brown">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1635,10 +1609,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_Duster_Red">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1650,71 +1624,63 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_ScavangerTop_MC">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_ScavangerTop_MCBLK">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_ScavangerTop_ESPN">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_ScavangerTop_ESPNGry">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <!-- Pants -->
   <type name="ALV_Jeans_Blue_Kneepads">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1725,10 +1691,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Jeans_Grey_Kneepads">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1739,10 +1705,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Jeans_Black_Kneepads">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1753,10 +1719,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Jeans_Brown_Kneepads">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1767,10 +1733,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Jeans_Blue">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1781,10 +1747,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Jeans_Grey">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1795,10 +1761,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Jeans_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1809,10 +1775,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Jeans_Brown">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1823,10 +1789,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Workpants_Beige">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1837,10 +1803,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Sheriffpants_Brown">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1851,10 +1817,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Sheriffpants_Olive">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1865,10 +1831,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Cargopants_Beige">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1879,10 +1845,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Cargopants_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1893,10 +1859,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_MechanicPants_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1907,10 +1873,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_FirefighterPants_Black">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1921,10 +1887,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_FirefighterPants_Beige">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1935,10 +1901,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_ScrubsPants_Blue">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1949,115 +1915,101 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PatrolPants_Green">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_PatrolPants_STG_Red">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_PatrolPants_Snow">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Pants_Black">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Pants_Tan">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Pants_MC">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Pants_Snow">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_HunterPants_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2069,10 +2021,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HunterPants_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2084,10 +2036,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HunterPants_Camo">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2099,10 +2051,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HunterPants_WinterCamo">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2114,10 +2066,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_CargoShorts_Olive">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2128,10 +2080,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_CargoShorts_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2142,10 +2094,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_SweatPants_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2156,10 +2108,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_SmartPants_Grey">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2170,10 +2122,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_SmartPants_Brown">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2184,10 +2136,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_WW2Pants_Classic">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2198,10 +2150,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_LeatherLeggings_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2212,10 +2164,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_HunterPants_Kneepads_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2227,10 +2179,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HunterPants_Kneepads_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2242,10 +2194,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HunterPants_Kneepads_Camo">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2257,10 +2209,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_HunterPants_Kneepads_WinterCamo">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2273,7 +2225,7 @@
   </type>
   <!--Scarves-->
   <type name="ALV_ShemaghScarf_White">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2287,7 +2239,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_ShemaghScarf_Yellow">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2301,7 +2253,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_ShemaghScarf_Red">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2315,7 +2267,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_ShemaghScarf_Purple">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2329,7 +2281,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_ShemaghScarf_Black">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2343,7 +2295,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Tie_Black">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2357,7 +2309,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_TatteredPoncho_Black">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2371,7 +2323,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Balaclava_Open_Black">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2383,7 +2335,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Balaclava_Black">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2395,7 +2347,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Balaclava_FaceCover_Black">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2407,7 +2359,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Balaclava_Open_Tan">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2419,7 +2371,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Balaclava_Tan">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2431,7 +2383,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Balaclava_FaceCover_Tan">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2443,7 +2395,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Balaclava_Open_Snow">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2455,7 +2407,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Balaclava_Snow">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2467,7 +2419,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Balaclava_FaceCover_Snow">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2479,7 +2431,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Scarf01_Red">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2493,7 +2445,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Scarf02_Red">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2507,7 +2459,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Scarf03_Red">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2521,7 +2473,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Scarf01_Yellow">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2535,7 +2487,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Scarf02_Yellow">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2549,7 +2501,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Scarf03_Yellow">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2563,7 +2515,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Scarf01_Black">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2577,7 +2529,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Scarf02_Black">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2591,7 +2543,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Scarf03_Black">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2605,7 +2557,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Scarf01_Cream">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2619,7 +2571,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Scarf02_Cream">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2633,7 +2585,7 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Scarf03_Cream">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -2647,10 +2599,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_HoodedShawl_Linen">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2661,10 +2613,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_HoodedShawl_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2675,10 +2627,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_HoodedShawl_Green">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2689,10 +2641,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_HoodedShawl_Red">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2704,6 +2656,21 @@
   </type>
   <!--Boots-->
   <type name="ALV_WW2Boots_Classic">
+    <nominal>2</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+  </type>
+  <!--Shirts-->
+  <type name="ALV_CottonTop_Grey">
     <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
@@ -2717,26 +2684,11 @@
     <usage name="Village" />
     <usage name="Military" />
   </type>
-  <!--Shirts-->
-  <type name="ALV_CottonTop_Grey">
-    <nominal>10</nominal>
-    <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>7</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
-    <usage name="Military" />
-  </type>
   <type name="ALV_CottonTop_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2747,10 +2699,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_CottonTop_Olive">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2761,10 +2713,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_CottonTop_Brown">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2775,10 +2727,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_CottonTop_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2789,10 +2741,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_CottonTop_BlackWhite">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2803,10 +2755,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_RaglanTshirt_BlackWhite">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2817,10 +2769,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_RaglanTshirt_WhiteBlack">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2831,10 +2783,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_RaglanTshirt_Teal">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2845,10 +2797,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_RaglanTshirt_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2859,10 +2811,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_RaglanTshirt_Red">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2873,10 +2825,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_RaglanTshirt_Pink">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2887,10 +2839,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_RaglanTshirt_Blue">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2901,10 +2853,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_TacticalHoodie_Grey">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2916,10 +2868,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_TacticalHoodie_Tan">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2931,10 +2883,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_TacticalHoodie_Red">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2946,10 +2898,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_TacticalHoodie_Olive">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2961,10 +2913,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_TacticalHoodie_MC">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2976,10 +2928,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_TacticalHoodie_EMR">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -2991,10 +2943,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_TacticalHoodie_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3006,10 +2958,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_FlannelShirt_White">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3020,10 +2972,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_FlannelShirt_Yellow">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3034,10 +2986,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_FlannelShirt_Red2">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3048,10 +3000,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_FlannelShirt_Red">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3062,10 +3014,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_FlannelShirt_Blue">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3076,10 +3028,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_SheriffShirt_Plain">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3090,10 +3042,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_SheriffShirt_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3104,10 +3056,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Tshirt_Beige">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3118,10 +3070,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Tshirt_Grey">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3132,10 +3084,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Tshirt_White">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3146,10 +3098,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Tshirt_Green">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3160,10 +3112,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Tshirt_Blue">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3174,10 +3126,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Tshirt_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3188,10 +3140,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_FleeceTop_Blue">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3202,10 +3154,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_FleeceTop_Khaki">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3216,10 +3168,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_FleeceTop_CreBlue">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3230,10 +3182,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_FleeceTop_Cream">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3244,10 +3196,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_FleeceTop_BlaGrn">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3258,10 +3210,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_FleeceTop_OrgBlu">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3272,10 +3224,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_FleeceTop_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3286,10 +3238,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_MechanicTop_Grey">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3300,10 +3252,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_ScrubsTop_Blue">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3314,10 +3266,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PulloverHoodie_Grey">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3328,10 +3280,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PulloverHoodie_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3342,10 +3294,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PulloverHoodie_BlackWhite">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3356,10 +3308,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PulloverHoodie_Tan">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3370,10 +3322,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PulloverHoodie_Yellow">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3384,10 +3336,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PulloverHoodie_Blue">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3398,10 +3350,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PulloverHoodie_Green">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3412,10 +3364,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_DressShirt_White">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3426,10 +3378,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_DressShirt_Blue">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3440,10 +3392,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_DressShirt_Grey">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3454,10 +3406,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_DressShirt_Red">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3468,10 +3420,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_DressShirt_Brown">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3482,10 +3434,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_LongSleeve_Tshirt_Grey">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3496,10 +3448,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_LongSleeve_Tshirt_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3510,10 +3462,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_LongSleeve_Tshirt_Shanka">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3524,10 +3476,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_LongSleeve_Tshirt_Shanka_STG">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3538,10 +3490,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_VestShirt_Grey">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3553,10 +3505,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_Sweater_Tan">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3567,10 +3519,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Sweater_Grey">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3581,10 +3533,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_WorkersShirt_Tan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3595,10 +3547,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_WorkersShirt_Olive">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3609,10 +3561,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_WorkersShirt_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3623,10 +3575,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_WorkersShirt_Denim">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3637,10 +3589,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_WorkersShirt_Blue">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3651,190 +3603,166 @@
     <usage name="Military" />
   </type>
   <type name="ALV_G3Shirt_MC_Rolled">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Shirt_Tan_Rolled">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Shirt_Black_Rolled">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Shirt_Snow_Rolled">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Shirt_MC_Long">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Shirt_Tan_Long">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Shirt_Black_Long">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Shirt_Snow_Long">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Shirt_MC_Cut">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Shirt_Black_Cut">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Shirt_Snow_Cut">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_G3Shirt_Tan_Cut6">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
   <type name="ALV_ReverendTop_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3846,10 +3774,10 @@
   </type>
   <!--Vests-->
   <type name="ALV_ModularVest_Black">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3858,10 +3786,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_ModularVest_Tan">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3870,10 +3798,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_ModularVest_Snow">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3882,10 +3810,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_JPCVest_Tan">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3894,10 +3822,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_JPCVest_Black">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3906,10 +3834,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_JPCVest_ESP_Black">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3918,10 +3846,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_JPCVest_Snow">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3930,10 +3858,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_6B25Vest_Black">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3942,10 +3870,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_6B25Vest_Green">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3954,10 +3882,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_6B25Vest_Snow">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4002,6 +3930,21 @@
     <usage name="Military" />
   </type>
   <type name="ALV_WW2Vest_Classic">
+    <nominal>2</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+    <usage name="Hunting" />
+  </type>
+  <type name="ALV_BikerVest_Brown">
     <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
@@ -4016,26 +3959,11 @@
     <usage name="Military" />
     <usage name="Hunting" />
   </type>
-  <type name="ALV_BikerVest_Brown">
-    <nominal>10</nominal>
-    <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>7</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
-    <usage name="Military" />
-    <usage name="Hunting" />
-  </type>
   <type name="ALV_PoliceVest_Black">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4045,10 +3973,10 @@
   </type>
   <!--18/01/2025 UPDATE -->
   <type name="ALV_OpenShirt_Red">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4059,10 +3987,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_OpenShirt_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4073,10 +4001,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_OpenShirt_Green">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4087,10 +4015,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_OpenShirt_Pink">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4101,10 +4029,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Overcoat_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4116,10 +4044,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_Overcoat_Camel">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4131,10 +4059,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_Overcoat_Brown">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4236,10 +4164,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_PlagueMask_Brown">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4248,10 +4176,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PlagueMask_Black">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4260,10 +4188,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_MickeyMask">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4283,10 +4211,10 @@
   </type>
   <!--15/02/2025 UPDATE -->
   <type name="ALV_SkiGoggles_Blue">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4295,10 +4223,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_SkiGoggles_White">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4307,10 +4235,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_SkiGoggles_Purple">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4319,10 +4247,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_SkiGoggles_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>7</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4331,10 +4259,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_TurtleNeck_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4345,10 +4273,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_TurtleNeck_Camel">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4359,10 +4287,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_TurtleNeck_Brown">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4373,10 +4301,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_TurtleNeck_Orange">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4387,76 +4315,6 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PoliceShirt_Blue">
-    <nominal>10</nominal>
-    <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>7</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
-    <usage name="Military" />
-  </type>
-  <type name="ALV_PoliceShirt_Tan">
-    <nominal>10</nominal>
-    <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>7</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
-    <usage name="Military" />
-  </type>
-  <type name="ALV_PoliceShirt_Green">
-    <nominal>10</nominal>
-    <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>7</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
-    <usage name="Military" />
-  </type>
-  <type name="ALV_PoliceShirt_Brown">
-    <nominal>10</nominal>
-    <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>7</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
-    <usage name="Military" />
-  </type>
-  <type name="ALV_PoliceShirt_Black">
-    <nominal>10</nominal>
-    <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>7</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
-    <usage name="Military" />
-  </type>
-  <type name="ALV_PrisonJumpsuit_Orange">
     <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
@@ -4470,11 +4328,81 @@
     <usage name="Village" />
     <usage name="Military" />
   </type>
-  <type name="ALV_PolicePants_Grey">
-    <nominal>6</nominal>
+  <type name="ALV_PoliceShirt_Tan">
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+  </type>
+  <type name="ALV_PoliceShirt_Green">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+  </type>
+  <type name="ALV_PoliceShirt_Brown">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+  </type>
+  <type name="ALV_PoliceShirt_Black">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+  </type>
+  <type name="ALV_PrisonJumpsuit_Orange">
+    <nominal>2</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Military" />
+  </type>
+  <type name="ALV_PolicePants_Grey">
+    <nominal>3</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4485,10 +4413,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PolicePants_Blue">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4499,10 +4427,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PolicePants_Brown">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4513,10 +4441,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PolicePants_Tan">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4527,10 +4455,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_PolicePants_Black">
-    <nominal>6</nominal>
+    <nominal>3</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4542,10 +4470,10 @@
   </type>
   <!--01/04/2025 UPDATE -->
   <type name="ALV_AssaultVest_Tan">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4554,10 +4482,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_AssaultVest_Black">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4591,10 +4519,10 @@
   </type>
   <!-- 07/09/2025 UPDATE -->
   <type name="ALV_Monkrobes_Brown">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4605,10 +4533,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Monkrobes_Black">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4619,10 +4547,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_Monkrobes_Abbot">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4633,10 +4561,10 @@
     <usage name="Military" />
   </type>
   <type name="ALV_LeatherJacket_Black">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4648,10 +4576,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_LeatherJacket_Red">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4663,10 +4591,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_LeatherJacket_DarkRed">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4678,10 +4606,10 @@
     <usage name="Hunting" />
   </type>
   <type name="ALV_LeatherJacket_Brown">
-    <nominal>20</nominal>
+    <nominal>10</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>14</min>
+    <min>7</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

@@ -7519,10 +7519,10 @@
     <category name="tools" />
   </type>
   <type name="Flag_BabyDeer">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7543,10 +7543,10 @@
     <category name="tools" />
   </type>
   <type name="Flag_Bohemia">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7567,10 +7567,10 @@
     <category name="tools" />
   </type>
   <type name="Flag_CDF">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7580,10 +7580,10 @@
     <usage name="School" />
   </type>
   <type name="Flag_CHEL">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7593,10 +7593,10 @@
     <usage name="School" />
   </type>
   <type name="Flag_CMC">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7606,10 +7606,10 @@
     <usage name="School" />
   </type>
   <type name="Flag_Cannibals">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7619,10 +7619,10 @@
     <usage name="School" />
   </type>
   <type name="Flag_Chedaki">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7632,10 +7632,10 @@
     <usage name="School" />
   </type>
   <type name="Flag_Chernarus">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7656,10 +7656,10 @@
     <category name="tools" />
   </type>
   <type name="Flag_DayZ">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7669,10 +7669,10 @@
     <usage name="School" />
   </type>
   <type name="Flag_HunterZ">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7715,10 +7715,10 @@
     <category name="tools" />
   </type>
   <type name="Flag_NAPA">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7739,10 +7739,10 @@
     <category name="tools" />
   </type>
   <type name="Flag_Pirates">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7752,10 +7752,10 @@
     <usage name="School" />
   </type>
   <type name="Flag_RSTA">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7765,10 +7765,10 @@
     <usage name="School" />
   </type>
   <type name="Flag_Refuge">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7789,10 +7789,10 @@
     <category name="tools" />
   </type>
   <type name="Flag_Rooster">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7824,10 +7824,10 @@
     <category name="tools" />
   </type>
   <type name="Flag_Snake">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7837,10 +7837,10 @@
     <usage name="School" />
   </type>
   <type name="Flag_TEC">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7850,10 +7850,10 @@
     <usage name="School" />
   </type>
   <type name="Flag_UEC">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7863,10 +7863,10 @@
     <usage name="School" />
   </type>
   <type name="Flag_White">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7876,10 +7876,10 @@
     <usage name="School" />
   </type>
   <type name="Flag_Wolf">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7900,10 +7900,10 @@
     <category name="tools" />
   </type>
   <type name="Flag_Zenit">
-    <nominal>2</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>1</min>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
