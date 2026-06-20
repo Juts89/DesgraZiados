@@ -349,16 +349,16 @@
         "PrimaryWeapon": {},
         "SecondaryWeapon": {}
     },
-    "UseLoadouts": 0,
+    "UseLoadouts": 1,
     "MaleLoadouts": [
         {
-            "Loadout": "PlayerSurvivorLoadout",
+            "Loadout": "SpawnLoadout",
             "Chance": 1.0
         }
     ],
     "FemaleLoadouts": [
         {
-            "Loadout": "PlayerSurvivorLoadout",
+            "Loadout": "SpawnLoadout",
             "Chance": 1.0
         }
     ],
