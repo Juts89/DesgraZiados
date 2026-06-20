@@ -74,7 +74,7 @@ class CustomMission: MissionServer
 
 		if ( m_EventManagerServer )
 		{
-			m_EventManagerServer.OnInitServer( true, 550, 1000, 2 );
+			m_EventManagerServer.OnInitServer( true, 3300, 3900, 1 );
 			m_EventManagerServer.RegisterEvent( Aurora, 0.85 );
 			m_EventManagerServer.RegisterEvent( Blizzard, 0.4 );
 			m_EventManagerServer.RegisterEvent( ExtremeCold, 0.4 );
