@@ -293,7 +293,7 @@
                                      "SlotName":  "Feet",
                                      "Items":  [
                                                    {
-                                                       "ClassName":  "HikingBootsLow_Brown",
+                                                       "ClassName":  "HikingBoots_Brown",
                                                        "Chance":  1.0,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -323,75 +323,7 @@
                                  }
                              ],
     "InventoryCargo":  [
-                           {
-                               "ClassName":  "Rag",
-                               "Chance":  1.0,
-                               "Quantity":  {
-                                                "Min":  6,
-                                                "Max":  6
-                                            },
-                               "Health":  [
-
-                                          ],
-                               "InventoryAttachments":  [
-
-                                                        ],
-                               "InventoryCargo":  [
-
-                                                  ],
-                               "ConstructionPartsBuilt":  [
-
-                                                          ],
-                               "Sets":  [
-
-                                        ]
-                           },
-                           {
-                               "ClassName":  "Apple",
-                               "Chance":  1.0,
-                               "Quantity":  {
-                                                "Min":  1,
-                                                "Max":  1
-                                            },
-                               "Health":  [
-
-                                          ],
-                               "InventoryAttachments":  [
-
-                                                        ],
-                               "InventoryCargo":  [
-
-                                                  ],
-                               "ConstructionPartsBuilt":  [
-
-                                                          ],
-                               "Sets":  [
-
-                                        ]
-                           },
-                           {
-                               "ClassName":  "BoneKnife",
-                               "Chance":  1.0,
-                               "Quantity":  {
-                                                "Min":  1,
-                                                "Max":  1
-                                            },
-                               "Health":  [
-
-                                          ],
-                               "InventoryAttachments":  [
-
-                                                        ],
-                               "InventoryCargo":  [
-
-                                                  ],
-                               "ConstructionPartsBuilt":  [
-
-                                                          ],
-                               "Sets":  [
-
-                                        ]
-                           }
+                        
                        ],
     "ConstructionPartsBuilt":  [
 

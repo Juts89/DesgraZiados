@@ -42,6 +42,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="expansion_events.xml" type="events" />
 	</ce>
 	<!-- ....expansion types end -->
+	<!-- namalsk survival types -->
+	<ce folder="CustomTypes">
+		<file name="types_dzn.xml" type="types" />
+	</ce>
+	<!-- ....namalsk survival types end -->
 	<!-- mod types -->
 	<ce folder="CustomTypes">
 		<file name="alevarics.xml" type="types" />
