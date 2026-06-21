@@ -2088,7 +2088,7 @@
                                                       "SlotName":  "Shoulder",
                                                       "Items":  [
                                                                     {
-                                                                        "ClassName":  "M4A1_Black",
+                                                                        "ClassName":  "M4A1",
                                                                         "Chance":  1,
                                                                         "Quantity":  {
                                                                                          "Min":  0,

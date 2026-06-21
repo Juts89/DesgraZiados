@@ -1986,7 +1986,7 @@
                                                       "SlotName":  "Shoulder",
                                                       "Items":  [
                                                                     {
-                                                                        "ClassName":  "M4A1_Black",
+                                                                        "ClassName":  "M4A1",
                                                                         "Chance":  1,
                                                                         "Quantity":  {
                                                                                          "Min":  0,
@@ -2635,6 +2635,31 @@
                                                                                                                        {
                                                                                                                            "ClassName":  "M4_PlasticBttstck",
                                                                                                                            "Chance":  0.65,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       }
+                                                                                                                   ]
+                                                                                                     },
+                                                                                                     {
+                                                                                                         "SlotName":  "Handguard",
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_RailHndgrd",
+                                                                                                                           "Chance":  0.65,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "",
+                                                                                                                           "Chance":  0.35,
                                                                                                                            "Quantity":  {"Min": 0, "Max": 0},
                                                                                                                            "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
                                                                                                                            "InventoryAttachments":  [],
