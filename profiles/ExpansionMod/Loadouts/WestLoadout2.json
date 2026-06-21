@@ -2318,8 +2318,33 @@
                                                                                    ],
                                                                         "InventoryAttachments":  [
                                                                                                      {
+                                                                                                         "SlotName":  "Stock",
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "FN_FAL_OriginalBttstck",
+                                                                                                                           "Chance":  0.55,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "FN_FAL_FoldingBttstck",
+                                                                                                                           "Chance":  0.45,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       }
+                                                                                                                   ]
+                                                                                                     },
+                                                                                                     {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [{"ClassName":"ReflexOptic","Chance":0.25,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"ACOGOptic","Chance":0.18,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},
+                                                                                                         "Items":  [{"ClassName":"ReflexOptic","Chance":0.25,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"ACOGOptic","Chance":0.18,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"ImprovisedSuppressor","Chance":0.1,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},
                                                                                                                        {
                                                                                                                            "ClassName":  "Mag_FAL_20Rnd",
                                                                                                                            "Chance":  1,
