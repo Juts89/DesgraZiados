@@ -2495,7 +2495,7 @@
                                                                                                          "SlotName":  "Stock",
                                                                                                          "Items":  [
                                                                                                                        {
-                                                                                                                           "ClassName":  "FN_FAL_OriginalBttstck",
+                                                                                                                           "ClassName":  "Fal_OeBttstck",
                                                                                                                            "Chance":  0.55,
                                                                                                                            "Quantity":  {"Min": 0, "Max": 0},
                                                                                                                            "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
@@ -2505,7 +2505,7 @@
                                                                                                                            "Sets":  []
                                                                                                                        },
                                                                                                                        {
-                                                                                                                           "ClassName":  "FN_FAL_FoldingBttstck",
+                                                                                                                           "ClassName":  "Fal_FoldingBttstck",
                                                                                                                            "Chance":  0.45,
                                                                                                                            "Quantity":  {"Min": 0, "Max": 0},
                                                                                                                            "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
