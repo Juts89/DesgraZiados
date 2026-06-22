@@ -427,6 +427,17 @@
 
                                                                 ]
                                                    }
+                                                   },
+                                                   {
+                                                       "ClassName":  "Kneepads_Jeans_Black",
+                                                       "Chance":  0.25,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
                                                ]
                                  },
                                  {
@@ -647,6 +658,27 @@
                                                        "Sets":  [
 
                                                                 ]
+                                                   }
+                                                   },
+                                                   {
+                                                       "ClassName":  "High_Knee_Sneakers",
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "High_Knee_Sneakers_Black",
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
                                                    }
                                                ]
                                  },
@@ -1406,6 +1438,46 @@
                                                        "Sets":  [
 
                                                                 ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "Shemag_Brown",
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "Shemag_Green",
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "Shemag_Red",
+                                                       "Chance":  0.15,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "Shemag_White",
+                                                       "Chance":  0.15,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
                                                    }
                                                ]
                                  },
@@ -1600,6 +1672,107 @@
                                                        "Sets":  [
 
                                                                 ]
+                                                   }
+                                                   },
+                                                   {
+                                                       "ClassName":  "Shemagh_Green",
+                                                       "Chance":  0.3,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "Shemagh_Red",
+                                                       "Chance":  0.25,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "Shemagh_White",
+                                                       "Chance":  0.25,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "Shemag_Brown",
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "Shemag_Green",
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "Shemag_Red",
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "Shemag_White",
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "Scarf_Brown",
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "Scarf_Blue",
+                                                       "Chance":  0.15,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "Scarf_ColorPalette1",
+                                                       "Chance":  0.15,
+                                                       "Quantity":  {"Min": 0, "Max": 0},
+                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
                                                    }
                                                ]
                                  },
