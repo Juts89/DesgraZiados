@@ -740,7 +740,7 @@
                                      "SlotName":  "MASK",
                                      "Items":  [
                                                    {
-                                                       "ClassName":  "GasMask",
+                                                       "ClassName":  "AirborneMask",
                                                        "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -2004,8 +2004,8 @@
                                                                                                          "SlotName":  "Stock",
                                                                                                          "Items":  [
                                                                                                                        {
-                                                                                                                           "ClassName":  "M4_Tactical_Buttstck",
-                                                                                                                           "Chance":  0.6,
+                                                                                                                           "ClassName":  "M4_OEBttstck",
+                                                                                                                           "Chance":  0.35,
                                                                                                                            "Quantity":  {"Min": 0, "Max": 0},
                                                                                                                            "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
                                                                                                                            "InventoryAttachments":  [],
@@ -2014,8 +2014,18 @@
                                                                                                                            "Sets":  []
                                                                                                                        },
                                                                                                                        {
-                                                                                                                           "ClassName":  "M4_PlasticBttstck",
-                                                                                                                           "Chance":  0.4,
+                                                                                                                           "ClassName":  "M4_CQBBttstck",
+                                                                                                                           "Chance":  0.35,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_MPBttstck",
+                                                                                                                           "Chance":  0.3,
                                                                                                                            "Quantity":  {"Min": 0, "Max": 0},
                                                                                                                            "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
                                                                                                                            "InventoryAttachments":  [],
@@ -2029,8 +2039,8 @@
                                                                                                          "SlotName":  "Handguard",
                                                                                                          "Items":  [
                                                                                                                        {
-                                                                                                                           "ClassName":  "M4_RailHndgrd",
-                                                                                                                           "Chance":  0.65,
+                                                                                                                           "ClassName":  "M4_RISHndgrd",
+                                                                                                                           "Chance":  0.25,
                                                                                                                            "Quantity":  {"Min": 0, "Max": 0},
                                                                                                                            "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
                                                                                                                            "InventoryAttachments":  [],
@@ -2039,8 +2049,38 @@
                                                                                                                            "Sets":  []
                                                                                                                        },
                                                                                                                        {
-                                                                                                                           "ClassName":  "",
-                                                                                                                           "Chance":  0.35,
+                                                                                                                           "ClassName":  "M4_RISHndgrd_Black",
+                                                                                                                           "Chance":  0.2,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_RISHndgrd_Green",
+                                                                                                                           "Chance":  0.2,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_MPHndgrd",
+                                                                                                                           "Chance":  0.2,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_PlasticHndgrd",
+                                                                                                                           "Chance":  0.15,
                                                                                                                            "Quantity":  {"Min": 0, "Max": 0},
                                                                                                                            "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
                                                                                                                            "InventoryAttachments":  [],
@@ -2673,8 +2713,8 @@
                                                                                                          "SlotName":  "Handguard",
                                                                                                          "Items":  [
                                                                                                                        {
-                                                                                                                           "ClassName":  "M4_RailHndgrd",
-                                                                                                                           "Chance":  0.65,
+                                                                                                                           "ClassName":  "M4_RISHndgrd",
+                                                                                                                           "Chance":  0.25,
                                                                                                                            "Quantity":  {"Min": 0, "Max": 0},
                                                                                                                            "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
                                                                                                                            "InventoryAttachments":  [],
@@ -2683,8 +2723,38 @@
                                                                                                                            "Sets":  []
                                                                                                                        },
                                                                                                                        {
-                                                                                                                           "ClassName":  "",
-                                                                                                                           "Chance":  0.35,
+                                                                                                                           "ClassName":  "M4_RISHndgrd_Black",
+                                                                                                                           "Chance":  0.2,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_RISHndgrd_Green",
+                                                                                                                           "Chance":  0.2,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_MPHndgrd",
+                                                                                                                           "Chance":  0.2,
+                                                                                                                           "Quantity":  {"Min": 0, "Max": 0},
+                                                                                                                           "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "M4_PlasticHndgrd",
+                                                                                                                           "Chance":  0.15,
                                                                                                                            "Quantity":  {"Min": 0, "Max": 0},
                                                                                                                            "Health":  [{"Min": 0.7, "Max": 1.0, "Zone": ""}],
                                                                                                                            "InventoryAttachments":  [],
