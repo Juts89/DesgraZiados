@@ -1023,40 +1023,22 @@
             "all": 1
         },
         "DamageToPlayerHealthMultiplier": {
-            "all": 1.2000000476837159,
-            "highstr": 1.399999976158142,
-            "mediumstr": 1.2999999523162842,
-            "lowstr": 1.2000000476837159
+            "all": 1.0
         },
         "DamageToPlayerInBlockHealthMultiplier": {
-            "all": 0.6000000238418579,
-            "highstr": 0.699999988079071,
-            "mediumstr": 0.6499999761581421,
-            "lowstr": 0.6000000238418579
+            "all": 0.5
         },
         "DamageToPlayerShockMultiplier": {
-            "all": 1.2000000476837159,
-            "highstr": 1.399999976158142,
-            "mediumstr": 1.2999999523162842,
-            "lowstr": 1.2000000476837159
+            "all": 1.0
         },
         "DamageToPlayerInBlockShockMultiplier": {
-            "all": 0.6000000238418579,
-            "highstr": 0.699999988079071,
-            "mediumstr": 0.6499999761581421,
-            "lowstr": 0.6000000238418579
+            "all": 0.5
         },
         "DamageToPlayerStaminaPercent": {
-            "all": 12.0,
-            "highstr": 20.0,
-            "mediumstr": 16.0,
-            "lowstr": 12.0
+            "all": 10.0
         },
         "DamageToPlayerInBlockStaminaPercent": {
-            "all": 6.0,
-            "highstr": 10.0,
-            "mediumstr": 8.0,
-            "lowstr": 6.0
+            "all": 5.0
         },
         "DamageToPlayerBloodPercent": {
             "all": 0.0
@@ -1068,28 +1050,16 @@
             "all": 1
         },
         "DamageToPlayerBleedingChancePercent": {
-            "all": 10.0,
-            "highstr": 16.0,
-            "mediumstr": 13.0,
-            "lowstr": 10.0
+            "all": 5.0
         },
         "DamageToPlayerInBlockBleedingChancePercent": {
-            "all": 5.0,
-            "highstr": 8.0,
-            "mediumstr": 6.5,
-            "lowstr": 5.0
+            "all": 2.5
         },
         "StunToPlayerChancePercent": {
-            "all": 25.0,
-            "highstr": 35.0,
-            "mediumstr": 30.0,
-            "lowstr": 25.0
+            "all": 10.0
         },
         "StunToPlayerInBlockChancePercent": {
-            "all": 12.5,
-            "highstr": 17.5,
-            "mediumstr": 15.0,
-            "lowstr": 12.5
+            "all": 5.0
         },
         "DisarmToPlayerChancePercent": {
             "all": 0.0
@@ -1098,7 +1068,7 @@
             "all": 0.0
         },
         "FastAttackToPlayerChancePercent": {
-            "all": 100.0
+            "all": 0.0
         },
         "DiseasesToPlayerHandlerIsActive": {
             "all": 1
@@ -1246,37 +1216,22 @@
             "all": -1.0
         },
         "DamageToZombieHeadMeleeMultiplier": {
-            "mediumdef": 0.30000001192092898,
-            "all": 0.4000000059604645,
-            "lowdef": 0.4000000059604645,
-            "highdef": 0.20000000298023225
+            "all": 1.0
         },
         "DamageToZombieHeadRangeMultiplier": {
             "all": 1.0
         },
         "DamageToZombieBodyMeleeMultiplier": {
-            "mediumdef": 0.30000001192092898,
-            "all": 0.4000000059604645,
-            "lowdef": 0.4000000059604645,
-            "highdef": 0.20000000298023225
+            "all": 1.0
         },
         "DamageToZombieBodyRangeMultiplier": {
-            "mediumdef": 0.30000001192092898,
-            "all": 0.4000000059604645,
-            "lowdef": 0.4000000059604645,
-            "highdef": 0.20000000298023225
+            "all": 1.0
         },
         "DamageToZombieFromCarsMultiplier": {
-            "mediumdef": 0.30000001192092898,
-            "all": 0.4000000059604645,
-            "lowdef": 0.4000000059604645,
-            "highdef": 0.20000000298023225
+            "all": 1.0
         },
         "DamageToZombieFromExplosionsMultiplier": {
-            "mediumdef": 0.30000001192092898,
-            "all": 0.4000000059604645,
-            "lowdef": 0.4000000059604645,
-            "highdef": 0.20000000298023225
+            "all": 1.0
         },
         "DamageToZombieFromHotItemsHp": {
             "all": 10.0
@@ -1329,7 +1284,7 @@
             }
         },
         "MeleeAttacksDodgeHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "MeleeAttacksDodgeChance": {
             "all": 50.0
@@ -1338,7 +1293,7 @@
             "all": 10.0
         },
         "JumpAttackHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "JumpAttackChance": {
             "all": 10.0
@@ -1533,8 +1488,8 @@
             "all": 1
         },
         "ThrowingProjectilesHandlerIsActive": {
-            "all": 1,
-            "SurvivorBase": 1
+            "all": 0,
+            "SurvivorBase": 0
         },
         "ThrowingProjectilesHandlerDamageMultiplier": {
             "all": 0.8999999761581421,
@@ -1604,7 +1559,7 @@
             ]
         },
         "RangeAttacksHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "RangeAttacksHandlerZombiePlayerDistance": {
             "all": 2.0
@@ -1655,11 +1610,11 @@
         ],
         "DisableVanillaDoorNoiseSystem": 1,
         "OverrideGetHitComponentChances": 1,
-        "PainSystemIsActive": 1,
-        "PainSystemNotificationsType": 2.0,
-        "ShowPainBadges": 1,
-        "ShowPainBlur": 1,
-        "ShowMedicationInfo": 1,
+        "PainSystemIsActive": 0,
+        "PainSystemNotificationsType": 0.0,
+        "ShowPainBadges": 0,
+        "ShowPainBlur": 0,
+        "ShowMedicationInfo": 0,
         "PainHealingRatePerSecondPercent": 0.10000000149011612,
         "HealthDrainWithCriticalPainLimbPerSecondPercent": 0.15000000596046449,
         "HealthDrainWithRedPainLimbPerSecondPercent": 0.0,
@@ -1693,7 +1648,7 @@
         "ShockIfRunsWithPainedArms": 1,
         "ShockIfAttackingWithPainedArms": 1,
         "DisableStaminaRegenWhenTorsoPainDurationSeconds": 10.0,
-        "LimbsBreakSystemIsActive": 1,
+        "LimbsBreakSystemIsActive": 0,
         "LimbsBreakPainThresholdPercent": 30.0,
         "HeadBreakDurationSeconds": 1800.0,
         "ArmsBreakDurationSeconds": 1800.0,
@@ -1704,7 +1659,7 @@
         "LimbsBreakIgnoreAmmoList": [],
         "UnconsciousWhenHeadBreak": 1,
         "DisableVanillaBrokenLegWalk": 1,
-        "LimbsDeepWoundSystemIsActive": 1,
+        "LimbsDeepWoundSystemIsActive": 0,
         "HeadDeepWoundDurationSeconds": 1800.0,
         "ArmsDeepWoundDurationSeconds": 1800.0,
         "LegsDeepWoundDurationSeconds": 1800.0,
@@ -1714,9 +1669,9 @@
         "LimbsDeepWoundVanillaCutBleedRateMultiplier": 0.10000000149011612,
         "LimbsDeepWoundFromFalls": 1,
         "LegsDeepWoundFromTraps": 1,
-        "LimbsBulletSystemIsActive": 1,
+        "LimbsBulletSystemIsActive": 0,
         "LimbsBulletTimeToSecondStageSeconds": 7200.0,
-        "InternalBleedingSystemIsActive": 1,
+        "InternalBleedingSystemIsActive": 0,
         "InternalBleedingBloodLossRateMl": 2.0,
         "DestroyedDoorNotificationType": 2.0,
         "NoiseMultiplierDay": 2.0,
