@@ -1,4 +1,4 @@
-{
+﻿{
     "ClassName":  "",
     "Chance":  1,
     "Quantity":  {
@@ -286,7 +286,6 @@
                                                        "Sets":  [
 
                                                                 ]
-                                                   }
                                                    },
                                                    {
                                                        "ClassName":  "Kneepads_Jeans_Black",
@@ -410,7 +409,6 @@
                                                        "Sets":  [
 
                                                                 ]
-                                                   }
                                                    },
                                                    {
                                                        "ClassName":  "High_Knee_Sneakers",
@@ -1262,7 +1260,6 @@
                                                        "Sets":  [
 
                                                                 ]
-                                                   }
                                                    },
                                                    {
                                                        "ClassName":  "Shemagh_Brown",
