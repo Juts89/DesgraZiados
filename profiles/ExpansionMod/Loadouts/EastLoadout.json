@@ -290,12 +290,29 @@
                                                    {
                                                        "ClassName":  "Kneepads_Jeans_Black",
                                                        "Chance":  0.25,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
                                                    }
                                                ]
                                  },
@@ -413,22 +430,56 @@
                                                    {
                                                        "ClassName":  "High_Knee_Sneakers",
                                                        "Chance":  0.2,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
                                                    },
                                                    {
                                                        "ClassName":  "High_Knee_Sneakers_Black",
                                                        "Chance":  0.2,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
                                                    }
                                                ]
                                  },
@@ -945,7 +996,115 @@
                                  },
                                  {
                                      "SlotName":  "Headgear",
-                                     "Items":  [{"ClassName":"Ushanka_Black","Chance":0.3,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"Ushanka_Green","Chance":0.3,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"Ushanka_Blue","Chance":0.25,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"SnowstormUshanka_Olive","Chance":0.2,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "Ushanka_Black",
+                                                       "Chance":  0.3,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "Ushanka_Green",
+                                                       "Chance":  0.3,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "Ushanka_Blue",
+                                                       "Chance":  0.25,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "SnowstormUshanka_Olive",
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.45,
+                                                                          "Max":  0.7,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
                                                    {
                                                        "ClassName":  "BallisticHelmet_Green",
                                                        "Chance":  0.45,
@@ -1053,106 +1212,12 @@
                                                        "Sets":  [
 
                                                                 ]
-                                                   },
-                                                   {
-                                                       "ClassName":  "Shemag_Brown",
-                                                       "Chance":  0.2,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
-                                                   },
-                                                   {
-                                                       "ClassName":  "Shemag_Green",
-                                                       "Chance":  0.2,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
-                                                   },
-                                                   {
-                                                       "ClassName":  "Shemag_Red",
-                                                       "Chance":  0.15,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
-                                                   },
-                                                   {
-                                                       "ClassName":  "Shemag_White",
-                                                       "Chance":  0.15,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
                                                    }
                                                ]
                                  },
                                  {
                                      "SlotName":  "Face",
                                      "Items":  [
-                                                   {
-                                                       "ClassName":  "Shemagh_Black",
-                                                       "Chance":  0.4,
-                                                       "Quantity":  {
-                                                                        "Min":  0,
-                                                                        "Max":  0
-                                                                    },
-                                                       "Health":  [
-                                                                      {
-                                                                          "Min":  0.45,
-                                                                          "Max":  0.7,
-                                                                          "Zone":  ""
-                                                                      }
-                                                                  ],
-                                                       "InventoryAttachments":  [
-
-                                                                                ],
-                                                       "InventoryCargo":  [
-
-                                                                          ],
-                                                       "ConstructionPartsBuilt":  [
-
-                                                                                  ],
-                                                       "Sets":  [
-
-                                                                ]
-                                                   },
-                                                   {
-                                                       "ClassName":  "Shemagh_Green",
-                                                       "Chance":  0.35,
-                                                       "Quantity":  {
-                                                                        "Min":  0,
-                                                                        "Max":  0
-                                                                    },
-                                                       "Health":  [
-                                                                      {
-                                                                          "Min":  0.45,
-                                                                          "Max":  0.7,
-                                                                          "Zone":  ""
-                                                                      }
-                                                                  ],
-                                                       "InventoryAttachments":  [
-
-                                                                                ],
-                                                       "InventoryCargo":  [
-
-                                                                          ],
-                                                       "ConstructionPartsBuilt":  [
-
-                                                                                  ],
-                                                       "Sets":  [
-
-                                                                ]
-                                                   },
                                                    {
                                                        "ClassName":  "Balaclava3Holes_Black",
                                                        "Chance":  0.3,
@@ -1260,106 +1325,6 @@
                                                        "Sets":  [
 
                                                                 ]
-                                                   },
-                                                   {
-                                                       "ClassName":  "Shemagh_Brown",
-                                                       "Chance":  0.3,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
-                                                   },
-                                                   {
-                                                       "ClassName":  "Shemagh_Red",
-                                                       "Chance":  0.25,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
-                                                   },
-                                                   {
-                                                       "ClassName":  "Shemagh_White",
-                                                       "Chance":  0.25,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
-                                                   },
-                                                   {
-                                                       "ClassName":  "Shemag_Brown",
-                                                       "Chance":  0.2,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
-                                                   },
-                                                   {
-                                                       "ClassName":  "Shemag_Green",
-                                                       "Chance":  0.2,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
-                                                   },
-                                                   {
-                                                       "ClassName":  "Shemag_Red",
-                                                       "Chance":  0.2,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
-                                                   },
-                                                   {
-                                                       "ClassName":  "Shemag_White",
-                                                       "Chance":  0.2,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
-                                                   },
-                                                   {
-                                                       "ClassName":  "Scarf_Brown",
-                                                       "Chance":  0.2,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
-                                                   },
-                                                   {
-                                                       "ClassName":  "Scarf_Blue",
-                                                       "Chance":  0.15,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
-                                                   },
-                                                   {
-                                                       "ClassName":  "Scarf_ColorPalette1",
-                                                       "Chance":  0.15,
-                                                       "Quantity":  {"Min": 0, "Max": 0},
-                                                       "Health":  [{"Min": 0.45, "Max": 0.7, "Zone": ""}],
-                                                       "InventoryAttachments":  [],
-                                                       "InventoryCargo":  [],
-                                                       "ConstructionPartsBuilt":  [],
-                                                       "Sets":  []
                                                    }
                                                ]
                                  },
@@ -1708,7 +1673,142 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [{"ClassName":"AK_WoodBttstck","Chance":1,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"AK_WoodHndgrd","Chance":1,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"KobraOptic","Chance":0.22,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"PSO1Optic","Chance":0.12,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"AK_Suppressor","Chance":0.12,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "AK_WoodBttstck",
+                                                                                                                           "Chance":  1,
+                                                                                                                           "Quantity":  {
+                                                                                                                                            "Min":  0,
+                                                                                                                                            "Max":  0
+                                                                                                                                        },
+                                                                                                                           "Health":  [
+                                                                                                                                          {
+                                                                                                                                              "Min":  0.45,
+                                                                                                                                              "Max":  0.7,
+                                                                                                                                              "Zone":  ""
+                                                                                                                                          }
+                                                                                                                                      ],
+                                                                                                                           "InventoryAttachments":  [
+
+                                                                                                                                                    ],
+                                                                                                                           "InventoryCargo":  [
+
+                                                                                                                                              ],
+                                                                                                                           "ConstructionPartsBuilt":  [
+
+                                                                                                                                                      ],
+                                                                                                                           "Sets":  [
+
+                                                                                                                                    ]
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "AK_WoodHndgrd",
+                                                                                                                           "Chance":  1,
+                                                                                                                           "Quantity":  {
+                                                                                                                                            "Min":  0,
+                                                                                                                                            "Max":  0
+                                                                                                                                        },
+                                                                                                                           "Health":  [
+                                                                                                                                          {
+                                                                                                                                              "Min":  0.45,
+                                                                                                                                              "Max":  0.7,
+                                                                                                                                              "Zone":  ""
+                                                                                                                                          }
+                                                                                                                                      ],
+                                                                                                                           "InventoryAttachments":  [
+
+                                                                                                                                                    ],
+                                                                                                                           "InventoryCargo":  [
+
+                                                                                                                                              ],
+                                                                                                                           "ConstructionPartsBuilt":  [
+
+                                                                                                                                                      ],
+                                                                                                                           "Sets":  [
+
+                                                                                                                                    ]
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "KobraOptic",
+                                                                                                                           "Chance":  0.22,
+                                                                                                                           "Quantity":  {
+                                                                                                                                            "Min":  0,
+                                                                                                                                            "Max":  0
+                                                                                                                                        },
+                                                                                                                           "Health":  [
+                                                                                                                                          {
+                                                                                                                                              "Min":  0.45,
+                                                                                                                                              "Max":  0.7,
+                                                                                                                                              "Zone":  ""
+                                                                                                                                          }
+                                                                                                                                      ],
+                                                                                                                           "InventoryAttachments":  [
+
+                                                                                                                                                    ],
+                                                                                                                           "InventoryCargo":  [
+
+                                                                                                                                              ],
+                                                                                                                           "ConstructionPartsBuilt":  [
+
+                                                                                                                                                      ],
+                                                                                                                           "Sets":  [
+
+                                                                                                                                    ]
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "PSO1Optic",
+                                                                                                                           "Chance":  0.12,
+                                                                                                                           "Quantity":  {
+                                                                                                                                            "Min":  0,
+                                                                                                                                            "Max":  0
+                                                                                                                                        },
+                                                                                                                           "Health":  [
+                                                                                                                                          {
+                                                                                                                                              "Min":  0.45,
+                                                                                                                                              "Max":  0.7,
+                                                                                                                                              "Zone":  ""
+                                                                                                                                          }
+                                                                                                                                      ],
+                                                                                                                           "InventoryAttachments":  [
+
+                                                                                                                                                    ],
+                                                                                                                           "InventoryCargo":  [
+
+                                                                                                                                              ],
+                                                                                                                           "ConstructionPartsBuilt":  [
+
+                                                                                                                                                      ],
+                                                                                                                           "Sets":  [
+
+                                                                                                                                    ]
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "AK_Suppressor",
+                                                                                                                           "Chance":  0.12,
+                                                                                                                           "Quantity":  {
+                                                                                                                                            "Min":  0,
+                                                                                                                                            "Max":  0
+                                                                                                                                        },
+                                                                                                                           "Health":  [
+                                                                                                                                          {
+                                                                                                                                              "Min":  0.45,
+                                                                                                                                              "Max":  0.7,
+                                                                                                                                              "Zone":  ""
+                                                                                                                                          }
+                                                                                                                                      ],
+                                                                                                                           "InventoryAttachments":  [
+
+                                                                                                                                                    ],
+                                                                                                                           "InventoryCargo":  [
+
+                                                                                                                                              ],
+                                                                                                                           "ConstructionPartsBuilt":  [
+
+                                                                                                                                                      ],
+                                                                                                                           "Sets":  [
+
+                                                                                                                                    ]
+                                                                                                                       },
                                                                                                                        {
                                                                                                                            "ClassName":  "Mag_AKM_30Rnd",
                                                                                                                            "Chance":  1,
@@ -1873,7 +1973,115 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [{"ClassName":"AK_WoodBttstck","Chance":1,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"AK_WoodHndgrd","Chance":1,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"KobraOptic","Chance":0.22,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"PSO1Optic","Chance":0.12,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "AK_WoodBttstck",
+                                                                                                                           "Chance":  1,
+                                                                                                                           "Quantity":  {
+                                                                                                                                            "Min":  0,
+                                                                                                                                            "Max":  0
+                                                                                                                                        },
+                                                                                                                           "Health":  [
+                                                                                                                                          {
+                                                                                                                                              "Min":  0.45,
+                                                                                                                                              "Max":  0.7,
+                                                                                                                                              "Zone":  ""
+                                                                                                                                          }
+                                                                                                                                      ],
+                                                                                                                           "InventoryAttachments":  [
+
+                                                                                                                                                    ],
+                                                                                                                           "InventoryCargo":  [
+
+                                                                                                                                              ],
+                                                                                                                           "ConstructionPartsBuilt":  [
+
+                                                                                                                                                      ],
+                                                                                                                           "Sets":  [
+
+                                                                                                                                    ]
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "AK_WoodHndgrd",
+                                                                                                                           "Chance":  1,
+                                                                                                                           "Quantity":  {
+                                                                                                                                            "Min":  0,
+                                                                                                                                            "Max":  0
+                                                                                                                                        },
+                                                                                                                           "Health":  [
+                                                                                                                                          {
+                                                                                                                                              "Min":  0.45,
+                                                                                                                                              "Max":  0.7,
+                                                                                                                                              "Zone":  ""
+                                                                                                                                          }
+                                                                                                                                      ],
+                                                                                                                           "InventoryAttachments":  [
+
+                                                                                                                                                    ],
+                                                                                                                           "InventoryCargo":  [
+
+                                                                                                                                              ],
+                                                                                                                           "ConstructionPartsBuilt":  [
+
+                                                                                                                                                      ],
+                                                                                                                           "Sets":  [
+
+                                                                                                                                    ]
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "KobraOptic",
+                                                                                                                           "Chance":  0.22,
+                                                                                                                           "Quantity":  {
+                                                                                                                                            "Min":  0,
+                                                                                                                                            "Max":  0
+                                                                                                                                        },
+                                                                                                                           "Health":  [
+                                                                                                                                          {
+                                                                                                                                              "Min":  0.45,
+                                                                                                                                              "Max":  0.7,
+                                                                                                                                              "Zone":  ""
+                                                                                                                                          }
+                                                                                                                                      ],
+                                                                                                                           "InventoryAttachments":  [
+
+                                                                                                                                                    ],
+                                                                                                                           "InventoryCargo":  [
+
+                                                                                                                                              ],
+                                                                                                                           "ConstructionPartsBuilt":  [
+
+                                                                                                                                                      ],
+                                                                                                                           "Sets":  [
+
+                                                                                                                                    ]
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "PSO1Optic",
+                                                                                                                           "Chance":  0.12,
+                                                                                                                           "Quantity":  {
+                                                                                                                                            "Min":  0,
+                                                                                                                                            "Max":  0
+                                                                                                                                        },
+                                                                                                                           "Health":  [
+                                                                                                                                          {
+                                                                                                                                              "Min":  0.45,
+                                                                                                                                              "Max":  0.7,
+                                                                                                                                              "Zone":  ""
+                                                                                                                                          }
+                                                                                                                                      ],
+                                                                                                                           "InventoryAttachments":  [
+
+                                                                                                                                                    ],
+                                                                                                                           "InventoryCargo":  [
+
+                                                                                                                                              ],
+                                                                                                                           "ConstructionPartsBuilt":  [
+
+                                                                                                                                                      ],
+                                                                                                                           "Sets":  [
+
+                                                                                                                                    ]
+                                                                                                                       },
                                                                                                                        {
                                                                                                                            "ClassName":  "Mag_AK74_30Rnd",
                                                                                                                            "Chance":  1,
@@ -2038,7 +2246,61 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [{"ClassName":"AK_FoldingBttstck","Chance":1,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},{"ClassName":"KobraOptic","Chance":0.2,"Quantity":{"Min":0,"Max":0},"Health":[{"Min":0.45,"Max":0.7,"Zone":""}],"InventoryAttachments":[],"InventoryCargo":[],"ConstructionPartsBuilt":[],"Sets":[]},
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "AK_FoldingBttstck",
+                                                                                                                           "Chance":  1,
+                                                                                                                           "Quantity":  {
+                                                                                                                                            "Min":  0,
+                                                                                                                                            "Max":  0
+                                                                                                                                        },
+                                                                                                                           "Health":  [
+                                                                                                                                          {
+                                                                                                                                              "Min":  0.45,
+                                                                                                                                              "Max":  0.7,
+                                                                                                                                              "Zone":  ""
+                                                                                                                                          }
+                                                                                                                                      ],
+                                                                                                                           "InventoryAttachments":  [
+
+                                                                                                                                                    ],
+                                                                                                                           "InventoryCargo":  [
+
+                                                                                                                                              ],
+                                                                                                                           "ConstructionPartsBuilt":  [
+
+                                                                                                                                                      ],
+                                                                                                                           "Sets":  [
+
+                                                                                                                                    ]
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "KobraOptic",
+                                                                                                                           "Chance":  0.2,
+                                                                                                                           "Quantity":  {
+                                                                                                                                            "Min":  0,
+                                                                                                                                            "Max":  0
+                                                                                                                                        },
+                                                                                                                           "Health":  [
+                                                                                                                                          {
+                                                                                                                                              "Min":  0.45,
+                                                                                                                                              "Max":  0.7,
+                                                                                                                                              "Zone":  ""
+                                                                                                                                          }
+                                                                                                                                      ],
+                                                                                                                           "InventoryAttachments":  [
+
+                                                                                                                                                    ],
+                                                                                                                           "InventoryCargo":  [
+
+                                                                                                                                              ],
+                                                                                                                           "ConstructionPartsBuilt":  [
+
+                                                                                                                                                      ],
+                                                                                                                           "Sets":  [
+
+                                                                                                                                    ]
+                                                                                                                       },
                                                                                                                        {
                                                                                                                            "ClassName":  "Mag_AK74_30Rnd",
                                                                                                                            "Chance":  1,
