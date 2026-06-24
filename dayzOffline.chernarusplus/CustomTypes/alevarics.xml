@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <types>
   <!--
     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -475,9 +475,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Beret_Blue">
     <nominal>2</nominal>
@@ -489,9 +488,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Boonie_Tan">
     <nominal>5</nominal>
@@ -503,9 +501,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Boonie_Black">
     <nominal>5</nominal>
@@ -517,9 +514,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Boonie_Green">
     <nominal>5</nominal>
@@ -531,9 +527,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Boonie_MC">
     <nominal>5</nominal>
@@ -545,9 +540,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Beanie_Black">
     <nominal>15</nominal>
@@ -559,9 +553,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Beanie_Grey">
     <nominal>15</nominal>
@@ -573,9 +566,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Beanie_Pink">
     <nominal>15</nominal>
@@ -587,9 +579,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Beanie_Red">
     <nominal>15</nominal>
@@ -601,9 +592,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Beanie_WinterCamo">
     <nominal>15</nominal>
@@ -615,9 +605,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Beanie_Orange">
     <nominal>15</nominal>
@@ -629,9 +618,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Beanie_Green">
     <nominal>15</nominal>
@@ -643,9 +631,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Beanie_Camo">
     <nominal>15</nominal>
@@ -657,9 +644,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_TacCap_Black">
     <nominal>2</nominal>
@@ -671,9 +657,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_TacCap_Tan">
     <nominal>2</nominal>
@@ -685,9 +670,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_TacCap_Snow">
     <nominal>2</nominal>
@@ -699,9 +683,8 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
+    <usage name="Police" />
   </type>
   <type name="ALV_AssaultHelmet_Black">
     <nominal>2</nominal>
@@ -1528,10 +1511,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
+    <usage name="Police" />
   </type>
   <type name="ALV_LightweightJacket_Black">
     <nominal>10</nominal>
@@ -1543,10 +1525,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
+    <usage name="Police" />
   </type>
   <type name="ALV_LightweightJacket_Camo">
     <nominal>10</nominal>
@@ -1558,10 +1539,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
+    <usage name="Police" />
   </type>
   <type name="ALV_LightweightJacket_WinterCamo">
     <nominal>10</nominal>
@@ -1573,10 +1553,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
+    <usage name="Police" />
   </type>
   <type name="ALV_Duster_Black">
     <nominal>10</nominal>
@@ -2862,10 +2841,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
+    <usage name="Police" />
   </type>
   <type name="ALV_TacticalHoodie_Tan">
     <nominal>10</nominal>
@@ -2877,10 +2855,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
+    <usage name="Police" />
   </type>
   <type name="ALV_TacticalHoodie_Red">
     <nominal>10</nominal>
@@ -2892,10 +2869,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
+    <usage name="Police" />
   </type>
   <type name="ALV_TacticalHoodie_Olive">
     <nominal>10</nominal>
@@ -2907,10 +2883,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
+    <usage name="Police" />
   </type>
   <type name="ALV_TacticalHoodie_MC">
     <nominal>10</nominal>
@@ -2922,10 +2897,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
+    <usage name="Police" />
   </type>
   <type name="ALV_TacticalHoodie_EMR">
     <nominal>10</nominal>
@@ -2937,10 +2911,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
+    <usage name="Police" />
   </type>
   <type name="ALV_TacticalHoodie_Black">
     <nominal>10</nominal>
@@ -2952,10 +2925,9 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Town" />
-    <usage name="Village" />
     <usage name="Military" />
     <usage name="Hunting" />
+    <usage name="Police" />
   </type>
   <type name="ALV_FlannelShirt_White">
     <nominal>5</nominal>
