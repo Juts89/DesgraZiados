@@ -1026,19 +1026,19 @@
             "all": 1.0
         },
         "DamageToPlayerInBlockHealthMultiplier": {
-            "all": 0.5
+            "all": 0.0
         },
         "DamageToPlayerShockMultiplier": {
             "all": 1.0
         },
         "DamageToPlayerInBlockShockMultiplier": {
-            "all": 0.5
+            "all": 0.0
         },
         "DamageToPlayerStaminaPercent": {
             "all": 10.0
         },
         "DamageToPlayerInBlockStaminaPercent": {
-            "all": 5.0
+            "all": 0.0
         },
         "DamageToPlayerBloodPercent": {
             "all": 0.0
@@ -1053,13 +1053,13 @@
             "all": 5.0
         },
         "DamageToPlayerInBlockBleedingChancePercent": {
-            "all": 2.5
+            "all": 0.0
         },
         "StunToPlayerChancePercent": {
             "all": 10.0
         },
         "StunToPlayerInBlockChancePercent": {
-            "all": 5.0
+            "all": 0.0
         },
         "DisarmToPlayerChancePercent": {
             "all": 0.0
