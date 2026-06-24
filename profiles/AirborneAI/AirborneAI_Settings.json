@@ -1,6 +1,6 @@
 {
   "Enabled": 1,
-  "minPlayersToSpawnAircraft": 3,
+  "minPlayersToSpawnAircraft": 2,
   "maxActiveAircraft": 1,
   "startDelayTime": 600.0,
   "timeBetweenPlaneSpawns": 3600.0,
@@ -8,7 +8,7 @@
   "allowNightFlights": 1,
   "staticPlaneSpawnPosition": "",
   "overflyRandomPlayer": 1,
-  "minPlayersForOverfly": 3,
+  "minPlayersForOverfly": 2,
   "safeZonePositions": "",
   "noOverflyOnTerritory": 1,
 
