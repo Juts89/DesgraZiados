@@ -1,0 +1,84 @@
+{
+    "ClassName": "",
+    "Chance": 1,
+    "Quantity": { "Min": 0, "Max": 0 },
+    "Health": [],
+    "InventoryAttachments": [
+        {
+            "SlotName": "Body",
+            "Items": [
+                { "ClassName": "WoolCoat_Black",            "Chance": 0.15, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "WoolCoat_Grey",             "Chance": 0.15, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "WoolCoat_Brown",            "Chance": 0.15, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "QuiltedJacket_Black",       "Chance": 0.12, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "QuiltedJacket_Green",       "Chance": 0.12, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "QuiltedJacket_Grey",        "Chance": 0.12, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "HikingJacket_Blue",         "Chance": 0.10, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "HikingJacket_Grey",         "Chance": 0.10, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Wool_GreatCoat_Grey",       "Chance": 0.15, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Wool_GreatCoat_Navy",       "Chance": 0.15, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "WinterMilitaryCoat_Brown",  "Chance": 0.10, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "WinterMilitaryCoat_Grey",   "Chance": 0.10, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+            ]
+        },
+        {
+            "SlotName": "Legs",
+            "Items": [
+                { "ClassName": "Jeans_Black",        "Chance": 0.15, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Jeans_Blue",         "Chance": 0.15, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Jeans_BlueDark",     "Chance": 0.15, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "CargoPants_Black",   "Chance": 0.12, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "CargoPants_Beige",   "Chance": 0.12, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "CargoPants_Grey",    "Chance": 0.12, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Skinny_Jeans_Black", "Chance": 0.10, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Skinny_Jeans_Blue",  "Chance": 0.10, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Galife_Pants_Olive", "Chance": 0.10, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+            ]
+        },
+        {
+            "SlotName": "Feet",
+            "Items": [
+                { "ClassName": "WorkingBoots_Brown",  "Chance": 0.25, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "WorkingBoots_Beige",  "Chance": 0.25, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "WorkingBoots_Grey",   "Chance": 0.20, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "WorkingBoots_Yellow", "Chance": 0.15, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "CombatBoots_Black",   "Chance": 0.15, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+            ]
+        },
+        {
+            "SlotName": "Headgear",
+            "Items": [
+                { "ClassName": "Ushanka_Black",          "Chance": 0.15, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Ushanka_Green",          "Chance": 0.15, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Ushanka_Blue",           "Chance": 0.10, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "BeanieHat_Black",        "Chance": 0.15, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "SherpaHat_Black",        "Chance": 0.10, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "SherpaHat_Red",          "Chance": 0.10, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "CowboyHat_Brown",        "Chance": 0.10, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Slouch_Hat_Brown",       "Chance": 0.08, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "BoonieHat_Black",        "Chance": 0.07, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+            ]
+        },
+        {
+            "SlotName": "Gloves",
+            "Items": [
+                { "ClassName": "WoolGlovesFingerless_Black",    "Chance": 0.20, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "WoolGlovesFingerless_White",    "Chance": 0.20, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Fingerless_Gloves_Wool",        "Chance": 0.20, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Fingerless_Gloves_Wool_Black",  "Chance": 0.20, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Fingerless_Gloves_Wool_Grey",   "Chance": 0.20, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+            ]
+        },
+        {
+            "SlotName": "Neck",
+            "Items": [
+                { "ClassName": "Scarf_Brown", "Chance": 0.35, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Scarf_Blue",  "Chance": 0.35, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                { "ClassName": "Scarf_Red",   "Chance": 0.30, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+            ]
+        }
+    ],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+}
