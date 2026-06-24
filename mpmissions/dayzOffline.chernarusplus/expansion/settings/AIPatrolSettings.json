@@ -2502,7 +2502,7 @@
                         "Units":  [
 
                                   ],
-                        "NumberOfAI":  2,
+                        "NumberOfAI":  3,
                         "NumberOfAIMax":  0,
                         "Behaviour":  "PATROL",
                         "LootingBehaviour":  "DEFAULT",
