@@ -1065,10 +1065,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Stanag_30rnd_Tan">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1079,10 +1079,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Stanag_30rnd_UPC">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1106,10 +1106,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Stanag_100rnd_camo">
-    <nominal>5</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>3</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1119,10 +1119,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Stanag_100rnd_Digitan">
-    <nominal>5</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>3</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1132,10 +1132,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Stanag_100rnd_Tan">
-    <nominal>5</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>3</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1145,10 +1145,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Stanag_100rnd_UPC">
-    <nominal>5</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>3</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1172,10 +1172,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Pmag_30rnd_camo">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1186,10 +1186,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Pmag_30rnd_Digitan">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1200,10 +1200,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Pmag_30rnd_Tan">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1214,10 +1214,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Pmag_30rnd_UPC">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1242,10 +1242,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Pmag_40rnd_camo">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1256,10 +1256,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Pmag_40rnd_Digitan">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1270,10 +1270,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Pmag_40rnd_Tan">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1284,10 +1284,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Pmag_40rnd_UPC">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1311,10 +1311,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Pmag_100rnd_camo">
-    <nominal>5</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>3</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1324,10 +1324,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Pmag_100rnd_Digitan">
-    <nominal>5</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>3</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1337,10 +1337,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Pmag_100rnd_Tan">
-    <nominal>5</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>3</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1350,10 +1350,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_556Pmag_100rnd_UPC">
-    <nominal>5</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>3</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1377,10 +1377,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_762Stanag_20rnd_camo">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1391,10 +1391,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_762Stanag_20rnd_Digitan">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1405,10 +1405,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_762Stanag_20rnd_Tan">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1419,10 +1419,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_762Stanag_20rnd_UPC">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1447,10 +1447,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_762Stanag_10rnd_camo">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1461,10 +1461,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_762Stanag_10rnd_Digitan">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1475,10 +1475,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_762Stanag_10rnd_Tan">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -1489,10 +1489,10 @@
     <value name="Tier4" />
   </type>
   <type name="TTC_DMR_762Stanag_10rnd_UPC">
-    <nominal>8</nominal>
-    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <lifetime>300</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>40</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
