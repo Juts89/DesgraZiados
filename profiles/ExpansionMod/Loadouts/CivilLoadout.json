@@ -77,6 +77,236 @@
                 { "ClassName": "Scarf_Red",   "Chance": 0.30, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
             ]
         }
+        ,
+        {
+            "SlotName": "Back",
+            "Items": [
+                {
+                    "ClassName": "CourierBag",
+                    "Chance": 0.18,
+                    "Quantity": {"Min":0,"Max":0},
+                    "Health": [{"Min":0.6,"Max":1.0,"Zone":""}],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "Shoulder",
+                            "Items": [
+                                {
+                                    "ClassName": "IZH43",
+                                    "Chance": 0.5,
+                                    "Quantity": {"Min":0,"Max":0},
+                                    "Health": [{"Min":0.5,"Max":0.9,"Zone":""}],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "Bk133",
+                                    "Chance": 0.5,
+                                    "Quantity": {"Min":0,"Max":0},
+                                    "Health": [{"Min":0.5,"Max":0.9,"Zone":""}],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [
+                        { "ClassName": "ShotgunShell", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                        { "ClassName": "ShotgunShell", "Chance": 0.8, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                        { "ClassName": "ShotgunShell", "Chance": 0.6, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                        { "ClassName": "ShotgunShell", "Chance": 0.4, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                    ],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "CanvasBag_Olive",
+                    "Chance": 0.18,
+                    "Quantity": {"Min":0,"Max":0},
+                    "Health": [{"Min":0.6,"Max":1.0,"Zone":""}],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "Shoulder",
+                            "Items": [
+                                {
+                                    "ClassName": "Mp133",
+                                    "Chance": 1.0,
+                                    "Quantity": {"Min":0,"Max":0},
+                                    "Health": [{"Min":0.5,"Max":0.9,"Zone":""}],
+                                    "InventoryAttachments": [],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [
+                        { "ClassName": "ShotgunShell", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                        { "ClassName": "ShotgunShell", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                        { "ClassName": "ShotgunShell", "Chance": 0.7, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                        { "ClassName": "ShotgunShell", "Chance": 0.5, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                    ],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "HuntingBag",
+                    "Chance": 0.20,
+                    "Quantity": {"Min":0,"Max":0},
+                    "Health": [{"Min":0.6,"Max":1.0,"Zone":""}],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "Shoulder",
+                            "Items": [
+                                {
+                                    "ClassName": "Mosin9130",
+                                    "Chance": 0.6,
+                                    "Quantity": {"Min":0,"Max":0},
+                                    "Health": [{"Min":0.5,"Max":0.9,"Zone":""}],
+                                    "InventoryAttachments": [
+                                        {
+                                            "SlotName": "",
+                                            "Items": [
+                                                { "ClassName": "Mag_Mosin_5Rnd", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                                            ]
+                                        }
+                                    ],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "CZ527",
+                                    "Chance": 0.4,
+                                    "Quantity": {"Min":0,"Max":0},
+                                    "Health": [{"Min":0.5,"Max":0.9,"Zone":""}],
+                                    "InventoryAttachments": [
+                                        {
+                                            "SlotName": "",
+                                            "Items": [
+                                                { "ClassName": "Mag_CZ527_5rnd", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                                            ]
+                                        }
+                                    ],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [
+                        { "ClassName": "Mag_Mosin_5Rnd", "Chance": 0.7, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                        { "ClassName": "Mag_CZ527_5rnd", "Chance": 0.5, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                    ],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "TaloonBag_Green",
+                    "Chance": 0.18,
+                    "Quantity": {"Min":0,"Max":0},
+                    "Health": [{"Min":0.6,"Max":1.0,"Zone":""}],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "Shoulder",
+                            "Items": [
+                                {
+                                    "ClassName": "Sporter22",
+                                    "Chance": 1.0,
+                                    "Quantity": {"Min":0,"Max":0},
+                                    "Health": [{"Min":0.5,"Max":0.9,"Zone":""}],
+                                    "InventoryAttachments": [
+                                        {
+                                            "SlotName": "",
+                                            "Items": [
+                                                { "ClassName": "Mag_Sporter22_10Rnd", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                                            ]
+                                        }
+                                    ],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [
+                        { "ClassName": "Mag_Sporter22_10Rnd", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                        { "ClassName": "Mag_Sporter22_10Rnd", "Chance": 0.6, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                    ],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "CourierBag",
+                    "Chance": 0.14,
+                    "Quantity": {"Min":0,"Max":0},
+                    "Health": [{"Min":0.6,"Max":1.0,"Zone":""}],
+                    "InventoryAttachments": [
+                        {
+                            "SlotName": "Shoulder",
+                            "Items": [
+                                {
+                                    "ClassName": "CR75",
+                                    "Chance": 0.6,
+                                    "Quantity": {"Min":0,"Max":0},
+                                    "Health": [{"Min":0.5,"Max":0.9,"Zone":""}],
+                                    "InventoryAttachments": [
+                                        {
+                                            "SlotName": "",
+                                            "Items": [
+                                                { "ClassName": "Mag_CR75_15Rnd", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                                            ]
+                                        }
+                                    ],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                },
+                                {
+                                    "ClassName": "P1",
+                                    "Chance": 0.4,
+                                    "Quantity": {"Min":0,"Max":0},
+                                    "Health": [{"Min":0.5,"Max":0.9,"Zone":""}],
+                                    "InventoryAttachments": [
+                                        {
+                                            "SlotName": "",
+                                            "Items": [
+                                                { "ClassName": "Mag_P1_8Rnd", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                                            ]
+                                        }
+                                    ],
+                                    "InventoryCargo": [],
+                                    "ConstructionPartsBuilt": [],
+                                    "Sets": []
+                                }
+                            ]
+                        }
+                    ],
+                    "InventoryCargo": [
+                        { "ClassName": "Mag_CR75_15Rnd", "Chance": 0.6, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
+                        { "ClassName": "Mag_P1_8Rnd", "Chance": 0.4, "Quantity": {"Min":0,"Max":0}, "Health": [], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                    ],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "CanvasBag_Olive",
+                    "Chance": 0.12,
+                    "Quantity": {"Min":0,"Max":0},
+                    "Health": [{"Min":0.6,"Max":1.0,"Zone":""}],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        }
     ],
     "InventoryCargo": [],
     "ConstructionPartsBuilt": [],
