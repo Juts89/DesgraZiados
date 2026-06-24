@@ -13,6 +13,26 @@
                                      "SlotName":  "Body",
                                      "Items":  [
                                                    {
+                                                       "ClassName":  "M65Jacket_Olive",
+                                                       "Chance":  0.6,
+                                                       "Quantity":  {"Min":  0,"Max":  0},
+                                                       "Health":  [{"Min":  0.45,"Max":  0.7,"Zone":  ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "M65Jacket_Khaki",
+                                                       "Chance":  0.55,
+                                                       "Quantity":  {"Min":  0,"Max":  0},
+                                                       "Health":  [{"Min":  0.45,"Max":  0.7,"Zone":  ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
                                                        "ClassName":  "ALV_Tshirt_Black",
                                                        "Chance":  0.6,
                                                        "Quantity":  {
@@ -152,6 +172,46 @@
                                  {
                                      "SlotName":  "Legs",
                                      "Items":  [
+                                                   {
+                                                       "ClassName":  "Galife_Pants_Olive",
+                                                       "Chance":  0.55,
+                                                       "Quantity":  {"Min":  0,"Max":  0},
+                                                       "Health":  [{"Min":  0.45,"Max":  0.7,"Zone":  ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "Galife_Pants_Navy",
+                                                       "Chance":  0.5,
+                                                       "Quantity":  {"Min":  0,"Max":  0},
+                                                       "Health":  [{"Min":  0.45,"Max":  0.7,"Zone":  ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "GorkaPants_Summer",
+                                                       "Chance":  0.5,
+                                                       "Quantity":  {"Min":  0,"Max":  0},
+                                                       "Health":  [{"Min":  0.45,"Max":  0.7,"Zone":  ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
+                                                   {
+                                                       "ClassName":  "GorkaPants_Flat",
+                                                       "Chance":  0.45,
+                                                       "Quantity":  {"Min":  0,"Max":  0},
+                                                       "Health":  [{"Min":  0.45,"Max":  0.7,"Zone":  ""}],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   },
                                                    {
                                                        "ClassName":  "ALV_HunterPants_Black",
                                                        "Chance":  0.55,
