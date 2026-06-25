@@ -23,6 +23,12 @@
             ]
         },
         {
+            "SlotName": "Mask",
+            "Items": [
+                { "ClassName": "ALV_PlagueMask_Brown", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+            ]
+        },
+        {
             "SlotName": "Gloves",
             "Items": [
                 { "ClassName": "HandsCover_Improvised", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
