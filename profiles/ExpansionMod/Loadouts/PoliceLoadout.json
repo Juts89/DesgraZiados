@@ -67,7 +67,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "Shemag_Tan",
+                                                       "ClassName":  "Shemag_Brown",
                                                        "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -126,7 +126,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_ShemaghScarf_Brown",
+                                                       "ClassName":  "Shemag_Brown",
                                                        "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
