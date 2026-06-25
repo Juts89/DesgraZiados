@@ -3791,7 +3791,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "WestLoadout",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -3903,7 +3903,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "WestLoadout",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -4015,7 +4015,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "WestLoadout",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
