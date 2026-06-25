@@ -1,0 +1,47 @@
+{
+    "ClassName": "",
+    "Chance": 1,
+    "Quantity": { "Min": 0, "Max": 0 },
+    "Health": [],
+    "InventoryAttachments": [
+        {
+            "SlotName": "Body",
+            "Items": [
+                { "ClassName": "ALV_Monkrober_Brown", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+            ]
+        },
+        {
+            "SlotName": "Headgear",
+            "Items": [
+                { "ClassName": "ALV_TatteredPoncho_Brown", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+            ]
+        },
+        {
+            "SlotName": "Eyewear",
+            "Items": [
+                { "ClassName": "Ragged_Eyepatch", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+            ]
+        },
+        {
+            "SlotName": "Gloves",
+            "Items": [
+                { "ClassName": "HandsCover_Improvised", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+            ]
+        },
+        {
+            "SlotName": "Feet",
+            "Items": [
+                { "ClassName": "FeetCover_Improvised", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+            ]
+        },
+        {
+            "SlotName": "Back",
+            "Items": [
+                { "ClassName": "ImprovisedBag", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+            ]
+        }
+    ],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+}
