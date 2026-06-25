@@ -13,8 +13,8 @@
     0,
     0
   ],
-  "NPCName": "Peter",
-  "DefaultNPCText": "Hmm?",
+  "NPCName": "Patter",
+  "DefaultNPCText": "Hijo mío...",
   "Waypoints": [
     [
       3695.969971,
@@ -24,7 +24,7 @@
   ],
   "NPCEmoteID": 46,
   "NPCEmoteIsStatic": 0,
-  "NPCLoadoutFile": "DoctorLoadout",
+  "NPCLoadoutFile": "MonkLoadout",
   "NPCInteractionEmoteID": 1,
   "NPCQuestCancelEmoteID": 60,
   "NPCQuestStartEmoteID": 58,
