@@ -4211,31 +4211,29 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [
-                                                                                                                       {
-                                                                                                                           "ClassName":  "Mag_CZ61_20Rnd",
-                                                                                                                           "Chance":  1.0,
-                                                                                                                           "Quantity":  {
-                                                                                                                                            "Min":  0.0,
-                                                                                                                                            "Max":  0.0
-                                                                                                                                        },
-                                                                                                                           "Health":  [
+                                                                                                         "Items":  {
+                                                                                                                       "ClassName":  "Mag_CZ61_20Rnd",
+                                                                                                                       "Chance":  1.0,
+                                                                                                                       "Quantity":  {
+                                                                                                                                        "Min":  0.0,
+                                                                                                                                        "Max":  0.0
+                                                                                                                                    },
+                                                                                                                       "Health":  [
 
-                                                                                                                                      ],
-                                                                                                                           "InventoryAttachments":  [
+                                                                                                                                  ],
+                                                                                                                       "InventoryAttachments":  [
 
-                                                                                                                                                    ],
-                                                                                                                           "InventoryCargo":  [
+                                                                                                                                                ],
+                                                                                                                       "InventoryCargo":  [
 
-                                                                                                                                              ],
-                                                                                                                           "ConstructionPartsBuilt":  [
+                                                                                                                                          ],
+                                                                                                                       "ConstructionPartsBuilt":  [
 
-                                                                                                                                                      ],
-                                                                                                                           "Sets":  [
+                                                                                                                                                  ],
+                                                                                                                       "Sets":  [
 
-                                                                                                                                    ]
-                                                                                                                       }
-                                                                                                                   ]
+                                                                                                                                ]
+                                                                                                                   }
                                                                                                      }
                                                                                                  ],
                                                                         "InventoryCargo":  [
@@ -4455,31 +4453,29 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [
-                                                                                                                       {
-                                                                                                                           "ClassName":  "Mag_Glock_15Rnd",
-                                                                                                                           "Chance":  1.0,
-                                                                                                                           "Quantity":  {
-                                                                                                                                            "Min":  0.0,
-                                                                                                                                            "Max":  0.0
-                                                                                                                                        },
-                                                                                                                           "Health":  [
+                                                                                                         "Items":  {
+                                                                                                                       "ClassName":  "Mag_Glock_15Rnd",
+                                                                                                                       "Chance":  1.0,
+                                                                                                                       "Quantity":  {
+                                                                                                                                        "Min":  0.0,
+                                                                                                                                        "Max":  0.0
+                                                                                                                                    },
+                                                                                                                       "Health":  [
 
-                                                                                                                                      ],
-                                                                                                                           "InventoryAttachments":  [
+                                                                                                                                  ],
+                                                                                                                       "InventoryAttachments":  [
 
-                                                                                                                                                    ],
-                                                                                                                           "InventoryCargo":  [
+                                                                                                                                                ],
+                                                                                                                       "InventoryCargo":  [
 
-                                                                                                                                              ],
-                                                                                                                           "ConstructionPartsBuilt":  [
+                                                                                                                                          ],
+                                                                                                                       "ConstructionPartsBuilt":  [
 
-                                                                                                                                                      ],
-                                                                                                                           "Sets":  [
+                                                                                                                                                  ],
+                                                                                                                       "Sets":  [
 
-                                                                                                                                    ]
-                                                                                                                       }
-                                                                                                                   ]
+                                                                                                                                ]
+                                                                                                                   }
                                                                                                      }
                                                                                                  ],
                                                                         "InventoryCargo":  [

@@ -2943,31 +2943,29 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [
-                                                                                                                       {
-                                                                                                                           "ClassName":  "Mag_Aug_30Rnd",
-                                                                                                                           "Chance":  1.0,
-                                                                                                                           "Quantity":  {
-                                                                                                                                            "Min":  0.0,
-                                                                                                                                            "Max":  0.0
-                                                                                                                                        },
-                                                                                                                           "Health":  [
+                                                                                                         "Items":  {
+                                                                                                                       "ClassName":  "Mag_Aug_30Rnd",
+                                                                                                                       "Chance":  1.0,
+                                                                                                                       "Quantity":  {
+                                                                                                                                        "Min":  0.0,
+                                                                                                                                        "Max":  0.0
+                                                                                                                                    },
+                                                                                                                       "Health":  [
 
-                                                                                                                                      ],
-                                                                                                                           "InventoryAttachments":  [
+                                                                                                                                  ],
+                                                                                                                       "InventoryAttachments":  [
 
-                                                                                                                                                    ],
-                                                                                                                           "InventoryCargo":  [
+                                                                                                                                                ],
+                                                                                                                       "InventoryCargo":  [
 
-                                                                                                                                              ],
-                                                                                                                           "ConstructionPartsBuilt":  [
+                                                                                                                                          ],
+                                                                                                                       "ConstructionPartsBuilt":  [
 
-                                                                                                                                                      ],
-                                                                                                                           "Sets":  [
+                                                                                                                                                  ],
+                                                                                                                       "Sets":  [
 
-                                                                                                                                    ]
-                                                                                                                       }
-                                                                                                                   ]
+                                                                                                                                ]
+                                                                                                                   }
                                                                                                      }
                                                                                                  ],
                                                                         "InventoryCargo":  [
@@ -3616,31 +3614,29 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [
-                                                                                                                       {
-                                                                                                                           "ClassName":  "Mag_FAMAS_25Rnd",
-                                                                                                                           "Chance":  1.0,
-                                                                                                                           "Quantity":  {
-                                                                                                                                            "Min":  0.0,
-                                                                                                                                            "Max":  0.0
-                                                                                                                                        },
-                                                                                                                           "Health":  [
+                                                                                                         "Items":  {
+                                                                                                                       "ClassName":  "Mag_FAMAS_25Rnd",
+                                                                                                                       "Chance":  1.0,
+                                                                                                                       "Quantity":  {
+                                                                                                                                        "Min":  0.0,
+                                                                                                                                        "Max":  0.0
+                                                                                                                                    },
+                                                                                                                       "Health":  [
 
-                                                                                                                                      ],
-                                                                                                                           "InventoryAttachments":  [
+                                                                                                                                  ],
+                                                                                                                       "InventoryAttachments":  [
 
-                                                                                                                                                    ],
-                                                                                                                           "InventoryCargo":  [
+                                                                                                                                                ],
+                                                                                                                       "InventoryCargo":  [
 
-                                                                                                                                              ],
-                                                                                                                           "ConstructionPartsBuilt":  [
+                                                                                                                                          ],
+                                                                                                                       "ConstructionPartsBuilt":  [
 
-                                                                                                                                                      ],
-                                                                                                                           "Sets":  [
+                                                                                                                                                  ],
+                                                                                                                       "Sets":  [
 
-                                                                                                                                    ]
-                                                                                                                       }
-                                                                                                                   ]
+                                                                                                                                ]
+                                                                                                                   }
                                                                                                      }
                                                                                                  ],
                                                                         "InventoryCargo":  [
@@ -5106,7 +5102,114 @@
                                                                                                      }
                                                                                                  ],
                                                                         "InventoryCargo":  [
+                                                                                               {
+                                                                                                   "ClassName":  "Ammo_762x39",
+                                                                                                   "Chance":  1,
+                                                                                                   "Quantity":  {
+                                                                                                                    "Min":  0,
+                                                                                                                    "Max":  0
+                                                                                                                },
+                                                                                                   "Health":  [
+                                                                                                                  {
+                                                                                                                      "Min":  0.5,
+                                                                                                                      "Max":  1,
+                                                                                                                      "Zone":  ""
+                                                                                                                  }
+                                                                                                              ],
+                                                                                                   "InventoryAttachments":  [
 
+                                                                                                                            ],
+                                                                                                   "InventoryCargo":  [
+
+                                                                                                                      ],
+                                                                                                   "ConstructionPartsBuilt":  [
+
+                                                                                                                              ],
+                                                                                                   "Sets":  [
+
+                                                                                                            ]
+                                                                                               },
+                                                                                               {
+                                                                                                   "ClassName":  "Ammo_762x39",
+                                                                                                   "Chance":  1,
+                                                                                                   "Quantity":  {
+                                                                                                                    "Min":  0,
+                                                                                                                    "Max":  0
+                                                                                                                },
+                                                                                                   "Health":  [
+                                                                                                                  {
+                                                                                                                      "Min":  0.5,
+                                                                                                                      "Max":  1,
+                                                                                                                      "Zone":  ""
+                                                                                                                  }
+                                                                                                              ],
+                                                                                                   "InventoryAttachments":  [
+
+                                                                                                                            ],
+                                                                                                   "InventoryCargo":  [
+
+                                                                                                                      ],
+                                                                                                   "ConstructionPartsBuilt":  [
+
+                                                                                                                              ],
+                                                                                                   "Sets":  [
+
+                                                                                                            ]
+                                                                                               },
+                                                                                               {
+                                                                                                   "ClassName":  "Ammo_762x39",
+                                                                                                   "Chance":  0.8,
+                                                                                                   "Quantity":  {
+                                                                                                                    "Min":  0,
+                                                                                                                    "Max":  0
+                                                                                                                },
+                                                                                                   "Health":  [
+                                                                                                                  {
+                                                                                                                      "Min":  0.5,
+                                                                                                                      "Max":  1,
+                                                                                                                      "Zone":  ""
+                                                                                                                  }
+                                                                                                              ],
+                                                                                                   "InventoryAttachments":  [
+
+                                                                                                                            ],
+                                                                                                   "InventoryCargo":  [
+
+                                                                                                                      ],
+                                                                                                   "ConstructionPartsBuilt":  [
+
+                                                                                                                              ],
+                                                                                                   "Sets":  [
+
+                                                                                                            ]
+                                                                                               },
+                                                                                               {
+                                                                                                   "ClassName":  "Ammo_762x39",
+                                                                                                   "Chance":  0.8,
+                                                                                                   "Quantity":  {
+                                                                                                                    "Min":  0,
+                                                                                                                    "Max":  0
+                                                                                                                },
+                                                                                                   "Health":  [
+                                                                                                                  {
+                                                                                                                      "Min":  0.5,
+                                                                                                                      "Max":  1,
+                                                                                                                      "Zone":  ""
+                                                                                                                  }
+                                                                                                              ],
+                                                                                                   "InventoryAttachments":  [
+
+                                                                                                                            ],
+                                                                                                   "InventoryCargo":  [
+
+                                                                                                                      ],
+                                                                                                   "ConstructionPartsBuilt":  [
+
+                                                                                                                              ],
+                                                                                                   "Sets":  [
+
+                                                                                                            ]
+                                                                                               }
                                                                                            ],
                                                                         "ConstructionPartsBuilt":  [
 
@@ -5582,7 +5685,7 @@
                                                                                                                                                       ]
                                                                                                                        },
                                                                                                                        {
-                                                                                                                           "ClassName":  "Mag_VSS_10Rnd",
+                                                                                                                           "ClassName":  "Mag_VSS_20Rnd",
                                                                                                                            "Chance":  0.175,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0,
@@ -5602,7 +5705,7 @@
                                                                                                                                                       ]
                                                                                                                        },
                                                                                                                        {
-                                                                                                                           "ClassName":  "Mag_VAL_20Rnd",
+                                                                                                                           "ClassName":  "Mag_VSS_20Rnd",
                                                                                                                            "Chance":  0.12249999999999998,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0,
@@ -5622,7 +5725,7 @@
                                                                                                                                                       ]
                                                                                                                        },
                                                                                                                        {
-                                                                                                                           "ClassName":  "Mag_Vikhr_30Rnd",
+                                                                                                                           "ClassName":  "Mag_VSS_20Rnd",
                                                                                                                            "Chance":  0.0525,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0,
@@ -5658,7 +5761,60 @@
                                                   }
                                               ],
                      "InventoryCargo":  [
+                                            {
+                                                "ClassName":  "Mag_VSS_20Rnd",
+                                                "Chance":  1,
+                                                "Quantity":  {
+                                                                 "Min":  0,
+                                                                 "Max":  0
+                                                             },
+                                                "Health":  [
+                                                               {
+                                                                   "Min":  0.5,
+                                                                   "Max":  1,
+                                                                   "Zone":  ""
+                                                               }
+                                                           ],
+                                                "InventoryAttachments":  [
 
+                                                                         ],
+                                                "InventoryCargo":  [
+
+                                                                   ],
+                                                "ConstructionPartsBuilt":  [
+
+                                                                           ],
+                                                "Sets":  [
+
+                                                         ]
+                                            },
+                                            {
+                                                "ClassName":  "Mag_VSS_20Rnd",
+                                                "Chance":  0.85,
+                                                "Quantity":  {
+                                                                 "Min":  0,
+                                                                 "Max":  0
+                                                             },
+                                                "Health":  [
+                                                               {
+                                                                   "Min":  0.5,
+                                                                   "Max":  1,
+                                                                   "Zone":  ""
+                                                               }
+                                                           ],
+                                                "InventoryAttachments":  [
+
+                                                                         ],
+                                                "InventoryCargo":  [
+
+                                                                   ],
+                                                "ConstructionPartsBuilt":  [
+
+                                                                           ],
+                                                "Sets":  [
+
+                                                         ]
+                                            }
                                         ],
                      "ConstructionPartsBuilt":  [
 
