@@ -1079,33 +1079,6 @@
                                                        "Sets":  [
 
                                                                 ]
-                                                   },
-                                                   {
-                                                       "ClassName":  "ALV_WW2Vest_Classic",
-                                                       "Chance":  0.1,
-                                                       "Quantity":  {
-                                                                        "Min":  0,
-                                                                        "Max":  0
-                                                                    },
-                                                       "Health":  [
-                                                                      {
-                                                                          "Min":  0.45,
-                                                                          "Max":  0.7,
-                                                                          "Zone":  ""
-                                                                      }
-                                                                  ],
-                                                       "InventoryAttachments":  [
-
-                                                                                ],
-                                                       "InventoryCargo":  [
-
-                                                                          ],
-                                                       "ConstructionPartsBuilt":  [
-
-                                                                                  ],
-                                                       "Sets":  [
-
-                                                                ]
                                                    }
                                                ]
                                  },
