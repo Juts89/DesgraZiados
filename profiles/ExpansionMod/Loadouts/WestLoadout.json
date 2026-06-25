@@ -67,37 +67,7 @@
         {
             "SlotName": "MASK",
             "Items": [
-                {
-                    "ClassName": "AirborneMask",
-                    "Chance": 0.3, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.7,"Max":0.95,"Zone":""}],
-                    "InventoryAttachments": [
-                        { "SlotName": "", "Items": [
-                            { "ClassName": "GasMask_Filter", "Chance": 0.9, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.7,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
-                        ]}
-                    ],
-                    "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": []
-                },
-                {
-                    "ClassName": "GP5GasMask",
-                    "Chance": 0.25, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.7,"Max":0.95,"Zone":""}],
-                    "InventoryAttachments": [
-                        { "SlotName": "", "Items": [
-                            { "ClassName": "GasMask_Filter", "Chance": 0.9, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.7,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
-                        ]}
-                    ],
-                    "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": []
-                },
-                {
-                    "ClassName": "PMK_5A_Gas_Mask",
-                    "Chance": 0.2, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.7,"Max":0.95,"Zone":""}],
-                    "InventoryAttachments": [
-                        { "SlotName": "", "Items": [
-                            { "ClassName": "GasMask_Filter", "Chance": 0.9, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.7,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
-                        ]}
-                    ],
-                    "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": []
-                },
-                { "ClassName": "", "Chance": 0.6, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.7,"Max":0.95,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                { "ClassName": "GasMask", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.7,"Max":0.95,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
             ]
         },
         {
