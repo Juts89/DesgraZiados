@@ -14,7 +14,7 @@
     "MarkerName":  "Escort Medic",
     "ShowDistance":  1,
     "CanLootAI":  0,
-    "NPCLoadoutFile":  "WestLoadout",
+    "NPCLoadoutFile":  "CivilLoadout",
     "NPCClassName":  "ExpansionQuestNPCAIFrida",
     "NPCName":  "Marina Sidorova"
 }

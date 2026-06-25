@@ -14,7 +14,7 @@
     "MarkerName":  "Escort Teacher",
     "ShowDistance":  1,
     "CanLootAI":  0,
-    "NPCLoadoutFile":  "WestLoadout",
+    "NPCLoadoutFile":  "CivilLoadout",
     "NPCClassName":  "ExpansionQuestNPCAIJudy",
     "NPCName":  "Elena Petrova"
 }
