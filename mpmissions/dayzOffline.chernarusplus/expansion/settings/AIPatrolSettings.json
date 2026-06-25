@@ -1,4 +1,4 @@
-{
+﻿{
     "m_Version":  32,
     "Enabled":  1,
     "FormationScale":  -1.0,
@@ -1763,7 +1763,7 @@
                     {
                         "Name":  "Berezino South-East",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Survivor",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2357,7 +2357,7 @@
                     {
                         "Name":  "Prigorodki South-East",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Survivor",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2891,7 +2891,7 @@
                     {
                         "Name":  "Kabanino",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Survivor",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -3395,7 +3395,7 @@
                     {
                         "Name":  "Zelenogorsk",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Survivor",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
