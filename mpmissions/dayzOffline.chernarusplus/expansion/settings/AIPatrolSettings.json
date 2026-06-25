@@ -4231,6 +4231,67 @@
                                               12250.0
                                           ]
                                       ]
+                    },
+                    {
+                        "Name":  "Green Mountain Police Guards 2",
+                        "Persist":  1,
+                        "Faction":  "Guards",
+                        "Formation":  "",
+                        "FormationScale":  1.5,
+                        "FormationLooseness":  0,
+                        "Loadout":  "PoliceLoadout",
+                        "Units":  [
+
+                                  ],
+                        "NumberOfAI":  2,
+                        "NumberOfAIMax":  0,
+                        "Behaviour":  "PATROL",
+                        "LootingBehaviour":  "DEFAULT",
+                        "Speed":  "WALK",
+                        "UnderThreatSpeed":  "SPRINT",
+                        "DefaultStance":  "STANDING",
+                        "DefaultLookAngle":  0,
+                        "CanBeLooted":  0,
+                        "LootDropOnDeath":  "",
+                        "UnlimitedReload":  6,
+                        "SniperProneDistanceThreshold":  0,
+                        "AccuracyMin":  0.25,
+                        "AccuracyMax":  0.55,
+                        "ThreatDistanceLimit":  300,
+                        "NoiseInvestigationDistanceLimit":  200,
+                        "MaxFlankingDistance":  50,
+                        "EnableFlankingOutsideCombat":  0,
+                        "DamageMultiplier":  1,
+                        "DamageReceivedMultiplier":  1,
+                        "HeadshotResistance":  0,
+                        "ShoryukenChance":  0,
+                        "ShoryukenDamageMultiplier":  0,
+                        "CanSpawnInContaminatedArea":  0,
+                        "CanBeTriggeredByAI":  0,
+                        "MinDistRadius":  0,
+                        "MaxDistRadius":  120,
+                        "DespawnRadius":  300,
+                        "MinSpreadRadius":  0,
+                        "MaxSpreadRadius":  5,
+                        "Chance":  1,
+                        "DespawnTime":  -1,
+                        "RespawnTime":  600,
+                        "LoadBalancingCategory":  "Quest",
+                        "ObjectClassName":  "",
+                        "WaypointInterpolation":  "",
+                        "UseRandomWaypointAsStartPoint":  0,
+                        "Waypoints":  [
+                                          [
+                                              3678.66333,
+                                              402.024963,
+                                              5971.437012
+                                          ],
+                                          [
+                                              3682.081055,
+                                              402.084717,
+                                              5961.106934
+                                          ]
+                                      ]
                     }
                 ]
 }
