@@ -5036,4 +5036,126 @@
 			<item name="Mag_STANAG_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
+
+	<!-- Convoy and crash site wreck overrides: ammo-focused cargo -->
+	<type name="Land_Wreck_V3S_DE">
+		<cargo chance="0.80"> <item name="Ammo_762x39" /> </cargo>
+		<cargo chance="0.75"> <item name="Ammo_545x39" /> </cargo>
+		<cargo chance="0.70"> <item name="Ammo_556x45" /> </cargo>
+		<cargo chance="0.65"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+		<cargo chance="0.60"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>
+		<cargo chance="0.55"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>
+		<cargo chance="0.50"> <item name="Ammo_308Win" /> </cargo>
+		<cargo chance="0.45"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>
+		<cargo chance="0.40"> <item name="Ammo_9x19" /> </cargo>
+		<cargo chance="0.30"> <item name="Ammo_45ACP" /> </cargo>
+	</type>
+	<type name="StaticObj_Wreck_Ural_DE">
+		<cargo chance="0.80"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+		<cargo chance="0.80"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>
+		<cargo chance="0.75"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>
+		<cargo chance="0.70"> <item name="Ammo_762x39" /> </cargo>
+		<cargo chance="0.65"> <item name="Ammo_545x39" /> </cargo>
+		<cargo chance="0.60"> <item name="Ammo_556x45" /> </cargo>
+		<cargo chance="0.55"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>
+		<cargo chance="0.50"> <item name="Ammo_308Win" /> </cargo>
+		<cargo chance="0.40"> <item name="Ammo_762x54" /> </cargo>
+		<cargo chance="0.35"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>
+	</type>
+	<type name="StaticObj_Wreck_BMP2_DE">
+		<cargo chance="0.80"> <item name="Ammo_762x39" /> </cargo>
+		<cargo chance="0.75"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+		<cargo chance="0.70"> <item name="Ammo_545x39" /> </cargo>
+		<cargo chance="0.65"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>
+		<cargo chance="0.60"> <item name="Ammo_762x54" /> </cargo>
+		<cargo chance="0.55"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>
+		<cargo chance="0.45"> <item name="Ammo_9x39" /> </cargo>
+		<cargo chance="0.40"> <item name="Ammo_556x45" /> </cargo>
+	</type>
+	<type name="StaticObj_Wreck_BMP1_NoPlacement_DE">
+		<cargo chance="0.80"> <item name="Ammo_762x39" /> </cargo>
+		<cargo chance="0.75"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+		<cargo chance="0.70"> <item name="Ammo_545x39" /> </cargo>
+		<cargo chance="0.65"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>
+		<cargo chance="0.55"> <item name="Ammo_762x54" /> </cargo>
+		<cargo chance="0.50"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>
+		<cargo chance="0.40"> <item name="Ammo_556x45" /> </cargo>
+	</type>
+	<type name="StaticObj_Wreck_Uaz_DE">
+		<cargo chance="0.75"> <item name="Ammo_9x19" /> </cargo>
+		<cargo chance="0.70"> <item name="Ammo_762x39" /> </cargo>
+		<cargo chance="0.65"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+		<cargo chance="0.60"> <item name="Ammo_545x39" /> </cargo>
+		<cargo chance="0.55"> <item name="Ammo_45ACP" /> </cargo>
+		<cargo chance="0.50"> <item name="Ammo_308Win" /> </cargo>
+		<cargo chance="0.40"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>
+	</type>
+	<type name="StaticObj_Wreck_BRDM_DE">
+		<cargo chance="0.80"> <item name="Ammo_762x39" /> </cargo>
+		<cargo chance="0.75"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+		<cargo chance="0.70"> <item name="Ammo_545x39" /> </cargo>
+		<cargo chance="0.65"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>
+		<cargo chance="0.60"> <item name="Ammo_762x54" /> </cargo>
+		<cargo chance="0.55"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>
+		<cargo chance="0.45"> <item name="Ammo_556x45" /> </cargo>
+		<cargo chance="0.40"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>
+	</type>
+	<type name="StaticObj_Wreck_T72_Chassis_DE">
+		<cargo chance="0.90"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>
+		<cargo chance="0.85"> <item name="Ammo_762x54" /> </cargo>
+		<cargo chance="0.80"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+		<cargo chance="0.75"> <item name="Ammo_762x39" /> </cargo>
+		<cargo chance="0.70"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>
+		<cargo chance="0.65"> <item name="Ammo_545x39" /> </cargo>
+		<cargo chance="0.55"> <item name="Ammo_9x39" /> </cargo>
+		<cargo chance="0.50"> <item name="AmmoBox_9x39_20Rnd" /> </cargo>
+	</type>
+	<type name="Land_Wreck_offroad02_aban1_DE">
+		<cargo chance="0.75"> <item name="Ammo_762x39" /> </cargo>
+		<cargo chance="0.70"> <item name="Ammo_556x45" /> </cargo>
+		<cargo chance="0.65"> <item name="Ammo_9x19" /> </cargo>
+		<cargo chance="0.60"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+		<cargo chance="0.55"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>
+		<cargo chance="0.45"> <item name="Ammo_308Win" /> </cargo>
+		<cargo chance="0.40"> <item name="Ammo_45ACP" /> </cargo>
+	</type>
+	<type name="Land_Wreck_offroad02_aban2_DE">
+		<cargo chance="0.75"> <item name="Ammo_762x39" /> </cargo>
+		<cargo chance="0.70"> <item name="Ammo_556x45" /> </cargo>
+		<cargo chance="0.65"> <item name="Ammo_9x19" /> </cargo>
+		<cargo chance="0.60"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+		<cargo chance="0.55"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>
+		<cargo chance="0.45"> <item name="Ammo_308Win" /> </cargo>
+		<cargo chance="0.40"> <item name="Ammo_45ACP" /> </cargo>
+	</type>
+	<type name="Land_wreck_truck01_aban1_green_DE">
+		<cargo chance="0.80"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+		<cargo chance="0.75"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>
+		<cargo chance="0.70"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>
+		<cargo chance="0.65"> <item name="Ammo_762x39" /> </cargo>
+		<cargo chance="0.60"> <item name="Ammo_545x39" /> </cargo>
+		<cargo chance="0.55"> <item name="Ammo_556x45" /> </cargo>
+		<cargo chance="0.50"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>
+		<cargo chance="0.45"> <item name="Ammo_308Win" /> </cargo>
+	</type>
+	<type name="Land_wreck_truck01_aban2_green_DE">
+		<cargo chance="0.80"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+		<cargo chance="0.75"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>
+		<cargo chance="0.70"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>
+		<cargo chance="0.65"> <item name="Ammo_762x39" /> </cargo>
+		<cargo chance="0.60"> <item name="Ammo_545x39" /> </cargo>
+		<cargo chance="0.55"> <item name="Ammo_556x45" /> </cargo>
+		<cargo chance="0.50"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>
+		<cargo chance="0.45"> <item name="Ammo_308Win" /> </cargo>
+	</type>
+	<type name="Land_Wreck_hb01_aban1_white_DE">
+		<cargo chance="0.70"> <item name="Ammo_9x19" /> </cargo>
+		<cargo chance="0.65"> <item name="Ammo_762x39" /> </cargo>
+		<cargo chance="0.60"> <item name="Ammo_556x45" /> </cargo>
+		<cargo chance="0.55"> <item name="Ammo_45ACP" /> </cargo>
+		<cargo chance="0.50"> <item name="AmmoBox_9x19_25Rnd" /> </cargo>
+		<cargo chance="0.45"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+		<cargo chance="0.40"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>
+	</type>
+
 </spawnabletypes>
