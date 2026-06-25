@@ -116,7 +116,7 @@
             "CustomMessage": ""
         }
     ],
-    "ZonesAreNoBuildZones": 1,
+    "ZonesAreNoBuildZones": 0,
     "CodelockAttachMode": 1,
     "DismantleFlagMode": 1,
     "FlagMenuMode": 1,
