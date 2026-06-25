@@ -5,9 +5,9 @@
     "Health": [],
     "InventoryAttachments": [
         {
-            "SlotName": "Body",
+            "SlotName": "Top",
             "Items": [
-                { "ClassName": "ALV_Monkrobe_Brown", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                { "ClassName": "ALV_Monkrobes_Brown", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
             ]
         },
         {
