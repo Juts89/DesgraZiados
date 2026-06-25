@@ -491,7 +491,7 @@
             "all": 0.0
         },
         "SearchSphereRadiusMax": {
-            "all": 40.0
+            "all": 20.0
         },
         "SearchSphereRadiusBurst": {
             "all": 60.0
@@ -1352,11 +1352,11 @@
             "all": 1
         },
         "ScreamAttractsZombiesInRadius": {
-            "all": 50.0,
+            "all": 30.0,
             "ZmbM_usSoldier_Officer_Desert": 120.0
         },
         "ScreamChancePercent": {
-            "all": 25.0,
+            "all": 5.0,
             "ZmbM_usSoldier_Officer_Desert": 100.0
         },
         "ScreamCooldownSeconds": {
@@ -1464,10 +1464,10 @@
             "all": 1
         },
         "VisionRangeMultiplierDay": {
-            "all": 2.0
+            "all": 1.0
         },
         "VisionRangeMultiplierNight": {
-            "all": 0.800000011920929
+            "all": 0.5
         },
         "SizeHandlerIsActive": {
             "all": 0
