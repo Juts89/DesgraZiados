@@ -30,85 +30,25 @@ void main()
 	}
 }
 
-// ──────────────────────────────────────────────────────────────────────────────
-// EVR Storm – Knockout unprotected players during MidPhase (peak, ~90 seconds)
-// Protection: any item in Mask slot that is GasMask_Base, NBC hood, or known
-// gas mask classnames. Players already unconscious or dead are skipped.
-// InitPhase sends a warning; MidPhase applies knockout; EndPhase notifies clear.
-// ──────────────────────────────────────────────────────────────────────────────
+// EVR Storm – al llegar a EndPhase, noquea a todos los eAI del mapa
+// bajando su shock a 0 (el jugador ya lo gestiona el mod de Namalsk)
 modded class EVRStorm
 {
-	protected bool EVR_PlayerHasGasMask(PlayerBase player)
-	{
-		if (!player)
-			return false;
-
-		EntityAI mask = player.FindAttachmentBySlotName("Mask");
-		if (!mask)
-			return false;
-
-		if (mask.IsKindOf("GasMask_Base"))
-			return true;
-
-		string t = mask.GetType();
-		return (t == "GasMask"         ||
-		        t == "GP5GasMask"       ||
-		        t == "AirborneMask"     ||
-		        t == "PMK_5A_Gas_Mask"  ||
-		        t == "NBCHoodGray"      ||
-		        t == "NBCHoodYellow"    ||
-		        t == "NBCHoodGrey");
-	}
-
-	protected void EVR_BroadcastMessage(string msg)
-	{
-		array<Man> players = new array<Man>;
-		GetGame().GetWorld().GetPlayerList(players);
-		foreach (Man man : players)
-		{
-			PlayerBase p = PlayerBase.Cast(man);
-			if (!p)
-				continue;
-			PlayerIdentity id = p.GetIdentity();
-			if (!id)
-				continue;
-			Param1<string> rpcMsg = new Param1<string>(msg);
-			GetGame().RPCSingleParam(p, ERPCs.RPC_USER_ACTION_MESSAGE, rpcMsg, true, id);
-		}
-	}
-
-	override void InitPhaseServer()
-	{
-		super.InitPhaseServer();
-		EVR_BroadcastMessage("⚠ EVR STORM INCOMING — Equip your gas mask NOW or you will be knocked unconscious.");
-	}
-
-	override void MidPhaseServer()
-	{
-		super.MidPhaseServer();
-
-		array<Man> players = new array<Man>;
-		GetGame().GetWorld().GetPlayerList(players);
-
-		foreach (Man man : players)
-		{
-			PlayerBase player = PlayerBase.Cast(man);
-			if (!player || !player.IsAlive() || player.IsUnconscious())
-				continue;
-
-			if (!EVR_PlayerHasGasMask(player))
-			{
-				// Drain shock to zero → triggers unconsciousness
-				player.SetHealth("", "Shock", 0.0);
-				DayZPlayerSyncJunctures.SendPlayerUnconsciousness(player, true);
-			}
-		}
-	}
-
 	override void EndPhaseServer()
 	{
 		super.EndPhaseServer();
-		EVR_BroadcastMessage("✔ EVR Storm passing. The air is clearing.");
+
+		array<Object> objects = new array<Object>();
+		GetGame().GetObjectsInRadius(Vector(7200, 0, 7200), 12000, objects);
+
+		foreach (Object obj : objects)
+		{
+			eAIBase ai = eAIBase.Cast(obj);
+			if (!ai || !ai.IsAlive())
+				continue;
+
+			ai.SetHealth("", "Shock", 0.0);
+		}
 	}
 }
 
