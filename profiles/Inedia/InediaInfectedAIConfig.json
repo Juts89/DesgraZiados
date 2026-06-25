@@ -1577,7 +1577,7 @@
         "SmellsCountOnMapLimit": 1000,
         "FootstepsNoiseHandlerIsActive": 1,
         "SearchBodyToViewCargo": 1,
-        "SearchBodyToViewCargoSeconds": 3.0,
+        "SearchBodyToViewCargoSeconds": 2.0,
         "SearchBodyExtendLootingToPlayersInRadiusMeters": 30.0,
         "SearchBodyOnlyEmptyHands": 0,
         "QuietDoorOpeningMechanicIsActive": 1,
