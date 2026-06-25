@@ -1,13 +1,13 @@
 ExpansionExchangeMachine.Exchange|0.696000 0.540000 0.427000|-136.677 0.000000 0.000000
-ExpansionTraderDenis.Clothing|3688.447000 401.953000 5979.035000|67.33 0.000000 0.000000|WoolCoat_Black,Jeans_BlueDark,WorkingBoots_Brown,CowboyHat_Brown,Scarf_Brown,WoolGlovesFingerless_Black,CourierBag
-ExpansionTraderMaria.Clothing_Accessories|3685.805000 401.953000 5981.425000|69.18 0.000000 0.000000|Wool_GreatCoat_Grey,Skinny_Jeans_Blue,WorkingBoots_Beige,BeanieHat_Black,Scarf_Blue,WoolGlovesFingerless_White,CanvasBag_Olive
+ExpansionTraderDenis.Clothing|3688.447000 401.953000 5979.035000|67.33 0.000000 0.000000|ALV_Duster_Brown,ALV_Sweater_Tan,Jeans_BlueDark,WorkingBoots_Brown,CowboyHat_Brown,Scarf_Brown,WoolGlovesFingerless_Black,CourierBag
+ExpansionTraderMaria.Clothing_Accessories|3685.805000 401.953000 5981.425000|69.18 0.000000 0.000000|Wool_GreatCoat_Grey,Skinny_Jeans_Blue,WorkingBoots_Beige,ALV_HoodedShawl_Red,WoolGlovesFingerless_White,CanvasBag_Olive
 ExpansionTraderQuinn.Consumables|3705.351000 402.023000 5974.619000|165.598 0.000000 0.000000|QuiltedJacket_Green,CargoPants_Beige,WorkingBoots_Beige,Ushanka_Black,Scarf_Brown,WorkingGloves_Yellow,TaloonBag_Green
-ExpansionTraderNaomi.Weapons|3694.393000 401.960000 5977.172000|80.9 0.000000 0.000000|WinterMilitaryCoat_Brown,GorkaPants_Autumn,CombatBoots_Black,BoonieHat_Dubok,HuntingVest,TacticalGloves_Black,AssaultBag_Ttsko
+ExpansionTraderNaomi.Weapons|3694.393000 401.960000 5977.172000|80.9 0.000000 0.000000|WinterMilitaryCoat_Brown,GorkaPants_Autumn,CombatBoots_Black,TacticalGloves_Black,AssaultBag_Ttsko,
 ExpansionTraderSeth.Attachments|3694.136000 402.104000 5973.784000|127.519 0.000000 0.000000|Wool_GreatCoat_Navy,Galife_Pants_Olive,WorkingBoots_Brown,SherpaHat_Black,Fingerless_Gloves_Wool,TortillaBag
 ExpansionTraderRolf.Vehicles|3720.393066 401.410645 6010.149414|22.459940 0.000000|WinterMilitaryCoat_Grey,CargoPants_Grey,WorkingBoots_Yellow,Ushanka_Green,Fingerless_Gloves_Wool_Grey,SmershBag
-ExpansionTraderIndar.Components|3705.659000 401.960000 5986.732000|-54 0.000000 0.000000|HuntingJacket_Autumn,GorkaPants_Flat,CombatBoots_Beige,Slouch_Hat_Brown,HuntingVest,WoolGlovesFingerless_Black,HuntingBag
-ExpansionTraderJudy.Medicals|3703.028000 401.956000 5980.686000|-99 0.000000 0.000000|MedicalScrubsShirt_White,MedicalScrubsPants_Blue,MilitaryBoots_Black,SherpaHat_Red,Scarf_Brown,SurgicalGloves_Blue,MedBag_UN_Orange
+ExpansionTraderIndar.Components|3705.659000 401.960000 5986.732000|-54 0.000000 0.000000|HuntingJacket_Autumn,GorkaPants_Flat,CombatBoots_Beige,Slouch_Hat_Brown,WoolGlovesFingerless_Black,HuntingBag
+ExpansionTraderJudy.Medicals|3703.028000 401.956000 5980.686000|-99 0.000000 0.000000|Winter_Parka_Base,HipPack_Medical,MedicalScrubsPants_Blue,MilitaryBoots_Black,SherpaHat_Red,Scarf_Brown,SurgicalGloves_Blue,MedBag_UN_Orange
 ExpansionTraderNaomi.Vehicle_Parts|3704.439941 402.024902 5959.735840|-29.490791 0.000000 0.000000|QuiltedJacket_Grey,CargoPants_Black,CombatBoots_Black,BeanieHat_Black,Scarf_Blue,Fingerless_Gloves_Wool_Black,TortillaBag
 ExpansionTraderJose.Spraycans|3707.396484 402.024933 5959.422852|-30.983540 0.000000 0.000000|HikingJacket_Blue,Skinny_Jeans_Black,WorkingBoots_Grey,BoonieHat_Black,Scarf_Brown,Fingerless_Gloves_Wool,CanvasBag_Olive
-ExpansionTraderLinda.Special|3711.202148 401.942261 5972.026855|250.697517 0.000000 0.000000|Leather_Cloak_down,Jeans_Black,CombatBoots_Black,WinterCoif_Skull,WoolGlovesFingerless_Black,HighCapacityVest_Black
+ExpansionTraderLinda.Special|3711.202148 401.942261 5972.026855|250.697517 0.000000 0.000000|Winter_Parka_Green,Leather_Cloak_up,Jeans_Black,CombatBoots_Black,WoolGlovesFingerless_Black
 ExpansionTraderNiki.BuildingSupplies|3711.041504 402.024963 5961.082031|-66.838264 0.000000 0.000000|QuiltedJacket_Orange,CargoPants_Beige,WorkingBoots_Grey,Ushanka_Blue,Scarf_Brown,WorkingGloves_Yellow,CanvasBag_Olive
