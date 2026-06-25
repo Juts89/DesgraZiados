@@ -3847,7 +3847,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "TTSKOLoadout",
+                        "Loadout":  "NBCLoadout",
                         "Units":  [
 
                                   ],
@@ -3890,9 +3890,9 @@
                         "UseRandomWaypointAsStartPoint":  0,
                         "Waypoints":  [
                                           [
-                                              2900.0,
+                                              2170.624512,
                                               0.0,
-                                              6820.0
+                                              3371.458984
                                           ]
                                       ]
                     },
@@ -3946,9 +3946,9 @@
                         "UseRandomWaypointAsStartPoint":  0,
                         "Waypoints":  [
                                           [
-                                              3750.0,
+                                              1162.177246,
                                               0.0,
-                                              9050.0
+                                              7249.436035
                                           ]
                                       ]
                     },
@@ -4002,14 +4002,14 @@
                         "UseRandomWaypointAsStartPoint":  0,
                         "Waypoints":  [
                                           [
-                                              2400.0,
+                                              2528.497559,
                                               0.0,
-                                              5950.0
+                                              5116.144531
                                           ]
                                       ]
                     },
                     {
-                        "Name":  "Lopatino Military",
+                        "Name":  "VMC",
                         "Persist":  1,
                         "Faction":  "East",
                         "Formation":  "",
@@ -4058,9 +4058,9 @@
                         "UseRandomWaypointAsStartPoint":  0,
                         "Waypoints":  [
                                           [
-                                              5150.0,
+                                              4528.72998,
                                               0.0,
-                                              10450.0
+                                              8299.19043
                                           ]
                                       ]
                     },
@@ -4114,9 +4114,9 @@
                         "UseRandomWaypointAsStartPoint":  0,
                         "Waypoints":  [
                                           [
-                                              6300.0,
+                                              6299.800781,
                                               0.0,
-                                              8250.0
+                                              7802.29248
                                           ]
                                       ]
                     },
@@ -4170,9 +4170,9 @@
                         "UseRandomWaypointAsStartPoint":  0,
                         "Waypoints":  [
                                           [
-                                              4800.0,
+                                              4990.948242,
                                               0.0,
-                                              2100.0
+                                              2479.681641
                                           ]
                                       ]
                     },
@@ -4226,9 +4226,9 @@
                         "UseRandomWaypointAsStartPoint":  0,
                         "Waypoints":  [
                                           [
-                                              11850.0,
+                                              11890.682617,
                                               0.0,
-                                              12250.0
+                                              12487.151367
                                           ]
                                       ]
                     },
