@@ -4323,7 +4323,7 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  {
+                                                                                                         "Items":  [{
                                                                                                                        "ClassName":  "Mag_FAMAS_25Rnd",
                                                                                                                        "Chance":  1.0,
                                                                                                                        "Quantity":  {
@@ -4345,7 +4345,7 @@
                                                                                                                        "Sets":  [
 
                                                                                                                                 ]
-                                                                                                                   }
+                                                                                                                   }]
                                                                                                      }
                                                                                                  ],
                                                                         "InventoryCargo":  [
@@ -5095,7 +5095,7 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  {
+                                                                                                         "Items":  [{
                                                                                                                        "ClassName":  "Mag_Aug_30Rnd",
                                                                                                                        "Chance":  1.0,
                                                                                                                        "Quantity":  {
@@ -5117,7 +5117,7 @@
                                                                                                                        "Sets":  [
 
                                                                                                                                 ]
-                                                                                                                   }
+                                                                                                                   }]
                                                                                                      }
                                                                                                  ],
                                                                         "InventoryCargo":  [

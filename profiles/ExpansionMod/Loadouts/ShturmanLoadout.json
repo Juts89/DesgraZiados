@@ -4628,7 +4628,7 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  {
+                                                                                                         "Items":  [{
                                                                                                                        "ClassName":  "Mag_CZ61_20Rnd",
                                                                                                                        "Chance":  1.0,
                                                                                                                        "Quantity":  {
@@ -4650,7 +4650,7 @@
                                                                                                                        "Sets":  [
 
                                                                                                                                 ]
-                                                                                                                   }
+                                                                                                                   }]
                                                                                                      }
                                                                                                  ],
                                                                         "InventoryCargo":  [
@@ -4992,7 +4992,7 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  {
+                                                                                                         "Items":  [{
                                                                                                                        "ClassName":  "Mag_CZ75_15Rnd",
                                                                                                                        "Chance":  1.0,
                                                                                                                        "Quantity":  {
@@ -5014,7 +5014,7 @@
                                                                                                                        "Sets":  [
 
                                                                                                                                 ]
-                                                                                                                   }
+                                                                                                                   }]
                                                                                                      }
                                                                                                  ],
                                                                         "InventoryCargo":  [
@@ -5234,7 +5234,7 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  {
+                                                                                                         "Items":  [{
                                                                                                                        "ClassName":  "Mag_Glock_15Rnd",
                                                                                                                        "Chance":  1.0,
                                                                                                                        "Quantity":  {
@@ -5256,7 +5256,7 @@
                                                                                                                        "Sets":  [
 
                                                                                                                                 ]
-                                                                                                                   }
+                                                                                                                   }]
                                                                                                      }
                                                                                                  ],
                                                                         "InventoryCargo":  [

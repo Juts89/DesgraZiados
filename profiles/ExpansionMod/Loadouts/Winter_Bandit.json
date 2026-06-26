@@ -4753,7 +4753,7 @@
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  {
+                                                                                                         "Items":  [{
                                                                                                                        "ClassName":  "Mag_Glock_15Rnd",
                                                                                                                        "Chance":  1,
                                                                                                                        "Quantity":  {
@@ -4775,7 +4775,7 @@
                                                                                                                        "Sets":  [
 
                                                                                                                                 ]
-                                                                                                                   }
+                                                                                                                   }]
                                                                                                      }
                                                                                                  ],
                                                                         "InventoryCargo":  [
