@@ -223,7 +223,7 @@
                                      "Items":  [
                                                    {
                                                        "ClassName":  "ALV_Jeans_Blue_Kneepads",
-                                                       "Chance":  0.1,
+                                                       "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -250,7 +250,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_Jeans_Grey_Kneepads",
-                                                       "Chance":  0.1,
+                                                       "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -277,7 +277,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_Jeans_Black_Kneepads",
-                                                       "Chance":  0.1,
+                                                       "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -304,7 +304,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_Jeans_Brown_Kneepads",
-                                                       "Chance":  0.1,
+                                                       "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -331,7 +331,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_HunterPants_Kneepads_Tan",
-                                                       "Chance":  0.1,
+                                                       "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -358,7 +358,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_HunterPants_Kneepads_Black",
-                                                       "Chance":  0.1,
+                                                       "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -385,7 +385,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_HunterPants_Kneepads_Camo",
-                                                       "Chance":  0.1,
+                                                       "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -412,7 +412,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_G3Pants_Black",
-                                                       "Chance":  0.1,
+                                                       "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -439,7 +439,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_G3Pants_Tan",
-                                                       "Chance":  0.1,
+                                                       "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -466,7 +466,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_G3Pants_MC",
-                                                       "Chance":  0.1,
+                                                       "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -493,7 +493,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_PatrolPants_Green",
-                                                       "Chance":  0.1,
+                                                       "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -520,7 +520,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Galife_Pants_Olive",
-                                                       "Chance":  0.1,
+                                                       "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -547,7 +547,115 @@
                                                    },
                                                    {
                                                        "ClassName":  "Galife_Pants_Navy",
-                                                       "Chance":  0.1,
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.6,
+                                                                          "Max":  1,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "CargoPants_Black",
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.6,
+                                                                          "Max":  1,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "CargoPants_Beige",
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.6,
+                                                                          "Max":  1,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "CargoPants_Green",
+                                                       "Chance":  0.2,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.6,
+                                                                          "Max":  1,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "Jeans_Black",
+                                                       "Chance":  0.2,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -579,7 +687,7 @@
                                      "Items":  [
                                                    {
                                                        "ClassName":  "CombatBoots_Black",
-                                                       "Chance":  0.12,
+                                                       "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -606,7 +714,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "CombatBoots_Beige",
-                                                       "Chance":  0.12,
+                                                       "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -633,7 +741,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "CombatBoots_Brown",
-                                                       "Chance":  0.12,
+                                                       "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -660,7 +768,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "CombatBoots_Green",
-                                                       "Chance":  0.12,
+                                                       "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -687,7 +795,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "CombatBoots_Grey",
-                                                       "Chance":  0.12,
+                                                       "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -714,7 +822,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "TTSKOBoots",
-                                                       "Chance":  0.12,
+                                                       "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -741,7 +849,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "MilitaryBoots_Black",
-                                                       "Chance":  0.12,
+                                                       "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -768,7 +876,61 @@
                                                    },
                                                    {
                                                        "ClassName":  "Kirza_Boots",
-                                                       "Chance":  0.12,
+                                                       "Chance":  0.3,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.6,
+                                                                          "Max":  1,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "JungleBoots_Brown",
+                                                       "Chance":  0.3,
+                                                       "Quantity":  {
+                                                                        "Min":  0,
+                                                                        "Max":  0
+                                                                    },
+                                                       "Health":  [
+                                                                      {
+                                                                          "Min":  0.6,
+                                                                          "Max":  1,
+                                                                          "Zone":  ""
+                                                                      }
+                                                                  ],
+                                                       "InventoryAttachments":  [
+
+                                                                                ],
+                                                       "InventoryCargo":  [
+
+                                                                          ],
+                                                       "ConstructionPartsBuilt":  [
+
+                                                                                  ],
+                                                       "Sets":  [
+
+                                                                ]
+                                                   },
+                                                   {
+                                                       "ClassName":  "JungleBoots_Black",
+                                                       "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
