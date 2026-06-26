@@ -441,13 +441,13 @@
             "all": 0.0
         },
         "AttackPlayersUnconsciousHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "AttackPlayersUnconsciousHealthDamageLimit": {
             "all": 20.0
         },
         "AttackAnimalsHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "AttackAnimalsWildBoar": {
             "all": 1
@@ -479,7 +479,7 @@
             "all": []
         },
         "SearchHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "SearchSphereRadiusIncreaseEverySeconds": {
             "all": 0.20000000298023225
@@ -497,7 +497,7 @@
             "all": 60.0
         },
         "SpeedHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "SpeedMinimumInCalmMode": {
             "all": 0.0
@@ -530,7 +530,7 @@
             "all": 0.0
         },
         "SmellsHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "SmellsSphereRadiusInCalmMode": {
             "all": 1.0
@@ -614,7 +614,7 @@
             "all": 1
         },
         "FallHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "FallHandlerLegBreakHeightMin": {
             "all": 3.0
@@ -629,7 +629,7 @@
             "all": 20.0
         },
         "InjuryHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "InjuryHandlerInjuryOnExplosiveDamageChancePercent": {
             "all": 100.0
@@ -703,17 +703,17 @@
             "all": 0.0
         },
         "AttackCarHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "AttackCarPlayersIsActive": {
-            "all": 1
+            "all": 0
         },
         "AttackCarPlayersDistanceMeters": {
             "all": 2.0
         },
         "AttackCarElementsIsActive": {
             "wolves": 0,
-            "all": 1
+            "all": 0
         },
         "AttackCarElementsDistanceMeters": {
             "all": 2.0
@@ -723,7 +723,7 @@
             "bears": 3.0
         },
         "AttackCarElementsByCollisionsIsActive": {
-            "all": 1
+            "all": 0
         },
         "AttackCarElementsByCollisionsGlobalDamageMultiplier": {
             "all": 1.0
@@ -781,7 +781,7 @@
             "all": 5.0
         },
         "ReactHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "ReactBehindVisualMultiplier": {
             "all": 0.20000000298023225
@@ -1207,7 +1207,7 @@
             "all": 1.0
         },
         "DamageToZombieHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "DamageToZombieHealthPoints": {
             "all": -1.0
@@ -1237,13 +1237,13 @@
             "all": 10.0
         },
         "DamageToZombieBodyPartsPiercingIsActive": {
-            "all": 1
+            "all": 0
         },
         "DamageToZombieAlwaysKillOnBackstab": {
             "all": 1
         },
         "DamageToZombieShockToStunHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "DamageToZombieShockToStunLightHeavyAnimationThresholdMeleeHeavy": {
             "all": 0.0
@@ -1302,7 +1302,7 @@
             "all": 60.0
         },
         "BloodHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "BloodVolumeMl": {
             "all": 0.0,
@@ -1333,7 +1333,7 @@
             "all": 1
         },
         "ResistContaminatedEffectHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "ResistContaminatedEffect": {
             "all": 0,
@@ -1349,7 +1349,7 @@
             "all": 0.0
         },
         "ScreamHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "ScreamAttractsZombiesInRadius": {
             "all": 30.0,
@@ -1381,7 +1381,7 @@
             "all": 50.0
         },
         "SearchBodyWithoutMaskVomitChancePercent": {
-            "all": 10.0
+            "all": 0.0
         },
         "CanBeButchered": {
             "all": 1
@@ -1393,7 +1393,7 @@
             "all": 100.0
         },
         "ButcheringWithoutMaskVomitChancePercent": {
-            "all": 50.0
+            "all": 0.0
         },
         "ItemsAfterButchering": {
             "all": [
@@ -1482,10 +1482,10 @@
             "all": 0
         },
         "SizeBloodVolumeScalingIsActive": {
-            "all": 1
+            "all": 0
         },
         "SizeSpeedMultiplierScalingIsActive": {
-            "all": 1
+            "all": 0
         },
         "ThrowingProjectilesHandlerIsActive": {
             "all": 0,
