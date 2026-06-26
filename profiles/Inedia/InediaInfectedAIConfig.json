@@ -551,7 +551,7 @@
             "all": 0
         },
         "LongVisionHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "LongVisionMetersInSearchModeDay": {
             "all": 120.0
@@ -584,7 +584,7 @@
             "all": 0
         },
         "ReturnToSpawnHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "ReturnToSpawnRadiusMeters": {
             "all": 80.0
