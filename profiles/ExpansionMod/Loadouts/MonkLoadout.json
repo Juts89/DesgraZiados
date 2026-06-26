@@ -13,7 +13,7 @@
         {
             "SlotName": "Body",
             "Items": [
-                { "ClassName": "ALV_Monkrobes_Brown", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                { "ClassName": "ALV_Monkrobes_Brown", "Chance":  1, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
             ]
         },
         {
@@ -31,7 +31,7 @@
         {
             "SlotName": "Feet",
             "Items": [
-                { "ClassName": "FeetCover_Improvised", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                { "ClassName": "FeetCover_Improvised", "Chance":  1, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.8,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
             ]
         },
         {

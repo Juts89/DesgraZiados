@@ -46,7 +46,7 @@
                                      "Items":  [
                                                    {
                                                        "ClassName":  "ALV_Monkrobes_Brown",
-                                                       "Chance":  1.0,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -174,7 +174,7 @@
                                      "Items":  [
                                                    {
                                                        "ClassName":  "FeetCover_Improvised",
-                                                       "Chance":  1.0,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

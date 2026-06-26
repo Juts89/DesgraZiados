@@ -230,7 +230,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_G3Shirt_Black_Cut",
-                                                       "Chance":  0.35,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -586,7 +586,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Kneepads_Jeans_Black",
-                                                       "Chance":  0.25,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -861,7 +861,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "CombatBoots_Black",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

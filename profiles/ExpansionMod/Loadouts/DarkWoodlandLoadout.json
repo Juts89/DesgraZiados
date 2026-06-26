@@ -95,7 +95,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_G3Shirt_MC_Long",
-                                                       "Chance":  0.4,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -208,7 +208,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_G3Pants_MC",
-                                                       "Chance":  0.4,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -321,7 +321,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ColdOperationBoots_Camo",
-                                                       "Chance":  0.35,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

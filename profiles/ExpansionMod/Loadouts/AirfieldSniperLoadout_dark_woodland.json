@@ -95,7 +95,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "BDUJacket",
-                                                       "Chance":  0.2,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -181,7 +181,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "USMCPants_Woodland",
-                                                       "Chance":  0.25,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -294,7 +294,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ColdOperationBoots_Camo",
-                                                       "Chance":  0.35,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

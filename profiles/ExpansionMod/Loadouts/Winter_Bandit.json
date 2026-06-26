@@ -338,7 +338,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "WinterMilitaryCoat_Grey",
-                                                       "Chance":  0.35,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -613,7 +613,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_HunterPants_WinterCamo",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -834,7 +834,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Kirza_Boots",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

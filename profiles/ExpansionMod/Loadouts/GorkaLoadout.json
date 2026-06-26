@@ -122,7 +122,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "GorkaEJacket_Winter",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -262,7 +262,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "GorkaPants_Winter",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -375,7 +375,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "CombatBoots_Black",
-                                                       "Chance":  0.35,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

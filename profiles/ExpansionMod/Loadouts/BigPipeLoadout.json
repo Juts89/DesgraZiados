@@ -284,7 +284,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Shabby_Hoodie_Black",
-                                                       "Chance":  0.4,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -478,7 +478,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_Jeans_Black_Kneepads",
-                                                       "Chance":  0.35,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -699,7 +699,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Kirza_Boots",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

@@ -365,7 +365,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "TacticalShirt_Olive",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -586,7 +586,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "TrackSuitPants_Black",
-                                                       "Chance":  0.2,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -807,7 +807,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Kirza_Boots",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

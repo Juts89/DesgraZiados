@@ -95,7 +95,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Flannel_Shirt_Brown",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -181,7 +181,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Cargo_Pants_Grey",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -240,7 +240,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "WorkingBoots_Brown",
-                                                       "Chance":  0.35,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

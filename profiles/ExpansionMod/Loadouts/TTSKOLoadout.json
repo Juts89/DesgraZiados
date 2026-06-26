@@ -68,7 +68,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "GorkaEJacket_Summer",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -154,7 +154,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "GorkaPants_Summer",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -240,7 +240,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Kirza_Boots",
-                                                       "Chance":  0.4,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

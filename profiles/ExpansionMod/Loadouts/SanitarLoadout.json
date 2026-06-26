@@ -95,7 +95,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_G3Shirt_MC_Long",
-                                                       "Chance":  0.4,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -181,7 +181,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Kneepads_Jeans_Black",
-                                                       "Chance":  0.4,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -267,7 +267,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "MilitaryBoots_Brown",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

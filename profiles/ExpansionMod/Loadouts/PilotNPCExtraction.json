@@ -365,7 +365,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Military_Sweater_Black",
-                                                       "Chance":  0.78,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -613,7 +613,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "WorkingBoots_Grey",
-                                                       "Chance":  0.62,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -2281,7 +2281,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_Workpants_Beige",
-                                                       "Chance":  0.78,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

@@ -149,7 +149,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_Tshirt_Green",
-                                                       "Chance":  0.72,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -262,7 +262,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Jeans_Grey",
-                                                       "Chance":  0.76,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -294,7 +294,7 @@
                                      "Items":  [
                                                    {
                                                        "ClassName":  "HikingBoots_Brown",
-                                                       "Chance":  1.0,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

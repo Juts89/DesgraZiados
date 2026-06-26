@@ -527,7 +527,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Shirt_PlaneBlack",
-                                                       "Chance":  0.25,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -883,7 +883,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_Workpants_Beige",
-                                                       "Chance":  0.25,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -1104,7 +1104,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Kirza_Boots",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

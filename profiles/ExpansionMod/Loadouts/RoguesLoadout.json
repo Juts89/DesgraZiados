@@ -122,7 +122,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "TacticalShirt_Tan",
-                                                       "Chance":  0.4,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -208,7 +208,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Kneepads_Jeans_Base",
-                                                       "Chance":  0.4,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -321,7 +321,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "CombatBoots_Beige",
-                                                       "Chance":  0.35,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

@@ -392,7 +392,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Military_Sweater_Green",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -586,7 +586,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "CargoPants_Grey",
-                                                       "Chance":  0.35,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -726,7 +726,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "LeatherShoes_Brown",
-                                                       "Chance":  0.25,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0

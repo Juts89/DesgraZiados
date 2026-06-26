@@ -122,7 +122,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "GhillieTop_Woodland",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -208,7 +208,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Kneepads_Jeans_Base",
-                                                       "Chance":  0.4,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -294,7 +294,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "MilitaryBoots_Brown",
-                                                       "Chance":  0.3,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
