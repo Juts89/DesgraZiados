@@ -1020,7 +1020,7 @@
             "all": 0.5
         },
         "DamageToPlayerHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "DamageToPlayerHealthMultiplier": {
             "all": 1.0
@@ -1047,7 +1047,7 @@
             "all": 0.0
         },
         "DamageToPlayerBleedingHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "DamageToPlayerBleedingChancePercent": {
             "all": 5.0
@@ -1056,7 +1056,7 @@
             "all": 0.0
         },
         "StunToPlayerChancePercent": {
-            "all": 10.0
+            "all": 0.0
         },
         "StunToPlayerInBlockChancePercent": {
             "all": 0.0
@@ -1071,7 +1071,7 @@
             "all": 0.0
         },
         "DiseasesToPlayerHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "DiseasesToPlayerAgents": {
             "all": [],
@@ -1128,7 +1128,7 @@
             "all": 10.0
         },
         "PainToPlayerHandlerIsActive": {
-            "all": 1
+            "all": 0
         },
         "PainToPlayerHeadMultiplier": {
             "all": 1.2000000476837159,
