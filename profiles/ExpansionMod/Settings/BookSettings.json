@@ -36,7 +36,7 @@
                                          ]
                            }
                        ],
-    "DisplayServerSettingsInServerInfoTab":  1,
+    "DisplayServerSettingsInServerInfoTab":  0,
     "SettingCategories":  [
                               {
                                   "CategoryName":  "Base-Building Settings",
