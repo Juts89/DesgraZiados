@@ -2,11 +2,11 @@
     "ConfigVersion":  22,
     "ID":  210,
     "Type":  1,
-    "Title":  "Falsos Policías",
+    "Title":  "SE BUSCA: Impostores de la Ley en Staroye",
     "Descriptions":  [
-                         "Unos matones haciéndose pasar por policías han tomado parte de Staroye. Extorsionan, aterrorizan pueblos cercanos y disparan a cualquiera. Hay que acabar con ellos antes de que hagan más daño.",
-                         "Sube a Staroye y límpialos. Son pocos, pero van bien armados. Cuidado.",
-                         "Los falsos polis han caído... Bien. Las carreteras son algo más seguras. Toma, te lo has ganado."
+                         "ATENCIÓN. Individuos haciéndose pasar por agentes de la ley operan en Staroye. Roban, extorsionan y amenazan a civiles bajo falsa autoridad. No son la ley. Trátelos como lo que son.",
+                         "Localiza al grupo en Staroye y elimínalos.",
+                         "Nadie se hace pasar por la ley en este territorio. Buen trabajo."
                      ],
     "ObjectiveText":  "Mata a todos los miembros del grupo en la ubicación marcada.",
     "FollowUpQuest":  -1,

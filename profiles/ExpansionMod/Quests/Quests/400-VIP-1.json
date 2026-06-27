@@ -2,11 +2,11 @@
     "ConfigVersion":  22,
     "ID":  400,
     "Type":  1,
-    "Title":  "El Extraviado",
+    "Title":  "PERSONA EXTRAVIADA: Myshkino",
     "Descriptions":  [
-                         "Este pobre idiota se separó de su grupo y ahora está solo ahí fuera. Tiene suerte de seguir respirando. Llévalo a casa sano y salvo... si no consigue matarse antes.",
-                         "Escolta a este idiota de vuelta a casa y avisa a Peter cuando esté hecho.",
-                         "¿Lo trajiste entero? Sorprendente. Quizá aún haya esperanza para él. Gracias. Aquí tienes tu recompensa."
+                         "AVISO. Individuo localizado a las afueras de Myshkino, desorientado y sin recursos. Se solicita voluntario para escoltarlo de vuelta al campamento con seguridad.",
+                         "Escolta al superviviente hasta el campamento.",
+                         "Llegó bien. Gracias por traerlo."
                      ],
     "ObjectiveText":  "PLACEHOLDER",
     "FollowUpQuest":  -1,

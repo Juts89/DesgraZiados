@@ -2,11 +2,11 @@
     "ConfigVersion":  22,
     "ID":  6,
     "Type":  1,
-    "Title":  "Munición Robada",
+    "Title":  "AVISO: Munición Robada — Base de Marcus",
     "Descriptions":  [
-                         "Hola \u003c\u003e. Hace años, un soldado llamado Marcus robó un alijo de munición del ejército y lo ocultó en una base remota. Antes de volver por él, se infectó... y se convirtió en uno de ellos. Ahora patrulla la zona como un guardián muerto. Si tienes agallas, encuentra la base y encárgate de Marcus.",
-                         "La munición escasea. ¿A qué esperas?",
-                         "Te enfrentaste a Marcus... y viviste para contarlo. Esa munición nos ayudará a seguir respirando. Te lo has ganado."
+                         "AVISO. Un cargamento de munición fue robado y escondido en algún punto del territorio. Hay un soldado infectado que ronda la zona, lleva encima información. Neutralízalo y recupera lo que puedas.",
+                         "Localiza al soldado infectado Marcus y recupera la munición.",
+                         "Recuperado. Los Sheriff no olvidamos a quien ayuda."
                      ],
     "ObjectiveText":  "Encuentra la munición robada.",
     "FollowUpQuest":  -1,

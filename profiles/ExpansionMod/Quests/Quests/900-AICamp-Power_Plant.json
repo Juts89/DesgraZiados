@@ -2,11 +2,11 @@
     "ConfigVersion":  22,
     "ID":  900,
     "Type":  1,
-    "Title":  "Recuperar la Central Eléctrica",
+    "Title":  "URGENTE: Central Eléctrica del Noroeste",
     "Descriptions":  [
-                         "Mercenarios e infectados han tomado la central eléctrica. Recupérala.",
-                         "Elimina a todos los mercenarios e infectados.",
-                         "Buen trabajo. Ojalá sean los últimos cabrones. Aquí tienes tu pago."
+                         "URGENTE. Mercenarios han tomado la central eléctrica del noroeste. Sin ella, el territorio pierde lo poco que queda. Se necesitan voluntarios con experiencia. Esto no es un encargo ordinario.",
+                         "Viaja a la central y neutraliza a los mercenarios.",
+                         "La central está de nuevo operativa. Chernarus os debe algo. Los Sheriff también."
                      ],
     "ObjectiveText":  "Mata a todos los mercenarios en las ubicaciones marcadas.",
     "FollowUpQuest":  -1,
