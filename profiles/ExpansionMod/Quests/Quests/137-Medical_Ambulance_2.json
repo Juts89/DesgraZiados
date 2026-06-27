@@ -2,11 +2,11 @@
     "ConfigVersion":  22,
     "ID":  137,
     "Type":  1,
-    "Title":  "[!] Médico de Campaña: Sangre en el Suelo",
+    "Title":  "[!] MÃ©dico de CampaÃ±a: Sangre en el Suelo",
     "Descriptions":  [
-                         "Marina me mandó aviso. Algo ha vuelto al hospital. No sé qué, pero ella no manda avisos por nada.",
-                         "Vuelve al hospital. Y esta vez ve preparado para lo que no tiene explicación.",
-                         "Hay cosas en Chernarus que el apocalipsis no trajo. Solo despertó."
+                         "Marina me mandÃ³ aviso. Algo ha vuelto al hospital. No sÃ© quÃ©, pero ella no manda avisos por nada.",
+                         "Vuelve al hospital. Y esta vez ve preparado para lo que no tiene explicaciÃ³n.",
+                         "Hay cosas en Chernarus que el apocalipsis no trajo. Solo despertÃ³."
                      ],
     "ObjectiveText":  "Viaja al hospital.",
     "FollowUpQuest":  805,
@@ -44,7 +44,7 @@
                    ],
     "QuestColor":  0,
     "ReputationReward":  675,
-    "ReputationRequirement":  -1,
+    "ReputationRequirement":  0,
     "PreQuestIDs":  [
                         131
                     ],

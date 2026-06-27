@@ -5,10 +5,10 @@
     "Title":  "Bienvenido a IronZone",
     "Descriptions":  [
                          "Bienvenido. Soy Patter, de los Peregrinos. No te pido nada, solo que no causes problemas.",
-                         "Green Mountain es lo que queda. Quédate si quieres, o sigue tu camino.",
-                         "Bien. Ya sabes dónde estamos."
+                         "Green Mountain es lo que queda. QuÃ©date si quieres, o sigue tu camino.",
+                         "Bien. Ya sabes dÃ³nde estamos."
                      ],
-    "ObjectiveText":  "Visita el campamento en la ubicación marcada.",
+    "ObjectiveText":  "Visita el campamento en la ubicaciÃ³n marcada.",
     "FollowUpQuest":  -1,
     "Repeatable":  0,
     "IsDailyQuest":  0,
@@ -54,7 +54,7 @@
                    ],
     "QuestColor":  0,
     "ReputationReward":  5,
-    "ReputationRequirement":  -1,
+    "ReputationRequirement":  0,
     "PreQuestIDs":  [
 
                     ],

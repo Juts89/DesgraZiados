@@ -4,9 +4,9 @@
     "Type":  1,
     "Title":  "Contra el Mundo II",
     "Descriptions":  [
-                         "Forma equipo y vuelve a pelear contra la IA. Subamos el listón: neutralizad 50 o morid intentándolo. Suerte.",
-                         "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
-                         "Pensamos que esta vez os habíamos perdido para siempre... Bueno, aquí está vuestra recompensa."
+                         "Forma equipo y vuelve a pelear contra la IA. Subamos el listÃ³n: neutralizad 50 o morid intentÃ¡ndolo. Suerte.",
+                         "Â¿AÃºn no has terminado? Vuelve cuando el trabajo estÃ© hecho.",
+                         "Pensamos que esta vez os habÃ­amos perdido para siempre... Bueno, aquÃ­ estÃ¡ vuestra recompensa."
                      ],
     "ObjectiveText":  "Neutraliza 50 IA.",
     "FollowUpQuest":  -1,
@@ -87,7 +87,7 @@
                    ],
     "QuestColor":  -3662306,
     "ReputationReward":  1225,
-    "ReputationRequirement":  5000,
+    "ReputationRequirement":  0,
     "PreQuestIDs":  [
                         811
                     ],

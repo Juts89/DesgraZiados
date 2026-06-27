@@ -2,11 +2,11 @@
     "ConfigVersion":  22,
     "ID":  5,
     "Type":  1,
-    "Title":  "AVISO: Profanación de Tumbas en Elekto",
+    "Title":  "AVISO: ProfanaciÃ³n de Tumbas en Elekto",
     "Descriptions":  [
                          "AVISO. Se han detectado actividades de saqueo en el cementerio conocido como \u0027Tumba de las Almas Perdidas\u0027, en Elekto. Los Sheriff necesitan a alguien que investigue y recupere lo que pueda.",
-                         "Investiga la ubicación marcada.",
-                         "Lo que encontraste allí no sale de aquí. Gracias."
+                         "Investiga la ubicaciÃ³n marcada.",
+                         "Lo que encontraste allÃ­ no sale de aquÃ­. Gracias."
                      ],
     "ObjectiveText":  "Encuentra la tumba.",
     "FollowUpQuest":  -1,
@@ -44,7 +44,7 @@
                    ],
     "QuestColor":  0,
     "ReputationReward":  450,
-    "ReputationRequirement":  1000,
+    "ReputationRequirement":  0,
     "PreQuestIDs":  [
 
                     ],

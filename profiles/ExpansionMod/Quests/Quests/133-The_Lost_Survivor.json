@@ -4,11 +4,11 @@
     "Type":  1,
     "Title":  "El Superviviente Perdido",
     "Descriptions":  [
-                         "Necesito que encuentres a un superviviente desaparecido. Esta fue su última ubicación conocida. Prepárate: lo secuestraron. Vas a necesitar equipo... y transporte. No será fácil.",
-                         "Dirígete a la zona marcada y encuentra al superviviente secuestrado.",
+                         "Necesito que encuentres a un superviviente desaparecido. Esta fue su Ãºltima ubicaciÃ³n conocida. PrepÃ¡rate: lo secuestraron. Vas a necesitar equipo... y transporte. No serÃ¡ fÃ¡cil.",
+                         "DirÃ­gete a la zona marcada y encuentra al superviviente secuestrado.",
                          "Gracias. Salvaste a los nuestros de esos hostiles. Te deben la vida."
                      ],
-    "ObjectiveText":  "Viaja a la última ubicación conocida.",
+    "ObjectiveText":  "Viaja a la Ãºltima ubicaciÃ³n conocida.",
     "FollowUpQuest":  406,
     "Repeatable":  1,
     "IsDailyQuest":  0,
@@ -49,7 +49,7 @@
                    ],
     "QuestColor":  0,
     "ReputationReward":  300,
-    "ReputationRequirement":  -1,
+    "ReputationRequirement":  0,
     "PreQuestIDs":  [
 
                     ],

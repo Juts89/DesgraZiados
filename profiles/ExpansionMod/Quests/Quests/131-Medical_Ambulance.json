@@ -2,9 +2,9 @@
     "ConfigVersion":  22,
     "ID":  131,
     "Type":  1,
-    "Title":  "[!] Médico de Campaña: Hospital Asediado",
+    "Title":  "[!] MÃ©dico de CampaÃ±a: Hospital Asediado",
     "Descriptions":  [
-                         "El hospital de Stary Sobor está tomado. Hay una doctora atrapada dentro, Marina. Los Peregrinos no dejamos a nadie atrás.",
+                         "El hospital de Stary Sobor estÃ¡ tomado. Hay una doctora atrapada dentro, Marina. Los Peregrinos no dejamos a nadie atrÃ¡s.",
                          "Limpia el lugar. Luego encuentra a Marina.",
                          "Si ha sobrevivido hasta ahora, sabe cuidarse. Pero necesita que alguien abra la puerta."
                      ],
@@ -49,7 +49,7 @@
                    ],
     "QuestColor":  0,
     "ReputationReward":  300,
-    "ReputationRequirement":  -1,
+    "ReputationRequirement":  0,
     "PreQuestIDs":  [
 
                     ],
