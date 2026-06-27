@@ -1,73 +1,85 @@
 {
-   "ConfigVersion": 22,
-   "ID": 503,
-   "Type": 1,
-   "Title": "Piel de Oso",
-   "Descriptions": [
-      "Las noches empiezan a helar. Necesitamos pieles de oso para hacer mantas.",
-      "Mata un oso y lleva su piel a Peter en el Centro de Comercio.",
-      "Bien hecho. Aquí tienes tu recompensa."
-   ],
-   "ObjectiveText": "Mata y despelleja un oso.",
-   "FollowUpQuest": -1,
-   "Repeatable": 1,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 1,
-   "CancelQuestOnPlayerDeath": 0,
-   "Autocomplete": 0,
-   "IsGroupQuest": 0,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [
-      {
-         "ClassName": "WeaponCleaningKit",
-         "Amount": 2,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "ExpansionBanknoteHryvnia",
-         "Amount": 3750,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      }
-   ],
-   "NeedToSelectReward": 0,
-   "RandomReward": 0,
-   "RandomRewardAmount": 0,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      1
-   ],
-   "QuestTurnInIDs": [
-      1
-   ],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 4,
-         "ObjectiveType": 4
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 900,
-   "ReputationRequirement": 0,
-   "PreQuestIDs": [],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 0,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+    "ConfigVersion":  22,
+    "ID":  503,
+    "Type":  1,
+    "Title":  "Piel de Oso",
+    "Descriptions":  [
+                         "Las noches empiezan a helar. Necesitamos pieles de oso para hacer mantas.",
+                         "Mata un oso y lleva su piel a Peter en el Centro de Comercio.",
+                         "Bien hecho. AquÃ­ tienes tu recompensa."
+                     ],
+    "ObjectiveText":  "Mata y despelleja un oso.",
+    "FollowUpQuest":  -1,
+    "Repeatable":  1,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  1,
+    "CancelQuestOnPlayerDeath":  0,
+    "Autocomplete":  0,
+    "IsGroupQuest":  0,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+                    {
+                        "ClassName":  "WeaponCleaningKit",
+                        "Amount":  2,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "ExpansionBanknoteHryvnia",
+                        "Amount":  3750,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    }
+                ],
+    "NeedToSelectReward":  0,
+    "RandomReward":  0,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          1
+                      ],
+    "QuestTurnInIDs":  [
+                           1
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  4,
+                           "ObjectiveType":  4
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  900,
+    "ReputationRequirement":  0,
+    "PreQuestIDs":  [
+
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  0,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  0
 }

@@ -27,7 +27,7 @@
                 { "ClassName": "Hoodie_Grey",               "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
                 { "ClassName": "PlaidShirt_Black",          "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
                 { "ClassName": "PlaidShirt_Blue",           "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
-                { "ClassName": "PlaidShirt_Green",          "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                { "ClassName": "PlaidShirt_Green",          "Chance":  1, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
             ]
         },
         {
@@ -46,7 +46,7 @@
                 { "ClassName": "SlacksPants_Black",     "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
                 { "ClassName": "SlacksPants_Grey",      "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
                 { "ClassName": "TrackSuitPants_Black",  "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
-                { "ClassName": "TrackSuitPants_Blue",   "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                { "ClassName": "TrackSuitPants_Blue",   "Chance":  1, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
             ]
         },
         {
@@ -60,7 +60,7 @@
                 { "ClassName": "AthleticShoes_Black",   "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
                 { "ClassName": "AthleticShoes_White",   "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
                 { "ClassName": "HikingBootsLow_Black",  "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] },
-                { "ClassName": "HikingBootsLow_Brown",  "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                { "ClassName": "HikingBootsLow_Brown",  "Chance":  1, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":0.6,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
             ]
         },
         {

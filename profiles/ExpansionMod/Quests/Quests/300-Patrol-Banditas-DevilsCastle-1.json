@@ -2,11 +2,11 @@
     "ConfigVersion":  22,
     "ID":  300,
     "Type":  1,
-    "Title":  "Bandidos del Castillo del Diablo",
+    "Title":  "SE BUSCA: Banda del Castillo del Diablo",
     "Descriptions":  [
-                         "Los bandidos han tomado el Castillo del Diablo. Roban suministros, emboscan viajeros y disparan contra pueblos cercanos. Han convertido esa vieja fortaleza en su madriguera. Ya va siendo hora de cerrarla.",
-                         "Ve al Castillo del Diablo y elimina a los bandidos. Son pocos, pero están bien armados. Cuidado.",
-                         "¿El Castillo del Diablo está limpio? Buena noticia. Esos cabrones se lo ganaron. Buen trabajo. Aquí tienes tu recompensa."
+                         "SE BUSCA. Grupo armado ha tomado el Castillo del Diablo como base de operaciones. Atacan a cualquiera que pase por la zona. Se ofrece recompensa por limpiar el área.",
+                         "Neutraliza a los bandidos en el Castillo del Diablo.",
+                         "El castillo es libre. Los Sheriff reconocen el valor demostrado."
                      ],
     "ObjectiveText":  "Mata a todos los miembros de la patrulla bandida en la ubicación marcada.",
     "FollowUpQuest":  -1,
@@ -50,10 +50,10 @@
     "RewardsForGroupOwnerOnly":  0,
     "RewardBehavior":  0,
     "QuestGiverIDs":  [
-                          1
+                          3
                       ],
     "QuestTurnInIDs":  [
-                           1
+                           3
                        ],
     "IsAchievement":  0,
     "Objectives":  [

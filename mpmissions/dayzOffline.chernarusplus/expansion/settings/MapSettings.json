@@ -20,8 +20,8 @@
         {
             "m_UID": "ServerMarker_Trader_Green_Montain",
             "m_Visibility": 6,
-            "m_Is3D": 1,
-            "m_Text": "The zone",
+            "m_Is3D": 0,
+            "m_Text": "The Junkyard",
             "m_IconName": "Trader",
             "m_Color": -13710223,
             "m_Position": [

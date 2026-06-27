@@ -1,64 +1,74 @@
 {
-   "ConfigVersion": 22,
-   "ID": 505,
-   "Type": 1,
-   "Title": "Cerradura de Seguridad",
-   "Descriptions": [
-      "En el apocalipsis, ningún día es seguro. Vas a necesitar una buena cerradura.",
-      "Recoge todos los objetos y llévalos a Peter en el Centro de Comercio.",
-      "Esto debería mantenerte vivo un tiempo."
-   ],
-   "ObjectiveText": "Recoge todos los objetos.",
-   "FollowUpQuest": -1,
-   "Repeatable": 1,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 1,
-   "CancelQuestOnPlayerDeath": 0,
-   "Autocomplete": 0,
-   "IsGroupQuest": 0,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [
-      {
-         "ClassName": "ExpansionCodeLock",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      }
-   ],
-   "NeedToSelectReward": 0,
-   "RandomReward": 0,
-   "RandomRewardAmount": 0,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      1
-   ],
-   "QuestTurnInIDs": [
-      1
-   ],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 6,
-         "ObjectiveType": 4
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 0,
-   "ReputationRequirement": 3000,
-   "PreQuestIDs": [],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 0,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+    "ConfigVersion":  22,
+    "ID":  505,
+    "Type":  1,
+    "Title":  "Cerradura de Seguridad",
+    "Descriptions":  [
+                         "En el apocalipsis, ningÃƒÂºn dÃƒÂ­a es seguro. Vas a necesitar una buena cerradura.",
+                         "Recoge todos los objetos y llÃƒÂ©valos a Peter en el Centro de Comercio.",
+                         "Esto deberÃƒÂ­a mantenerte vivo un tiempo."
+                     ],
+    "ObjectiveText":  "Recoge todos los objetos.",
+    "FollowUpQuest":  -1,
+    "Repeatable":  1,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  1,
+    "CancelQuestOnPlayerDeath":  0,
+    "Autocomplete":  0,
+    "IsGroupQuest":  0,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+                    {
+                        "ClassName":  "ExpansionCodeLock",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    }
+                ],
+    "NeedToSelectReward":  0,
+    "RandomReward":  0,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          1
+                      ],
+    "QuestTurnInIDs":  [
+                           1
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  6,
+                           "ObjectiveType":  4
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  0,
+    "ReputationRequirement":  0,
+    "PreQuestIDs":  [
+
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  0,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  0
 }

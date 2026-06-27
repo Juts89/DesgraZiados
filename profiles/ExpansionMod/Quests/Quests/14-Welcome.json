@@ -1,62 +1,74 @@
 {
-   "ConfigVersion": 22,
-   "ID": 14,
-   "Type": 1,
-   "Title": "Bienvenido a IronZone",
-   "Descriptions": [
-      "PLACEHOLDER",
-      "PLACEHOLDER",
-      "PLACEHOLDER"
-   ],
-   "ObjectiveText": "Visita el campamento en la ubicación marcada.",
-   "FollowUpQuest": -1,
-   "Repeatable": 0,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 0,
-   "CancelQuestOnPlayerDeath": 0,
-   "Autocomplete": 1,
-   "IsGroupQuest": 0,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [
-      {
-         "ClassName": "ChernarusMap",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      }
-   ],
-   "NeedToSelectReward": 0,
-   "RandomReward": 0,
-   "RandomRewardAmount": 0,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [],
-   "QuestTurnInIDs": [
-      1
-   ],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 3,
-         "ObjectiveType": 3
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 5,
-   "ReputationRequirement": -1,
-   "PreQuestIDs": [],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 0,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+    "ConfigVersion":  22,
+    "ID":  14,
+    "Type":  1,
+    "Title":  "Bienvenido a IronZone",
+    "Descriptions":  [
+                         "Bienvenido. Soy Patter, de los Peregrinos. No te pido nada, solo que no causes problemas.",
+                         "Green Mountain es lo que queda. QuÃ©date si quieres, o sigue tu camino.",
+                         "Bien. Ya sabes dÃ³nde estamos."
+                     ],
+    "ObjectiveText":  "Visita el campamento en la ubicaciÃ³n marcada.",
+    "FollowUpQuest":  -1,
+    "Repeatable":  0,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  0,
+    "CancelQuestOnPlayerDeath":  0,
+    "Autocomplete":  1,
+    "IsGroupQuest":  0,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+                    {
+                        "ClassName":  "ChernarusMap",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    }
+                ],
+    "NeedToSelectReward":  0,
+    "RandomReward":  0,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+
+                      ],
+    "QuestTurnInIDs":  [
+                           1
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  3,
+                           "ObjectiveType":  3
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  5,
+    "ReputationRequirement":  0,
+    "PreQuestIDs":  [
+
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  0,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  1
 }

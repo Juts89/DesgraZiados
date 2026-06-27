@@ -365,7 +365,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "Military_Sweater_Black",
-                                                       "Chance":  0.78,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -613,7 +613,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "WorkingBoots_Grey",
-                                                       "Chance":  0.62,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -2281,7 +2281,7 @@
                                                    },
                                                    {
                                                        "ClassName":  "ALV_Workpants_Beige",
-                                                       "Chance":  0.78,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -3978,11 +3978,7 @@
                                       "Max":  0.0
                                   },
                      "Health":  [
-                                    {
-                                        "Min":  0.45,
-                                        "Max":  0.7,
-                                        "Zone":  ""
-                                    }
+
                                 ],
                      "InventoryAttachments":  [
                                                   {
@@ -3997,8 +3993,8 @@
                                                                                      },
                                                                         "Health":  [
                                                                                        {
-                                                                                           "Min":  0.45,
-                                                                                           "Max":  0.7,
+                                                                                           "Min":  0.699999988079071,
+                                                                                           "Max":  1.0,
                                                                                            "Zone":  ""
                                                                                        }
                                                                                    ],
@@ -4014,11 +4010,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4035,17 +4027,13 @@
                                                                                                                        },
                                                                                                                        {
                                                                                                                            "ClassName":  "ACOGOptic",
-                                                                                                                           "Chance":  0.30000001192092896,
+                                                                                                                           "Chance":  0.30000001192092898,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0.0,
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4062,17 +4050,13 @@
                                                                                                                        },
                                                                                                                        {
                                                                                                                            "ClassName":  "ACOGOptic_6x",
-                                                                                                                           "Chance":  0.15000000596046448,
+                                                                                                                           "Chance":  0.15000000596046449,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0.0,
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4095,11 +4079,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
                                                                                                                                                         {
@@ -4113,11 +4093,7 @@
                                                                                                                                                                                                "Max":  0.0
                                                                                                                                                                                            },
                                                                                                                                                                               "Health":  [
-                                                                                                                                                                                             {
-                                                                                                                                                                                                 "Min":  0.45,
-                                                                                                                                                                                                 "Max":  0.7,
-                                                                                                                                                                                                 "Zone":  ""
-                                                                                                                                                                                             }
+
                                                                                                                                                                                          ],
                                                                                                                                                                               "InventoryAttachments":  [
 
@@ -4153,11 +4129,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
                                                                                                                                                         {
@@ -4171,11 +4143,7 @@
                                                                                                                                                                                                "Max":  0.0
                                                                                                                                                                                            },
                                                                                                                                                                               "Health":  [
-                                                                                                                                                                                             {
-                                                                                                                                                                                                 "Min":  0.45,
-                                                                                                                                                                                                 "Max":  0.7,
-                                                                                                                                                                                                 "Zone":  ""
-                                                                                                                                                                                             }
+
                                                                                                                                                                                          ],
                                                                                                                                                                               "InventoryAttachments":  [
 
@@ -4211,11 +4179,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
                                                                                                                                                         {
@@ -4229,11 +4193,7 @@
                                                                                                                                                                                                "Max":  0.0
                                                                                                                                                                                            },
                                                                                                                                                                               "Health":  [
-                                                                                                                                                                                             {
-                                                                                                                                                                                                 "Min":  0.45,
-                                                                                                                                                                                                 "Max":  0.7,
-                                                                                                                                                                                                 "Zone":  ""
-                                                                                                                                                                                             }
+
                                                                                                                                                                                          ],
                                                                                                                                                                               "InventoryAttachments":  [
 
@@ -4286,11 +4246,7 @@
                                                                  "Max":  0.0
                                                              },
                                                 "Health":  [
-                                                               {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
-                                                                   "Zone":  ""
-                                                               }
+
                                                            ],
                                                 "InventoryAttachments":  [
 
@@ -4307,17 +4263,13 @@
                                             },
                                             {
                                                 "ClassName":  "Mag_Scout_5Rnd",
-                                                "Chance":  0.15000000596046448,
+                                                "Chance":  0.15000000596046449,
                                                 "Quantity":  {
                                                                  "Min":  0.0,
                                                                  "Max":  0.0
                                                              },
                                                 "Health":  [
-                                                               {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
-                                                                   "Zone":  ""
-                                                               }
+
                                                            ],
                                                 "InventoryAttachments":  [
 
@@ -4348,11 +4300,7 @@
                                       "Max":  0.0
                                   },
                      "Health":  [
-                                    {
-                                        "Min":  0.45,
-                                        "Max":  0.7,
-                                        "Zone":  ""
-                                    }
+
                                 ],
                      "InventoryAttachments":  [
                                                   {
@@ -4367,43 +4315,37 @@
                                                                                      },
                                                                         "Health":  [
                                                                                        {
-                                                                                           "Min":  0.45,
-                                                                                           "Max":  0.7,
+                                                                                           "Min":  0.699999988079071,
+                                                                                           "Max":  1.0,
                                                                                            "Zone":  ""
                                                                                        }
                                                                                    ],
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [
-                                                                                                                       {
-                                                                                                                           "ClassName":  "Mag_FAMAS_25Rnd",
-                                                                                                                           "Chance":  1.0,
-                                                                                                                           "Quantity":  {
-                                                                                                                                            "Min":  0.0,
-                                                                                                                                            "Max":  0.0
-                                                                                                                                        },
-                                                                                                                           "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
-                                                                                                                                      ],
-                                                                                                                           "InventoryAttachments":  [
+                                                                                                         "Items":  [{
+                                                                                                                       "ClassName":  "Mag_FAMAS_25Rnd",
+                                                                                                                       "Chance":  1.0,
+                                                                                                                       "Quantity":  {
+                                                                                                                                        "Min":  0.0,
+                                                                                                                                        "Max":  0.0
+                                                                                                                                    },
+                                                                                                                       "Health":  [
 
-                                                                                                                                                    ],
-                                                                                                                           "InventoryCargo":  [
+                                                                                                                                  ],
+                                                                                                                       "InventoryAttachments":  [
 
-                                                                                                                                              ],
-                                                                                                                           "ConstructionPartsBuilt":  [
+                                                                                                                                                ],
+                                                                                                                       "InventoryCargo":  [
 
-                                                                                                                                                      ],
-                                                                                                                           "Sets":  [
+                                                                                                                                          ],
+                                                                                                                       "ConstructionPartsBuilt":  [
 
-                                                                                                                                    ]
-                                                                                                                       }
-                                                                                                                   ]
+                                                                                                                                                  ],
+                                                                                                                       "Sets":  [
+
+                                                                                                                                ]
+                                                                                                                   }]
                                                                                                      }
                                                                                                  ],
                                                                         "InventoryCargo":  [
@@ -4428,11 +4370,7 @@
                                                                  "Max":  0.0
                                                              },
                                                 "Health":  [
-                                                               {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
-                                                                   "Zone":  ""
-                                                               }
+
                                                            ],
                                                 "InventoryAttachments":  [
 
@@ -4449,17 +4387,13 @@
                                             },
                                             {
                                                 "ClassName":  "Mag_FAMAS_25Rnd",
-                                                "Chance":  0.15000000596046448,
+                                                "Chance":  0.15000000596046449,
                                                 "Quantity":  {
                                                                  "Min":  0.0,
                                                                  "Max":  0.0
                                                              },
                                                 "Health":  [
-                                                               {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
-                                                                   "Zone":  ""
-                                                               }
+
                                                            ],
                                                 "InventoryAttachments":  [
 
@@ -4490,11 +4424,7 @@
                                       "Max":  0.0
                                   },
                      "Health":  [
-                                    {
-                                        "Min":  0.45,
-                                        "Max":  0.7,
-                                        "Zone":  ""
-                                    }
+
                                 ],
                      "InventoryAttachments":  [
                                                   {
@@ -4509,8 +4439,8 @@
                                                                                      },
                                                                         "Health":  [
                                                                                        {
-                                                                                           "Min":  0.45,
-                                                                                           "Max":  0.7,
+                                                                                           "Min":  0.699999988079071,
+                                                                                           "Max":  1.0,
                                                                                            "Zone":  ""
                                                                                        }
                                                                                    ],
@@ -4526,11 +4456,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4553,11 +4479,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4580,11 +4502,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4607,11 +4525,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4634,11 +4548,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4661,11 +4571,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4682,17 +4588,13 @@
                                                                                                                        },
                                                                                                                        {
                                                                                                                            "ClassName":  "M4_CQBBttstck",
-                                                                                                                           "Chance":  0.33000001311302185,
+                                                                                                                           "Chance":  0.33000001311302187,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0.0,
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4709,17 +4611,13 @@
                                                                                                                        },
                                                                                                                        {
                                                                                                                            "ClassName":  "M4_MPBttstck",
-                                                                                                                           "Chance":  0.33000001311302185,
+                                                                                                                           "Chance":  0.33000001311302187,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0.0,
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4742,11 +4640,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4763,17 +4657,13 @@
                                                                                                                        },
                                                                                                                        {
                                                                                                                            "ClassName":  "M4_MPHndgrd",
-                                                                                                                           "Chance":  0.33000001311302185,
+                                                                                                                           "Chance":  0.33000001311302187,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0.0,
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4796,11 +4686,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4817,17 +4703,13 @@
                                                                                                                        },
                                                                                                                        {
                                                                                                                            "ClassName":  "M4_RISHndgrd",
-                                                                                                                           "Chance":  0.33000001311302185,
+                                                                                                                           "Chance":  0.33000001311302187,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0.0,
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4844,17 +4726,13 @@
                                                                                                                        },
                                                                                                                        {
                                                                                                                            "ClassName":  "ACOGOptic",
-                                                                                                                           "Chance":  0.30000001192092896,
+                                                                                                                           "Chance":  0.30000001192092898,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0.0,
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4877,11 +4755,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -4904,11 +4778,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
                                                                                                                                                         {
@@ -4922,11 +4792,7 @@
                                                                                                                                                                                                "Max":  0.0
                                                                                                                                                                                            },
                                                                                                                                                                               "Health":  [
-                                                                                                                                                                                             {
-                                                                                                                                                                                                 "Min":  0.45,
-                                                                                                                                                                                                 "Max":  0.7,
-                                                                                                                                                                                                 "Zone":  ""
-                                                                                                                                                                                             }
+
                                                                                                                                                                                          ],
                                                                                                                                                                               "InventoryAttachments":  [
 
@@ -4962,11 +4828,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
                                                                                                                                                         {
@@ -4980,11 +4842,7 @@
                                                                                                                                                                                                "Max":  0.0
                                                                                                                                                                                            },
                                                                                                                                                                               "Health":  [
-                                                                                                                                                                                             {
-                                                                                                                                                                                                 "Min":  0.45,
-                                                                                                                                                                                                 "Max":  0.7,
-                                                                                                                                                                                                 "Zone":  ""
-                                                                                                                                                                                             }
+
                                                                                                                                                                                          ],
                                                                                                                                                                               "InventoryAttachments":  [
 
@@ -5020,11 +4878,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
                                                                                                                                                         {
@@ -5038,11 +4892,7 @@
                                                                                                                                                                                                "Max":  0.0
                                                                                                                                                                                            },
                                                                                                                                                                               "Health":  [
-                                                                                                                                                                                             {
-                                                                                                                                                                                                 "Min":  0.45,
-                                                                                                                                                                                                 "Max":  0.7,
-                                                                                                                                                                                                 "Zone":  ""
-                                                                                                                                                                                             }
+
                                                                                                                                                                                          ],
                                                                                                                                                                               "InventoryAttachments":  [
 
@@ -5078,11 +4928,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
                                                                                                                                                         {
@@ -5096,11 +4942,7 @@
                                                                                                                                                                                                "Max":  0.0
                                                                                                                                                                                            },
                                                                                                                                                                               "Health":  [
-                                                                                                                                                                                             {
-                                                                                                                                                                                                 "Min":  0.45,
-                                                                                                                                                                                                 "Max":  0.7,
-                                                                                                                                                                                                 "Zone":  ""
-                                                                                                                                                                                             }
+
                                                                                                                                                                                          ],
                                                                                                                                                                               "InventoryAttachments":  [
 
@@ -5136,11 +4978,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -5180,11 +5018,7 @@
                                                                  "Max":  0.0
                                                              },
                                                 "Health":  [
-                                                               {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
-                                                                   "Zone":  ""
-                                                               }
+
                                                            ],
                                                 "InventoryAttachments":  [
 
@@ -5201,17 +5035,13 @@
                                             },
                                             {
                                                 "ClassName":  "Mag_STANAG_30Rnd",
-                                                "Chance":  0.15000000596046448,
+                                                "Chance":  0.15000000596046449,
                                                 "Quantity":  {
                                                                  "Min":  0.0,
                                                                  "Max":  0.0
                                                              },
                                                 "Health":  [
-                                                               {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
-                                                                   "Zone":  ""
-                                                               }
+
                                                            ],
                                                 "InventoryAttachments":  [
 
@@ -5242,11 +5072,7 @@
                                       "Max":  0.0
                                   },
                      "Health":  [
-                                    {
-                                        "Min":  0.45,
-                                        "Max":  0.7,
-                                        "Zone":  ""
-                                    }
+
                                 ],
                      "InventoryAttachments":  [
                                                   {
@@ -5261,43 +5087,37 @@
                                                                                      },
                                                                         "Health":  [
                                                                                        {
-                                                                                           "Min":  0.45,
-                                                                                           "Max":  0.7,
+                                                                                           "Min":  0.699999988079071,
+                                                                                           "Max":  1.0,
                                                                                            "Zone":  ""
                                                                                        }
                                                                                    ],
                                                                         "InventoryAttachments":  [
                                                                                                      {
                                                                                                          "SlotName":  "",
-                                                                                                         "Items":  [
-                                                                                                                       {
-                                                                                                                           "ClassName":  "Mag_Aug_30Rnd",
-                                                                                                                           "Chance":  1.0,
-                                                                                                                           "Quantity":  {
-                                                                                                                                            "Min":  0.0,
-                                                                                                                                            "Max":  0.0
-                                                                                                                                        },
-                                                                                                                           "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
-                                                                                                                                      ],
-                                                                                                                           "InventoryAttachments":  [
+                                                                                                         "Items":  [{
+                                                                                                                       "ClassName":  "Mag_Aug_30Rnd",
+                                                                                                                       "Chance":  1.0,
+                                                                                                                       "Quantity":  {
+                                                                                                                                        "Min":  0.0,
+                                                                                                                                        "Max":  0.0
+                                                                                                                                    },
+                                                                                                                       "Health":  [
 
-                                                                                                                                                    ],
-                                                                                                                           "InventoryCargo":  [
+                                                                                                                                  ],
+                                                                                                                       "InventoryAttachments":  [
 
-                                                                                                                                              ],
-                                                                                                                           "ConstructionPartsBuilt":  [
+                                                                                                                                                ],
+                                                                                                                       "InventoryCargo":  [
 
-                                                                                                                                                      ],
-                                                                                                                           "Sets":  [
+                                                                                                                                          ],
+                                                                                                                       "ConstructionPartsBuilt":  [
 
-                                                                                                                                    ]
-                                                                                                                       }
-                                                                                                                   ]
+                                                                                                                                                  ],
+                                                                                                                       "Sets":  [
+
+                                                                                                                                ]
+                                                                                                                   }]
                                                                                                      }
                                                                                                  ],
                                                                         "InventoryCargo":  [
@@ -5322,11 +5142,7 @@
                                                                  "Max":  0.0
                                                              },
                                                 "Health":  [
-                                                               {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
-                                                                   "Zone":  ""
-                                                               }
+
                                                            ],
                                                 "InventoryAttachments":  [
 
@@ -5343,17 +5159,13 @@
                                             },
                                             {
                                                 "ClassName":  "Mag_Aug_30Rnd",
-                                                "Chance":  0.15000000596046448,
+                                                "Chance":  0.15000000596046449,
                                                 "Quantity":  {
                                                                  "Min":  0.0,
                                                                  "Max":  0.0
                                                              },
                                                 "Health":  [
-                                                               {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
-                                                                   "Zone":  ""
-                                                               }
+
                                                            ],
                                                 "InventoryAttachments":  [
 
@@ -5384,11 +5196,7 @@
                                       "Max":  0.0
                                   },
                      "Health":  [
-                                    {
-                                        "Min":  0.45,
-                                        "Max":  0.7,
-                                        "Zone":  ""
-                                    }
+
                                 ],
                      "InventoryAttachments":  [
                                                   {
@@ -5403,8 +5211,8 @@
                                                                                      },
                                                                         "Health":  [
                                                                                        {
-                                                                                           "Min":  0.45,
-                                                                                           "Max":  0.7,
+                                                                                           "Min":  0.699999988079071,
+                                                                                           "Max":  1.0,
                                                                                            "Zone":  ""
                                                                                        }
                                                                                    ],
@@ -5420,11 +5228,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -5441,17 +5245,13 @@
                                                                                                                        },
                                                                                                                        {
                                                                                                                            "ClassName":  "ACOGOptic",
-                                                                                                                           "Chance":  0.30000001192092896,
+                                                                                                                           "Chance":  0.30000001192092898,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0.0,
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -5474,11 +5274,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -5501,11 +5297,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
                                                                                                                                                         {
@@ -5519,11 +5311,7 @@
                                                                                                                                                                                                "Max":  0.0
                                                                                                                                                                                            },
                                                                                                                                                                               "Health":  [
-                                                                                                                                                                                             {
-                                                                                                                                                                                                 "Min":  0.45,
-                                                                                                                                                                                                 "Max":  0.7,
-                                                                                                                                                                                                 "Zone":  ""
-                                                                                                                                                                                             }
+
                                                                                                                                                                                          ],
                                                                                                                                                                               "InventoryAttachments":  [
 
@@ -5559,11 +5347,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
                                                                                                                                                         {
@@ -5577,11 +5361,7 @@
                                                                                                                                                                                                "Max":  0.0
                                                                                                                                                                                            },
                                                                                                                                                                               "Health":  [
-                                                                                                                                                                                             {
-                                                                                                                                                                                                 "Min":  0.45,
-                                                                                                                                                                                                 "Max":  0.7,
-                                                                                                                                                                                                 "Zone":  ""
-                                                                                                                                                                                             }
+
                                                                                                                                                                                          ],
                                                                                                                                                                               "InventoryAttachments":  [
 
@@ -5617,11 +5397,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
                                                                                                                                                         {
@@ -5635,11 +5411,7 @@
                                                                                                                                                                                                "Max":  0.0
                                                                                                                                                                                            },
                                                                                                                                                                               "Health":  [
-                                                                                                                                                                                             {
-                                                                                                                                                                                                 "Min":  0.45,
-                                                                                                                                                                                                 "Max":  0.7,
-                                                                                                                                                                                                 "Zone":  ""
-                                                                                                                                                                                             }
+
                                                                                                                                                                                          ],
                                                                                                                                                                               "InventoryAttachments":  [
 
@@ -5675,11 +5447,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
                                                                                                                                                         {
@@ -5693,11 +5461,7 @@
                                                                                                                                                                                                "Max":  0.0
                                                                                                                                                                                            },
                                                                                                                                                                               "Health":  [
-                                                                                                                                                                                             {
-                                                                                                                                                                                                 "Min":  0.45,
-                                                                                                                                                                                                 "Max":  0.7,
-                                                                                                                                                                                                 "Zone":  ""
-                                                                                                                                                                                             }
+
                                                                                                                                                                                          ],
                                                                                                                                                                               "InventoryAttachments":  [
 
@@ -5750,11 +5514,7 @@
                                                                  "Max":  0.0
                                                              },
                                                 "Health":  [
-                                                               {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
-                                                                   "Zone":  ""
-                                                               }
+
                                                            ],
                                                 "InventoryAttachments":  [
 
@@ -5771,17 +5531,13 @@
                                             },
                                             {
                                                 "ClassName":  "Mag_Aug_30Rnd",
-                                                "Chance":  0.15000000596046448,
+                                                "Chance":  0.15000000596046449,
                                                 "Quantity":  {
                                                                  "Min":  0.0,
                                                                  "Max":  0.0
                                                              },
                                                 "Health":  [
-                                                               {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
-                                                                   "Zone":  ""
-                                                               }
+
                                                            ],
                                                 "InventoryAttachments":  [
 
@@ -5812,11 +5568,7 @@
                                       "Max":  0.0
                                   },
                      "Health":  [
-                                    {
-                                        "Min":  0.45,
-                                        "Max":  0.7,
-                                        "Zone":  ""
-                                    }
+
                                 ],
                      "InventoryAttachments":  [
                                                   {
@@ -5831,8 +5583,8 @@
                                                                                      },
                                                                         "Health":  [
                                                                                        {
-                                                                                           "Min":  0.45,
-                                                                                           "Max":  0.7,
+                                                                                           "Min":  0.699999988079071,
+                                                                                           "Max":  1.0,
                                                                                            "Zone":  ""
                                                                                        }
                                                                                    ],
@@ -5842,17 +5594,13 @@
                                                                                                          "Items":  [
                                                                                                                        {
                                                                                                                            "ClassName":  "Mag_STANAG_60Rnd",
-                                                                                                                           "Chance":  0.20000000298023224,
+                                                                                                                           "Chance":  0.20000000298023225,
                                                                                                                            "Quantity":  {
                                                                                                                                             "Min":  0.0,
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -5875,11 +5623,7 @@
                                                                                                                                             "Max":  0.0
                                                                                                                                         },
                                                                                                                            "Health":  [
-                                                                                                                                          {
-                                                                                                                                              "Min":  0.45,
-                                                                                                                                              "Max":  0.7,
-                                                                                                                                              "Zone":  ""
-                                                                                                                                          }
+
                                                                                                                                       ],
                                                                                                                            "InventoryAttachments":  [
 
@@ -5919,11 +5663,7 @@
                                                                  "Max":  0.0
                                                              },
                                                 "Health":  [
-                                                               {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
-                                                                   "Zone":  ""
-                                                               }
+
                                                            ],
                                                 "InventoryAttachments":  [
 
@@ -5940,17 +5680,13 @@
                                             },
                                             {
                                                 "ClassName":  "Mag_STANAG_30Rnd",
-                                                "Chance":  0.15000000596046448,
+                                                "Chance":  0.15000000596046449,
                                                 "Quantity":  {
                                                                  "Min":  0.0,
                                                                  "Max":  0.0
                                                              },
                                                 "Health":  [
-                                                               {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
-                                                                   "Zone":  ""
-                                                               }
+
                                                            ],
                                                 "InventoryAttachments":  [
 

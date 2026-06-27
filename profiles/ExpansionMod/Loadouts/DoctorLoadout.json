@@ -7,19 +7,19 @@
         {
             "SlotName": "Body",
             "Items": [
-                { "ClassName": "LabCoat", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":1.0,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                { "ClassName": "LabCoat", "Chance":  1, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":1.0,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
             ]
         },
         {
             "SlotName": "Legs",
             "Items": [
-                { "ClassName": "SlacksPants_Black", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":1.0,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                { "ClassName": "SlacksPants_Black", "Chance":  1, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":1.0,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
             ]
         },
         {
             "SlotName": "Feet",
             "Items": [
-                { "ClassName": "DressShoes_Black", "Chance": 1.0, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":1.0,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
+                { "ClassName": "DressShoes_Black", "Chance":  1, "Quantity": {"Min":0,"Max":0}, "Health": [{"Min":1.0,"Max":1.0,"Zone":""}], "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": [] }
             ]
         },
         {

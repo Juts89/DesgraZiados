@@ -2,11 +2,11 @@
     "ConfigVersion":  22,
     "ID":  401,
     "Type":  1,
-    "Title":  "Se lo Buscó",
+    "Title":  "SE BUSCA: Fugitivo en Rogovo",
     "Descriptions":  [
-                         "Pillamos a este degenerado haciendo algo... cuestionable con una oveja. Sí, has oído bien. En Rogovo hay un sitio para gente como él. Déjalo allí y no hagas demasiadas preguntas.",
-                         "Lleva al pervertido a casa y avisa a Peter cuando esté hecho.",
-                         "¿Lo entregaste? Bien. Ese pueblo sabe qué hacer con tipos así. Gracias. Y quizá necesites desinfectante."
+                         "SE BUSCA. Individuo peligroso localizado en la zona de Rogovo. Ha cometido actos contra miembros de la comunidad. Debe ser llevado ante los Sheriff para rendir cuentas. Se paga bien.",
+                         "Localiza al fugitivo en Rogovo y escóltalo hasta el destino marcado.",
+                         "La justicia tiene un precio. Aquí está el tuyo."
                      ],
     "ObjectiveText":  "Lleva al pervertido a casa.",
     "FollowUpQuest":  -1,
@@ -39,7 +39,7 @@
     "RewardsForGroupOwnerOnly":  0,
     "RewardBehavior":  0,
     "QuestGiverIDs":  [
-                          1
+                          3
                       ],
     "QuestTurnInIDs":  [
 

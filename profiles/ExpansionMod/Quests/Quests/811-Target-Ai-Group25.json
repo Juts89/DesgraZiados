@@ -4,9 +4,9 @@
     "Type":  1,
     "Title":  "Contra el Mundo",
     "Descriptions":  [
-                         "Forma equipo y pelea contra la IA. Ya sabes los problemas que causan. Quitémoslos de en medio. Neutralizad 25 o morid intentándolo. Suerte.",
-                         "¿Aún no has terminado? Vuelve cuando el trabajo esté hecho.",
-                         "Pensamos que esta vez os habíamos perdido para siempre... Bueno, aquí está vuestra recompensa."
+                         "Forma equipo y pelea contra la IA. Ya sabes los problemas que causan. QuitÃ©moslos de en medio. Neutralizad 25 o morid intentÃ¡ndolo. Suerte.",
+                         "Â¿AÃºn no has terminado? Vuelve cuando el trabajo estÃ© hecho.",
+                         "Pensamos que esta vez os habÃ­amos perdido para siempre... Bueno, aquÃ­ estÃ¡ vuestra recompensa."
                      ],
     "ObjectiveText":  "Neutraliza 25 IA.",
     "FollowUpQuest":  -1,
@@ -76,7 +76,7 @@
                    ],
     "QuestColor":  -3662306,
     "ReputationReward":  900,
-    "ReputationRequirement":  25000,
+    "ReputationRequirement":  0,
     "PreQuestIDs":  [
                         810
                     ],
@@ -92,6 +92,6 @@
 
                                  },
     "SuppressQuestLogOnCompetion":  0,
-    "Active":  1,
+    "Active":  0,
     "GroupQuestMode":  0
 }

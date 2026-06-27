@@ -548,7 +548,7 @@
                                                    {
                                                        "ClassName":  "Military_Sweater_Black",
                                                        "Include":  "",
-                                                       "Chance":  0.78,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -888,7 +888,7 @@
                                                    {
                                                        "ClassName":  "ALV_Workpants_Beige",
                                                        "Include":  "",
-                                                       "Chance":  0.78,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -1229,7 +1229,7 @@
                                                    {
                                                        "ClassName":  "WorkingBoots_Grey",
                                                        "Include":  "",
-                                                       "Chance":  0.62,
+                                                       "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
                                                                         "Max":  0
@@ -3897,23 +3897,46 @@
                  {
                      "ClassName":  "FOOD",
                      "Include":  "",
-                     "Chance":  0.033333,
+                     "Chance":  1.0,
                      "Quantity":  {
-                                      "Min":  0,
-                                      "Max":  0
+                                      "Min":  0.0,
+                                      "Max":  0.0
                                   },
                      "Health":  [
-                                    {
-                                        "Min":  0.45,
-                                        "Max":  0.7,
-                                        "Zone":  ""
-                                    }
+
                                 ],
                      "InventoryAttachments":  [
 
                                               ],
                      "InventoryCargo":  [
+                                            {
+                                                "ClassName":  "Apple",
+                                                "Include":  "",
+                                                "Chance":  1.0,
+                                                "Quantity":  {
+                                                                 "Min":  0.0,
+                                                                 "Max":  0.0
+                                                             },
+                                                "Health":  [
+                                                               {
+                                                                   "Min":  0.44999998807907107,
+                                                                   "Max":  0.6499999761581421,
+                                                                   "Zone":  ""
+                                                               }
+                                                           ],
+                                                "InventoryAttachments":  [
 
+                                                                         ],
+                                                "InventoryCargo":  [
+
+                                                                   ],
+                                                "ConstructionPartsBuilt":  [
+
+                                                                           ],
+                                                "Sets":  [
+
+                                                         ]
+                                            }
                                         ],
                      "ConstructionPartsBuilt":  [
 
@@ -3925,23 +3948,46 @@
                  {
                      "ClassName":  "FOOD",
                      "Include":  "",
-                     "Chance":  0.033333,
+                     "Chance":  1.0,
                      "Quantity":  {
-                                      "Min":  0,
-                                      "Max":  0
+                                      "Min":  0.0,
+                                      "Max":  0.0
                                   },
                      "Health":  [
-                                    {
-                                        "Min":  0.45,
-                                        "Max":  0.7,
-                                        "Zone":  ""
-                                    }
+
                                 ],
                      "InventoryAttachments":  [
 
                                               ],
                      "InventoryCargo":  [
+                                            {
+                                                "ClassName":  "Pear",
+                                                "Include":  "",
+                                                "Chance":  1.0,
+                                                "Quantity":  {
+                                                                 "Min":  0.0,
+                                                                 "Max":  0.0
+                                                             },
+                                                "Health":  [
+                                                               {
+                                                                   "Min":  0.44999998807907107,
+                                                                   "Max":  0.6499999761581421,
+                                                                   "Zone":  ""
+                                                               }
+                                                           ],
+                                                "InventoryAttachments":  [
 
+                                                                         ],
+                                                "InventoryCargo":  [
+
+                                                                   ],
+                                                "ConstructionPartsBuilt":  [
+
+                                                                           ],
+                                                "Sets":  [
+
+                                                         ]
+                                            }
                                         ],
                      "ConstructionPartsBuilt":  [
 
@@ -3953,23 +3999,46 @@
                  {
                      "ClassName":  "FOOD",
                      "Include":  "",
-                     "Chance":  0.033333,
+                     "Chance":  1.0,
                      "Quantity":  {
-                                      "Min":  0,
-                                      "Max":  0
+                                      "Min":  0.0,
+                                      "Max":  0.0
                                   },
                      "Health":  [
-                                    {
-                                        "Min":  0.45,
-                                        "Max":  0.7,
-                                        "Zone":  ""
-                                    }
+
                                 ],
                      "InventoryAttachments":  [
 
                                               ],
                      "InventoryCargo":  [
+                                            {
+                                                "ClassName":  "Plum",
+                                                "Include":  "",
+                                                "Chance":  1.0,
+                                                "Quantity":  {
+                                                                 "Min":  0.0,
+                                                                 "Max":  0.0
+                                                             },
+                                                "Health":  [
+                                                               {
+                                                                   "Min":  0.44999998807907107,
+                                                                   "Max":  0.6499999761581421,
+                                                                   "Zone":  ""
+                                                               }
+                                                           ],
+                                                "InventoryAttachments":  [
 
+                                                                         ],
+                                                "InventoryCargo":  [
+
+                                                                   ],
+                                                "ConstructionPartsBuilt":  [
+
+                                                                           ],
+                                                "Sets":  [
+
+                                                         ]
+                                            }
                                         ],
                      "ConstructionPartsBuilt":  [
 
@@ -3987,11 +4056,7 @@
                                       "Max":  0.0
                                   },
                      "Health":  [
-                                    {
-                                        "Min":  0.45,
-                                        "Max":  0.7,
-                                        "Zone":  ""
-                                    }
+
                                 ],
                      "InventoryAttachments":  [
 
@@ -4007,8 +4072,8 @@
                                                              },
                                                 "Health":  [
                                                                {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
+                                                                   "Min":  0.44999998807907107,
+                                                                   "Max":  0.6499999761581421,
                                                                    "Zone":  ""
                                                                }
                                                            ],
@@ -4042,11 +4107,7 @@
                                       "Max":  0.0
                                   },
                      "Health":  [
-                                    {
-                                        "Min":  0.45,
-                                        "Max":  0.7,
-                                        "Zone":  ""
-                                    }
+
                                 ],
                      "InventoryAttachments":  [
 
@@ -4062,8 +4123,8 @@
                                                              },
                                                 "Health":  [
                                                                {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
+                                                                   "Min":  0.44999998807907107,
+                                                                   "Max":  0.6499999761581421,
                                                                    "Zone":  ""
                                                                }
                                                            ],
@@ -4097,11 +4158,7 @@
                                       "Max":  0.0
                                   },
                      "Health":  [
-                                    {
-                                        "Min":  0.45,
-                                        "Max":  0.7,
-                                        "Zone":  ""
-                                    }
+
                                 ],
                      "InventoryAttachments":  [
 
@@ -4117,8 +4174,8 @@
                                                              },
                                                 "Health":  [
                                                                {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
+                                                                   "Min":  0.44999998807907107,
+                                                                   "Max":  0.6499999761581421,
                                                                    "Zone":  ""
                                                                }
                                                            ],
@@ -4152,11 +4209,7 @@
                                       "Max":  0.0
                                   },
                      "Health":  [
-                                    {
-                                        "Min":  0.45,
-                                        "Max":  0.7,
-                                        "Zone":  ""
-                                    }
+
                                 ],
                      "InventoryAttachments":  [
 
@@ -4172,8 +4225,8 @@
                                                              },
                                                 "Health":  [
                                                                {
-                                                                   "Min":  0.45,
-                                                                   "Max":  0.7,
+                                                                   "Min":  0.44999998807907107,
+                                                                   "Max":  0.6499999761581421,
                                                                    "Zone":  ""
                                                                }
                                                            ],

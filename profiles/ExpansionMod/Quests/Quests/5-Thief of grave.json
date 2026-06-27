@@ -2,11 +2,11 @@
     "ConfigVersion":  22,
     "ID":  5,
     "Type":  1,
-    "Title":  "El Saqueador de Tumbas",
+    "Title":  "AVISO: ProfanaciÃ³n de Tumbas en Elekto",
     "Descriptions":  [
-                         "Hola \u003c\u003e. En una aldea olvidada, Kieran entró en la Tumba de las Almas Perdidas tras rumores de tesoros enterrados. Encontró reliquias antiguas... y algo más lo encontró a él. Ahora ha desaparecido, y la tumba vuelve a estar en silencio. Ve y descubre qué ocurrió.",
-                         "¿Qué dices? Puede que tengas más suerte que él.",
-                         "Así que los rumores eran ciertos... Tú sí has salido con vida. Lo que hubiera ahí abajo, lo enfrentaste. Gracias por tu valor. Aquí tienes tu recompensa."
+                         "AVISO. Se han detectado actividades de saqueo en el cementerio conocido como \u0027Tumba de las Almas Perdidas\u0027, en Elekto. Los Sheriff necesitan a alguien que investigue y recupere lo que pueda.",
+                         "Investiga la ubicaciÃ³n marcada.",
+                         "Lo que encontraste allÃ­ no sale de aquÃ­. Gracias."
                      ],
     "ObjectiveText":  "Encuentra la tumba.",
     "FollowUpQuest":  -1,
@@ -29,7 +29,7 @@
     "RewardsForGroupOwnerOnly":  0,
     "RewardBehavior":  0,
     "QuestGiverIDs":  [
-                          1
+                          3
                       ],
     "QuestTurnInIDs":  [
 
@@ -44,7 +44,7 @@
                    ],
     "QuestColor":  0,
     "ReputationReward":  450,
-    "ReputationRequirement":  1000,
+    "ReputationRequirement":  0,
     "PreQuestIDs":  [
 
                     ],

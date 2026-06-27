@@ -1,66 +1,74 @@
 {
-   "ConfigVersion": 22,
-   "ID": 701,
-   "Type": 1,
-   "Title": "El Paquete de Peter",
-   "Descriptions": [
-      "Bien, esto es lo que quiere Peter. Llévaselo y quedará satisfecho. Ni se te ocurra abrir el paquete. Solo ve y entrégaselo.",
-      "¿Qué haces todavía aquí? ¡Ve con Peter!",
-      "¿Por qué has tardado tanto?... ¿Traes lo que quería? ** (Mira el paquete con los ojos abiertos y te lo arranca de las manos) ** Bien... ¿Qué? ¿Tu salida? Te mentí. No hay ninguna puta salida de este infierno, y morirás aquí como todos. Quédate esta mochila y prueba suerte ahí fuera. Siento haberte mentido, pero todos hacemos lo que podemos para sobrevivir. Buena suerte... la vas a necesitar."
-   ],
-   "ObjectiveText": "Vuelve con Peter y entrégale el paquete de Steve.",
-   "FollowUpQuest": -1,
-   "Repeatable": 0,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 0,
-   "CancelQuestOnPlayerDeath": 1,
-   "Autocomplete": 0,
-   "IsGroupQuest": 0,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [
-      {
-         "ClassName": "ExpansionBanknoteHryvnia",
-         "Amount": 1250,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      }
-   ],
-   "NeedToSelectReward": 1,
-   "RandomReward": 0,
-   "RandomRewardAmount": 0,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      2
-   ],
-   "QuestTurnInIDs": [
-      1
-   ],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 2,
-         "ObjectiveType": 5
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 37,
-   "ReputationRequirement": 0,
-   "PreQuestIDs": [
-      700
-   ],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 1,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+    "ConfigVersion":  22,
+    "ID":  701,
+    "Type":  1,
+    "Title":  "Lleva el paquete a Patter",
+    "Descriptions":  [
+                         "Patter necesita esto. Llévaselo.",
+                         "No te entretengas.",
+                         "Ya puedes irte."
+                     ],
+    "ObjectiveText":  "Vuelve con Patter y entrégale el paquete.",
+    "FollowUpQuest":  -1,
+    "Repeatable":  0,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  0,
+    "CancelQuestOnPlayerDeath":  1,
+    "Autocomplete":  0,
+    "IsGroupQuest":  0,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+                    {
+                        "ClassName":  "ExpansionBanknoteHryvnia",
+                        "Amount":  1250,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    }
+                ],
+    "NeedToSelectReward":  1,
+    "RandomReward":  0,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          2
+                      ],
+    "QuestTurnInIDs":  [
+                           1
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  2,
+                           "ObjectiveType":  5
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  37,
+    "ReputationRequirement":  0,
+    "PreQuestIDs":  [
+                        700
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  1,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  1
 }
