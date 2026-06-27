@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <types>
   <type name="ACOGOptic">
     <nominal>2</nominal>
@@ -2799,10 +2799,10 @@
     <usage name="Military" />
   </type>
   <type name="BandageDressing">
-    <nominal>6</nominal>
+    <nominal>12</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>4</min>
+    <min>8</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3436,10 +3436,10 @@
     <category name="food" />
   </type>
   <type name="BloodBagEmpty">
-    <nominal>4</nominal>
+    <nominal>8</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>4</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3471,10 +3471,10 @@
     <category name="tools" />
   </type>
   <type name="BloodTestKit">
-    <nominal>10</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>5</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4425,10 +4425,10 @@
     <usage name="Hunting" />
   </type>
   <type name="CanvasBag_Medical">
-    <nominal>8</nominal>
+    <nominal>16</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>5</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -4784,10 +4784,10 @@
     <usage name="Historical" />
   </type>
   <type name="CharcoalTablets">
-    <nominal>4</nominal>
+    <nominal>8</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>4</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -6597,10 +6597,10 @@
     <usage name="Village" />
   </type>
   <type name="DisinfectantSpray">
-    <nominal>4</nominal>
+    <nominal>8</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>4</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -6970,10 +6970,10 @@
     <value name="Tier3" />
   </type>
   <type name="Epinephrine">
-    <nominal>4</nominal>
+    <nominal>8</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>4</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7461,10 +7461,10 @@
     <usage name="Lunapark" />
   </type>
   <type name="FirstAidKit">
-    <nominal>4</nominal>
+    <nominal>8</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>4</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10156,10 +10156,10 @@
     <usage name="Village" />
   </type>
   <type name="HipPack_Medical">
-    <nominal>8</nominal>
+    <nominal>16</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>5</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -10654,10 +10654,10 @@
     <category name="weapons" />
   </type>
   <type name="IodineTincture">
-    <nominal>40</nominal>
+    <nominal>80</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>60</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -14128,10 +14128,10 @@
     <usage name="SeasonalEvent" />
   </type>
   <type name="Morphine">
-    <nominal>4</nominal>
+    <nominal>8</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>4</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -15236,10 +15236,10 @@
     <usage name="Hunting" />
   </type>
   <type name="PainkillerTablets">
-    <nominal>4</nominal>
+    <nominal>8</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>4</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -15607,10 +15607,10 @@
     <usage name="Farm" />
   </type>
   <type name="PersonalRadio">
-    <nominal>40</nominal>
+    <nominal>80</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>40</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -16457,10 +16457,10 @@
     <usage name="Farm" />
   </type>
   <type name="PurificationTablets">
-    <nominal>50</nominal>
+    <nominal>100</nominal>
     <lifetime>28800</lifetime>
     <restock>1800</restock>
-    <min>30</min>
+    <min>60</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -17178,10 +17178,10 @@
     <usage name="Military" />
   </type>
   <type name="SalineBag">
-    <nominal>4</nominal>
+    <nominal>8</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>4</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -19231,10 +19231,10 @@
     <usage name="ContaminatedArea" />
   </type>
   <type name="StartKitIV">
-    <nominal>30</nominal>
+    <nominal>60</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
-    <min>20</min>
+    <min>40</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -20182,10 +20182,10 @@
     <category name="tools" />
   </type>
   <type name="TetracyclineAntibiotics">
-    <nominal>4</nominal>
+    <nominal>8</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>4</min>
     <quantmin>10</quantmin>
     <quantmax>50</quantmax>
     <cost>100</cost>
@@ -20195,10 +20195,10 @@
     <usage name="Medic" />
   </type>
   <type name="Thermometer">
-    <nominal>40</nominal>
+    <nominal>80</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>30</min>
+    <min>60</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
