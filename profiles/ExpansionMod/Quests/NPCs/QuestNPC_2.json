@@ -3,27 +3,27 @@
   "ID": 2,
   "ClassName": "ExpansionQuestNPCAIElias",
   "Position": [
-    2718.246094,
-    285.851410,
-    10048.409180
+    2709.329346,
+    274.483978,
+    10040.205078
   ],
   "Orientation": [
-    -21.999973,
+    -66.170174,
     0.000000,
     0.000000
   ],
-  "NPCName": "Steve",
+  "NPCName": "K",
   "DefaultNPCText": "What do you want? I am busy...",
   "Waypoints": [
     [
-      2718.246094,
-      285.851410,
-      10048.409180
+      2709.329346,
+      274.483978,
+      10040.205078
     ]
   ],
   "NPCEmoteID": 14,
   "NPCEmoteIsStatic": 1,
-  "NPCLoadoutFile": "CultistLoadout_Guard",
+  "NPCLoadoutFile": "CultistLoadout",
   "NPCInteractionEmoteID": 1,
   "NPCQuestCancelEmoteID": 60,
   "NPCQuestStartEmoteID": 58,
