@@ -21,9 +21,9 @@
                           10047.402344
                       ]
                   ],
-    "NPCEmoteID":  14,
+    "NPCEmoteID":  46,
     "NPCEmoteIsStatic":  1,
-    "NPCLoadoutFile":  "CultistLoadout",
+    "NPCLoadoutFile":  "MonkLoadout",
     "NPCInteractionEmoteID":  1,
     "NPCQuestCancelEmoteID":  60,
     "NPCQuestStartEmoteID":  58,
