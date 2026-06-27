@@ -4,9 +4,9 @@
     "Type":  1,
     "Title":  "Accidente Aéreo II",
     "Descriptions":  [
-                         "El piloto que rescataste dijo algo antes de evacuarlo: justo antes de la tormenta habló por radio con otro avión cercano. Esa aeronave nunca llegó a destino... y nadie volvió a verla.",
-                         "Busca la zona donde pudo caer. Puede que aún haya supervivientes... o al menos respuestas.",
-                         "Gracias."
+                         "El superviviente habló de otro aparato. Cayeron juntos, separados por el viento. Hay más gente ahí fuera.",
+                         "Misma historia, distinto lugar.",
+                         "Los Peregrinos caminamos mientras haya alguien a quien encontrar."
                      ],
     "ObjectiveText":  "Viaja a la última ubicación conocida.",
     "FollowUpQuest":  408,

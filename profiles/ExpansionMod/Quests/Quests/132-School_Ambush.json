@@ -4,9 +4,9 @@
     "Type":  1,
     "Title":  "Investigar la Escuela",
     "Descriptions":  [
-                         "Ha llegado un aviso desde una escuela: fue atacada por bandidos. Nadie sabe quién sobrevivió, pero puede que aún queden suministros. La zona es peligrosa y el tiempo corre. Ve rápido y con cuidado.",
-                         "Ve a la ubicación e intenta ayudar a los supervivientes.",
-                         "Saliste de allí con lo necesario. Pasara lo que pasara, al menos alguien hizo algo. Gracias. Aquí tienes tu recompensa."
+                         "Me llegó un rumor. Una maestra, viva, escondida en la escuela del norte. Los rumores en el apocalipsis suelen ser cadáveres. Ve a comprobarlo.",
+                         "Si hay alguien ahí dentro, los bandidos ya lo saben también.",
+                         "Viva o muerta, al menos sabremos la verdad."
                      ],
     "ObjectiveText":  "Viaja a la escuela y localiza a los bandidos.",
     "FollowUpQuest":  403,

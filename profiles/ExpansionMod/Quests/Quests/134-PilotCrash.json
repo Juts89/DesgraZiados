@@ -4,9 +4,9 @@
     "Type":  1,
     "Title":  "Accidente Aéreo",
     "Descriptions":  [
-                         "Hace unos días, durante aquella tormenta, desapareció un avión con supervivientes. Lo vieron por última vez rumbo a esta zona antes de perderse en el cielo.",
-                         "Esta es su última ubicación conocida. Si te atreves, ve y descubre qué pasó... quizá quede alguien vivo, o solo chatarra.",
-                         "Gracias."
+                         "Una avioneta cayó al este. Vi el humo esta mañana. Si hay supervivientes, llevan horas solos.",
+                         "No esperes mucho. El frío o los carroñeros llegan antes que nadie.",
+                         "Ya veremos lo que encuentras."
                      ],
     "ObjectiveText":  "Viaja a la última ubicación conocida.",
     "FollowUpQuest":  407,

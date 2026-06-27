@@ -4,9 +4,9 @@
     "Type":  1,
     "Title":  "Médico de Campaña: Hospital Asediado",
     "Descriptions":  [
-                         "Llegan informes de Stary Sobor: un hospital fue emboscado por bandidos. Robaron suministros y faltan supervivientes. No será fácil. Necesitarás transporte, equipo y ganas de pelear.",
-                         "Ve a la zona y averigua si alguien sobrevivió.",
-                         "El hospital está asegurado y los bandidos ya no respiran. Hiciste lo que otros no pudieron. Recompensa merecida."
+                         "El hospital de Stary Sobor está tomado. Hay una doctora atrapada dentro, Marina. Los Peregrinos no dejamos a nadie atrás.",
+                         "Limpia el lugar. Luego encuentra a Marina.",
+                         "Si ha sobrevivido hasta ahora, sabe cuidarse. Pero necesita que alguien abra la puerta."
                      ],
     "ObjectiveText":  "Viaja al hospital y localiza a los bandidos.",
     "FollowUpQuest":  402,

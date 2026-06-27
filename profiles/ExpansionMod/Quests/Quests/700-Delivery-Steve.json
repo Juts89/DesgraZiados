@@ -1,64 +1,74 @@
 {
-   "ConfigVersion": 22,
-   "ID": 700,
-   "Type": 1,
-   "Title": "Trabajo de Ratas",
-   "Descriptions": [
-      "Joder, ¿quién eres? ¿Te llamas %1? Pensé que ya habíamos acabado contigo. ** (Te mira un momento y empieza a sonreír) ** Da igual... Hoy es tu día de suerte, amigo. Hazme un pequeño favor y me aseguraré de que salgas de esta isla cuanto antes. ¡Lo juro por la barba de mi madre! Solo lleva esta NOTA a mi inútil colega Steve, que la lea, y te dará algo. Tráemelo. Está en la aldea pequeña al noroeste. Asegúrate de que lee la nota y no vuelvas con las manos vacías.",
-      "¿No fui claro? Ve a Steve y no vuelvas con las manos vacías.",
-      "Mira eso... Otro bambi perdido en los bosques de la muerte..."
-   ],
-   "ObjectiveText": "Entrega la nota y habla con Steve.",
-   "FollowUpQuest": 2,
-   "Repeatable": 0,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 0,
-   "CancelQuestOnPlayerDeath": 1,
-   "Autocomplete": 0,
-   "IsGroupQuest": 0,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [
-      {
-         "ClassName": "ExpansionBanknoteHryvnia",
-         "Amount": 150,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      }
-   ],
-   "NeedToSelectReward": 0,
-   "RandomReward": 0,
-   "RandomRewardAmount": 0,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      1
-   ],
-   "QuestTurnInIDs": [
-      2
-   ],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 1,
-         "ObjectiveType": 5
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 75,
-   "ReputationRequirement": 0,
-   "PreQuestIDs": [],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 1,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+    "ConfigVersion":  22,
+    "ID":  700,
+    "Type":  1,
+    "Title":  "Trabajo de Ratas",
+    "Descriptions":  [
+                         "Necesito que lleves algo a un hermano mío. Se llama K. Está en las ruinas al norte, no le gusta la compañía, así que no pierdas el tiempo en charlas.",
+                         "Las ruinas de lo que fue nuestro asentamiento. K se negó a marcharse cuando todo se fue al infierno. Respeto eso.",
+                         "K no habla mucho, pero si te ha dado algo de vuelta, vale más de lo que parece."
+                     ],
+    "ObjectiveText":  "Entrega la nota y habla con K.",
+    "FollowUpQuest":  2,
+    "Repeatable":  0,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  0,
+    "CancelQuestOnPlayerDeath":  1,
+    "Autocomplete":  0,
+    "IsGroupQuest":  0,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+                    {
+                        "ClassName":  "ExpansionBanknoteHryvnia",
+                        "Amount":  150,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    }
+                ],
+    "NeedToSelectReward":  0,
+    "RandomReward":  0,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          1
+                      ],
+    "QuestTurnInIDs":  [
+                           2
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  1,
+                           "ObjectiveType":  5
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  75,
+    "ReputationRequirement":  0,
+    "PreQuestIDs":  [
+
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  1,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  1
 }

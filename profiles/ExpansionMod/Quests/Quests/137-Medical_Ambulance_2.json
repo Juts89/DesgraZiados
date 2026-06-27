@@ -4,9 +4,9 @@
     "Type":  1,
     "Title":  "Médico de Campaña: Sangre en el Suelo",
     "Descriptions":  [
-                         "El médico que salvaste vuelve a pedir ayuda.",
-                         "Ve al hospital y descubre qué está pasando.",
-                         "El médico agradece que hayas venido. Te pide ayuda para salvar a otros atrapados en otro hospital."
+                         "Marina me mandó aviso. Algo ha vuelto al hospital. No sé qué, pero ella no manda avisos por nada.",
+                         "Vuelve al hospital. Y esta vez ve preparado para lo que no tiene explicación.",
+                         "Hay cosas en Chernarus que el apocalipsis no trajo. Solo despertó."
                      ],
     "ObjectiveText":  "Viaja al hospital.",
     "FollowUpQuest":  805,
