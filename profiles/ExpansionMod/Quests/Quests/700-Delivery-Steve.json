@@ -2,13 +2,13 @@
     "ConfigVersion":  22,
     "ID":  700,
     "Type":  1,
-    "Title":  "[!] Trabajo de Ratas",
+    "Title":  "[!] El Camino del Peregrino",
     "Descriptions":  [
-                         "Necesito que lleves algo a un hermano mío. Se llama K. Está en las ruinas al norte, no le gusta la compañía, así que no pierdas el tiempo en charlas.",
-                         "Las ruinas de lo que fue nuestro asentamiento. K se negó a marcharse cuando todo se fue al infierno. Respeto eso.",
-                         "K no habla mucho, pero si te ha dado algo de vuelta, vale más de lo que parece."
+                         "Somos peregrinos, hermano. No somos soldados ni comerciantes — somos los que van donde nadie más va. Hay un hombre al sur de aquí, en la iglesia. Se llama K. Él sabe dónde hay supervivientes que necesitan ayuda. Llévale esto de mi parte.",
+                         "K conoce esta zona mejor que nadie. Lleva meses solo entre esas ruinas, observando. Si hay alguien que necesita ayuda en los alrededores, él lo sabe.",
+                         "Has llegado hasta K. Lo que venga después depende de lo que él te encomiende."
                      ],
-    "ObjectiveText":  "Entrega la nota y habla con K.",
+    "ObjectiveText":  "Busca a K en la iglesia y entrégale el mensaje de Patter.",
     "FollowUpQuest":  2,
     "Repeatable":  0,
     "IsDailyQuest":  0,
