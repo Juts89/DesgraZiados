@@ -2,7 +2,7 @@
     "m_Version":  5,
     "EnableStatusTab":  1,
     "EnablePartyTab":  1,
-    "EnableServerInfoTab":  0,
+    "EnableServerInfoTab":  1,
     "EnableServerRulesTab":  0,
     "EnableTerritoryTab":  0,
     "EnableBookMenu":  1,
