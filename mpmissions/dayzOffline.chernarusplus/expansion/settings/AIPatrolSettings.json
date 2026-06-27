@@ -260,7 +260,7 @@
                         "DespawnRadius":  -1.0,
                         "MinSpreadRadius":  20.0,
                         "MaxSpreadRadius":  40.0,
-                        "Chance":  0.8,
+                        "Chance":  0.1,
                         "DespawnTime":  -1.0,
                         "RespawnTime":  -2.0,
                         "LoadBalancingCategory":  "",
