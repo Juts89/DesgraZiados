@@ -4,11 +4,11 @@
     "Type":  1,
     "Title":  "[!] El Camino del Peregrino",
     "Descriptions":  [
-                         "Somos peregrinos, hermano. No somos soldados ni comerciantes — somos los que van donde nadie más va. Hay un hombre al sur de aquí, en la iglesia. Se llama K. Él sabe dónde hay supervivientes que necesitan ayuda. Llévale esto de mi parte.",
-                         "K conoce esta zona mejor que nadie. Lleva meses solo entre esas ruinas, observando. Si hay alguien que necesita ayuda en los alrededores, él lo sabe.",
-                         "Has llegado hasta K. Lo que venga después depende de lo que él te encomiende."
+                         "Somos peregrinos, hermano. No somos soldados ni comerciantes — somos los que van donde nadie más va. Hay un hermano mío en una iglesia al sur. Se llama Patter. Él coordina lo que hacemos en el territorio. Llévale esto de mi parte.",
+                         "Patter lleva tiempo en esa iglesia, observando. Conoce la zona y sabe dónde hay gente que necesita ayuda.",
+                         "Has llegado hasta Patter. Lo que venga después depende de lo que él te encomiende."
                      ],
-    "ObjectiveText":  "Busca a K en la iglesia y entrégale el mensaje de Patter.",
+    "ObjectiveText":  "Busca a Patter en la iglesia y entrégale el mensaje de K.",
     "FollowUpQuest":  2,
     "Repeatable":  0,
     "IsDailyQuest":  0,

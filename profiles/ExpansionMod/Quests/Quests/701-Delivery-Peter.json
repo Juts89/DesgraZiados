@@ -2,13 +2,13 @@
     "ConfigVersion":  22,
     "ID":  701,
     "Type":  1,
-    "Title":  "Lleva el paquete a Patter",
+    "Title":  "Lleva el paquete a K",
     "Descriptions":  [
-                         "Patter necesita esto. Llévaselo.",
+                         "K necesita esto. Lléváselo.",
                          "No te entretengas.",
                          "Ya puedes irte."
                      ],
-    "ObjectiveText":  "Vuelve con Patter y entrégale el paquete.",
+    "ObjectiveText":  "Vuelve con K y entrégale el paquete.",
     "FollowUpQuest":  -1,
     "Repeatable":  0,
     "IsDailyQuest":  0,
