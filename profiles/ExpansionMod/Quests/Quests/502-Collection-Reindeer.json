@@ -1,73 +1,85 @@
 {
-   "ConfigVersion": 22,
-   "ID": 502,
-   "Type": 1,
-   "Title": "Reno Frito",
-   "Descriptions": [
-      "Nancy quiere preparar su famoso ciervo frito, pero la loca solo usa carne de reno. No preguntes.",
-      "Mata 5 renos y lleva ReindeerSteakMeat a Peter en el Centro de Comercio.",
-      "No es KFC, pero está bueno. Aquí tienes tu recompensa."
-   ],
-   "ObjectiveText": "Mata 5 renos.",
-   "FollowUpQuest": -1,
-   "Repeatable": 1,
-   "IsDailyQuest": 0,
-   "IsWeeklyQuest": 1,
-   "CancelQuestOnPlayerDeath": 0,
-   "Autocomplete": 0,
-   "IsGroupQuest": 0,
-   "ObjectSetFileName": "",
-   "QuestItems": [],
-   "Rewards": [
-      {
-         "ClassName": "WeaponCleaningKit",
-         "Amount": 1,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      },
-      {
-         "ClassName": "ExpansionBanknoteHryvnia",
-         "Amount": 1500,
-         "Attachments": [],
-         "DamagePercent": 0,
-         "HealthPercent": 0,
-         "QuestID": -1,
-         "Chance": 1
-      }
-   ],
-   "NeedToSelectReward": 0,
-   "RandomReward": 0,
-   "RandomRewardAmount": 0,
-   "RewardsForGroupOwnerOnly": 0,
-   "RewardBehavior": 0,
-   "QuestGiverIDs": [
-      1
-   ],
-   "QuestTurnInIDs": [
-      1
-   ],
-   "IsAchievement": 0,
-   "Objectives": [
-      {
-         "ConfigVersion": 28,
-         "ID": 3,
-         "ObjectiveType": 4
-      }
-   ],
-   "QuestColor": 0,
-   "ReputationReward": 210,
-   "ReputationRequirement": 0,
-   "PreQuestIDs": [],
-   "RequiredFaction": "",
-   "FactionReward": "",
-   "PlayerNeedQuestItems": 1,
-   "DeleteQuestItems": 1,
-   "SequentialObjectives": 0,
-   "FactionReputationRequirements": {},
-   "FactionReputationRewards": {},
-   "SuppressQuestLogOnCompetion": 0,
-   "Active": 1
+    "ConfigVersion":  22,
+    "ID":  502,
+    "Type":  1,
+    "Title":  "Reno Frito",
+    "Descriptions":  [
+                         "Nancy quiere preparar su famoso ciervo frito, pero la loca solo usa carne de reno. No preguntes.",
+                         "Mata 5 renos y lleva ReindeerSteakMeat a Peter en el Centro de Comercio.",
+                         "No es KFC, pero estÃ¡ bueno. AquÃ­ tienes tu recompensa."
+                     ],
+    "ObjectiveText":  "Mata 5 renos.",
+    "FollowUpQuest":  -1,
+    "Repeatable":  1,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  1,
+    "CancelQuestOnPlayerDeath":  0,
+    "Autocomplete":  0,
+    "IsGroupQuest":  0,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+                    {
+                        "ClassName":  "WeaponCleaningKit",
+                        "Amount":  1,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    },
+                    {
+                        "ClassName":  "ExpansionBanknoteHryvnia",
+                        "Amount":  1500,
+                        "Attachments":  [
+
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    }
+                ],
+    "NeedToSelectReward":  0,
+    "RandomReward":  0,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          1
+                      ],
+    "QuestTurnInIDs":  [
+                           1
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  3,
+                           "ObjectiveType":  4
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  210,
+    "ReputationRequirement":  0,
+    "PreQuestIDs":  [
+
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  0,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  0
 }
