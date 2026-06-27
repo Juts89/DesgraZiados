@@ -4,8 +4,8 @@
     "Type":  1,
     "Title":  "[!] Investigar la Escuela",
     "Descriptions":  [
-                         "Me llegó un rumor. Una maestra, viva, escondida en la escuela del norte. Los rumores en el apocalipsis suelen ser cadáveres. Ve a comprobarlo.",
-                         "Si hay alguien ahí dentro, los bandidos ya lo saben también.",
+                         "Me llegÃ³ un rumor. Una maestra, viva, escondida en la escuela del norte. Los rumores en el apocalipsis suelen ser cadÃ¡veres. Ve a comprobarlo.",
+                         "Si hay alguien ahÃ­ dentro, los bandidos ya lo saben tambiÃ©n.",
                          "Viva o muerta, al menos sabremos la verdad."
                      ],
     "ObjectiveText":  "Viaja a la escuela y localiza a los bandidos.",
@@ -49,7 +49,7 @@
                    ],
     "QuestColor":  0,
     "ReputationReward":  600,
-    "ReputationRequirement":  5000,
+    "ReputationRequirement":  0,
     "PreQuestIDs":  [
 
                     ],
