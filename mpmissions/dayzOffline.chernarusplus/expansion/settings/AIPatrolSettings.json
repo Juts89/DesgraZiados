@@ -4239,7 +4239,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "PoliceLoadout",
+                        "Loadout":  "CultistLoadout_Guard",
                         "Units":  [
 
                                   ],
