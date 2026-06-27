@@ -1,0 +1,160 @@
+{
+    "ClassName":  "",
+    "Chance":  1,
+    "Quantity":  {
+                     "Min":  0,
+                     "Max":  0
+                 },
+    "Health":  [],
+    "InventoryAttachments":  [
+                                 {
+                                     "SlotName":  "Headgear",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "ALV_TatteredPoncho_Black",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.8, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 },
+                                 {
+                                     "SlotName":  "Mask",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "FaceCover_Improvised",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.8, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 },
+                                 {
+                                     "SlotName":  "Back",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "ALV_DuffleBag_Grey",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.8, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 },
+                                 {
+                                     "SlotName":  "Coat",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "ALV_Duster_Black",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.8, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 },
+                                 {
+                                     "SlotName":  "Vest",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "ALV_JPCVest_Black",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.8, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 },
+                                 {
+                                     "SlotName":  "Hips",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "ALV_MolleBelt_Black",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.8, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 },
+                                 {
+                                     "SlotName":  "Legs",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "Kneepads_Jeans_Black",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.8, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 },
+                                 {
+                                     "SlotName":  "Feet",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "High_Knee_Sneakers_Black",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.8, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 },
+                                 {
+                                     "SlotName":  "Gloves",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "HandsCover_Improvised",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.8, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 }
+                             ],
+    "InventoryCargo":  [],
+    "ConstructionPartsBuilt":  [],
+    "Sets":  [
+                 {
+                     "ClassName":  "TTC_Mossberg",
+                     "Chance":  1.0,
+                     "Quantity":  { "Min":  0, "Max":  0 },
+                     "Health":  [{ "Min":  0.8, "Max":  1.0, "Zone":  "" }],
+                     "InventoryAttachments":  [],
+                     "InventoryCargo":  [],
+                     "ConstructionPartsBuilt":  [],
+                     "Sets":  []
+                 }
+             ]
+}
