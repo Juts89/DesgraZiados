@@ -441,7 +441,7 @@
             "all": 0.0
         },
         "AttackPlayersUnconsciousHandlerIsActive": {
-            "all": 0
+            "all": 1
         },
         "AttackPlayersUnconsciousHealthDamageLimit": {
             "all": 20.0
@@ -703,7 +703,7 @@
             "all": 0.0
         },
         "AttackCarHandlerIsActive": {
-            "all": 0
+            "all": 1
         },
         "AttackCarPlayersIsActive": {
             "all": 0
@@ -1569,13 +1569,13 @@
         }
     },
     "Players": {
-        "SmellsHandlerIsActive": 1,
+        "SmellsHandlerIsActive": 0,
         "SmellRadiusDefault": 1.0,
         "SmellRadiusWounded": 6.0,
         "SmellRadiusBandaged": 3.0,
         "SmellLifetimeSeconds": 120.0,
         "SmellsCountOnMapLimit": 1000,
-        "FootstepsNoiseHandlerIsActive": 1,
+        "FootstepsNoiseHandlerIsActive": 0,
         "SearchBodyToViewCargo": 1,
         "SearchBodyToViewCargoSeconds": 2.0,
         "SearchBodyExtendLootingToPlayersInRadiusMeters": 30.0,
