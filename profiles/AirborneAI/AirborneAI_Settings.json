@@ -5,7 +5,7 @@
   "startDelayTime": 600.0,
   "timeBetweenPlaneSpawns": 3600.0,
   "maxTimeBetweenPlaneSpawns": 7200.0,
-  "allowNightFlights": 1,
+  "allowNightFlights": 0,
   "staticPlaneSpawnPosition": "",
   "overflyRandomPlayer": 1,
   "minPlayersForOverfly": 2,
