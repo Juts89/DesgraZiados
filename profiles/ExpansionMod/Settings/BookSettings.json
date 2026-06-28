@@ -195,22 +195,19 @@
                              "CategoryName":  "Facciones",
                              "Descriptions":  [
                                                   {
-                                                      "DescriptionText":  "LOS PEREGRINOS (Aliado)\nUna hermandad de monjes que lleva años recorriendo Chernarus ayudando a quien encuentran por el camino. Hasta hace poco tenían un asentamiento en Lopatino, pero un grupo que apareció hace poco los borró del mapa. Los que quedaron se refugiaron en El Nido de Pulgas. Puede que alguno necesite ayuda, por un precio..."
+                                                      "DescriptionText":  "LOS PEREGRINOS (Aliado)\nNPCs de misión. K en Green Mountain, Patter en una iglesia al sur. Habla con ellos para desbloquear misiones de campo."
                                                   },
                                                   {
-                                                      "DescriptionText":  "LOS SHERIFF (Aliado)\nDicen que mantienen el orden. Dicen muchas cosas. Lo que sí es cierto es que si necesitas trabajo, El Nido de Pulgas en Green Mountain es el sitio. Alguien siempre tiene algo que necesita hacerse. El lugar está vigilado por Sheriff bien armados, pero que nadie se engañe: aquí dentro cada uno cuida de lo suyo. Los comerciantes del Nido venden lo que necesitas, aunque primero tendrás que ganarte su confianza."
+                                                      "DescriptionText":  "LOS SHERIFF (Aliado)\nComercriantes en El Nido de Pulgas (Green Mountain). Venden equipo segun tu reputacion. Sus guardias no son hostiles si no atacas."
                                                   },
                                                   {
-                                                      "DescriptionText":  "REMANENTES (Hostil)\nLo que queda del ejército cuando ya no hay ejército. Células independientes dirigidas por caudillos que se repartieron las bases militares como si fueran feudos. Acaparan recursos, armamento y territorio. No negocian. Nunca lo hicieron."
+                                                      "DescriptionText":  "REMANENTES (Hostil)\nIA en bases militares y aerodromos. Bien equipados. Disparan a la vista. Brazo rojo."
                                                   },
                                                   {
-                                                      "DescriptionText":  "BANDIDOS (Hostil)\nSaqueadores que trabajan para los caudillos cuando les conviene y para sí mismos cuando no. Traicioneros por costumbre, peligrosos por necesidad. Son la peor gente que encontrarás en Chernarus, y la encontrarás con más frecuencia de la que te gustaría."
+                                                      "DescriptionText":  "BANDIDOS (Hostil)\nIA en pueblos, carreteras y puntos de interes. Equipo variado. Disparan a la vista. Brazo rojo."
                                                   },
                                                   {
-                                                      "DescriptionText":  "LAS BRIGADAS (Hostil)\nNadie sabe de dónde vienen. Nadie sabe quién los manda. Lo que sí se sabe es lo que dejan cuando pasan: gas tóxico, paracaidistas cayendo del cielo y el sonido de motores que nadie esperaba. Muy equipados. Muy organizados. Y hasta ahora, sin ninguna intención de presentarse."
-                                                  },
-                                                  {
-                                                      "DescriptionText":  "SAQUEADORES (Neutral)\nA esta facción perteneces tú. Y todos los que llegan a Chernarus sin bandera. Los neutrales. Sin lealtades, sin órdenes, sin nadie que responda por ellos. Eso los hace impredecibles, y lo impredecible en el apocalipsis es lo más peligroso que existe. Nunca formarás parte de una facción. Nunca llegarás a ser de los suyos. Pero tampoco podrás fiarte del saqueador que tienes al lado. Nunca sabes para quién trabaja hoy."
+                                                      "DescriptionText":  "LAS BRIGADAS (Hostil)\nPatrullas de élite, helicopteros y caidas en paracaidas. Muy bien equipados. Alta dificultad."
                                                   }
                                               ]
                          },
@@ -218,13 +215,13 @@
                              "CategoryName":  "Misiones",
                              "Descriptions":  [
                                                   {
-                                                      "DescriptionText":  "CÓMO FUNCIONAN\nLas misiones las encuentras hablando con los NPCs en El Nido de Pulgas o consultando el tablón. Acepta un encargo, sigue el marcador y completa el objetivo. Algunas pagan en hryvnia, otras en equipo, otras solo en la satisfacción de haber hecho algo útil."
+                                                      "DescriptionText":  "COMO FUNCIONAN\nHabla con NPCs para aceptar misiones. Sigue el marcador en el mapa. Al completar el objetivo vuelve al NPC para cobrar la recompensa."
                                                   },
                                                   {
-                                                      "DescriptionText":  "EL SÍMBOLO [!]\nLas misiones marcadas con [!] no terminan donde crees. Te llevan hasta alguien en el campo, y esa persona tiene algo más que decirte. Cuando llegues al objetivo, busca al NPC antes de volver. Si vuelves sin hablar con él, habrás hecho la mitad del trabajo."
+                                                      "DescriptionText":  "EL SIMBOLO [!]\nMision encadenada. Al llegar al objetivo hay otro NPC. Habla con él antes de volver o la mision no avanzara."
                                                   },
                                                   {
-                                                      "DescriptionText":  "REPUTACIÓN\nCada acción deja huella. Matar infectados, animales o soldados suma reputación, igual que completar misiones. Sin reputación, los comerciantes del Nido de Pulgas no tienen nada para ti. Con 500 ya hay más género, con 1.500 material raro, con 3.000 equipo épico, con 6.000 lo legendario, con 10.000 lo mítico y con 20.000 lo que nadie debería tener. Muere, y perderás 500 puntos. Nadie dijo que fuera fácil."
+                                                      "DescriptionText":  "REPUTACION\nGanas reputacion matando infectados, animales o IA y completando misiones. Pierdes 500 al morir.\nDesbloqueos en tienda: 500 / 1500 / 3000 / 6000 / 10000 / 20000."
                                                   }
                                               ]
                          }
