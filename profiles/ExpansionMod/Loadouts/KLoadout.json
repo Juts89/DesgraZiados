@@ -45,7 +45,7 @@
                                      "SlotName":  "Mask",
                                      "Items":  [
                                                    {
-                                                       "ClassName":  "Shemagh_Black",
+                                                       "ClassName":  "Shemagh_Facemask_Black",
                                                        "Chance":  1,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -302,7 +302,7 @@
                      "SlotName":  "Armband",
                      "Items":  [
                                    {
-                                       "ClassName":  "Armband_Red",
+                                       "ClassName":  "Armband_White",
                                        "Chance":  1.0,
                                        "Quantity":  {
                                                         "Min":  0,
