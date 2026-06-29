@@ -325,8 +325,8 @@
                   },
                   {
                       "ClassName":  "ammo_40mm_explosive",
-                      "MaxPriceThreshold":  7480,
-                      "MinPriceThreshold":  4490,
+                      "MaxPriceThreshold":  1000,
+                      "MinPriceThreshold":  600,
                       "SellPricePercent":  -1.0,
                       "MaxStockThreshold":  0,
                       "MinStockThreshold":  0,
