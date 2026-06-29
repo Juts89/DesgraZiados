@@ -205,7 +205,7 @@
                                      "SlotName":  "Legs",
                                      "Items":  [
                                                    {
-                                                       "ClassName":  "Kneepads_Jeans_Black",
+                                                       "ClassName":  "ALV_Jeans_Black_Kneepads",
                                                        "Chance":  1.0,
                                                        "Quantity":  {
                                                                         "Min":  0,
