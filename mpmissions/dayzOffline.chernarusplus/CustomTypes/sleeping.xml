@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 	<!-- Packed - default despawn time is 8 hours like backpacks -->
     <type name="ZenSleepingBag_Black">
-        <nominal>10</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15,10 +15,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="ZenSleepingBag_Blue">
-        <nominal>10</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -29,10 +29,10 @@
         <usage name="Village"/>
     </type>
 	<type name="ZenSleepingBag_Green">
-        <nominal>10</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -42,10 +42,10 @@
 		<usage name="Military"/>
     </type>
 	<type name="ZenSleepingBag_Grey">
-        <nominal>10</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56,10 +56,10 @@
         <usage name="Village"/>
     </type>
 	<type name="ZenSleepingBag_Red">
-        <nominal>10</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
