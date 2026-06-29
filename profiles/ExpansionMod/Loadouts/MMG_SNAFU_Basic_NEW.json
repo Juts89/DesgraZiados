@@ -4853,38 +4853,6 @@
                                                                              ]
                                                    }
                                                ]
-                                 },
-                                 {
-                                     "SlotName":  "Armband",
-                                     "Items":  [
-                                                   {
-                                                       "ClassName":  "Armband_Red",
-                                                       "Chance":  1.0,
-                                                       "Quantity":  {
-                                                                        "Min":  0,
-                                                                        "Max":  0
-                                                                    },
-                                                       "Health":  [
-                                                                      {
-                                                                          "Min":  1.0,
-                                                                          "Max":  1.0,
-                                                                          "Zone":  ""
-                                                                      }
-                                                                  ],
-                                                       "InventoryAttachments":  [
-
-                                                                                ],
-                                                       "InventoryCargo":  [
-
-                                                                          ],
-                                                       "ConstructionPartsBuilt":  [
-
-                                                                                  ],
-                                                       "Sets":  [
-
-                                                                ]
-                                                   }
-                                               ]
                                  }
                              ],
     "InventoryCargo":  [
@@ -6995,5 +6963,30 @@
 
                               ]
                  }
+,
+                                 {
+                                     "SlotName":  "Armband",
+                                     "Items":  [
+                                         {
+                                             "ClassName":  "Armband_Red",
+                                             "Chance":  1.0,
+                                             "Quantity":  {
+                                                 "Min":  0,
+                                                 "Max":  0
+                                             },
+                                             "Health":  [
+                                                 {
+                                                     "Min":  1.0,
+                                                     "Max":  1.0,
+                                                     "Zone":  ""
+                                                 }
+                                             ],
+                                             "InventoryAttachments":  [],
+                                             "InventoryCargo":  [],
+                                             "ConstructionPartsBuilt":  [],
+                                             "Sets":  []
+                                         }
+                                     ]
+                                 }
              ]
 }
