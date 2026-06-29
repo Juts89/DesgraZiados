@@ -2,7 +2,7 @@
     "m_Version": 5,
     "EnableNotification": 1,
     "ShowPlayerJoinServer": 0,
-    "JoinMessageType": 0,
+    "JoinMessageType": 2,
     "ShowPlayerLeftServer": 0,
     "LeftMessageType": 1,
     "ShowAirdropStarted": 0,
