@@ -192,22 +192,25 @@
               ],
     "Descriptions":  [
                          {
-                             "CategoryName":  "Facciones",
+                             "CategoryName":  "IA y Facciones",
                              "Descriptions":  [
                                                   {
-                                                      "DescriptionText":  "LOS PEREGRINOS (Aliado)\nNPCs de misión. K en Green Mountain, Patter en una iglesia al sur. Habla con ellos para desbloquear misiones de campo."
+                                                      "DescriptionText":  "IA EN EL MAPA\nLas ciudades y pueblos estan infestados de IA. La norma general es: SI TIENE NOMBRE SPAWNEARA IA, especialmente si acaba en Military. Las bases militares son para ir MUY equipado."
                                                   },
                                                   {
-                                                      "DescriptionText":  "LOS SHERIFF (Aliado)\nComercriantes en El Nido de Pulgas (Green Mountain). Venden equipo segun tu reputacion. Sus guardias no son hostiles si no atacas."
+                                                      "DescriptionText":  "LOS PEREGRINOS (Aliado) - Siempre llevan tunicas y capuchas\nNPCs aliados, no te dispararan si no les apuntas. Patrullan las iglesias, pueden ser utiles en emergencias."
                                                   },
                                                   {
-                                                      "DescriptionText":  "REMANENTES (Hostil)\nIA en bases militares y aerodromos. Bien equipados. Disparan a la vista. Brazo rojo."
+                                                      "DescriptionText":  "LOS SHERIFF (Aliado) - Brazalete azul\nComerciantes en El Nido de Pulgas (Green Mountain). Venden equipo segun tu reputacion. Sus guardias no son hostiles si no atacas y te protegeran de zombies, otras facciones y cualquier jugador que te dispare (NO HAY SAFE ZONE)."
                                                   },
                                                   {
-                                                      "DescriptionText":  "BANDIDOS (Hostil)\nIA en pueblos, carreteras y puntos de interes. Equipo variado. Disparan a la vista. Brazo rojo."
+                                                      "DescriptionText":  "REMANENTES (Hostil) - Brazalete rojo\nIA en bases militares y aerodromos. Bien equipados, uniformes verdes. Disparan a la vista."
                                                   },
                                                   {
-                                                      "DescriptionText":  "LAS BRIGADAS (Hostil)\nPatrullas de élite, helicopteros y caidas en paracaidas. Muy bien equipados. Alta dificultad."
+                                                      "DescriptionText":  "BANDIDOS (Hostil) - Brazalete rojo\nIA en pueblos, carreteras y puntos de interes. Equipo variado. Disparan a la vista."
+                                                  },
+                                                  {
+                                                      "DescriptionText":  "LAS BRIGADAS (Hostil) - Uniforme tactico negro\nPatrullas de elite, helicopteros y caidas en paracaidas. Muy bien equipados. Alta dificultad."
                                                   }
                                               ]
                          },
@@ -215,10 +218,16 @@
                              "CategoryName":  "Misiones",
                              "Descriptions":  [
                                                   {
-                                                      "DescriptionText":  "COMO FUNCIONAN\nHabla con NPCs para aceptar misiones. Sigue el marcador en el mapa. Al completar el objetivo vuelve al NPC para cobrar la recompensa."
+                                                      "DescriptionText":  "LOOP\nEl servidor cuenta con misiones PVE. Empezaras con una mision simple: llegar al Nido de Pulgas. Una vez conseguido recibiras un mapa y podras empezar a realizar las demas misiones."
                                                   },
                                                   {
-                                                      "DescriptionText":  "EL SIMBOLO [!]\nMision encadenada. Al llegar al objetivo hay otro NPC. Habla con él antes de volver o la mision no avanzara."
+                                                      "DescriptionText":  "COMO FUNCIONAN\nHabla con NPCs para aceptar misiones. Sigue el marcador en el mapa. Hay varios tipos de misiones."
+                                                  },
+                                                  {
+                                                      "DescriptionText":  "TIPOS DE MISION\nTransporte, Busqueda, Eliminacion, Escolta y cadenas de misiones."
+                                                  },
+                                                  {
+                                                      "DescriptionText":  "EL SIMBOLO [!]\nMision encadenada. Al llegar al objetivo hay otro NPC. Habla con el antes de volver o la mision no avanzara."
                                                   },
                                                   {
                                                       "DescriptionText":  "REPUTACION\nGanas reputacion matando infectados, animales o IA y completando misiones. Pierdes 500 al morir.\nDesbloqueos en tienda: 500 / 1500 / 3000 / 6000 / 10000 / 20000."
