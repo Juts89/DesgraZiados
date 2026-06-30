@@ -413,6 +413,165 @@
                      "InventoryCargo":  [],
                      "ConstructionPartsBuilt":  [],
                      "Sets":  []
+                 },
+                 {
+                     "ClassName":  "WEAPON",
+                     "Chance":  0.35,
+                     "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                     "Health":  [],
+                     "InventoryAttachments":  [
+                                                  {
+                                                      "SlotName":  "Hands",
+                                                      "Items":  [
+                                                                    {
+                                                                        "ClassName":  "FNX45",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [
+                                                                                                     {
+                                                                                                         "SlotName":  "",
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "Mag_FNX45_15Rnd",
+                                                                                                                           "Chance":  1.0,
+                                                                                                                           "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                                                                           "Health":  [],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       }
+                                                                                                                   ]
+                                                                                                     }
+                                                                                                 ],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    }
+                                                                ]
+                                                  }
+                                              ],
+                     "InventoryCargo":  [
+                                            {
+                                                "ClassName":  "Mag_FNX45_15Rnd",
+                                                "Chance":  1.0,
+                                                "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                "Health":  [],
+                                                "InventoryAttachments":  [],
+                                                "InventoryCargo":  [],
+                                                "ConstructionPartsBuilt":  [],
+                                                "Sets":  []
+                                            }
+                                        ],
+                     "ConstructionPartsBuilt":  [],
+                     "Sets":  []
+                 },
+                 {
+                     "ClassName":  "WEAPON",
+                     "Chance":  0.35,
+                     "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                     "Health":  [],
+                     "InventoryAttachments":  [
+                                                  {
+                                                      "SlotName":  "Hands",
+                                                      "Items":  [
+                                                                    {
+                                                                        "ClassName":  "CZ75",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [
+                                                                                                     {
+                                                                                                         "SlotName":  "",
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "Mag_CZ75_15Rnd",
+                                                                                                                           "Chance":  1.0,
+                                                                                                                           "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                                                                           "Health":  [],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       }
+                                                                                                                   ]
+                                                                                                     }
+                                                                                                 ],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    }
+                                                                ]
+                                                  }
+                                              ],
+                     "InventoryCargo":  [
+                                            {
+                                                "ClassName":  "Mag_CZ75_15Rnd",
+                                                "Chance":  1.0,
+                                                "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                "Health":  [],
+                                                "InventoryAttachments":  [],
+                                                "InventoryCargo":  [],
+                                                "ConstructionPartsBuilt":  [],
+                                                "Sets":  []
+                                            }
+                                        ],
+                     "ConstructionPartsBuilt":  [],
+                     "Sets":  []
+                 },
+                 {
+                     "ClassName":  "WEAPON",
+                     "Chance":  0.3,
+                     "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                     "Health":  [],
+                     "InventoryAttachments":  [
+                                                  {
+                                                      "SlotName":  "Hands",
+                                                      "Items":  [
+                                                                    {
+                                                                        "ClassName":  "Deagle",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [
+                                                                                                     {
+                                                                                                         "SlotName":  "",
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "Mag_Deagle_9rnd",
+                                                                                                                           "Chance":  1.0,
+                                                                                                                           "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                                                                           "Health":  [],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       }
+                                                                                                                   ]
+                                                                                                     }
+                                                                                                 ],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    }
+                                                                ]
+                                                  }
+                                              ],
+                     "InventoryCargo":  [
+                                            {
+                                                "ClassName":  "Mag_Deagle_9rnd",
+                                                "Chance":  1.0,
+                                                "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                "Health":  [],
+                                                "InventoryAttachments":  [],
+                                                "InventoryCargo":  [],
+                                                "ConstructionPartsBuilt":  [],
+                                                "Sets":  []
+                                            }
+                                        ],
+                     "ConstructionPartsBuilt":  [],
+                     "Sets":  []
                  }
              ]
 }
