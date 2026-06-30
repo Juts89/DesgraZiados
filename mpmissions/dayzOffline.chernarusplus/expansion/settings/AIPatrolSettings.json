@@ -118,7 +118,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "West",
+                        "Faction":  "Raiders",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -170,7 +170,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "West",
+                        "Faction":  "Raiders",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -330,7 +330,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -386,7 +386,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -442,7 +442,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -498,7 +498,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -554,7 +554,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -610,7 +610,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -666,7 +666,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -722,7 +722,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -778,7 +778,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -834,7 +834,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -890,7 +890,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -1725,11 +1725,11 @@
                     {
                         "Name":  "Nizhneye North-East",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "PlayerFemaleSuitLoadout",
+                        "Loadout":  "CivilLoadout",
                         "Units":  [
 
                                   ],
@@ -1796,11 +1796,11 @@
                     {
                         "Name":  "Solnechny",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "PlayerMaleSuitLoadout",
+                        "Loadout":  "CivilLoadout",
                         "Units":  [
 
                                   ],
@@ -2324,11 +2324,11 @@
                     {
                         "Name":  "Chernogorsk",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "PlayerFemaleSuitLoadout",
+                        "Loadout":  "CivilLoadout",
                         "Units":  [
 
                                   ],
@@ -2390,7 +2390,7 @@
                     {
                         "Name":  "Green Mountain Police Guards",
                         "Persist":  1,
-                        "Faction":  "Guards",
+                        "Faction":  "West",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2843,11 +2843,11 @@
                     {
                         "Name":  "Lopatino",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "PlayerFemaleSuitLoadout",
+                        "Loadout":  "CivilLoadout",
                         "Units":  [
 
                                   ],
@@ -2899,11 +2899,11 @@
                     {
                         "Name":  "Vybor",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "PlayerMaleSuitLoadout",
+                        "Loadout":  "CivilLoadout",
                         "Units":  [
 
                                   ],
@@ -3347,11 +3347,11 @@
                     {
                         "Name":  "Mogilevka",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "PlayerFemaleSuitLoadout",
+                        "Loadout":  "CivilLoadout",
                         "Units":  [
 
                                   ],
@@ -3403,11 +3403,11 @@
                     {
                         "Name":  "Dubrovka",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "PlayerMaleSuitLoadout",
+                        "Loadout":  "CivilLoadout",
                         "Units":  [
 
                                   ],
@@ -3739,11 +3739,11 @@
                     {
                         "Name":  "Pavlovo Military",
                         "Persist":  1,
-                        "Faction":  "Raiders",
+                        "Faction":  "East",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "WestLoadout",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
