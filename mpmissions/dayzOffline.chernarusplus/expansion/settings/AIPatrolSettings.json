@@ -326,7 +326,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -382,7 +382,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -438,7 +438,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -494,7 +494,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -550,7 +550,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -606,7 +606,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -662,7 +662,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -718,7 +718,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -774,7 +774,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -830,7 +830,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -886,7 +886,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -942,7 +942,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -998,7 +998,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1054,7 +1054,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1110,7 +1110,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1166,7 +1166,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1222,7 +1222,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -3683,7 +3683,7 @@
                     {
                         "Name":  "Vybor Military",
                         "Persist":  1,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -3739,7 +3739,7 @@
                     {
                         "Name":  "Pavlovo Military",
                         "Persist":  1,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -3795,7 +3795,7 @@
                     {
                         "Name":  "Myshkino Military",
                         "Persist":  1,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -3851,7 +3851,7 @@
                     {
                         "Name":  "Zelenogorsk Military",
                         "Persist":  1,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -3907,7 +3907,7 @@
                     {
                         "Name":  "VMC",
                         "Persist":  1,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -3963,7 +3963,7 @@
                     {
                         "Name":  "Stary Sobor Military",
                         "Persist":  1,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -4019,7 +4019,7 @@
                     {
                         "Name":  "Balota Airfield",
                         "Persist":  1,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -4075,7 +4075,7 @@
                     {
                         "Name":  "Krasnostav Airstrip",
                         "Persist":  1,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -5703,7 +5703,7 @@
                     {
                         "Name":  "Tisy_East_1",
                         "Persist":  1,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5764,7 +5764,7 @@
                     {
                         "Name":  "Tisy_East_2",
                         "Persist":  1,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5825,7 +5825,7 @@
                     {
                         "Name":  "Tisy_East_3",
                         "Persist":  1,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5886,7 +5886,7 @@
                     {
                         "Name":  "Tisy_East_4",
                         "Persist":  1,
-                        "Faction":  "East",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,

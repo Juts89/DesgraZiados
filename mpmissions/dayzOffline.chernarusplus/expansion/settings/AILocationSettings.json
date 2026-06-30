@@ -1046,7 +1046,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "Gorka",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1102,7 +1102,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "Gorka",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1158,7 +1158,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "Gorka",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1214,7 +1214,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "Gorka",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1270,7 +1270,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "Gorka",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1326,7 +1326,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "Gorka",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
