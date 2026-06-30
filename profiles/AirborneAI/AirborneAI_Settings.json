@@ -22,7 +22,7 @@
   "aircraftCrew": "--> The settings below are for AI spawned at crash sites <--",
   "aircraftMinCrew": 2,
   "aircraftMaxCrew": 3,
-  "aircraftCrewFaction": "West",
+  "aircraftCrewFaction": "Raiders",
   "aircraftCrewLoadout": "NBCLoadout",
   "aircraftCrewChanceToBurn": 20.0,
   "aircraftCrewChanceOfDeath": 60.0,
@@ -31,7 +31,7 @@
   "maxAmountAI": 4,
   "minAmountAI": 2,
   "aiLoadout": "WestLoadout",
-  "faction": "West",
+  "faction": "Raiders",
   "parachuteClassname": "ADM_ParachuteBag_Skull_Speed",
   "aiFallSpeedMultiplier": -10.0,
 
