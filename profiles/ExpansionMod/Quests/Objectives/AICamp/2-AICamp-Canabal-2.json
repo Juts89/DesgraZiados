@@ -14,10 +14,10 @@
     {
       "Name": "Quest Target",
       "Persist": 0,
-      "Faction": "Shamans",
+      "Faction": "Cannibal",
       "Formation": "RANDOM",
       "FormationLooseness": 0,
-      "Loadout": "EFTRaidersLoadout",
+      "Loadout": "ShamanLoadout",
       "Units": [
         "eAI_SurvivorF_Eva",
         "eAI_SurvivorF_Frida",
@@ -95,10 +95,10 @@
     {
       "Name": "Quest Target",
       "Persist": 0,
-      "Faction": "Shamans",
+      "Faction": "Cannibal",
       "Formation": "RANDOM",
       "FormationLooseness": 0,
-      "Loadout": "GlukharLoadout",
+      "Loadout": "ShamanLoadout",
       "Units": [
         "eAI_SurvivorF_Eva",
         "eAI_SurvivorF_Frida",
@@ -176,10 +176,10 @@
     {
       "Name": "Quest Target",
       "Persist": 0,
-      "Faction": "Shamans",
+      "Faction": "Cannibal",
       "Formation": "RANDOM",
       "FormationLooseness": 0,
-      "Loadout": "KillaLoadout",
+      "Loadout": "ShamanLoadout",
       "Units": [
         "eAI_SurvivorF_Eva",
         "eAI_SurvivorF_Frida",
@@ -257,10 +257,10 @@
     {
       "Name": "Quest Target",
       "Persist": 0,
-      "Faction": "Shamans",
+      "Faction": "Cannibal",
       "Formation": "RANDOM",
       "FormationLooseness": 0,
-      "Loadout": "CultistLoadout",
+      "Loadout": "ShamanLoadout",
       "Units": [
         "eAI_SurvivorF_Eva",
         "eAI_SurvivorF_Frida",
@@ -338,10 +338,10 @@
     {
       "Name": "Quest Target",
       "Persist": 0,
-      "Faction": "Shamans",
+      "Faction": "Cannibal",
       "Formation": "RANDOM",
       "FormationLooseness": 0,
-      "Loadout": "BanditLoadout",
+      "Loadout": "ShamanLoadout",
       "Units": [
         "eAI_SurvivorF_Eva",
         "eAI_SurvivorF_Frida",
