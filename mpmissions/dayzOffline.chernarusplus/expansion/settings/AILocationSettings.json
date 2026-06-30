@@ -222,7 +222,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction": "Gorka",
+                        "Faction":  "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -274,7 +274,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction": "Gorka",
+                        "Faction":  "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -826,7 +826,7 @@
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "EFTRaidersLoadout",
+                        "Loadout":  "EastLoadout",
                         "Units":  [
 
                                   ],
@@ -2494,7 +2494,7 @@
                     {
                         "Name":  "Hill_Zelenayagora Guards",
                         "Persist":  0,
-                        "Faction": "Gorka",
+                        "Faction":  "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
