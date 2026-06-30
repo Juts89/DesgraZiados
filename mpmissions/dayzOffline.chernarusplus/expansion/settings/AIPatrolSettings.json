@@ -1725,11 +1725,11 @@
                     {
                         "Name":  "Nizhneye North-East",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -1796,11 +1796,11 @@
                     {
                         "Name":  "Solnechny",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -2324,11 +2324,11 @@
                     {
                         "Name":  "Chernogorsk",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -2843,11 +2843,11 @@
                     {
                         "Name":  "Lopatino",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -2899,11 +2899,11 @@
                     {
                         "Name":  "Vybor",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -3347,11 +3347,11 @@
                     {
                         "Name":  "Mogilevka",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -3403,11 +3403,11 @@
                     {
                         "Name":  "Dubrovka",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -4187,11 +4187,11 @@
                     {
                         "Name":  "Kamenka - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -4258,11 +4258,11 @@
                     {
                         "Name":  "Komarovo - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -4329,11 +4329,11 @@
                     {
                         "Name":  "Balota - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -4400,11 +4400,11 @@
                     {
                         "Name":  "Chernogorsk - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -4471,11 +4471,11 @@
                     {
                         "Name":  "Prigorodki - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -4542,11 +4542,11 @@
                     {
                         "Name":  "Elektrozavodsk - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -4613,11 +4613,11 @@
                     {
                         "Name":  "Kamyshovo - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -4684,11 +4684,11 @@
                     {
                         "Name":  "Solnichniy - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -4755,11 +4755,11 @@
                     {
                         "Name":  "Berezino - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
@@ -4826,11 +4826,11 @@
                     {
                         "Name":  "Svetlojarsk - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "Mercenaries",
+                        "Faction":  "Cannibal",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
-                        "Loadout":  "CivilLoadout",
+                        "Loadout":  "ShamanLoadout",
                         "Units":  [
 
                                   ],
