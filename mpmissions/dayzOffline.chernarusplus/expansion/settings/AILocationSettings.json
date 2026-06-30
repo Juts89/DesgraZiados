@@ -118,7 +118,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "West",
+                        "Faction":  "Raiders",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -170,7 +170,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "West",
+                        "Faction":  "Raiders",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -326,7 +326,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "West",
+                        "Faction":  "Raiders",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -378,7 +378,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "West",
+                        "Faction":  "Raiders",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
