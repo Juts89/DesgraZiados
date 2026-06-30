@@ -2,13 +2,13 @@
     "ConfigVersion":  22,
     "ID":  900,
     "Type":  1,
-    "Title":  "URGENTE: Central Electrica del Noroeste",
+    "Title":  "URGENTE: Las Brigadas han tomado la Central",
     "Descriptions":  [
-                         "URGENTE. Mercenarios han tomado la central eléctrica del noroeste. Sin ella, el territorio pierde lo poco que queda. Se necesitan voluntarios con experiencia. Esto no es un encargo ordinario.",
-                         "Viaja a la central y neutraliza a los mercenarios.",
-                         "La central está de nuevo operativa. Chernarus os debe algo. Los Sheriff también."
+                         "URGENTE. Un grupo paramilitar conocido como Las Brigadas ha ocupado la central eléctrica del noroeste. Sin suministro eléctrico, el territorio se hunde. Se buscan voluntarios con agallas. Esto no es una misión ordinaria.",
+                         "Viaja a la central eléctrica y elimina a todos los miembros de Las Brigadas.",
+                         "La central vuelve a funcionar. Las Brigadas han sido neutralizadas. Chernarus os lo debe. Los Sheriff también."
                      ],
-    "ObjectiveText":  "Mata a todos los mercenarios en las ubicaciones marcadas.",
+    "ObjectiveText":  "Elimina a todos los miembros de Las Brigadas en las ubicaciones marcadas.",
     "FollowUpQuest":  -1,
     "Repeatable":  1,
     "IsDailyQuest":  0,
