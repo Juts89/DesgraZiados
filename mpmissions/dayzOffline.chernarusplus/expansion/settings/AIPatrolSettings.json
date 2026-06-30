@@ -116,13 +116,13 @@
                                 },
     "Patrols":  [
                     {
-                        "Name":  "",
+                        "Name":  "Helicrash",
                         "Persist":  0,
                         "Faction":  "Raiders",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "BanditLoadout",
+                        "Loadout":  "WestLoadout",
                         "Units":  [
 
                                   ],
@@ -168,13 +168,13 @@
                                       ]
                     },
                     {
-                        "Name":  "",
+                        "Name":  "Halicrash 2",
                         "Persist":  0,
                         "Faction":  "Raiders",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "BanditLoadout",
+                        "Loadout":  "WestLoadout",
                         "Units":  [
 
                                   ],
@@ -220,13 +220,13 @@
                                       ]
                     },
                     {
-                        "Name":  "",
+                        "Name":  "Zonas contaminadas",
                         "Persist":  0,
                         "Faction":  "Raiders",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
-                        "Loadout":  "NBCLoadout",
+                        "Loadout":  "WestLoadout",
                         "Units":  [
 
                                   ],
