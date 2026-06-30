@@ -1659,7 +1659,7 @@
                     {
                         "Name":  "Berezino South-East",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2253,7 +2253,7 @@
                     {
                         "Name":  "Prigorodki South-East",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2390,7 +2390,7 @@
                     {
                         "Name":  "Green Mountain Police Guards",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2787,7 +2787,7 @@
                     {
                         "Name":  "Kabanino",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -3291,7 +3291,7 @@
                     {
                         "Name":  "Zelenogorsk",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -4131,7 +4131,7 @@
                     {
                         "Name":  "Green Mountain Police Guards 2",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -4910,7 +4910,7 @@
                     {
                         "Name":  "Church_C22_Komarovo",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -4971,7 +4971,7 @@
                     {
                         "Name":  "Church_C22_Zelenogorsk",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5032,7 +5032,7 @@
                     {
                         "Name":  "Church_C22_K",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5093,7 +5093,7 @@
                     {
                         "Name":  "Church_C22_Novodmitrovsk",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5154,7 +5154,7 @@
                     {
                         "Name":  "Church_C22_Berezino",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5215,7 +5215,7 @@
                     {
                         "Name":  "Church_C22_Elektro",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5276,7 +5276,7 @@
                     {
                         "Name":  "Church_C3_Novo",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5337,7 +5337,7 @@
                     {
                         "Name":  "Church_C3_Kabanino",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5398,7 +5398,7 @@
                     {
                         "Name":  "Church_C3_Stary",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5459,7 +5459,7 @@
                     {
                         "Name":  "Church_C3_Kamensk",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5520,7 +5520,7 @@
                     {
                         "Name":  "Church_C3_Vyborg",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5581,7 +5581,7 @@
                     {
                         "Name":  "Church_C3_Chernogorsk",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -5642,7 +5642,7 @@
                     {
                         "Name":  "Church_C3_Tisy",
                         "Persist":  1,
-                        "Faction":  "Survivor",
+                        "Faction": "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
