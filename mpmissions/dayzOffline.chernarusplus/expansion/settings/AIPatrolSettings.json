@@ -4187,7 +4187,7 @@
                     {
                         "Name":  "Kamenka - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -4258,7 +4258,7 @@
                     {
                         "Name":  "Komarovo - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -4329,7 +4329,7 @@
                     {
                         "Name":  "Balota - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -4400,7 +4400,7 @@
                     {
                         "Name":  "Chernogorsk - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -4471,7 +4471,7 @@
                     {
                         "Name":  "Prigorodki - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -4542,7 +4542,7 @@
                     {
                         "Name":  "Elektrozavodsk - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -4613,7 +4613,7 @@
                     {
                         "Name":  "Kamyshovo - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -4684,7 +4684,7 @@
                     {
                         "Name":  "Solnichniy - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -4755,7 +4755,7 @@
                     {
                         "Name":  "Berezino - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -4826,7 +4826,7 @@
                     {
                         "Name":  "Svetlojarsk - CivilLoadout",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Bandit",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
