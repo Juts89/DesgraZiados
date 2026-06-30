@@ -4,11 +4,11 @@
     "Type":  1,
     "Title":  "SE BUSCA: Canibales en Vavilovo",
     "Descriptions":  [
-                         "SE BUSCA. Grupo de individuos de extrema peligrosidad opera en las proximidades de Vavilovo. Actos documentados: canibalismo, emboscadas, asesinato. Se ofrece recompensa por neutralización. Preséntese ante los Sheriff si acepta el encargo.",
-                         "Elimina a todos los caníbales en la ubicación marcada.",
+                         "SE BUSCA. Grupo de individuos de extrema peligrosidad opera en las proximidades de Vavilovo. Actos documentados: canibalismo, emboscadas, asesinato. Se ofrece recompensa por neutralizaciÃ³n. PresÃ©ntese ante los Sheriff si acepta el encargo.",
+                         "Elimina a todos los canÃ­bales en la ubicaciÃ³n marcada.",
                          "Encargo completado. Los Sheriff agradecen el servicio prestado a la comunidad."
                      ],
-    "ObjectiveText":  "Mata a todos los caníbales en la ubicación marcada.",
+    "ObjectiveText":  "Mata a todos los canÃ­bales en la ubicaciÃ³n marcada.",
     "FollowUpQuest":  -1,
     "Repeatable":  1,
     "IsDailyQuest":  0,
@@ -23,7 +23,7 @@
     "Rewards":  [
                     {
                         "ClassName":  "expansionbanknotehryvnia",
-                        "Amount":  3000,
+                        "Amount":  2000,
                         "Attachments":  [
 
                                         ],

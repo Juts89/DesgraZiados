@@ -17,7 +17,7 @@
       "Faction": "Shamans",
       "Formation": "RANDOM",
       "FormationLooseness": 0,
-      "Loadout": "NBCLoadout",
+      "Loadout": "EastLoadout",
       "Units": [],
       "NumberOfAI": 1,
       "Behaviour": "HALT_OR_LOOP ",

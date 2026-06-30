@@ -4,11 +4,11 @@
     "Type":  1,
     "Title":  "SE BUSCA: Canibales en Orlovets",
     "Descriptions":  [
-                         "SE BUSCA. Segundo campamento caníbal localizado cerca de Orlovets. Más numerosos que el anterior. Se requiere experiencia en combate. Recompensa al completar el encargo.",
-                         "Elimina a todos los caníbales en la ubicación marcada.",
+                         "SE BUSCA. Segundo campamento canÃ­bal localizado cerca de Orlovets. MÃ¡s numerosos que el anterior. Se requiere experiencia en combate. Recompensa al completar el encargo.",
+                         "Elimina a todos los canÃ­bales en la ubicaciÃ³n marcada.",
                          "Encargo completado. Los Sheriff agradecen el servicio prestado a la comunidad."
                      ],
-    "ObjectiveText":  "Mata a todos los caníbales en la ubicación marcada.",
+    "ObjectiveText":  "Mata a todos los canÃ­bales en la ubicaciÃ³n marcada.",
     "FollowUpQuest":  -1,
     "Repeatable":  1,
     "IsDailyQuest":  0,
@@ -23,7 +23,7 @@
     "Rewards":  [
                     {
                         "ClassName":  "expansionbanknotehryvnia",
-                        "Amount":  3000,
+                        "Amount":  2500,
                         "Attachments":  [
 
                                         ],
