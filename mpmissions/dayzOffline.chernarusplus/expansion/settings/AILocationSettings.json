@@ -1046,7 +1046,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1102,7 +1102,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1158,7 +1158,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1214,7 +1214,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1270,7 +1270,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1326,7 +1326,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1382,7 +1382,7 @@
                     {
                         "Name":  "Svetloyarsk",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1438,7 +1438,7 @@
                     {
                         "Name":  "Svetloyarsk South-East",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1514,7 +1514,7 @@
                     {
                         "Name":  "Berezino North-East",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1580,7 +1580,7 @@
                     {
                         "Name":  "Berezino North",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1636,7 +1636,7 @@
                     {
                         "Name":  "Solnechny North",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1707,7 +1707,7 @@
                     {
                         "Name":  "Berezhki",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1763,7 +1763,7 @@
                     {
                         "Name":  "Berezino South-East",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1829,7 +1829,7 @@
                     {
                         "Name":  "Nizhneye North-East",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1900,7 +1900,7 @@
                     {
                         "Name":  "Solnechny",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1961,7 +1961,7 @@
                     {
                         "Name":  "Solnechny South",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2032,7 +2032,7 @@
                     {
                         "Name":  "Kamyshovo",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2108,7 +2108,7 @@
                     {
                         "Name":  "Elektrozavodsk North-East",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2179,7 +2179,7 @@
                     {
                         "Name":  "Elektrozavodsk North-West",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2235,7 +2235,7 @@
                     {
                         "Name":  "Elektrozavodsk West",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2301,7 +2301,7 @@
                     {
                         "Name":  "Chernogorsk East",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2357,7 +2357,7 @@
                     {
                         "Name":  "Prigorodki South-East",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2428,7 +2428,7 @@
                     {
                         "Name":  "Chernogorsk",
                         "Persist":  1,
-                        "Faction":  "Bandit",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
