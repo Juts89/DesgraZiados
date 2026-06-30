@@ -67,60 +67,6 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "M65Jacket_Olive",
-                                                       "Chance":  0.55,
-                                                       "Quantity":  {
-                                                                        "Min":  0,
-                                                                        "Max":  0
-                                                                    },
-                                                       "Health":  [
-                                                                      {
-                                                                          "Min":  0.7,
-                                                                          "Max":  0.95,
-                                                                          "Zone":  ""
-                                                                      }
-                                                                  ],
-                                                       "InventoryAttachments":  [
-
-                                                                                ],
-                                                       "InventoryCargo":  [
-
-                                                                          ],
-                                                       "ConstructionPartsBuilt":  [
-
-                                                                                  ],
-                                                       "Sets":  [
-
-                                                                ]
-                                                   },
-                                                   {
-                                                       "ClassName":  "M65Jacket_Khaki",
-                                                       "Chance":  0.5,
-                                                       "Quantity":  {
-                                                                        "Min":  0,
-                                                                        "Max":  0
-                                                                    },
-                                                       "Health":  [
-                                                                      {
-                                                                          "Min":  0.7,
-                                                                          "Max":  0.95,
-                                                                          "Zone":  ""
-                                                                      }
-                                                                  ],
-                                                       "InventoryAttachments":  [
-
-                                                                                ],
-                                                       "InventoryCargo":  [
-
-                                                                          ],
-                                                       "ConstructionPartsBuilt":  [
-
-                                                                                  ],
-                                                       "Sets":  [
-
-                                                                ]
-                                                   },
-                                                   {
                                                        "ClassName":  "ALV_G3Shirt_Black_Long",
                                                        "Chance":  0.5,
                                                        "Quantity":  {
@@ -2440,7 +2386,7 @@
                                      "Items":  [
                                          {
                                              "ClassName":  "Armband_Red",
-                                             "Chance":  1.0,
+                                             "Chance":  0.0,
                                              "Quantity":  {
                                                  "Min":  0,
                                                  "Max":  0
