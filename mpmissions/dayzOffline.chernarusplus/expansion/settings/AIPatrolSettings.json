@@ -5040,8 +5040,8 @@
                         "Units":  [
 
                                   ],
-                        "NumberOfAI":  1,
-                        "NumberOfAIMax":  2,
+                        "NumberOfAI":  2,
+                        "NumberOfAIMax":  3,
                         "Behaviour":  "ROAMING_LOCAL",
                         "LootingBehaviour":  "DEFAULT | UPGRADE",
                         "Speed":  "WALK",
