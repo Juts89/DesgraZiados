@@ -1,0 +1,418 @@
+{
+    "ClassName":  "",
+    "Chance":  1,
+    "Quantity":  {
+                     "Min":  0,
+                     "Max":  0
+                 },
+    "Health":  [
+
+               ],
+    "InventoryAttachments":  [
+                                 {
+                                     "SlotName":  "Headgear",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "ALV_TatteredPoncho_Black",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.9, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 },
+                                 {
+                                     "SlotName":  "Mask",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "SkullMask",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.9, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 },
+                                 {
+                                     "SlotName":  "Body",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "ALV_Monkrobes_Black",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.9, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 },
+                                 {
+                                     "SlotName":  "Feet",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "LeatherShoes_Black",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.9, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 },
+                                 {
+                                     "SlotName":  "Gloves",
+                                     "Items":  [
+                                                   {
+                                                       "ClassName":  "LeatherGloves_Black",
+                                                       "Chance":  1.0,
+                                                       "Quantity":  { "Min":  0, "Max":  0 },
+                                                       "Health":  [{ "Min":  0.9, "Max":  1.0, "Zone":  "" }],
+                                                       "InventoryAttachments":  [],
+                                                       "InventoryCargo":  [],
+                                                       "ConstructionPartsBuilt":  [],
+                                                       "Sets":  []
+                                                   }
+                                               ]
+                                 }
+                             ],
+    "InventoryCargo":  [],
+    "ConstructionPartsBuilt":  [],
+    "Sets":  [
+                 {
+                     "ClassName":  "WEAPON",
+                     "Chance":  1.0,
+                     "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                     "Health":  [],
+                     "InventoryAttachments":  [
+                                                  {
+                                                      "SlotName":  "Shoulder",
+                                                      "Items":  [
+                                                                    {
+                                                                        "ClassName":  "QDLY_Spiked_Mace_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Spiked_Mace_02",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Flanged_Mace_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Sword_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Sword_02",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Hatchet_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Axe_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Axe_02",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Pickaxe_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Kukri_Knife_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Kukri_Knife_02",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Hunting_Knife_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Baseball_Bat_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Baseball_Bat_02",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Baseball_Bat_03",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Baseball_Bat_04",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Baseball_Bat_05",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Baseball_Bat_06",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Hammer_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLY_Shovel_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLYGP_Baseball_Bat_Alu_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLYGP_Nailed_Bat_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLYGP_Nailed_Bat_02",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLYGP_Nailed_Bat_03",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLYGP_Nailed_Bat_04",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLYGP_Barbed_Wire_Bat_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLYGP_Spiked_Bat_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLYGP_Spiked_Bat_02",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLYGP_Blade_Bat_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLYGP_Ice_Axe_01",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    },
+                                                                    {
+                                                                        "ClassName":  "QDLYGP_Hatchet_02",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    }
+                                                                ]
+                                                  }
+                                              ],
+                     "InventoryCargo":  [],
+                     "ConstructionPartsBuilt":  [],
+                     "Sets":  []
+                 }
+             ]
+}
