@@ -1278,7 +1278,7 @@
                     {
                         "Name":  "Svetloyarsk",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1334,7 +1334,7 @@
                     {
                         "Name":  "Svetloyarsk South-East",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1410,7 +1410,7 @@
                     {
                         "Name":  "Berezino North-East",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1476,7 +1476,7 @@
                     {
                         "Name":  "Berezino North",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1532,7 +1532,7 @@
                     {
                         "Name":  "Solnechny North",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1603,7 +1603,7 @@
                     {
                         "Name":  "Berezhki",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1857,7 +1857,7 @@
                     {
                         "Name":  "Solnechny South",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -1928,7 +1928,7 @@
                     {
                         "Name":  "Kamyshovo",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2004,7 +2004,7 @@
                     {
                         "Name":  "Elektrozavodsk North-East",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2075,7 +2075,7 @@
                     {
                         "Name":  "Elektrozavodsk North-West",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2131,7 +2131,7 @@
                     {
                         "Name":  "Elektrozavodsk West",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2197,7 +2197,7 @@
                     {
                         "Name":  "Chernogorsk East",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2451,7 +2451,7 @@
                     {
                         "Name":  "Krasnostav",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -2507,7 +2507,7 @@
                     {
                         "Name":  "Gvozdno",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -2563,7 +2563,7 @@
                     {
                         "Name":  "Severograd",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -2619,7 +2619,7 @@
                     {
                         "Name":  "Novaya Petrovka",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -2675,7 +2675,7 @@
                     {
                         "Name":  "Novoselky",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -2731,7 +2731,7 @@
                     {
                         "Name":  "Novy Sobor",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -2955,7 +2955,7 @@
                     {
                         "Name":  "Stary Sobor",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -3011,7 +3011,7 @@
                     {
                         "Name":  "Gorka",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -3067,7 +3067,7 @@
                     {
                         "Name":  "Pustoshka",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -3123,7 +3123,7 @@
                     {
                         "Name":  "Guglovo",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -3179,7 +3179,7 @@
                     {
                         "Name":  "Polana",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -3235,7 +3235,7 @@
                     {
                         "Name":  "Myshkino",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -3459,7 +3459,7 @@
                     {
                         "Name":  "Dolina",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -3515,7 +3515,7 @@
                     {
                         "Name":  "Kozlovka",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -3571,7 +3571,7 @@
                     {
                         "Name":  "Rogovo",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
@@ -3627,7 +3627,7 @@
                     {
                         "Name":  "Pavlovo",
                         "Persist":  1,
-                        "Faction":  "West",
+                        "Faction":  "Mercenaries",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0,
