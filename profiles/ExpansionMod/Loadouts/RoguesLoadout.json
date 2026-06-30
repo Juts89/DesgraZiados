@@ -40,7 +40,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_G3Shirt_MC_Long",
+                                                       "ClassName":  "ALV_G3Shirt_Tan_Long",
                                                        "Chance":  0.6,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -94,7 +94,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_TacticalHoodie_MC",
+                                                       "ClassName":  "ALV_TacticalHoodie_Tan",
                                                        "Chance":  0.45,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -180,7 +180,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_HunterPants_Kneepads_Camo",
+                                                       "ClassName":  "ALV_HunterPants_Kneepads_Tan",
                                                        "Chance":  0.5,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -686,7 +686,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_JPCVest_Black",
+                                                       "ClassName":  "ALV_JPCVest_Tan",
                                                        "Chance":  0.45,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -826,7 +826,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_UtilityBelt_Black",
+                                                       "ClassName":  "ALV_UtilityBelt_Tan",
                                                        "Chance":  0.4,
                                                        "Quantity":  {
                                                                         "Min":  0,

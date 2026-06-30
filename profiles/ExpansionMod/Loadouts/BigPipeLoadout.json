@@ -1140,7 +1140,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_Balaclava_Black",
+                                                       "ClassName":  "ALV_Balaclava_Tan",
                                                        "Chance":  0.35,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -1167,7 +1167,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_Balaclava_FaceCover_Black",
+                                                       "ClassName":  "ALV_Balaclava_FaceCover_Tan",
                                                        "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -1194,7 +1194,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_Balaclava_Open_Black",
+                                                       "ClassName":  "ALV_Balaclava_Open_Tan",
                                                        "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -1528,7 +1528,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_MolleBelt_Black",
+                                                       "ClassName":  "ALV_MolleBelt_Tan",
                                                        "Chance":  0.45,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -2240,7 +2240,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "Poncho_Black",
+                                                       "ClassName":  "Hoodie_Black",
                                                        "Chance":  0.15,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -2267,7 +2267,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "Poncho_Brown",
+                                                       "ClassName":  "Hoodie_Brown",
                                                        "Chance":  0.15,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -2294,7 +2294,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "Poncho_Green",
+                                                       "ClassName":  "Hoodie_Green",
                                                        "Chance":  0.15,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -2321,7 +2321,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_TatteredPoncho_Black",
+                                                       "ClassName":  "Hoodie_Black",
                                                        "Chance":  0.12,
                                                        "Quantity":  {
                                                                         "Min":  0,
@@ -2876,7 +2876,7 @@
                                                                 ]
                                                    },
                                                    {
-                                                       "ClassName":  "ALV_Balaclava_Black",
+                                                       "ClassName":  "ALV_Balaclava_Tan",
                                                        "Chance":  0.3,
                                                        "Quantity":  {
                                                                         "Min":  0,
