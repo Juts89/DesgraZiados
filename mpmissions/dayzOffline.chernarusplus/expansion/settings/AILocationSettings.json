@@ -222,7 +222,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "West",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -274,7 +274,7 @@
                     {
                         "Name":  "",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "West",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
@@ -2494,7 +2494,7 @@
                     {
                         "Name":  "Hill_Zelenayagora Guards",
                         "Persist":  0,
-                        "Faction":  "East",
+                        "Faction":  "West",
                         "Formation":  "",
                         "FormationScale":  1.5,
                         "FormationLooseness":  0.0,
