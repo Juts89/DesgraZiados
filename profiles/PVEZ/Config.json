@@ -1,6 +1,6 @@
 {
     "GENERAL": {
-        "Mode": 0,
+        "Mode": 1,
         "Update_Frequency": 5.0,
         "Show_Notifications": 1,
         "Use_UI_Notifications": 1,
