@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 6,
+    "ID": 4002,
+    "ClassName": "ExpansionQuestNPCAIFrida",
+    "Position": [
+        13401.565430,
+        2.328494,
+        2836.863770
+    ],
+    "Orientation": [
+        3.979809,
+        0.000000,
+        -0.000000
+    ],
+    "NPCName": "Jasmine",
+    "DefaultNPCText": "There is nothing to do here for you...",
+    "Waypoints": [],
+    "NPCEmoteID": 14,
+    "NPCEmoteIsStatic": 1,
+    "NPCLoadoutFile": "CivilLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}
