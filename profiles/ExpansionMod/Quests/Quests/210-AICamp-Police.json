@@ -1,91 +1,79 @@
 {
-    "ConfigVersion":  22,
-    "ID":  210,
-    "Type":  1,
-    "Title":  "SE BUSCA: Impostores de la Ley en Staroye",
-    "Descriptions":  [
-                         "ATENCIÓN. Individuos haciéndose pasar por agentes de la ley operan en Staroye. Roban, extorsionan y amenazan a civiles bajo falsa autoridad. No son la ley. Trátelos como lo que son.",
-                         "Localiza al grupo en Staroye y elimínalos.",
-                         "Nadie se hace pasar por la ley en este territorio. Buen trabajo."
-                     ],
-    "ObjectiveText":  "Mata a todos los miembros del grupo en la ubicación marcada.",
-    "FollowUpQuest":  -1,
-    "Repeatable":  1,
-    "IsDailyQuest":  0,
-    "IsWeeklyQuest":  1,
-    "CancelQuestOnPlayerDeath":  1,
-    "Autocomplete":  0,
-    "IsGroupQuest":  1,
-    "ObjectSetFileName":  "",
-    "QuestItems":  [
-
-                   ],
-    "Rewards":  [
-                    {
-                        "ClassName":  "ExpansionBanknoteHryvnia",
-                        "Amount":  3250,
-                        "Attachments":  [
-
-                                        ],
-                        "DamagePercent":  0,
-                        "HealthPercent":  0,
-                        "QuestID":  -1,
-                        "Chance":  1
-                    },
-                    {
-                        "ClassName":  "ALV_MilitaryBag_Black",
-                        "Amount":  1,
-                        "Attachments":  [
-
-                                        ],
-                        "DamagePercent":  0,
-                        "HealthPercent":  0,
-                        "QuestID":  -1,
-                        "Chance":  1
-                    }
-                ],
-    "NeedToSelectReward":  0,
-    "RandomReward":  0,
-    "RandomRewardAmount":  0,
-    "RewardsForGroupOwnerOnly":  0,
-    "RewardBehavior":  0,
-    "QuestGiverIDs":  [
-                          3
-                      ],
-    "QuestTurnInIDs":  [
-                           3
-                       ],
-    "IsAchievement":  0,
-    "Objectives":  [
-                       {
-                           "ConfigVersion":  28,
-                           "ID":  5,
-                           "ObjectiveType":  3
-                       },
-                       {
-                           "ConfigVersion":  28,
-                           "ID":  40,
-                           "ObjectiveType":  8
-                       }
-                   ],
-    "QuestColor":  0,
-    "ReputationReward":  675,
-    "ReputationRequirement":  0,
-    "PreQuestIDs":  [
-
-                    ],
-    "RequiredFaction":  "",
-    "FactionReward":  "",
-    "PlayerNeedQuestItems":  1,
-    "DeleteQuestItems":  1,
-    "SequentialObjectives":  0,
-    "FactionReputationRequirements":  {
-
-                                      },
-    "FactionReputationRewards":  {
-
-                                 },
-    "SuppressQuestLogOnCompetion":  0,
-    "Active":  1,
-    "GroupQuestMode":  0
+    "ConfigVersion": 22,
+    "ID": 210,
+    "Type": 1,
+    "Title": "SE BUSCA: Impostores de la Ley en Staroye",
+    "Descriptions": [
+        "ATENCIÓN. Individuos haciéndose pasar por agentes de la ley operan en Staroye. Roban, extorsionan y amenazan a civiles bajo falsa autoridad. No son la ley. Trátelos como lo que son.",
+        "Localiza al grupo en Staroye y elimínalos.",
+        "Nadie se hace pasar por la ley en este territorio. Buen trabajo."
+    ],
+    "ObjectiveText": "Mata a todos los miembros del grupo en la ubicación marcada.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 3250,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "ALV_MilitaryBag_Black",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 5,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 40,
+            "ObjectiveType": 8
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 675,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1,
+    "GroupQuestMode": 0
 }
