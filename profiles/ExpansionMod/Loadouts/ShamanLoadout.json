@@ -522,6 +522,316 @@
                  },
                  {
                      "ClassName":  "WEAPON",
+                     "Chance":  0.5,
+                     "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                     "Health":  [],
+                     "InventoryAttachments":  [
+                                                  {
+                                                      "SlotName":  "Shoulder",
+                                                      "Items":  [
+                                                                    {
+                                                                        "ClassName":  "AK74",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [
+                                                                                                     {
+                                                                                                         "SlotName":  "",
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "Mag_AK74_30Rnd",
+                                                                                                                           "Chance":  1.0,
+                                                                                                                           "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                                                                           "Health":  [],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "AK_PlasticBttstck",
+                                                                                                                           "Chance":  0.3,
+                                                                                                                           "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                                                                           "Health":  [],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "AK_FoldingBttstck",
+                                                                                                                           "Chance":  0.3,
+                                                                                                                           "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                                                                           "Health":  [],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       }
+                                                                                                                   ]
+                                                                                                     }
+                                                                                                 ],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    }
+                                                                ]
+                                                  }
+                                              ],
+                     "InventoryCargo":  [
+                                            {
+                                                "ClassName":  "Mag_AK74_30Rnd",
+                                                "Chance":  1.0,
+                                                "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                "Health":  [],
+                                                "InventoryAttachments":  [],
+                                                "InventoryCargo":  [],
+                                                "ConstructionPartsBuilt":  [],
+                                                "Sets":  []
+                                            }
+                                        ],
+                     "ConstructionPartsBuilt":  [],
+                     "Sets":  []
+                 },
+                 {
+                     "ClassName":  "WEAPON",
+                     "Chance":  0.5,
+                     "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                     "Health":  [],
+                     "InventoryAttachments":  [
+                                                  {
+                                                      "SlotName":  "Shoulder",
+                                                      "Items":  [
+                                                                    {
+                                                                        "ClassName":  "AKM",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [
+                                                                                                     {
+                                                                                                         "SlotName":  "",
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "Mag_AKM_30Rnd",
+                                                                                                                           "Chance":  0.9,
+                                                                                                                           "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                                                                           "Health":  [],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "Mag_AKM_Drum75Rnd",
+                                                                                                                           "Chance":  0.1,
+                                                                                                                           "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                                                                           "Health":  [],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "AK_PlasticBttstck",
+                                                                                                                           "Chance":  0.3,
+                                                                                                                           "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                                                                           "Health":  [],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       },
+                                                                                                                       {
+                                                                                                                           "ClassName":  "AK_FoldingBttstck",
+                                                                                                                           "Chance":  0.3,
+                                                                                                                           "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                                                                           "Health":  [],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       }
+                                                                                                                   ]
+                                                                                                     }
+                                                                                                 ],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    }
+                                                                ]
+                                                  }
+                                              ],
+                     "InventoryCargo":  [
+                                            {
+                                                "ClassName":  "Mag_AKM_30Rnd",
+                                                "Chance":  1.0,
+                                                "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                "Health":  [],
+                                                "InventoryAttachments":  [],
+                                                "InventoryCargo":  [],
+                                                "ConstructionPartsBuilt":  [],
+                                                "Sets":  []
+                                            }
+                                        ],
+                     "ConstructionPartsBuilt":  [],
+                     "Sets":  []
+                 },
+                 {
+                     "ClassName":  "WEAPON",
+                     "Chance":  0.4,
+                     "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                     "Health":  [],
+                     "InventoryAttachments":  [
+                                                  {
+                                                      "SlotName":  "Shoulder",
+                                                      "Items":  [
+                                                                    {
+                                                                        "ClassName":  "SKS",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [
+                                                                                                     {
+                                                                                                         "SlotName":  "",
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "Mag_SKS_10Rnd",
+                                                                                                                           "Chance":  1.0,
+                                                                                                                           "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                                                                           "Health":  [],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       }
+                                                                                                                   ]
+                                                                                                     }
+                                                                                                 ],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    }
+                                                                ]
+                                                  }
+                                              ],
+                     "InventoryCargo":  [
+                                            {
+                                                "ClassName":  "Mag_SKS_10Rnd",
+                                                "Chance":  1.0,
+                                                "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                "Health":  [],
+                                                "InventoryAttachments":  [],
+                                                "InventoryCargo":  [],
+                                                "ConstructionPartsBuilt":  [],
+                                                "Sets":  []
+                                            }
+                                        ],
+                     "ConstructionPartsBuilt":  [],
+                     "Sets":  []
+                 },
+                 {
+                     "ClassName":  "WEAPON",
+                     "Chance":  0.4,
+                     "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                     "Health":  [],
+                     "InventoryAttachments":  [
+                                                  {
+                                                      "SlotName":  "Shoulder",
+                                                      "Items":  [
+                                                                    {
+                                                                        "ClassName":  "IZH43",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [],
+                                                                        "InventoryCargo":  [
+                                                                                               {
+                                                                                                   "ClassName":  "ShotgunShells_10Rnd",
+                                                                                                   "Chance":  1.0,
+                                                                                                   "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                                                   "Health":  [],
+                                                                                                   "InventoryAttachments":  [],
+                                                                                                   "InventoryCargo":  [],
+                                                                                                   "ConstructionPartsBuilt":  [],
+                                                                                                   "Sets":  []
+                                                                                               }
+                                                                                           ],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    }
+                                                                ]
+                                                  }
+                                              ],
+                     "InventoryCargo":  [
+                                            {
+                                                "ClassName":  "ShotgunShells_10Rnd",
+                                                "Chance":  1.0,
+                                                "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                "Health":  [],
+                                                "InventoryAttachments":  [],
+                                                "InventoryCargo":  [],
+                                                "ConstructionPartsBuilt":  [],
+                                                "Sets":  []
+                                            }
+                                        ],
+                     "ConstructionPartsBuilt":  [],
+                     "Sets":  []
+                 },
+                 {
+                     "ClassName":  "WEAPON",
+                     "Chance":  0.35,
+                     "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                     "Health":  [],
+                     "InventoryAttachments":  [
+                                                  {
+                                                      "SlotName":  "Shoulder",
+                                                      "Items":  [
+                                                                    {
+                                                                        "ClassName":  "BK133",
+                                                                        "Chance":  1.0,
+                                                                        "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                        "Health":  [],
+                                                                        "InventoryAttachments":  [
+                                                                                                     {
+                                                                                                         "SlotName":  "",
+                                                                                                         "Items":  [
+                                                                                                                       {
+                                                                                                                           "ClassName":  "Mag_BK133_5Rnd",
+                                                                                                                           "Chance":  1.0,
+                                                                                                                           "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                                                                                           "Health":  [],
+                                                                                                                           "InventoryAttachments":  [],
+                                                                                                                           "InventoryCargo":  [],
+                                                                                                                           "ConstructionPartsBuilt":  [],
+                                                                                                                           "Sets":  []
+                                                                                                                       }
+                                                                                                                   ]
+                                                                                                     }
+                                                                                                 ],
+                                                                        "InventoryCargo":  [],
+                                                                        "ConstructionPartsBuilt":  [],
+                                                                        "Sets":  []
+                                                                    }
+                                                                ]
+                                                  }
+                                              ],
+                     "InventoryCargo":  [
+                                            {
+                                                "ClassName":  "Mag_BK133_5Rnd",
+                                                "Chance":  1.0,
+                                                "Quantity":  { "Min":  0.0, "Max":  0.0 },
+                                                "Health":  [],
+                                                "InventoryAttachments":  [],
+                                                "InventoryCargo":  [],
+                                                "ConstructionPartsBuilt":  [],
+                                                "Sets":  []
+                                            }
+                                        ],
+                     "ConstructionPartsBuilt":  [],
+                     "Sets":  []
+                 },
+                 {
+                     "ClassName":  "WEAPON",
                      "Chance":  0.3,
                      "Quantity":  { "Min":  0.0, "Max":  0.0 },
                      "Health":  [],
