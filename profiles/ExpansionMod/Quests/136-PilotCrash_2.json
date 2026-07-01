@@ -1,0 +1,70 @@
+{
+    "ConfigVersion":  22,
+    "ID":  136,
+    "Type":  1,
+    "Title":  "[!] Accidente Aereo III",
+    "Descriptions":  [
+                         "Un tercero. Esta vez no fue el viento, fue alguien que los derribÃ³. El campamento que lo hizo sigue activo.",
+                         "Primero el campamento. Luego el superviviente.",
+                         "Esto ya no es rescate. Es otra cosa."
+                     ],
+    "ObjectiveText":  "Viaja a la Ãºltima ubicaciÃ³n conocida.",
+    "FollowUpQuest":  409,
+    "Repeatable":  1,
+    "IsDailyQuest":  0,
+    "IsWeeklyQuest":  1,
+    "CancelQuestOnPlayerDeath":  1,
+    "Autocomplete":  0,
+    "IsGroupQuest":  1,
+    "ObjectSetFileName":  "",
+    "QuestItems":  [
+
+                   ],
+    "Rewards":  [
+
+                ],
+    "NeedToSelectReward":  0,
+    "RandomReward":  0,
+    "RandomRewardAmount":  -1,
+    "RewardsForGroupOwnerOnly":  1,
+    "RewardBehavior":  0,
+    "QuestGiverIDs":  [
+                          2
+                      ],
+    "QuestTurnInIDs":  [
+                           4006
+                       ],
+    "IsAchievement":  0,
+    "Objectives":  [
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  76,
+                           "ObjectiveType":  3
+                       },
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  76,
+                           "ObjectiveType":  8
+                       }
+                   ],
+    "QuestColor":  0,
+    "ReputationReward":  300,
+    "ReputationRequirement":  0,
+    "PreQuestIDs":  [
+                        408
+                    ],
+    "RequiredFaction":  "",
+    "FactionReward":  "",
+    "PlayerNeedQuestItems":  1,
+    "DeleteQuestItems":  1,
+    "SequentialObjectives":  1,
+    "FactionReputationRequirements":  {
+
+                                      },
+    "FactionReputationRewards":  {
+
+                                 },
+    "SuppressQuestLogOnCompetion":  0,
+    "Active":  1,
+    "GroupQuestMode":  0
+}

@@ -1,0 +1,76 @@
+{
+    "ConfigVersion": 22,
+    "ID": 406,
+    "Type": 1,
+    "Title": "El Naufrago",
+    "Descriptions": [
+        "Soy Hassan. Era pescador. La tormenta destrozó mi barca y unos bandidos me capturaron cuando llegué a la costa. Conseguí enviar una señal desde una vieja torre de radio antes de escapar. Llévame al campamento y el alijo que escondí antes del brote será tuyo.",
+        "...",
+        "Nunca olvidaré que volviste por mí, %1."
+    ],
+    "ObjectiveText": "Escolta a \"Hassan\" hasta el \"Campamento de Supervivientes\".",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ALV_MilitaryBag_Tan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": 1,
+            "Chance": 0
+        },
+        {
+            "ClassName": "PunchedCard",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": 1,
+            "Chance": 0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        4003
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 6,
+            "ObjectiveType": 9
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 900,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [
+        133
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1,
+    "GroupQuestMode": 0
+}
