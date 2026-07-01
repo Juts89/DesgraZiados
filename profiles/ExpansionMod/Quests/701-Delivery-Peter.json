@@ -9,7 +9,7 @@
         "Perfecto. K ya lo tiene."
     ],
     "ObjectiveText": "Vuelve con K y entrégale el paquete.",
-    "FollowUpQuest": -1,
+    "FollowUpQuest": 900,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,

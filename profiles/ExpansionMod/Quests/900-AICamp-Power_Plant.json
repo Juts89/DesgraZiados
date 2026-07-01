@@ -2,11 +2,11 @@
     "ConfigVersion": 22,
     "ID": 900,
     "Type": 1,
-    "Title": "URGENTE: Las Brigadas han tomado la Central",
+    "Title": "La última deuda",
     "Descriptions": [
-        "Las Brigadas han ocupado la central eléctrica y están fortificando la zona. Si consolidan su posición, media región quedará a su merced.",
-        "Abra un camino hasta el complejo y elimine toda resistencia.",
-        "Los Sheriff pagarán bien a quien devuelva la central a manos civiles."
+        "Las Brigadas redujeron nuestro antiguo asentamiento a cenizas. Muchos murieron intentando proteger a otros. Los que sobrevivimos seguimos adelante... pero hay heridas que no cierran.",
+        "Han convertido la vieja central eléctrica en uno de sus refugios. Quiero que entres, los expulses y les recuerdes que este territorio aún tiene quien lo defienda.",
+        "Cuando todo termine, reactiva la central. Nosotros no luchamos solo para destruir. Luchamos para que algo vuelva a levantarse."
     ],
     "ObjectiveText": "Elimina a todos los miembros de Las Brigadas en las ubicaciones marcadas.",
     "FollowUpQuest": -1,
@@ -35,10 +35,10 @@
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        3
+        1
     ],
     "QuestTurnInIDs": [
-        3
+        1
     ],
     "IsAchievement": 0,
     "Objectives": [
@@ -61,7 +61,9 @@
     "QuestColor": 0,
     "ReputationReward": 600,
     "ReputationRequirement": 0,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [
+        701
+    ],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,
