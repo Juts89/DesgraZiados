@@ -2364,7 +2364,7 @@
                     },
                     {
                         "Name":  "Green Mountain Police Guards",
-                        "Persist":  1,
+                        "Persist":  0,
                         "Faction":  "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
@@ -2412,9 +2412,9 @@
                         "UseRandomWaypointAsStartPoint":  0,
                         "Waypoints":  [
                                           [
-                                              3715.491211,
-                                              402.024963,
-                                              6001.079590
+                                              3724.273682,
+                                              401.723053,
+                                              6007.268555
                                           ]
                                       ]
                     },
@@ -4100,7 +4100,7 @@
                     },
                     {
                         "Name":  "Green Mountain Police Guards 2",
-                        "Persist":  1,
+                        "Persist":  0,
                         "Faction":  "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
@@ -4148,9 +4148,9 @@
                         "UseRandomWaypointAsStartPoint":  0,
                         "Waypoints":  [
                                           [
-                                              3695.989014,
+                                              3697.019043,
                                               402.024963,
-                                              5969.916016
+                                              5969.708984
                                           ]
                                       ]
                     },
@@ -4991,7 +4991,7 @@
                     },
                     {
                         "Name":  "Church_C22_K",
-                        "Persist":  1,
+                        "Persist":  0,
                         "Faction":  "Gorka",
                         "Formation":  "",
                         "FormationScale":  1.5,
@@ -5039,9 +5039,9 @@
                         "UseRandomWaypointAsStartPoint":  0,
                         "Waypoints":  [
                                           [
-                                              2726.246094,
-                                              0,
-                                              10056.40918
+                                              2703.177734,
+                                              274.032654,
+                                              10043.066406
                                           ]
                                       ]
                     },
