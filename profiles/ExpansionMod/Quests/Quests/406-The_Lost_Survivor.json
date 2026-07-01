@@ -1,14 +1,14 @@
 {
     "ConfigVersion": 22,
-    "ID": 900,
+    "ID": 406,
     "Type": 1,
-    "Title": "URGENTE: Las Brigadas han tomado la Central",
+    "Title": "El Naufrago",
     "Descriptions": [
-        "Las Brigadas han ocupado la central eléctrica y están fortificando la zona. Si consolidan su posición, media región quedará a su merced.",
-        "Abra un camino hasta el complejo y elimine toda resistencia.",
-        "Los Sheriff pagarán bien a quien devuelva la central a manos civiles."
+        "Soy Hassan. Era pescador. La tormenta destrozó mi barca y unos bandidos me capturaron cuando llegué a la costa. Conseguí enviar una señal desde una vieja torre de radio antes de escapar. Llévame al campamento y el alijo que escondí antes del brote será tuyo.",
+        "...",
+        "Nunca olvidaré que volviste por mí, %1."
     ],
-    "ObjectiveText": "Elimina a todos los miembros de Las Brigadas en las ubicaciones marcadas.",
+    "ObjectiveText": "Escolta a \"Hassan\" hasta el \"Campamento de Supervivientes\".",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -20,13 +20,22 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 4000,
+            "ClassName": "ALV_MilitaryBag_Tan",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
+            "QuestID": 1,
+            "Chance": 0
+        },
+        {
+            "ClassName": "PunchedCard",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": 1,
+            "Chance": 0
         }
     ],
     "NeedToSelectReward": 0,
@@ -35,38 +44,30 @@
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        3
+        4003
     ],
     "QuestTurnInIDs": [
-        3
+        1
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 9,
-            "ObjectiveType": 3
-        },
-        {
-            "ConfigVersion": 28,
-            "ID": 74,
-            "ObjectiveType": 8
-        },
-        {
-            "ConfigVersion": 28,
-            "ID": 32,
-            "ObjectiveType": 2
+            "ID": 6,
+            "ObjectiveType": 9
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 600,
+    "ReputationReward": 900,
     "ReputationRequirement": 0,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [
+        133
+    ],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,
     "DeleteQuestItems": 1,
-    "SequentialObjectives": 0,
+    "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,

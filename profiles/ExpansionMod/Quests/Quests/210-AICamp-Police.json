@@ -1,14 +1,14 @@
 {
     "ConfigVersion": 22,
-    "ID": 900,
+    "ID": 210,
     "Type": 1,
-    "Title": "URGENTE: Las Brigadas han tomado la Central",
+    "Title": "SE BUSCA: Impostores de la Ley en Staroye",
     "Descriptions": [
-        "Las Brigadas han ocupado la central eléctrica y están fortificando la zona. Si consolidan su posición, media región quedará a su merced.",
-        "Abra un camino hasta el complejo y elimine toda resistencia.",
-        "Los Sheriff pagarán bien a quien devuelva la central a manos civiles."
+        "ATENCIÓN. Un grupo de saqueadores utiliza uniformes policiales para ganarse la confianza de los supervivientes. Roban, extorsionan y matan. No representan a los Sheriff.",
+        "Localiza al grupo en Staroye y acaba con ellos.",
+        "Nadie volverá a esconderse tras una placa. Buen trabajo."
     ],
-    "ObjectiveText": "Elimina a todos los miembros de Las Brigadas en las ubicaciones marcadas.",
+    "ObjectiveText": "Mata a todos los miembros del grupo en la ubicación marcada.",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -21,7 +21,16 @@
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 4000,
+            "Amount": 3250,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "ALV_MilitaryBag_Black",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -44,22 +53,17 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 9,
+            "ID": 5,
             "ObjectiveType": 3
         },
         {
             "ConfigVersion": 28,
-            "ID": 74,
+            "ID": 40,
             "ObjectiveType": 8
-        },
-        {
-            "ConfigVersion": 28,
-            "ID": 32,
-            "ObjectiveType": 2
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 600,
+    "ReputationReward": 675,
     "ReputationRequirement": 0,
     "PreQuestIDs": [],
     "RequiredFaction": "",

@@ -1,15 +1,15 @@
 {
     "ConfigVersion":  22,
-    "ID":  132,
+    "ID":  805,
     "Type":  1,
-    "Title":  "[!] Investigar la Escuela",
+    "Title":  "Estado Critico",
     "Descriptions":  [
-                         "Me llegÃ³ un rumor. Una maestra, viva, escondida en la escuela del norte. Los rumores en el apocalipsis suelen ser cadÃ¡veres. Ve a comprobarlo.",
-                         "Si hay alguien ahÃ­ dentro, los bandidos ya lo saben tambiÃ©n.",
-                         "Viva o muerta, al menos sabremos la verdad."
+                         "Algo ocurrió en ese hospital. Sangre, silencio e infectados por todas partes. Yo no puedo volver, pero tú todavía tienes una oportunidad.",
+                         "Investiga el hospital y descubre qué queda allí dentro.",
+                         "Has vuelto con vida... eso ya dice bastante."
                      ],
-    "ObjectiveText":  "Viaja a la escuela y localiza a los bandidos.",
-    "FollowUpQuest":  403,
+    "ObjectiveText":  "Mata mutantes.",
+    "FollowUpQuest":  815,
     "Repeatable":  1,
     "IsDailyQuest":  0,
     "IsWeeklyQuest":  1,
@@ -21,37 +21,47 @@
 
                    ],
     "Rewards":  [
+                    {
+                        "ClassName":  "ExpansionBanknoteHryvnia",
+                        "Amount":  1750,
+                        "Attachments":  [
 
+                                        ],
+                        "DamagePercent":  0,
+                        "HealthPercent":  0,
+                        "QuestID":  -1,
+                        "Chance":  1
+                    }
                 ],
     "NeedToSelectReward":  0,
     "RandomReward":  0,
-    "RandomRewardAmount":  -1,
-    "RewardsForGroupOwnerOnly":  1,
+    "RandomRewardAmount":  0,
+    "RewardsForGroupOwnerOnly":  0,
     "RewardBehavior":  0,
     "QuestGiverIDs":  [
-                          2
+                          4000
                       ],
     "QuestTurnInIDs":  [
-                           4001
+                           1
                        ],
     "IsAchievement":  0,
     "Objectives":  [
                        {
                            "ConfigVersion":  28,
-                           "ID":  71,
+                           "ID":  79,
                            "ObjectiveType":  3
                        },
                        {
                            "ConfigVersion":  28,
-                           "ID":  71,
-                           "ObjectiveType":  8
+                           "ID":  80,
+                           "ObjectiveType":  2
                        }
                    ],
     "QuestColor":  0,
-    "ReputationReward":  600,
+    "ReputationReward":  1125,
     "ReputationRequirement":  0,
     "PreQuestIDs":  [
-
+                        137
                     ],
     "RequiredFaction":  "",
     "FactionReward":  "",

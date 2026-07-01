@@ -1,14 +1,14 @@
 {
     "ConfigVersion":  22,
-    "ID":  201,
+    "ID":  900,
     "Type":  1,
-    "Title":  "SE BUSCA: Canibales en Orlovets",
+    "Title":  "La última deuda",
     "Descriptions":  [
-                         "SE BUSCA. Segundo campamento canÃ­bal localizado cerca de Orlovets. MÃ¡s numerosos que el anterior. Se requiere experiencia en combate. Recompensa al completar el encargo.",
-                         "Elimina a todos los canÃ­bales en la ubicaciÃ³n marcada.",
-                         "Encargo completado. Los Sheriff agradecen el servicio prestado a la comunidad."
+                         "Las Brigadas redujeron nuestro antiguo asentamiento a cenizas. Muchos murieron intentando proteger a otros. Los que sobrevivimos seguimos adelante... pero hay heridas que no cierran.",
+                         "Han convertido la vieja central eléctrica en uno de sus refugios. Quiero que entres, los expulses y les recuerdes que este territorio aún tiene quien lo defienda.",
+                         "Cuando todo termine, reactiva la central. Nosotros no luchamos solo para destruir. Luchamos para que algo vuelva a levantarse."
                      ],
-    "ObjectiveText":  "Mata a todos los canÃ­bales en la ubicaciÃ³n marcada.",
+    "ObjectiveText":  "Elimina a todos los miembros de Las Brigadas en las ubicaciones marcadas.",
     "FollowUpQuest":  -1,
     "Repeatable":  1,
     "IsDailyQuest":  0,
@@ -22,19 +22,8 @@
                    ],
     "Rewards":  [
                     {
-                        "ClassName":  "expansionbanknotehryvnia",
-                        "Amount":  2500,
-                        "Attachments":  [
-
-                                        ],
-                        "DamagePercent":  0,
-                        "HealthPercent":  0,
-                        "QuestID":  -1,
-                        "Chance":  1
-                    },
-                    {
-                        "ClassName":  "ALV_CanvasBag_Green",
-                        "Amount":  1,
+                        "ClassName":  "ExpansionBanknoteHryvnia",
+                        "Amount":  4000,
                         "Attachments":  [
 
                                         ],
@@ -50,29 +39,35 @@
     "RewardsForGroupOwnerOnly":  0,
     "RewardBehavior":  0,
     "QuestGiverIDs":  [
-                          3
+                          2
                       ],
     "QuestTurnInIDs":  [
-                           3
+                           2
                        ],
     "IsAchievement":  0,
     "Objectives":  [
                        {
                            "ConfigVersion":  28,
-                           "ID":  2,
+                           "ID":  9,
                            "ObjectiveType":  3
                        },
                        {
                            "ConfigVersion":  28,
-                           "ID":  2,
+                           "ID":  74,
                            "ObjectiveType":  8
+                       },
+                       {
+                           "ConfigVersion":  28,
+                           "ID":  32,
+                           "ObjectiveType":  2
                        }
                    ],
     "QuestColor":  0,
-    "ReputationReward":  300,
+    "ReputationReward":  600,
     "ReputationRequirement":  0,
     "PreQuestIDs":  [
-
+                        200,
+                        201
                     ],
     "RequiredFaction":  "",
     "FactionReward":  "",

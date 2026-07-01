@@ -1,14 +1,14 @@
 {
     "ConfigVersion": 22,
-    "ID": 900,
+    "ID": 300,
     "Type": 1,
-    "Title": "URGENTE: Las Brigadas han tomado la Central",
+    "Title": "SE BUSCA: Banda del Castillo del Diablo",
     "Descriptions": [
-        "Las Brigadas han ocupado la central eléctrica y están fortificando la zona. Si consolidan su posición, media región quedará a su merced.",
-        "Abra un camino hasta el complejo y elimine toda resistencia.",
-        "Los Sheriff pagarán bien a quien devuelva la central a manos civiles."
+        "SE BUSCA. El Castillo del Diablo vuelve a estar ocupado por bandidos. Desde allí asaltan a cualquiera que cruce la región. Se ofrece recompensa por limpiar la zona.",
+        "Neutraliza a los bandidos del Castillo del Diablo.",
+        "El castillo vuelve a estar libre. Cobra tu recompensa."
     ],
-    "ObjectiveText": "Elimina a todos los miembros de Las Brigadas en las ubicaciones marcadas.",
+    "ObjectiveText": "Mata a todos los miembros de la patrulla bandida en la ubicación marcada.",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,
@@ -20,8 +20,17 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 4000,
+            "ClassName": "expansionbanknotehryvnia",
+            "Amount": 2800,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        },
+        {
+            "ClassName": "LBS_SleepingPacked_Old_Orange",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -44,22 +53,12 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 9,
-            "ObjectiveType": 3
-        },
-        {
-            "ConfigVersion": 28,
-            "ID": 74,
-            "ObjectiveType": 8
-        },
-        {
-            "ConfigVersion": 28,
-            "ID": 32,
-            "ObjectiveType": 2
+            "ID": 1,
+            "ObjectiveType": 7
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 600,
+    "ReputationReward": 450,
     "ReputationRequirement": 0,
     "PreQuestIDs": [],
     "RequiredFaction": "",

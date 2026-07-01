@@ -1,41 +1,41 @@
 {
     "ConfigVersion": 22,
-    "ID": 701,
+    "ID": 409,
     "Type": 1,
-    "Title": "Lleva el paquete a K",
+    "Title": "El Ultimo Vuelo",
     "Descriptions": [
-        "K necesita este paquete cuanto antes. Llévaselo sin demora.",
-        "No te entretengas por el camino.",
-        "Perfecto. K ya lo tiene."
+        "Pensé que nadie vendría. Tras el impacto perdí a toda mi tripulación y llevo días escondiéndome.",
+        "Cada ruido me hacía creer que era el final.",
+        "Gracias por encontrarme. No olvidaré lo que has hecho."
     ],
-    "ObjectiveText": "Vuelve con K y entrégale el paquete.",
+    "ObjectiveText": "Escolta a \"Hassan\" hasta el \"Campamento de Supervivientes\".",
     "FollowUpQuest": -1,
-    "Repeatable": 0,
+    "Repeatable": 1,
     "IsDailyQuest": 0,
-    "IsWeeklyQuest": 0,
+    "IsWeeklyQuest": 1,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
-    "IsGroupQuest": 0,
+    "IsGroupQuest": 1,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 1250,
+            "Amount": 4000,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 1
+            "QuestID": 1,
+            "Chance": 0
         }
     ],
-    "NeedToSelectReward": 1,
+    "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": 0,
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        2
+        4006
     ],
     "QuestTurnInIDs": [
         1
@@ -44,15 +44,15 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 2,
-            "ObjectiveType": 5
+            "ID": 6,
+            "ObjectiveType": 9
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 37,
+    "ReputationReward": 900,
     "ReputationRequirement": 0,
     "PreQuestIDs": [
-        700
+        136
     ],
     "RequiredFaction": "",
     "FactionReward": "",
@@ -62,5 +62,6 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 1
+    "Active": 1,
+    "GroupQuestMode": 0
 }

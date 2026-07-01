@@ -1,14 +1,14 @@
 {
     "ConfigVersion":  22,
-    "ID":  201,
+    "ID":  209,
     "Type":  1,
-    "Title":  "SE BUSCA: Canibales en Orlovets",
+    "Title":  "SE BUSCA: Bandidos en Belaya Polyana",
     "Descriptions":  [
-                         "SE BUSCA. Segundo campamento canÃ­bal localizado cerca de Orlovets. MÃ¡s numerosos que el anterior. Se requiere experiencia en combate. Recompensa al completar el encargo.",
-                         "Elimina a todos los canÃ­bales en la ubicaciÃ³n marcada.",
-                         "Encargo completado. Los Sheriff agradecen el servicio prestado a la comunidad."
+                         "AVISO. Grupo armado de bandidos opera en la zona de Belaya Polyana. Han atacado a civiles y saqueado provisiones. Se busca voluntario para limpiar la zona. Pago garantizado.",
+                         "Localiza y neutraliza al grupo en la ubicación marcada.",
+                         "Zona despejada. Buen trabajo. Aquí tienes lo acordado."
                      ],
-    "ObjectiveText":  "Mata a todos los canÃ­bales en la ubicaciÃ³n marcada.",
+    "ObjectiveText":  "Mata a todos los bandidos en la ubicación marcada.",
     "FollowUpQuest":  -1,
     "Repeatable":  1,
     "IsDailyQuest":  0,
@@ -22,8 +22,8 @@
                    ],
     "Rewards":  [
                     {
-                        "ClassName":  "expansionbanknotehryvnia",
-                        "Amount":  2500,
+                        "ClassName":  "ExpansionBanknoteHryvnia",
+                        "Amount":  3750,
                         "Attachments":  [
 
                                         ],
@@ -33,7 +33,7 @@
                         "Chance":  1
                     },
                     {
-                        "ClassName":  "ALV_CanvasBag_Green",
+                        "ClassName":  "ALV_DuffleBag_Grey",
                         "Amount":  1,
                         "Attachments":  [
 
@@ -59,17 +59,17 @@
     "Objectives":  [
                        {
                            "ConfigVersion":  28,
-                           "ID":  2,
+                           "ID":  60,
                            "ObjectiveType":  3
                        },
                        {
                            "ConfigVersion":  28,
-                           "ID":  2,
+                           "ID":  50,
                            "ObjectiveType":  8
                        }
                    ],
     "QuestColor":  0,
-    "ReputationReward":  300,
+    "ReputationReward":  900,
     "ReputationRequirement":  0,
     "PreQuestIDs":  [
 

@@ -2,13 +2,13 @@
     "ConfigVersion":  22,
     "ID":  201,
     "Type":  1,
-    "Title":  "SE BUSCA: Canibales en Orlovets",
+    "Title":  "La prueba de Patter: Orlovets",
     "Descriptions":  [
-                         "SE BUSCA. Segundo campamento canÃ­bal localizado cerca de Orlovets. MÃ¡s numerosos que el anterior. Se requiere experiencia en combate. Recompensa al completar el encargo.",
-                         "Elimina a todos los canÃ­bales en la ubicaciÃ³n marcada.",
-                         "Encargo completado. Los Sheriff agradecen el servicio prestado a la comunidad."
+                         "Has superado todas las pruebas que Patter te ha puesto hasta ahora, pero antes de confiarte un asunto mucho más importante necesita una última respuesta.",
+                         "Otro grupo de saqueadores se ha establecido cerca de Orlovets. Si de verdad quieres ayudar a los Peregrinos, demuestra que puedes enfrentarte incluso a los enemigos más peligrosos.",
+                         "Has demostrado todo lo que Patter necesitaba saber. Es hora de que hables con K. Hay una historia que solo él puede contarte."
                      ],
-    "ObjectiveText":  "Mata a todos los canÃ­bales en la ubicaciÃ³n marcada.",
+    "ObjectiveText":  "Elimina a todos los saqueadores en la ubicación marcada.",
     "FollowUpQuest":  -1,
     "Repeatable":  1,
     "IsDailyQuest":  0,
@@ -50,10 +50,10 @@
     "RewardsForGroupOwnerOnly":  0,
     "RewardBehavior":  0,
     "QuestGiverIDs":  [
-                          3
+                          2
                       ],
     "QuestTurnInIDs":  [
-                           3
+                           2
                        ],
     "IsAchievement":  0,
     "Objectives":  [

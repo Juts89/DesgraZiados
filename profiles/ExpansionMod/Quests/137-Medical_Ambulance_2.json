@@ -4,9 +4,9 @@
     "Type":  1,
     "Title":  "[!] Medico de Campana: Sangre en el Suelo",
     "Descriptions":  [
-                         "Marina me mandó aviso. Algo ha vuelto al hospital. No sé qué, pero ella no manda avisos por nada.",
-                         "Vuelve al hospital. Y esta vez ve preparado para lo que no tiene explicación.",
-                         "Hay cosas en Chernarus que el apocalipsis no trajo. Solo despertó."
+                         "Marina me mandÃ³ aviso. Algo ha vuelto al hospital. No sÃ© quÃ©, pero ella no manda avisos por nada.",
+                         "Vuelve al hospital. Y esta vez ve preparado para lo que no tiene explicaciÃ³n.",
+                         "Hay cosas en Chernarus que el apocalipsis no trajo. Solo despertÃ³."
                      ],
     "ObjectiveText":  "Viaja al hospital.",
     "FollowUpQuest":  805,
@@ -29,7 +29,7 @@
     "RewardsForGroupOwnerOnly":  1,
     "RewardBehavior":  0,
     "QuestGiverIDs":  [
-                          1
+                          2
                       ],
     "QuestTurnInIDs":  [
                            4000

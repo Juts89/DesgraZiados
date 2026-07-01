@@ -1,15 +1,15 @@
 {
     "ConfigVersion":  22,
-    "ID":  132,
+    "ID":  135,
     "Type":  1,
-    "Title":  "[!] Investigar la Escuela",
+    "Title":  "[!] Accidente Aereo II",
     "Descriptions":  [
-                         "Me llegÃ³ un rumor. Una maestra, viva, escondida en la escuela del norte. Los rumores en el apocalipsis suelen ser cadÃ¡veres. Ve a comprobarlo.",
-                         "Si hay alguien ahÃ­ dentro, los bandidos ya lo saben tambiÃ©n.",
-                         "Viva o muerta, al menos sabremos la verdad."
+                         "El superviviente hablÃ³ de otro aparato. Cayeron juntos, separados por el viento. Hay mÃ¡s gente ahÃ­ fuera.",
+                         "Misma historia, distinto lugar.",
+                         "Los Peregrinos caminamos mientras haya alguien a quien encontrar."
                      ],
-    "ObjectiveText":  "Viaja a la escuela y localiza a los bandidos.",
-    "FollowUpQuest":  403,
+    "ObjectiveText":  "Viaja a la Ãºltima ubicaciÃ³n conocida.",
+    "FollowUpQuest":  408,
     "Repeatable":  1,
     "IsDailyQuest":  0,
     "IsWeeklyQuest":  1,
@@ -29,29 +29,29 @@
     "RewardsForGroupOwnerOnly":  1,
     "RewardBehavior":  0,
     "QuestGiverIDs":  [
-                          2
+                          1
                       ],
     "QuestTurnInIDs":  [
-                           4001
+                           4005
                        ],
     "IsAchievement":  0,
     "Objectives":  [
                        {
                            "ConfigVersion":  28,
-                           "ID":  71,
+                           "ID":  75,
                            "ObjectiveType":  3
                        },
                        {
                            "ConfigVersion":  28,
-                           "ID":  71,
-                           "ObjectiveType":  8
+                           "ID":  75,
+                           "ObjectiveType":  2
                        }
                    ],
     "QuestColor":  0,
-    "ReputationReward":  600,
+    "ReputationReward":  300,
     "ReputationRequirement":  0,
     "PreQuestIDs":  [
-
+                        407
                     ],
     "RequiredFaction":  "",
     "FactionReward":  "",

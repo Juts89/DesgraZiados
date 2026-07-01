@@ -1,27 +1,27 @@
 {
     "ConfigVersion": 22,
-    "ID": 701,
+    "ID": 815,
     "Type": 1,
-    "Title": "Lleva el paquete a K",
+    "Title": "Medico de Campana: Sin Suministros",
     "Descriptions": [
-        "K necesita este paquete cuanto antes. Llévaselo sin demora.",
-        "No te entretengas por el camino.",
-        "Perfecto. K ya lo tiene."
+        "Después de lo ocurrido en el hospital, apenas quedan medicinas. Los heridos no resistirán mucho más si no encontramos suministros.",
+        "Busca material médico en la zona y tráelo de vuelta.",
+        "No es mucho, pero puede marcar la diferencia. Gracias por no mirar hacia otro lado."
     ],
-    "ObjectiveText": "Vuelve con K y entrégale el paquete.",
+    "ObjectiveText": "Busca suministros en la zona.",
     "FollowUpQuest": -1,
-    "Repeatable": 0,
+    "Repeatable": 1,
     "IsDailyQuest": 0,
-    "IsWeeklyQuest": 0,
+    "IsWeeklyQuest": 1,
     "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
-    "IsGroupQuest": 0,
+    "IsGroupQuest": 1,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
             "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 1250,
+            "Amount": 2625,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -29,13 +29,13 @@
             "Chance": 1
         }
     ],
-    "NeedToSelectReward": 1,
+    "NeedToSelectReward": 0,
     "RandomReward": 0,
     "RandomRewardAmount": 0,
     "RewardsForGroupOwnerOnly": 0,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-        2
+        4000
     ],
     "QuestTurnInIDs": [
         1
@@ -44,15 +44,20 @@
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 2,
-            "ObjectiveType": 5
+            "ID": 77,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 81,
+            "ObjectiveType": 2
         }
     ],
     "QuestColor": 0,
-    "ReputationReward": 37,
+    "ReputationReward": 1125,
     "ReputationRequirement": 0,
     "PreQuestIDs": [
-        700
+        805
     ],
     "RequiredFaction": "",
     "FactionReward": "",
@@ -62,5 +67,6 @@
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
     "SuppressQuestLogOnCompetion": 0,
-    "Active": 1
+    "Active": 1,
+    "GroupQuestMode": 0
 }

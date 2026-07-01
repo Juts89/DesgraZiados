@@ -1,14 +1,14 @@
 {
     "ConfigVersion":  22,
-    "ID":  201,
+    "ID":  200,
     "Type":  1,
-    "Title":  "SE BUSCA: Canibales en Orlovets",
+    "Title":  "La prueba de Patter: Vavilovo",
     "Descriptions":  [
-                         "SE BUSCA. Segundo campamento canÃ­bal localizado cerca de Orlovets. MÃ¡s numerosos que el anterior. Se requiere experiencia en combate. Recompensa al completar el encargo.",
-                         "Elimina a todos los canÃ­bales en la ubicaciÃ³n marcada.",
-                         "Encargo completado. Los Sheriff agradecen el servicio prestado a la comunidad."
+                         "Has ayudado a los Peregrinos más veces de las que esperábamos. Patter cree que eres alguien en quien se puede confiar, pero aún queda una última prueba antes de presentarte a uno de los nuestros.",
+                         "Se ha visto un grupo de saqueadores merodeando por Vavilovo. Están acosando a los pocos supervivientes que aún se atreven a pasar por la zona. Acaba con ellos.",
+                         "Patter estará satisfecho. Ya queda poco para ganarte por completo la confianza de los Peregrinos."
                      ],
-    "ObjectiveText":  "Mata a todos los canÃ­bales en la ubicaciÃ³n marcada.",
+    "ObjectiveText":  "Elimina a todos los saqueadores en la ubicación marcada.",
     "FollowUpQuest":  -1,
     "Repeatable":  1,
     "IsDailyQuest":  0,
@@ -23,7 +23,7 @@
     "Rewards":  [
                     {
                         "ClassName":  "expansionbanknotehryvnia",
-                        "Amount":  2500,
+                        "Amount":  2000,
                         "Attachments":  [
 
                                         ],
@@ -33,7 +33,7 @@
                         "Chance":  1
                     },
                     {
-                        "ClassName":  "ALV_CanvasBag_Green",
+                        "ClassName":  "ALV_MilitaryBag_Tan",
                         "Amount":  1,
                         "Attachments":  [
 
@@ -44,27 +44,27 @@
                         "Chance":  1
                     }
                 ],
-    "NeedToSelectReward":  0,
+    "NeedToSelectReward":  1,
     "RandomReward":  0,
     "RandomRewardAmount":  0,
     "RewardsForGroupOwnerOnly":  0,
     "RewardBehavior":  0,
     "QuestGiverIDs":  [
-                          3
+                          2
                       ],
     "QuestTurnInIDs":  [
-                           3
+                           2
                        ],
     "IsAchievement":  0,
     "Objectives":  [
                        {
                            "ConfigVersion":  28,
-                           "ID":  2,
+                           "ID":  1,
                            "ObjectiveType":  3
                        },
                        {
                            "ConfigVersion":  28,
-                           "ID":  2,
+                           "ID":  1,
                            "ObjectiveType":  8
                        }
                    ],
