@@ -4,9 +4,9 @@
     "Type":  1,
     "Title":  "Estado Critico",
     "Descriptions":  [
-                         "Algo salió terriblemente mal allí: sangre, pánico e infectados por los pasillos. Él está demasiado débil para volver y necesita que investigues el hospital en su lugar.",
-                         "Hay sangre en el suelo... y el tiempo se agota.",
-                         "O estás loco o eres muy bueno. Aquí tienes."
+                         "Algo ocurrió en ese hospital. Sangre, silencio e infectados por todas partes. Yo no puedo volver, pero tú todavía tienes una oportunidad.",
+                         "Investiga el hospital y descubre qué queda allí dentro.",
+                         "Has vuelto con vida... eso ya dice bastante."
                      ],
     "ObjectiveText":  "Mata mutantes.",
     "FollowUpQuest":  815,
@@ -42,7 +42,7 @@
                           4000
                       ],
     "QuestTurnInIDs":  [
-
+                           1
                        ],
     "IsAchievement":  0,
     "Objectives":  [
@@ -61,7 +61,7 @@
     "ReputationReward":  1125,
     "ReputationRequirement":  0,
     "PreQuestIDs":  [
-                        136
+                        137
                     ],
     "RequiredFaction":  "",
     "FactionReward":  "",

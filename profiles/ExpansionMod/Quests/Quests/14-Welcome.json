@@ -5,10 +5,10 @@
     "Title":  "Bienvenido a IronZone",
     "Descriptions":  [
                          "Bienvenido. Me llaman K, de los Peregrinos. No te pido nada, solo que no causes problemas.",
-                         "Green Mountain es lo que queda. Quédate si quieres, o sigue tu camino.",
-                         "Bien. Ya sabes dónde estamos."
+                         "Green Mountain es lo que queda. QuÃ©date si quieres, o sigue tu camino.",
+                         "Bien. Ya sabes dÃ³nde estamos."
                      ],
-    "ObjectiveText":  "Visita el campamento en la ubicaciÃƒÂ³n marcada.",
+    "ObjectiveText":  "Visita el campamento en la ubicaciÃƒÆ’Ã‚Â³n marcada.",
     "FollowUpQuest":  -1,
     "Repeatable":  0,
     "IsDailyQuest":  0,
@@ -53,7 +53,7 @@
                        }
                    ],
     "QuestColor":  0,
-    "ReputationReward":  5,
+    "ReputationReward":  20,
     "ReputationRequirement":  0,
     "PreQuestIDs":  [
 

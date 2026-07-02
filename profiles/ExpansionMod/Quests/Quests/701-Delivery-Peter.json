@@ -2,11 +2,11 @@
     "ConfigVersion":  22,
     "ID":  701,
     "Type":  1,
-    "Title":  "Lleva el paquete a K",
+    "Title":  "[!] Lleva el paquete a K",
     "Descriptions":  [
-                         "K necesita esto. Lléváselo.",
-                         "No te entretengas.",
-                         "Ya puedes irte."
+                         "K necesita este paquete cuanto antes. Llévaselo sin demora.",
+                         "No te entretengas por el camino.",
+                         "Perfecto. K ya lo tiene."
                      ],
     "ObjectiveText":  "Vuelve con K y entrégale el paquete.",
     "FollowUpQuest":  -1,

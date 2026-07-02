@@ -2,17 +2,17 @@
     "ConfigVersion":  22,
     "ID":  201,
     "Type":  1,
-    "Title":  "SE BUSCA: Canibales en Orlovets",
+    "Title":  "La prueba de Patter: Novaya Petrovka",
     "Descriptions":  [
-                         "SE BUSCA. Segundo campamento caníbal localizado cerca de Orlovets. Más numerosos que el anterior. Se requiere experiencia en combate. Recompensa al completar el encargo.",
-                         "Elimina a todos los caníbales en la ubicación marcada.",
-                         "Encargo completado. Los Sheriff agradecen el servicio prestado a la comunidad."
+                         "Has superado todas las pruebas que Patter te ha puesto hasta ahora, pero antes de confiarte un asunto mucho más importante necesita una última respuesta.",
+                         "Otro grupo de saqueadores se ha establecido cerca de Novaya Petrovka. Si de verdad quieres ayudar a los Peregrinos, demuestra que puedes enfrentarte incluso a los enemigos más peligrosos.",
+                         "Has demostrado todo lo que Patter necesitaba saber. Es hora de que hables con K. Hay una historia que solo él puede contarte."
                      ],
-    "ObjectiveText":  "Mata a todos los caníbales en la ubicación marcada.",
+    "ObjectiveText":  "Elimina a todos los saqueadores en la ubicación marcada.",
     "FollowUpQuest":  -1,
-    "Repeatable":  1,
+    "Repeatable":  0,
     "IsDailyQuest":  0,
-    "IsWeeklyQuest":  1,
+    "IsWeeklyQuest":  0,
     "CancelQuestOnPlayerDeath":  1,
     "Autocomplete":  0,
     "IsGroupQuest":  1,
@@ -23,7 +23,7 @@
     "Rewards":  [
                     {
                         "ClassName":  "expansionbanknotehryvnia",
-                        "Amount":  3000,
+                        "Amount":  2500,
                         "Attachments":  [
 
                                         ],
@@ -50,10 +50,10 @@
     "RewardsForGroupOwnerOnly":  0,
     "RewardBehavior":  0,
     "QuestGiverIDs":  [
-                          3
+                          2
                       ],
     "QuestTurnInIDs":  [
-                           3
+                           2
                        ],
     "IsAchievement":  0,
     "Objectives":  [

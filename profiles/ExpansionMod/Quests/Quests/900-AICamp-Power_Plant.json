@@ -2,11 +2,11 @@
     "ConfigVersion":  22,
     "ID":  900,
     "Type":  1,
-    "Title":  "URGENTE: Las Brigadas han tomado la Central",
+    "Title":  "La última deuda",
     "Descriptions":  [
-                         "URGENTE. Un grupo paramilitar conocido como Las Brigadas ha ocupado la central eléctrica del noroeste. Sin suministro eléctrico, el territorio se hunde. Se buscan voluntarios con agallas. Esto no es una misión ordinaria.",
-                         "Viaja a la central eléctrica y elimina a todos los miembros de Las Brigadas.",
-                         "La central vuelve a funcionar. Las Brigadas han sido neutralizadas. Chernarus os lo debe. Los Sheriff también."
+                         "Las Brigadas redujeron nuestro antiguo asentamiento a cenizas. Muchos murieron intentando proteger a otros. Los que sobrevivimos seguimos adelante... pero hay heridas que no cierran.",
+                         "Han convertido la vieja central eléctrica en uno de sus refugios. Quiero que entres, los expulses y les recuerdes que este territorio aún tiene quien lo defienda.",
+                         "Cuando todo termine, reactiva la central. Nosotros no luchamos solo para destruir. Luchamos para que algo vuelva a levantarse."
                      ],
     "ObjectiveText":  "Elimina a todos los miembros de Las Brigadas en las ubicaciones marcadas.",
     "FollowUpQuest":  -1,
@@ -39,10 +39,10 @@
     "RewardsForGroupOwnerOnly":  0,
     "RewardBehavior":  0,
     "QuestGiverIDs":  [
-                          3
+                          2
                       ],
     "QuestTurnInIDs":  [
-                           3
+                           2
                        ],
     "IsAchievement":  0,
     "Objectives":  [
@@ -66,7 +66,8 @@
     "ReputationReward":  600,
     "ReputationRequirement":  0,
     "PreQuestIDs":  [
-
+                        200,
+                        201
                     ],
     "RequiredFaction":  "",
     "FactionReward":  "",

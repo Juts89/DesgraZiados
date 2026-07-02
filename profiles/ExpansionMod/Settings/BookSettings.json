@@ -136,58 +136,10 @@
                           ],
     "Links":  [
                   {
-                      "Name":  "Homepage",
-                      "URL":  "https://www.google.com/",
-                      "IconName":  "Homepage",
-                      "IconColor":  -14473430
-                  },
-                  {
-                      "Name":  "Feedback",
-                      "URL":  "https://www.google.com/",
-                      "IconName":  "Forums",
-                      "IconColor":  -14473430
-                  },
-                  {
                       "Name":  "Discord",
                       "URL":  "https://www.google.com/",
                       "IconName":  "Discord",
                       "IconColor":  -9270822
-                  },
-                  {
-                      "Name":  "Patreon",
-                      "URL":  "https://www.patreon.com/dayzexpansion",
-                      "IconName":  "Patreon",
-                      "IconColor":  -432044
-                  },
-                  {
-                      "Name":  "Steam",
-                      "URL":  "https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222",
-                      "IconName":  "Steam",
-                      "IconColor":  -14006434
-                  },
-                  {
-                      "Name":  "Reddit",
-                      "URL":  "https://www.reddit.com/r/ExpansionProject/",
-                      "IconName":  "Reddit",
-                      "IconColor":  -12386303
-                  },
-                  {
-                      "Name":  "GitHub",
-                      "URL":  "https://github.com/salutesh/DayZ-Expansion-Scripts/wiki",
-                      "IconName":  "GitHub",
-                      "IconColor":  -16777216
-                  },
-                  {
-                      "Name":  "YouTube",
-                      "URL":  "https://www.youtube.com/channel/UCZNgSvIEWfru963tQZOAVJg",
-                      "IconName":  "YouTube",
-                      "IconColor":  -65536
-                  },
-                  {
-                      "Name":  "Twitter",
-                      "URL":  "https://twitter.com/DayZExpansion",
-                      "IconName":  "Twitter",
-                      "IconColor":  -14835214
                   }
               ],
     "Descriptions":  [
@@ -195,22 +147,25 @@
                              "CategoryName":  "IA y Facciones",
                              "Descriptions":  [
                                                   {
-                                                      "DescriptionText":  "IA EN EL MAPA\nLas ciudades y pueblos estan infestados de IA. La norma general es: SI TIENE NOMBRE SPAWNEARA IA, especialmente si acaba en Military. Las bases militares son para ir MUY equipado."
+                                                      "DescriptionText":  "IA EN EL MAPA\nLas ciudades y pueblos estan infestados de IA. La norma general es: SI TIENE NOMBRE SPAWNEARA IA, especialmente si acaba en Military (Las bases militares son para ir MUY equipado).\n"
                                                   },
                                                   {
-                                                      "DescriptionText":  "LOS PEREGRINOS (Aliado) - Siempre llevan tunicas y capuchas\nNPCs aliados, no te dispararan si no les apuntas. Patrullan las iglesias, pueden ser utiles en emergencias."
+                                                      "DescriptionText":  "LOS PEREGRINOS (Aliado) - Siempre llevan tunicas y capuchas\nNPCs aliados, no te dispararan si no les apuntas. Patrullan las iglesias, pueden ser utiles en emergencias.\n"
                                                   },
                                                   {
-                                                      "DescriptionText":  "LOS SHERIFF (Aliado) - Brazalete azul\nComerciantes en El Nido de Pulgas (Green Mountain). Venden equipo segun tu reputacion. Sus guardias no son hostiles si no atacas y te protegeran de zombies, otras facciones y cualquier jugador que te dispare (NO HAY SAFE ZONE)."
+                                                      "DescriptionText":  "LOS SHERIFF (Aliado) - Brazalete azul\nComerciantes en El Nido de Pulgas (Green Mountain). Venden equipo segun tu reputacion. Sus guardias no son hostiles si no atacas y te protegeran de zombies, otras facciones (El PvP está descativado en esta zona).\n"
                                                   },
                                                   {
-                                                      "DescriptionText":  "REMANENTES (Hostil) - Brazalete rojo\nIA en bases militares y aerodromos. Bien equipados, uniformes verdes. Disparan a la vista."
+                                                      "DescriptionText":  "REMANENTES (Hostil) - Brazalete rojo\nIA en bases militares y aerodromos. Bien equipados, uniformes verdes. Disparan a la vista.\n"
                                                   },
                                                   {
-                                                      "DescriptionText":  "BANDIDOS (Hostil) - Brazalete rojo\nIA en pueblos, carreteras y puntos de interes. Equipo variado. Disparan a la vista."
+                                                      "DescriptionText":  "BANDIDOS (Hostil) - Brazalete rojo\nIA en pueblos, carreteras y puntos de interes. Equipo variado. Disparan a la vista.\n"
                                                   },
                                                   {
-                                                      "DescriptionText":  "LAS BRIGADAS (Hostil) - Uniforme tactico negro\nPatrullas de elite, helicopteros y caidas en paracaidas. Muy bien equipados. Alta dificultad."
+                                                      "DescriptionText":  "LAS BRIGADAS (Hostil) - Uniforme tactico negro\nPatrullas de elite, helicopteros y caidas en paracaidas. Muy bien equipados. Alta dificultad.\n"
+                                                  },
+                                                  {
+                                                      "DescriptionText":  "Canívales (Neutral) - Túnicas negras y mnascara de calavera se ríen por el kuru\nGrupos pequeños y mal armados, te ignorarán si tú también les ignoras,pero andaté con cuyidado porque pueden tener hambre y saltarse las normas.\n"
                                                   }
                                               ]
                          },
@@ -218,7 +173,7 @@
                              "CategoryName":  "Misiones",
                              "Descriptions":  [
                                                   {
-                                                      "DescriptionText":  "LOOP\nEl servidor cuenta con misiones PVE. Empezaras con una mision simple: llegar al Nido de Pulgas. Una vez conseguido recibiras un mapa y podras empezar a realizar las demas misiones."
+                                                      "DescriptionText":  "LOOP\nEl servidor cuenta con misiones PVE. Empezaras con una mision simple: llegar al Nido de Pulgas. Una vez conseguido recibiras un mapa y podras empezar a solicitar y encontrar misiones."
                                                   },
                                                   {
                                                       "DescriptionText":  "COMO FUNCIONAN\nHabla con NPCs para aceptar misiones. Sigue el marcador en el mapa. Hay varios tipos de misiones."

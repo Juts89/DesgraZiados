@@ -1,75 +1,65 @@
 {
-    "ConfigVersion":  22,
-    "ID":  400,
-    "Type":  1,
-    "Title":  "PERSONA EXTRAVIADA: Myshkino",
-    "Descriptions":  [
-                         "AVISO. Individuo localizado a las afueras de Myshkino, desorientado y sin recursos. Se solicita voluntario para escoltarlo de vuelta al campamento con seguridad.",
-                         "Escolta al superviviente hasta el campamento.",
-                         "Llegó bien. Gracias por traerlo."
-                     ],
-    "ObjectiveText":  "PLACEHOLDER",
-    "FollowUpQuest":  -1,
-    "Repeatable":  0,
-    "IsDailyQuest":  0,
-    "IsWeeklyQuest":  0,
-    "CancelQuestOnPlayerDeath":  1,
-    "Autocomplete":  1,
-    "IsGroupQuest":  1,
-    "ObjectSetFileName":  "",
-    "QuestItems":  [
-
-                   ],
-    "Rewards":  [
-                    {
-                        "ClassName":  "ExpansionBanknoteHryvnia",
-                        "Amount":  375,
-                        "Attachments":  [
-
-                                        ],
-                        "DamagePercent":  0,
-                        "HealthPercent":  0,
-                        "QuestID":  -1,
-                        "Chance":  1
-                    }
-                ],
-    "NeedToSelectReward":  0,
-    "RandomReward":  0,
-    "RandomRewardAmount":  0,
-    "RewardsForGroupOwnerOnly":  0,
-    "RewardBehavior":  0,
-    "QuestGiverIDs":  [
-                          3
-                      ],
-    "QuestTurnInIDs":  [
-                           3
-                       ],
-    "IsAchievement":  0,
-    "Objectives":  [
-                       {
-                           "ConfigVersion":  28,
-                           "ID":  1,
-                           "ObjectiveType":  9
-                       }
-                   ],
-    "QuestColor":  0,
-    "ReputationReward":  225,
-    "ReputationRequirement":  0,
-    "PreQuestIDs":  [
-
-                    ],
-    "RequiredFaction":  "",
-    "FactionReward":  "",
-    "PlayerNeedQuestItems":  1,
-    "DeleteQuestItems":  1,
-    "SequentialObjectives":  0,
-    "FactionReputationRequirements":  {
-
-                                      },
-    "FactionReputationRewards":  {
-
-                                 },
-    "SuppressQuestLogOnCompetion":  0,
-    "Active":  1,
-    "GroupQuestMode":  0
+    "ConfigVersion": 22,
+    "ID": 400,
+    "Type": 1,
+    "Title": "PERSONA EXTRAVIADA: Myshkino",
+    "Descriptions": [
+        "AVISO. Hemos recibido una llamada por radio. Un superviviente permanece atrapado a las afueras de Myshkino, desorientado y sin recursos. Escoltarlo de vuelta es prioritario.",
+        "Escolta al superviviente hasta el campamento.",
+        "Ha llegado sano y salvo. Gracias."
+    ],
+    "ObjectiveText": "PLACEHOLDER",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 1,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 375,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1,
+            "ObjectiveType": 9
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 225,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1,
+    "GroupQuestMode": 0
 }

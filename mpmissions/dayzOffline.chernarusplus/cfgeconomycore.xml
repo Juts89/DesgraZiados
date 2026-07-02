@@ -56,6 +56,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="mortys.xml" type="types" />
 		<file name="sleeping.xml" type="types" />
 		<file name="windstride.xml" type="types" />
+		<file name="uaz452.xml" type="types" />
 	</ce>
 	<!-- ....mod types end -->
 </economycore>

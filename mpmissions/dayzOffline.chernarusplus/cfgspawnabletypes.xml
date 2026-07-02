@@ -3346,6 +3346,89 @@
 		</attachments>
 	</type>
 	<!-- -->
+	<type name="UAZ_452">
+		<attachments chance="1.00">
+			<item name="UAZ_452_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_driverdoor" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_codriverdoor" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_doors_cargo1" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_doors_cargo2" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_doors_trunk" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_doors_hood" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="UAZ_452_offroad">
+		<attachments chance="1.00">
+			<item name="UAZ_452_offroad_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_offroad_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_offroad_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_offroad_Wheel" chance="0.80" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_driverdoor" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_codriverdoor" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_doors_cargo1" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_doors_cargo2" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_doors_trunk" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_452_doors_hood" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.50" />
+		</attachments>
+	</type>
+	<!-- -->
 	<type name="CivilianSedan">
 		<attachments chance="1.00">
 			<item name="CivSedanWheel" chance="0.80" />
